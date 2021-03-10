@@ -15,7 +15,7 @@ for name, url in list["emoji"].items():
     else:
         path = urlparse(url).path
         fname, ext = splitext(path)
-        emojis.append((name, f"output/{name}{ext}"))
+        emojis.append((name, f"/output/{name}{ext}"))
 
 tpl_str ="""
 ## Emojis (Page {{page}})
