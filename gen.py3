@@ -27,8 +27,8 @@ tpl_str ="""
 
 template = Template(tpl_str)
 count = 0
-for i in range(0, len(emojis), 10):
-    out = template.render(emojis=emojis[i:i+10], page=count)
+for i in range(0, len(emojis), 100):
+    out = template.render(emojis=emojis[i:i+100], page=count)
     
     with open(f"docs/page{count}.md", 'w') as fp:
         fp.write(out)
