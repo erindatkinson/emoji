@@ -1,103 +1,103 @@
 
 ## Emojis (Page 31)
-
-* sea-slug-05: ![sea-slug-05](/output/sea-slug-05.png)
-* sea-slug-06: ![sea-slug-06](/output/sea-slug-06.png)
-* groovin: ![groovin](/output/groovin.gif)
-* sea-slug-07: ![sea-slug-07](/output/sea-slug-07.png)
-* sea-slug-08: ![sea-slug-08](/output/sea-slug-08.png)
-* sea-slug-09: ![sea-slug-09](/output/sea-slug-09.png)
-* sea-slug-10: ![sea-slug-10](/output/sea-slug-10.png)
-* sea-slug-11: ![sea-slug-11](/output/sea-slug-11.png)
-* sea-slug-12: ![sea-slug-12](/output/sea-slug-12.png)
-* sea-slug-13: ![sea-slug-13](/output/sea-slug-13.png)
-* sea-slug-14: ![sea-slug-14](/output/sea-slug-14.png)
-* sea-slug-15: ![sea-slug-15](/output/sea-slug-15.png)
-* sea-slug-16: ![sea-slug-16](/output/sea-slug-16.png)
-* sea-slug-17: ![sea-slug-17](/output/sea-slug-17.png)
-* sea-slug-19: ![sea-slug-19](/output/sea-slug-19.png)
-* sea-slug-20: ![sea-slug-20](/output/sea-slug-20.png)
-* sea-slug-21: ![sea-slug-21](/output/sea-slug-21.png)
-* sea-slug-22: ![sea-slug-22](/output/sea-slug-22.png)
-* sea-slug-18: ![sea-slug-18](/output/sea-slug-18.png)
-* nyan-david: ![nyan-david](/output/nyan-david.gif)
-* skull-think: ![skull-think](/output/skull-think.png)
-* no-step-on-snek: ![no-step-on-snek](/output/no-step-on-snek.jpg)
-* gadsden-flag: ![gadsden-flag](/output/gadsden-flag)
-* flag-libertarianism: ![flag-libertarianism](/output/flag-libertarianism)
-* slam-back: ![slam-back](/output/slam-back.jpg)
-* baptiste-ow: ![baptiste-ow](/output/baptiste-ow.png)
-* torbjorn-ow: ![torbjorn-ow](/output/torbjorn-ow.png)
-* moira-ow: ![moira-ow](/output/moira-ow.png)
-* orisa-ow: ![orisa-ow](/output/orisa-ow.png)
-* zarya-ow: ![zarya-ow](/output/zarya-ow.png)
-* doomfist-ow: ![doomfist-ow](/output/doomfist-ow.png)
-* zenyatta-ow: ![zenyatta-ow](/output/zenyatta-ow.png)
-* roadhog-ow: ![roadhog-ow](/output/roadhog-ow.png)
-* winston-ow: ![winston-ow](/output/winston-ow.png)
-* brigitte-ow: ![brigitte-ow](/output/brigitte-ow.png)
-* ashe-ow: ![ashe-ow](/output/ashe-ow.png)
-* reinhardt-ow: ![reinhardt-ow](/output/reinhardt-ow.png)
-* dva-ow: ![dva-ow](/output/dva-ow.png)
-* ana-ow: ![ana-ow](/output/ana-ow.png)
-* bastion-ow: ![bastion-ow](/output/bastion-ow.png)
-* hanzo-ow: ![hanzo-ow](/output/hanzo-ow.png)
-* junkrat-ow: ![junkrat-ow](/output/junkrat-ow.png)
-* lucio-ow: ![lucio-ow](/output/lucio-ow.png)
-* mercy-ow: ![mercy-ow](/output/mercy-ow.png)
-* symmetra-ow: ![symmetra-ow](/output/symmetra-ow.png)
-* homestar: ![homestar](/output/homestar.jpg)
-* widowmaker-ow: ![widowmaker-ow](/output/widowmaker-ow.png)
-* pharah-ow: ![pharah-ow](/output/pharah-ow.png)
-* reaper-ow: ![reaper-ow](/output/reaper-ow.png)
-* soldier76-ow: ![soldier76-ow](/output/soldier76-ow.png)
-* sombra-ow: ![sombra-ow](/output/sombra-ow.png)
-* genji-ow: ![genji-ow](/output/genji-ow.png)
-* mei-ow: ![mei-ow](/output/mei-ow.png)
-* tracer-ow: ![tracer-ow](/output/tracer-ow.png)
-* mccree-ow: ![mccree-ow](/output/mccree-ow.png)
-* wreckingball-ow: ![wreckingball-ow](/output/wreckingball-ow.jpg)
-* whiteclaw: ![whiteclaw](/output/whiteclaw.jpg)
-* npm: ![npm](/output/npm.png)
-* npm-wombat: ![npm-wombat](/output/npm-wombat.png)
-* alas-poor-yorick: ![alas-poor-yorick](/output/alas-poor-yorick)
-* sloth_coffee: ![sloth_coffee](/output/sloth_coffee.png)
-* sdv-abigail: ![sdv-abigail](/output/sdv-abigail.png)
-* sdv-alex: ![sdv-alex](/output/sdv-alex.png)
-* sdv-caroline: ![sdv-caroline](/output/sdv-caroline.png)
-* jelly: ![jelly](/output/jelly.png)
-* jelly-blackberry: ![jelly-blackberry](/output/jelly-blackberry.png)
-* jelly-lingonberry: ![jelly-lingonberry](/output/jelly-lingonberry.png)
-* disapproving-marge: ![disapproving-marge](/output/disapproving-marge.png)
-* json-da: ![json-da](/output/json-da.png)
-* snowman-tophat: ![snowman-tophat](/output/snowman-tophat.gif)
-* reading-rainbow: ![reading-rainbow](/output/reading-rainbow.png)
-* mishra-facepalm: ![mishra-facepalm](/output/mishra-facepalm.png)
-* abigail: ![abigail](/output/abigail.png)
-* hard-same: ![hard-same](/output/hard-same.png)
-* circleci-sob: ![circleci-sob](/output/circleci-sob.png)
-* istio: ![istio](/output/istio.png)
-* hot: ![hot](/output/hot.png)
-* woman-yelling-at-cat-1: ![woman-yelling-at-cat-1](/output/woman-yelling-at-cat-1.png)
-* woman-yelling-at-cat-2: ![woman-yelling-at-cat-2](/output/woman-yelling-at-cat-2.png)
-* sinistar: ![sinistar](/output/sinistar.jpg)
-* zima: ![zima](/output/zima.png)
-* pip: ![pip](/output/pip.png)
-* pip2: ![pip2](/output/pip2.png)
-* go-to-jail: ![go-to-jail](/output/go-to-jail.jpg)
-* shroom: ![shroom](/output/shroom.png)
-* shroom-sad: ![shroom-sad](/output/shroom-sad.png)
-* shroom-xd: ![shroom-xd](/output/shroom-xd.png)
-* dependabot: ![dependabot](/output/dependabot.png)
-* arcand-intensifies: ![arcand-intensifies](/output/arcand-intensifies.gif)
-* semmle_lgtm: ![semmle_lgtm](/output/semmle_lgtm.png)
-* jelly-lingonberry-intensifies: ![jelly-lingonberry-intensifies](/output/jelly-lingonberry-intensifies.gif)
-* go-intensifies: ![go-intensifies](/output/go-intensifies.gif)
-* qubit-intensifies: ![qubit-intensifies](/output/qubit-intensifies.gif)
-* sea-slug-01-intensifies: ![sea-slug-01-intensifies](/output/sea-slug-01-intensifies.gif)
-* oatly: ![oatly](/output/oatly.jpg)
-* smile-intensifies: ![smile-intensifies](/output/smile-intensifies.gif)
-* lunch-on-fire: ![lunch-on-fire](/output/lunch-on-fire.gif)
-* cute-pitbull-dog: ![cute-pitbull-dog](/output/cute-pitbull-dog.png)
-* potato-on-fire: ![potato-on-fire](/output/potato-on-fire.gif)
-* hot-potato: ![hot-potato](/output/hot-potato)
+|||
+|sea-slug-05| ![sea-slug-05](/output/sea-slug-05.png)|
+|sea-slug-06| ![sea-slug-06](/output/sea-slug-06.png)|
+|groovin| ![groovin](/output/groovin.gif)|
+|sea-slug-07| ![sea-slug-07](/output/sea-slug-07.png)|
+|sea-slug-08| ![sea-slug-08](/output/sea-slug-08.png)|
+|sea-slug-09| ![sea-slug-09](/output/sea-slug-09.png)|
+|sea-slug-10| ![sea-slug-10](/output/sea-slug-10.png)|
+|sea-slug-11| ![sea-slug-11](/output/sea-slug-11.png)|
+|sea-slug-12| ![sea-slug-12](/output/sea-slug-12.png)|
+|sea-slug-13| ![sea-slug-13](/output/sea-slug-13.png)|
+|sea-slug-14| ![sea-slug-14](/output/sea-slug-14.png)|
+|sea-slug-15| ![sea-slug-15](/output/sea-slug-15.png)|
+|sea-slug-16| ![sea-slug-16](/output/sea-slug-16.png)|
+|sea-slug-17| ![sea-slug-17](/output/sea-slug-17.png)|
+|sea-slug-19| ![sea-slug-19](/output/sea-slug-19.png)|
+|sea-slug-20| ![sea-slug-20](/output/sea-slug-20.png)|
+|sea-slug-21| ![sea-slug-21](/output/sea-slug-21.png)|
+|sea-slug-22| ![sea-slug-22](/output/sea-slug-22.png)|
+|sea-slug-18| ![sea-slug-18](/output/sea-slug-18.png)|
+|nyan-david| ![nyan-david](/output/nyan-david.gif)|
+|skull-think| ![skull-think](/output/skull-think.png)|
+|no-step-on-snek| ![no-step-on-snek](/output/no-step-on-snek.jpg)|
+|gadsden-flag| ![gadsden-flag](/output/gadsden-flag)|
+|flag-libertarianism| ![flag-libertarianism](/output/flag-libertarianism)|
+|slam-back| ![slam-back](/output/slam-back.jpg)|
+|baptiste-ow| ![baptiste-ow](/output/baptiste-ow.png)|
+|torbjorn-ow| ![torbjorn-ow](/output/torbjorn-ow.png)|
+|moira-ow| ![moira-ow](/output/moira-ow.png)|
+|orisa-ow| ![orisa-ow](/output/orisa-ow.png)|
+|zarya-ow| ![zarya-ow](/output/zarya-ow.png)|
+|doomfist-ow| ![doomfist-ow](/output/doomfist-ow.png)|
+|zenyatta-ow| ![zenyatta-ow](/output/zenyatta-ow.png)|
+|roadhog-ow| ![roadhog-ow](/output/roadhog-ow.png)|
+|winston-ow| ![winston-ow](/output/winston-ow.png)|
+|brigitte-ow| ![brigitte-ow](/output/brigitte-ow.png)|
+|ashe-ow| ![ashe-ow](/output/ashe-ow.png)|
+|reinhardt-ow| ![reinhardt-ow](/output/reinhardt-ow.png)|
+|dva-ow| ![dva-ow](/output/dva-ow.png)|
+|ana-ow| ![ana-ow](/output/ana-ow.png)|
+|bastion-ow| ![bastion-ow](/output/bastion-ow.png)|
+|hanzo-ow| ![hanzo-ow](/output/hanzo-ow.png)|
+|junkrat-ow| ![junkrat-ow](/output/junkrat-ow.png)|
+|lucio-ow| ![lucio-ow](/output/lucio-ow.png)|
+|mercy-ow| ![mercy-ow](/output/mercy-ow.png)|
+|symmetra-ow| ![symmetra-ow](/output/symmetra-ow.png)|
+|homestar| ![homestar](/output/homestar.jpg)|
+|widowmaker-ow| ![widowmaker-ow](/output/widowmaker-ow.png)|
+|pharah-ow| ![pharah-ow](/output/pharah-ow.png)|
+|reaper-ow| ![reaper-ow](/output/reaper-ow.png)|
+|soldier76-ow| ![soldier76-ow](/output/soldier76-ow.png)|
+|sombra-ow| ![sombra-ow](/output/sombra-ow.png)|
+|genji-ow| ![genji-ow](/output/genji-ow.png)|
+|mei-ow| ![mei-ow](/output/mei-ow.png)|
+|tracer-ow| ![tracer-ow](/output/tracer-ow.png)|
+|mccree-ow| ![mccree-ow](/output/mccree-ow.png)|
+|wreckingball-ow| ![wreckingball-ow](/output/wreckingball-ow.jpg)|
+|whiteclaw| ![whiteclaw](/output/whiteclaw.jpg)|
+|npm| ![npm](/output/npm.png)|
+|npm-wombat| ![npm-wombat](/output/npm-wombat.png)|
+|alas-poor-yorick| ![alas-poor-yorick](/output/alas-poor-yorick)|
+|sloth_coffee| ![sloth_coffee](/output/sloth_coffee.png)|
+|sdv-abigail| ![sdv-abigail](/output/sdv-abigail.png)|
+|sdv-alex| ![sdv-alex](/output/sdv-alex.png)|
+|sdv-caroline| ![sdv-caroline](/output/sdv-caroline.png)|
+|jelly| ![jelly](/output/jelly.png)|
+|jelly-blackberry| ![jelly-blackberry](/output/jelly-blackberry.png)|
+|jelly-lingonberry| ![jelly-lingonberry](/output/jelly-lingonberry.png)|
+|disapproving-marge| ![disapproving-marge](/output/disapproving-marge.png)|
+|json-da| ![json-da](/output/json-da.png)|
+|snowman-tophat| ![snowman-tophat](/output/snowman-tophat.gif)|
+|reading-rainbow| ![reading-rainbow](/output/reading-rainbow.png)|
+|mishra-facepalm| ![mishra-facepalm](/output/mishra-facepalm.png)|
+|abigail| ![abigail](/output/abigail.png)|
+|hard-same| ![hard-same](/output/hard-same.png)|
+|circleci-sob| ![circleci-sob](/output/circleci-sob.png)|
+|istio| ![istio](/output/istio.png)|
+|hot| ![hot](/output/hot.png)|
+|woman-yelling-at-cat-1| ![woman-yelling-at-cat-1](/output/woman-yelling-at-cat-1.png)|
+|woman-yelling-at-cat-2| ![woman-yelling-at-cat-2](/output/woman-yelling-at-cat-2.png)|
+|sinistar| ![sinistar](/output/sinistar.jpg)|
+|zima| ![zima](/output/zima.png)|
+|pip| ![pip](/output/pip.png)|
+|pip2| ![pip2](/output/pip2.png)|
+|go-to-jail| ![go-to-jail](/output/go-to-jail.jpg)|
+|shroom| ![shroom](/output/shroom.png)|
+|shroom-sad| ![shroom-sad](/output/shroom-sad.png)|
+|shroom-xd| ![shroom-xd](/output/shroom-xd.png)|
+|dependabot| ![dependabot](/output/dependabot.png)|
+|arcand-intensifies| ![arcand-intensifies](/output/arcand-intensifies.gif)|
+|semmle_lgtm| ![semmle_lgtm](/output/semmle_lgtm.png)|
+|jelly-lingonberry-intensifies| ![jelly-lingonberry-intensifies](/output/jelly-lingonberry-intensifies.gif)|
+|go-intensifies| ![go-intensifies](/output/go-intensifies.gif)|
+|qubit-intensifies| ![qubit-intensifies](/output/qubit-intensifies.gif)|
+|sea-slug-01-intensifies| ![sea-slug-01-intensifies](/output/sea-slug-01-intensifies.gif)|
+|oatly| ![oatly](/output/oatly.jpg)|
+|smile-intensifies| ![smile-intensifies](/output/smile-intensifies.gif)|
+|lunch-on-fire| ![lunch-on-fire](/output/lunch-on-fire.gif)|
+|cute-pitbull-dog| ![cute-pitbull-dog](/output/cute-pitbull-dog.png)|
+|potato-on-fire| ![potato-on-fire](/output/potato-on-fire.gif)|
+|hot-potato| ![hot-potato](/output/hot-potato)|

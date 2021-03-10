@@ -1,103 +1,103 @@
 
 ## Emojis (Page 14)
-
-* precious: ![precious](/output/precious.jpg)
-* predators: ![predators](/output/predators.png)
-* pretty-please: ![pretty-please](/output/pretty-please.png)
-* pretty_good: ![pretty_good](/output/pretty_good)
-* pride-asexual-demi: ![pride-asexual-demi](/output/pride-asexual-demi.png)
-* pride-bisexual: ![pride-bisexual](/output/pride-bisexual.png)
-* pride-genderqueer: ![pride-genderqueer](/output/pride-genderqueer.png)
-* pride-heart: ![pride-heart](/output/pride-heart.png)
-* pride-intersex: ![pride-intersex](/output/pride-intersex.png)
-* pride-pansexual: ![pride-pansexual](/output/pride-pansexual.png)
-* pride-trans: ![pride-trans](/output/pride-trans.png)
-* pride-trans-flag: ![pride-trans-flag](/output/pride-trans-flag.png)
-* prince_symbol: ![prince_symbol](/output/prince_symbol.png)
-* probot: ![probot](/output/probot.png)
-* professortocat: ![professortocat](/output/professortocat.png)
-* project: ![project](/output/project.jpg)
-* pro_tip: ![pro_tip](/output/pro_tip.png)
-* psy: ![psy](/output/psy.gif)
-* psyduck: ![psyduck](/output/psyduck.png)
-* pull_request: ![pull_request](/output/pull_request.png)
-* pull_request_white: ![pull_request_white](/output/pull_request_white.png)
-* pumpkin: ![pumpkin](/output/pumpkin.gif)
-* pumpkin_pie: ![pumpkin_pie](/output/pumpkin_pie.png)
-* pun-husky: ![pun-husky](/output/pun-husky.png)
-* punny: ![punny](/output/punny.png)
-* puregold: ![puregold](/output/puregold.jpg)
-* pusheen: ![pusheen](/output/pusheen.gif)
-* python-da: ![python-da](/output/python-da.png)
-* qr: ![qr](/output/qr.png)
-* quacker: ![quacker](/output/quacker.png)
-* quad_damage: ![quad_damage](/output/quad_damage.png)
-* quakes: ![quakes](/output/quakes.png)
-* qubit: ![qubit](/output/qubit.png)
-* questionmarkbox: ![questionmarkbox](/output/questionmarkbox.png)
-* queue: ![queue](/output/queue.png)
-* r2d2: ![r2d2](/output/r2d2.gif)
-* rabbit_hole: ![rabbit_hole](/output/rabbit_hole.png)
-* rackspace: ![rackspace](/output/rackspace.jpg)
-* racoon_police: ![racoon_police](/output/racoon_police.jpg)
-* radar: ![radar](/output/radar.png)
-* radical: ![radical](/output/radical.gif)
-* radiohead: ![radiohead](/output/radiohead.png)
-* raft: ![raft](/output/raft.png)
-* rageguy: ![rageguy](/output/rageguy.png)
-* railsconf_2019_minneapolis: ![railsconf_2019_minneapolis](/output/railsconf_2019_minneapolis.jpg)
-* rainbow-dash: ![rainbow-dash](/output/rainbow-dash.jpg)
-* rainbow-smash: ![rainbow-smash](/output/rainbow-smash.png)
-* rainbows: ![rainbows](/output/rainbows)
-* rainbow_bounce: ![rainbow_bounce](/output/rainbow_bounce.gif)
-* rainbow_gnome: ![rainbow_gnome](/output/rainbow_gnome.png)
-* rainbow_heart: ![rainbow_heart](/output/rainbow_heart)
-* rainbow_star: ![rainbow_star](/output/rainbow_star.png)
-* raised_paws: ![raised_paws](/output/raised_paws.png)
-* ralph: ![ralph](/output/ralph.png)
-* ramencat: ![ramencat](/output/ramencat.gif)
-* rangers: ![rangers](/output/rangers.png)
-* ranjit: ![ranjit](/output/ranjit.png)
-* rant: ![rant](/output/rant.gif)
-* raps: ![raps](/output/raps.png)
-* raspberry: ![raspberry](/output/raspberry.png)
-* razorback: ![razorback](/output/razorback.png)
-* razorbacks: ![razorbacks](/output/razorbacks.png)
-* razzledazzleship: ![razzledazzleship](/output/razzledazzleship.png)
-* react: ![react](/output/react.png)
-* reaction: ![reaction](/output/reaction.png)
-* really_not_fine: ![really_not_fine](/output/really_not_fine.png)
-* reaper: ![reaper](/output/reaper.gif)
-* rebeccablack: ![rebeccablack](/output/rebeccablack.png)
-* rebel: ![rebel](/output/rebel.png)
-* red: ![red](/output/red)
-* red-stapler: ![red-stapler](/output/red-stapler.jpg)
-* redbull: ![redbull](/output/redbull.png)
-* reddit: ![reddit](/output/reddit.png)
-* redhat: ![redhat](/output/redhat.png)
-* redis: ![redis](/output/redis.png)
-* redstapler: ![redstapler](/output/redstapler)
-* red_herring: ![red_herring](/output/red_herring.png)
-* red_mana: ![red_mana](/output/red_mana.png)
-* red_tape: ![red_tape](/output/red_tape.gif)
-* red_wings: ![red_wings](/output/red_wings.png)
-* rekt: ![rekt](/output/rekt.png)
-* retweet: ![retweet](/output/retweet.png)
-* reverse_bushes: ![reverse_bushes](/output/reverse_bushes.gif)
-* revolution_parrot: ![revolution_parrot](/output/revolution_parrot.gif)
-* rfc: ![rfc](/output/rfc.png)
-* rfc-da: ![rfc-da](/output/rfc-da.png)
-* rh_hal: ![rh_hal](/output/rh_hal.png)
-* ribeye: ![ribeye](/output/ribeye.png)
-* richunclemoneygopher: ![richunclemoneygopher](/output/richunclemoneygopher.jpg)
-* ric_ross: ![ric_ross](/output/ric_ross.jpg)
-* right_facing_fist: ![right_facing_fist](/output/right_facing_fist.png)
-* right_parrot: ![right_parrot](/output/right_parrot.gif)
-* right_shark: ![right_shark](/output/right_shark.gif)
-* rimshot: ![rimshot](/output/rimshot.gif)
-* rip: ![rip](/output/rip.png)
-* rip-da: ![rip-da](/output/rip-da.png)
-* rita: ![rita](/output/rita.png)
-* rms: ![rms](/output/rms.png)
-* robin: ![robin](/output/robin.png)
-* robot_cry: ![robot_cry](/output/robot_cry.png)
+|||
+|precious| ![precious](/output/precious.jpg)|
+|predators| ![predators](/output/predators.png)|
+|pretty-please| ![pretty-please](/output/pretty-please.png)|
+|pretty_good| ![pretty_good](/output/pretty_good)|
+|pride-asexual-demi| ![pride-asexual-demi](/output/pride-asexual-demi.png)|
+|pride-bisexual| ![pride-bisexual](/output/pride-bisexual.png)|
+|pride-genderqueer| ![pride-genderqueer](/output/pride-genderqueer.png)|
+|pride-heart| ![pride-heart](/output/pride-heart.png)|
+|pride-intersex| ![pride-intersex](/output/pride-intersex.png)|
+|pride-pansexual| ![pride-pansexual](/output/pride-pansexual.png)|
+|pride-trans| ![pride-trans](/output/pride-trans.png)|
+|pride-trans-flag| ![pride-trans-flag](/output/pride-trans-flag.png)|
+|prince_symbol| ![prince_symbol](/output/prince_symbol.png)|
+|probot| ![probot](/output/probot.png)|
+|professortocat| ![professortocat](/output/professortocat.png)|
+|project| ![project](/output/project.jpg)|
+|pro_tip| ![pro_tip](/output/pro_tip.png)|
+|psy| ![psy](/output/psy.gif)|
+|psyduck| ![psyduck](/output/psyduck.png)|
+|pull_request| ![pull_request](/output/pull_request.png)|
+|pull_request_white| ![pull_request_white](/output/pull_request_white.png)|
+|pumpkin| ![pumpkin](/output/pumpkin.gif)|
+|pumpkin_pie| ![pumpkin_pie](/output/pumpkin_pie.png)|
+|pun-husky| ![pun-husky](/output/pun-husky.png)|
+|punny| ![punny](/output/punny.png)|
+|puregold| ![puregold](/output/puregold.jpg)|
+|pusheen| ![pusheen](/output/pusheen.gif)|
+|python-da| ![python-da](/output/python-da.png)|
+|qr| ![qr](/output/qr.png)|
+|quacker| ![quacker](/output/quacker.png)|
+|quad_damage| ![quad_damage](/output/quad_damage.png)|
+|quakes| ![quakes](/output/quakes.png)|
+|qubit| ![qubit](/output/qubit.png)|
+|questionmarkbox| ![questionmarkbox](/output/questionmarkbox.png)|
+|queue| ![queue](/output/queue.png)|
+|r2d2| ![r2d2](/output/r2d2.gif)|
+|rabbit_hole| ![rabbit_hole](/output/rabbit_hole.png)|
+|rackspace| ![rackspace](/output/rackspace.jpg)|
+|racoon_police| ![racoon_police](/output/racoon_police.jpg)|
+|radar| ![radar](/output/radar.png)|
+|radical| ![radical](/output/radical.gif)|
+|radiohead| ![radiohead](/output/radiohead.png)|
+|raft| ![raft](/output/raft.png)|
+|rageguy| ![rageguy](/output/rageguy.png)|
+|railsconf_2019_minneapolis| ![railsconf_2019_minneapolis](/output/railsconf_2019_minneapolis.jpg)|
+|rainbow-dash| ![rainbow-dash](/output/rainbow-dash.jpg)|
+|rainbow-smash| ![rainbow-smash](/output/rainbow-smash.png)|
+|rainbows| ![rainbows](/output/rainbows)|
+|rainbow_bounce| ![rainbow_bounce](/output/rainbow_bounce.gif)|
+|rainbow_gnome| ![rainbow_gnome](/output/rainbow_gnome.png)|
+|rainbow_heart| ![rainbow_heart](/output/rainbow_heart)|
+|rainbow_star| ![rainbow_star](/output/rainbow_star.png)|
+|raised_paws| ![raised_paws](/output/raised_paws.png)|
+|ralph| ![ralph](/output/ralph.png)|
+|ramencat| ![ramencat](/output/ramencat.gif)|
+|rangers| ![rangers](/output/rangers.png)|
+|ranjit| ![ranjit](/output/ranjit.png)|
+|rant| ![rant](/output/rant.gif)|
+|raps| ![raps](/output/raps.png)|
+|raspberry| ![raspberry](/output/raspberry.png)|
+|razorback| ![razorback](/output/razorback.png)|
+|razorbacks| ![razorbacks](/output/razorbacks.png)|
+|razzledazzleship| ![razzledazzleship](/output/razzledazzleship.png)|
+|react| ![react](/output/react.png)|
+|reaction| ![reaction](/output/reaction.png)|
+|really_not_fine| ![really_not_fine](/output/really_not_fine.png)|
+|reaper| ![reaper](/output/reaper.gif)|
+|rebeccablack| ![rebeccablack](/output/rebeccablack.png)|
+|rebel| ![rebel](/output/rebel.png)|
+|red| ![red](/output/red)|
+|red-stapler| ![red-stapler](/output/red-stapler.jpg)|
+|redbull| ![redbull](/output/redbull.png)|
+|reddit| ![reddit](/output/reddit.png)|
+|redhat| ![redhat](/output/redhat.png)|
+|redis| ![redis](/output/redis.png)|
+|redstapler| ![redstapler](/output/redstapler)|
+|red_herring| ![red_herring](/output/red_herring.png)|
+|red_mana| ![red_mana](/output/red_mana.png)|
+|red_tape| ![red_tape](/output/red_tape.gif)|
+|red_wings| ![red_wings](/output/red_wings.png)|
+|rekt| ![rekt](/output/rekt.png)|
+|retweet| ![retweet](/output/retweet.png)|
+|reverse_bushes| ![reverse_bushes](/output/reverse_bushes.gif)|
+|revolution_parrot| ![revolution_parrot](/output/revolution_parrot.gif)|
+|rfc| ![rfc](/output/rfc.png)|
+|rfc-da| ![rfc-da](/output/rfc-da.png)|
+|rh_hal| ![rh_hal](/output/rh_hal.png)|
+|ribeye| ![ribeye](/output/ribeye.png)|
+|richunclemoneygopher| ![richunclemoneygopher](/output/richunclemoneygopher.jpg)|
+|ric_ross| ![ric_ross](/output/ric_ross.jpg)|
+|right_facing_fist| ![right_facing_fist](/output/right_facing_fist.png)|
+|right_parrot| ![right_parrot](/output/right_parrot.gif)|
+|right_shark| ![right_shark](/output/right_shark.gif)|
+|rimshot| ![rimshot](/output/rimshot.gif)|
+|rip| ![rip](/output/rip.png)|
+|rip-da| ![rip-da](/output/rip-da.png)|
+|rita| ![rita](/output/rita.png)|
+|rms| ![rms](/output/rms.png)|
+|robin| ![robin](/output/robin.png)|
+|robot_cry| ![robot_cry](/output/robot_cry.png)|

@@ -1,103 +1,103 @@
 
 ## Emojis (Page 23)
-
-* captain-america: ![captain-america](/output/captain-america.jpg)
-* bugcatcher: ![bugcatcher](/output/bugcatcher.png)
-* appear: ![appear](/output/appear.gif)
-* aw_yeah: ![aw_yeah](/output/aw_yeah.gif)
-* party_parrot: ![party_parrot](/output/party_parrot.gif)
-* christmas_parrot: ![christmas_parrot](/output/christmas_parrot.gif)
-* nyancat_big: ![nyancat_big](/output/nyancat_big.gif)
-* slam: ![slam](/output/slam.gif)
-* success-kid: ![success-kid](/output/success-kid.png)
-* kill_it_with_fire: ![kill_it_with_fire](/output/kill_it_with_fire.gif)
-* trumpw: ![trumpw](/output/trumpw.png)
-* panicpirate: ![panicpirate](/output/panicpirate.gif)
-* this-is-fine: ![this-is-fine](/output/this-is-fine.gif)
-* rudd_carlton: ![rudd_carlton](/output/rudd_carlton.gif)
-* cat_face_with_monocle: ![cat_face_with_monocle](/output/cat_face_with_monocle.png)
-* nerd_cat_face: ![nerd_cat_face](/output/nerd_cat_face.png)
-* sleepy_cat: ![sleepy_cat](/output/sleepy_cat.png)
-* sob_cat: ![sob_cat](/output/sob_cat.png)
-* star-struck_cat: ![star-struck_cat](/output/star-struck_cat.png)
-* sunglasses_cat: ![sunglasses_cat](/output/sunglasses_cat.png)
-* thinking_cat_face: ![thinking_cat_face](/output/thinking_cat_face.png)
-* triumph_cat: ![triumph_cat](/output/triumph_cat.png)
-* yasss_cat: ![yasss_cat](/output/yasss_cat.png)
-* zany_cat_face: ![zany_cat_face](/output/zany_cat_face.png)
-* yum_cat: ![yum_cat](/output/yum_cat.png)
-* notinterested: ![notinterested](/output/notinterested.gif)
-* party: ![party](/output/party.gif)
-* perfect: ![perfect](/output/perfect.gif)
-* shhh: ![shhh](/output/shhh.gif)
-* thinking: ![thinking](/output/thinking.gif)
-* watching-you: ![watching-you](/output/watching-you.gif)
-* yuck: ![yuck](/output/yuck.gif)
-* thumps-down: ![thumps-down](/output/thumps-down.gif)
-* tongue-out: ![tongue-out](/output/tongue-out.gif)
-* blobpeek: ![blobpeek](/output/blobpeek.png)
-* blobl-grimace: ![blobl-grimace](/output/blobl-grimace.gif)
-* businesscat: ![businesscat](/output/businesscat.jpg)
-* captain_obvious: ![captain_obvious](/output/captain_obvious.png)
-* surprised-pikachu-emoji: ![surprised-pikachu-emoji](/output/surprised-pikachu-emoji.png)
-* kube_pride: ![kube_pride](/output/kube_pride.png)
-* kirkland-signature: ![kirkland-signature](/output/kirkland-signature.png)
-* costco: ![costco](/output/costco.png)
-* cheshire-cat: ![cheshire-cat](/output/cheshire-cat.jpg)
-* devops: ![devops](/output/devops.png)
-* hashi500: ![hashi500](/output/hashi500.png)
-* blucifer: ![blucifer](/output/blucifer.png)
-* snap: ![snap](/output/snap.gif)
-* fever: ![fever](/output/fever.gif)
-* cloudfriend: ![cloudfriend](/output/cloudfriend.png)
-* thanos-snap: ![thanos-snap](/output/thanos-snap.gif)
-* via313: ![via313](/output/via313.png)
-* this: ![this](/output/this.gif)
-* mylo: ![mylo](/output/mylo.png)
-* teapot-3: ![teapot-3](/output/teapot-3.jpg)
-* loadbearing-skeleton: ![loadbearing-skeleton](/output/loadbearing-skeleton.png)
-* loadbearing-skeletons: ![loadbearing-skeletons](/output/loadbearing-skeletons)
-* dns: ![dns](/output/dns.png)
-* bonzi: ![bonzi](/output/bonzi.png)
-* detective-pikachu: ![detective-pikachu](/output/detective-pikachu.png)
-* piperdance: ![piperdance](/output/piperdance.gif)
-* webpack: ![webpack](/output/webpack.png)
-* fact: ![fact](/output/fact.png)
-* yarp: ![yarp](/output/yarp.jpg)
-* artifactory: ![artifactory](/output/artifactory.png)
-* backlog: ![backlog](/output/backlog.png)
-* backlogda: ![backlogda](/output/backlogda.png)
-* jason: ![jason](/output/jason.png)
-* mavenlink: ![mavenlink](/output/mavenlink.png)
-* sad-cowboy: ![sad-cowboy](/output/sad-cowboy.png)
-* plus: ![plus](/output/plus)
-* rejected: ![rejected](/output/rejected.jpg)
-* happy_mac: ![happy_mac](/output/happy_mac.png)
-* false: ![false](/output/false.png)
-* ohio: ![ohio](/output/ohio.png)
-* dwight: ![dwight](/output/dwight.png)
-* dwight_happy: ![dwight_happy](/output/dwight_happy.png)
-* marvin_the_robot: ![marvin_the_robot](/output/marvin_the_robot.png)
-* dwight_nod: ![dwight_nod](/output/dwight_nod.gif)
-* dwight_cry: ![dwight_cry](/output/dwight_cry.png)
-* dwight_scream: ![dwight_scream](/output/dwight_scream.png)
-* mild_panic: ![mild_panic](/output/mild_panic.png)
-* internal_screaming: ![internal_screaming](/output/internal_screaming)
-* theonlyirishtaminthevillage: ![theonlyirishtaminthevillage](/output/theonlyirishtaminthevillage.png)
-* celine-dion: ![celine-dion](/output/celine-dion.png)
-* davidcelis-intensifies: ![davidcelis-intensifies](/output/davidcelis-intensifies.gif)
-* frowning-intensifies: ![frowning-intensifies](/output/frowning-intensifies.gif)
-* mild-panic-intensifies: ![mild-panic-intensifies](/output/mild-panic-intensifies.gif)
-* blue_shell_incoming: ![blue_shell_incoming](/output/blue_shell_incoming.gif)
-* tubing: ![tubing](/output/tubing.jpg)
-* mm-da: ![mm-da](/output/mm-da.png)
-* mmda: ![mmda](/output/mmda)
-* magician-da: ![magician-da](/output/magician-da)
-* magic-modules: ![magic-modules](/output/magic-modules.png)
-* mm: ![mm](/output/mm)
-* cost-estimation: ![cost-estimation](/output/cost-estimation.png)
-* frizzle: ![frizzle](/output/frizzle.jpg)
-* dog-tofu: ![dog-tofu](/output/dog-tofu.png)
-* handwave: ![handwave](/output/handwave.gif)
-* evangelion_rei_neutral: ![evangelion_rei_neutral](/output/evangelion_rei_neutral.png)
-* terraform-intensifies: ![terraform-intensifies](/output/terraform-intensifies.gif)
+|||
+|captain-america| ![captain-america](/output/captain-america.jpg)|
+|bugcatcher| ![bugcatcher](/output/bugcatcher.png)|
+|appear| ![appear](/output/appear.gif)|
+|aw_yeah| ![aw_yeah](/output/aw_yeah.gif)|
+|party_parrot| ![party_parrot](/output/party_parrot.gif)|
+|christmas_parrot| ![christmas_parrot](/output/christmas_parrot.gif)|
+|nyancat_big| ![nyancat_big](/output/nyancat_big.gif)|
+|slam| ![slam](/output/slam.gif)|
+|success-kid| ![success-kid](/output/success-kid.png)|
+|kill_it_with_fire| ![kill_it_with_fire](/output/kill_it_with_fire.gif)|
+|trumpw| ![trumpw](/output/trumpw.png)|
+|panicpirate| ![panicpirate](/output/panicpirate.gif)|
+|this-is-fine| ![this-is-fine](/output/this-is-fine.gif)|
+|rudd_carlton| ![rudd_carlton](/output/rudd_carlton.gif)|
+|cat_face_with_monocle| ![cat_face_with_monocle](/output/cat_face_with_monocle.png)|
+|nerd_cat_face| ![nerd_cat_face](/output/nerd_cat_face.png)|
+|sleepy_cat| ![sleepy_cat](/output/sleepy_cat.png)|
+|sob_cat| ![sob_cat](/output/sob_cat.png)|
+|star-struck_cat| ![star-struck_cat](/output/star-struck_cat.png)|
+|sunglasses_cat| ![sunglasses_cat](/output/sunglasses_cat.png)|
+|thinking_cat_face| ![thinking_cat_face](/output/thinking_cat_face.png)|
+|triumph_cat| ![triumph_cat](/output/triumph_cat.png)|
+|yasss_cat| ![yasss_cat](/output/yasss_cat.png)|
+|zany_cat_face| ![zany_cat_face](/output/zany_cat_face.png)|
+|yum_cat| ![yum_cat](/output/yum_cat.png)|
+|notinterested| ![notinterested](/output/notinterested.gif)|
+|party| ![party](/output/party.gif)|
+|perfect| ![perfect](/output/perfect.gif)|
+|shhh| ![shhh](/output/shhh.gif)|
+|thinking| ![thinking](/output/thinking.gif)|
+|watching-you| ![watching-you](/output/watching-you.gif)|
+|yuck| ![yuck](/output/yuck.gif)|
+|thumps-down| ![thumps-down](/output/thumps-down.gif)|
+|tongue-out| ![tongue-out](/output/tongue-out.gif)|
+|blobpeek| ![blobpeek](/output/blobpeek.png)|
+|blobl-grimace| ![blobl-grimace](/output/blobl-grimace.gif)|
+|businesscat| ![businesscat](/output/businesscat.jpg)|
+|captain_obvious| ![captain_obvious](/output/captain_obvious.png)|
+|surprised-pikachu-emoji| ![surprised-pikachu-emoji](/output/surprised-pikachu-emoji.png)|
+|kube_pride| ![kube_pride](/output/kube_pride.png)|
+|kirkland-signature| ![kirkland-signature](/output/kirkland-signature.png)|
+|costco| ![costco](/output/costco.png)|
+|cheshire-cat| ![cheshire-cat](/output/cheshire-cat.jpg)|
+|devops| ![devops](/output/devops.png)|
+|hashi500| ![hashi500](/output/hashi500.png)|
+|blucifer| ![blucifer](/output/blucifer.png)|
+|snap| ![snap](/output/snap.gif)|
+|fever| ![fever](/output/fever.gif)|
+|cloudfriend| ![cloudfriend](/output/cloudfriend.png)|
+|thanos-snap| ![thanos-snap](/output/thanos-snap.gif)|
+|via313| ![via313](/output/via313.png)|
+|this| ![this](/output/this.gif)|
+|mylo| ![mylo](/output/mylo.png)|
+|teapot-3| ![teapot-3](/output/teapot-3.jpg)|
+|loadbearing-skeleton| ![loadbearing-skeleton](/output/loadbearing-skeleton.png)|
+|loadbearing-skeletons| ![loadbearing-skeletons](/output/loadbearing-skeletons)|
+|dns| ![dns](/output/dns.png)|
+|bonzi| ![bonzi](/output/bonzi.png)|
+|detective-pikachu| ![detective-pikachu](/output/detective-pikachu.png)|
+|piperdance| ![piperdance](/output/piperdance.gif)|
+|webpack| ![webpack](/output/webpack.png)|
+|fact| ![fact](/output/fact.png)|
+|yarp| ![yarp](/output/yarp.jpg)|
+|artifactory| ![artifactory](/output/artifactory.png)|
+|backlog| ![backlog](/output/backlog.png)|
+|backlogda| ![backlogda](/output/backlogda.png)|
+|jason| ![jason](/output/jason.png)|
+|mavenlink| ![mavenlink](/output/mavenlink.png)|
+|sad-cowboy| ![sad-cowboy](/output/sad-cowboy.png)|
+|plus| ![plus](/output/plus)|
+|rejected| ![rejected](/output/rejected.jpg)|
+|happy_mac| ![happy_mac](/output/happy_mac.png)|
+|false| ![false](/output/false.png)|
+|ohio| ![ohio](/output/ohio.png)|
+|dwight| ![dwight](/output/dwight.png)|
+|dwight_happy| ![dwight_happy](/output/dwight_happy.png)|
+|marvin_the_robot| ![marvin_the_robot](/output/marvin_the_robot.png)|
+|dwight_nod| ![dwight_nod](/output/dwight_nod.gif)|
+|dwight_cry| ![dwight_cry](/output/dwight_cry.png)|
+|dwight_scream| ![dwight_scream](/output/dwight_scream.png)|
+|mild_panic| ![mild_panic](/output/mild_panic.png)|
+|internal_screaming| ![internal_screaming](/output/internal_screaming)|
+|theonlyirishtaminthevillage| ![theonlyirishtaminthevillage](/output/theonlyirishtaminthevillage.png)|
+|celine-dion| ![celine-dion](/output/celine-dion.png)|
+|davidcelis-intensifies| ![davidcelis-intensifies](/output/davidcelis-intensifies.gif)|
+|frowning-intensifies| ![frowning-intensifies](/output/frowning-intensifies.gif)|
+|mild-panic-intensifies| ![mild-panic-intensifies](/output/mild-panic-intensifies.gif)|
+|blue_shell_incoming| ![blue_shell_incoming](/output/blue_shell_incoming.gif)|
+|tubing| ![tubing](/output/tubing.jpg)|
+|mm-da| ![mm-da](/output/mm-da.png)|
+|mmda| ![mmda](/output/mmda)|
+|magician-da| ![magician-da](/output/magician-da)|
+|magic-modules| ![magic-modules](/output/magic-modules.png)|
+|mm| ![mm](/output/mm)|
+|cost-estimation| ![cost-estimation](/output/cost-estimation.png)|
+|frizzle| ![frizzle](/output/frizzle.jpg)|
+|dog-tofu| ![dog-tofu](/output/dog-tofu.png)|
+|handwave| ![handwave](/output/handwave.gif)|
+|evangelion_rei_neutral| ![evangelion_rei_neutral](/output/evangelion_rei_neutral.png)|
+|terraform-intensifies| ![terraform-intensifies](/output/terraform-intensifies.gif)|

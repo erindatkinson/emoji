@@ -1,103 +1,103 @@
 
 ## Emojis (Page 9)
-
-* itsatrap: ![itsatrap](/output/itsatrap.png)
-* its_fine: ![its_fine](/output/its_fine.png)
-* its_lit: ![its_lit](/output/its_lit.png)
-* its_not_fine: ![its_not_fine](/output/its_not_fine.png)
-* it_is_a_mystery: ![it_is_a_mystery](/output/it_is_a_mystery.png)
-* jack-sternface: ![jack-sternface](/output/jack-sternface.png)
-* jack-swan: ![jack-swan](/output/jack-swan.png)
-* jackalman: ![jackalman](/output/jackalman.png)
-* jackie: ![jackie](/output/jackie.jpg)
-* jake: ![jake](/output/jake.jpg)
-* jake_wink: ![jake_wink](/output/jake_wink.gif)
-* james_bond: ![james_bond](/output/james_bond.png)
-* jammin: ![jammin](/output/jammin.gif)
-* java: ![java](/output/java.png)
-* javascript: ![javascript](/output/javascript.png)
-* javascript_spin: ![javascript_spin](/output/javascript_spin.gif)
-* jawn: ![jawn](/output/jawn.png)
-* jawn2: ![jawn2](/output/jawn2.png)
-* jaws: ![jaws](/output/jaws.png)
-* jazz: ![jazz](/output/jazz.png)
-* jazz_hands: ![jazz_hands](/output/jazz_hands)
-* jekyll: ![jekyll](/output/jekyll.png)
-* jell: ![jell](/output/jell.jpg)
-* jenkins: ![jenkins](/output/jenkins.png)
-* jenkins_deal_with_it: ![jenkins_deal_with_it](/output/jenkins_deal_with_it.png)
-* jenkins_devil: ![jenkins_devil](/output/jenkins_devil.png)
-* jessvoted: ![jessvoted](/output/jessvoted)
-* jester: ![jester](/output/jester.jpg)
-* jets: ![jets](/output/jets.png)
-* jinx: ![jinx](/output/jinx.png)
-* jira: ![jira](/output/jira.png)
-* joust: ![joust](/output/joust.png)
-* joy-io: ![joy-io](/output/joy-io.png)
-* joy_blood: ![joy_blood](/output/joy_blood.png)
-* joy_sob: ![joy_sob](/output/joy_sob.png)
-* jujimufu: ![jujimufu](/output/jujimufu.jpg)
-* julia: ![julia](/output/julia.jpg)
-* justincampbell: ![justincampbell](/output/justincampbell)
-* k8s: ![k8s](/output/k8s)
-* kangaroo-crossing: ![kangaroo-crossing](/output/kangaroo-crossing.jpg)
-* katamari: ![katamari](/output/katamari.gif)
-* keep_ruby_weird: ![keep_ruby_weird](/output/keep_ruby_weird.png)
-* kefka: ![kefka](/output/kefka.gif)
-* kermit: ![kermit](/output/kermit.png)
-* kettle: ![kettle](/output/kettle.jpg)
-* kettlebell: ![kettlebell](/output/kettlebell.jpg)
-* kewpie: ![kewpie](/output/kewpie.jpg)
-* keybase: ![keybase](/output/keybase.png)
-* keynote: ![keynote](/output/keynote.jpg)
-* khaldrogo: ![khaldrogo](/output/khaldrogo.jpg)
-* khan: ![khan](/output/khan.gif)
-* kickflip: ![kickflip](/output/kickflip.gif)
-* kickstarter: ![kickstarter](/output/kickstarter.png)
-* kilroy: ![kilroy](/output/kilroy.png)
-* kimchee: ![kimchee](/output/kimchee.png)
-* kimonotocat: ![kimonotocat](/output/kimonotocat.png)
-* kindofabigdeal: ![kindofabigdeal](/output/kindofabigdeal.png)
-* kings: ![kings](/output/kings.png)
-* kip: ![kip](/output/kip.jpg)
-* kirby: ![kirby](/output/kirby.gif)
-* kirby_grapes: ![kirby_grapes](/output/kirby_grapes.gif)
-* kirby_swallow: ![kirby_swallow](/output/kirby_swallow.gif)
-* kiwi: ![kiwi](/output/kiwi.jpg)
-* kk_slider: ![kk_slider](/output/kk_slider.jpg)
-* klr: ![klr](/output/klr.jpg)
-* knawledge: ![knawledge](/output/knawledge.gif)
-* knowingishalfthebattle: ![knowingishalfthebattle](/output/knowingishalfthebattle.png)
-* kombucha: ![kombucha](/output/kombucha.png)
-* koolaid: ![koolaid](/output/koolaid.png)
-* koopa_kart: ![koopa_kart](/output/koopa_kart.gif)
-* korok: ![korok](/output/korok.png)
-* kotlin: ![kotlin](/output/kotlin.png)
-* kramer: ![kramer](/output/kramer.gif)
-* krispykreme: ![krispykreme](/output/krispykreme.jpg)
-* krusty: ![krusty](/output/krusty.gif)
-* ksh: ![ksh](/output/ksh.png)
-* kubernetes: ![kubernetes](/output/kubernetes.png)
-* kubernetes-da: ![kubernetes-da](/output/kubernetes-da.png)
-* kubernetesda: ![kubernetesda](/output/kubernetesda)
-* kwanzaa: ![kwanzaa](/output/kwanzaa.png)
-* kyloren: ![kyloren](/output/kyloren.png)
-* lacroix: ![lacroix](/output/lacroix.jpg)
-* lambda: ![lambda](/output/lambda.png)
-* lambda_hl: ![lambda_hl](/output/lambda_hl.png)
-* lando: ![lando](/output/lando.png)
-* larry_david: ![larry_david](/output/larry_david.png)
-* lasers: ![lasers](/output/lasers.png)
-* latte: ![latte](/output/latte.jpg)
-* lawn: ![lawn](/output/lawn.png)
-* learner: ![learner](/output/learner.png)
-* leftshark: ![leftshark](/output/leftshark.png)
-* leftshark-dance: ![leftshark-dance](/output/leftshark-dance.gif)
-* left_facing_fist: ![left_facing_fist](/output/left_facing_fist.png)
-* left_shark: ![left_shark](/output/left_shark.gif)
-* lego: ![lego](/output/lego.png)
-* lemming: ![lemming](/output/lemming.gif)
-* lesliedino: ![lesliedino](/output/lesliedino.jpg)
-* letitcrash: ![letitcrash](/output/letitcrash.png)
-* lettuce: ![lettuce](/output/lettuce.jpg)
-* lgtm: ![lgtm](/output/lgtm.png)
+|||
+|itsatrap| ![itsatrap](/output/itsatrap.png)|
+|its_fine| ![its_fine](/output/its_fine.png)|
+|its_lit| ![its_lit](/output/its_lit.png)|
+|its_not_fine| ![its_not_fine](/output/its_not_fine.png)|
+|it_is_a_mystery| ![it_is_a_mystery](/output/it_is_a_mystery.png)|
+|jack-sternface| ![jack-sternface](/output/jack-sternface.png)|
+|jack-swan| ![jack-swan](/output/jack-swan.png)|
+|jackalman| ![jackalman](/output/jackalman.png)|
+|jackie| ![jackie](/output/jackie.jpg)|
+|jake| ![jake](/output/jake.jpg)|
+|jake_wink| ![jake_wink](/output/jake_wink.gif)|
+|james_bond| ![james_bond](/output/james_bond.png)|
+|jammin| ![jammin](/output/jammin.gif)|
+|java| ![java](/output/java.png)|
+|javascript| ![javascript](/output/javascript.png)|
+|javascript_spin| ![javascript_spin](/output/javascript_spin.gif)|
+|jawn| ![jawn](/output/jawn.png)|
+|jawn2| ![jawn2](/output/jawn2.png)|
+|jaws| ![jaws](/output/jaws.png)|
+|jazz| ![jazz](/output/jazz.png)|
+|jazz_hands| ![jazz_hands](/output/jazz_hands)|
+|jekyll| ![jekyll](/output/jekyll.png)|
+|jell| ![jell](/output/jell.jpg)|
+|jenkins| ![jenkins](/output/jenkins.png)|
+|jenkins_deal_with_it| ![jenkins_deal_with_it](/output/jenkins_deal_with_it.png)|
+|jenkins_devil| ![jenkins_devil](/output/jenkins_devil.png)|
+|jessvoted| ![jessvoted](/output/jessvoted)|
+|jester| ![jester](/output/jester.jpg)|
+|jets| ![jets](/output/jets.png)|
+|jinx| ![jinx](/output/jinx.png)|
+|jira| ![jira](/output/jira.png)|
+|joust| ![joust](/output/joust.png)|
+|joy-io| ![joy-io](/output/joy-io.png)|
+|joy_blood| ![joy_blood](/output/joy_blood.png)|
+|joy_sob| ![joy_sob](/output/joy_sob.png)|
+|jujimufu| ![jujimufu](/output/jujimufu.jpg)|
+|julia| ![julia](/output/julia.jpg)|
+|justincampbell| ![justincampbell](/output/justincampbell)|
+|k8s| ![k8s](/output/k8s)|
+|kangaroo-crossing| ![kangaroo-crossing](/output/kangaroo-crossing.jpg)|
+|katamari| ![katamari](/output/katamari.gif)|
+|keep_ruby_weird| ![keep_ruby_weird](/output/keep_ruby_weird.png)|
+|kefka| ![kefka](/output/kefka.gif)|
+|kermit| ![kermit](/output/kermit.png)|
+|kettle| ![kettle](/output/kettle.jpg)|
+|kettlebell| ![kettlebell](/output/kettlebell.jpg)|
+|kewpie| ![kewpie](/output/kewpie.jpg)|
+|keybase| ![keybase](/output/keybase.png)|
+|keynote| ![keynote](/output/keynote.jpg)|
+|khaldrogo| ![khaldrogo](/output/khaldrogo.jpg)|
+|khan| ![khan](/output/khan.gif)|
+|kickflip| ![kickflip](/output/kickflip.gif)|
+|kickstarter| ![kickstarter](/output/kickstarter.png)|
+|kilroy| ![kilroy](/output/kilroy.png)|
+|kimchee| ![kimchee](/output/kimchee.png)|
+|kimonotocat| ![kimonotocat](/output/kimonotocat.png)|
+|kindofabigdeal| ![kindofabigdeal](/output/kindofabigdeal.png)|
+|kings| ![kings](/output/kings.png)|
+|kip| ![kip](/output/kip.jpg)|
+|kirby| ![kirby](/output/kirby.gif)|
+|kirby_grapes| ![kirby_grapes](/output/kirby_grapes.gif)|
+|kirby_swallow| ![kirby_swallow](/output/kirby_swallow.gif)|
+|kiwi| ![kiwi](/output/kiwi.jpg)|
+|kk_slider| ![kk_slider](/output/kk_slider.jpg)|
+|klr| ![klr](/output/klr.jpg)|
+|knawledge| ![knawledge](/output/knawledge.gif)|
+|knowingishalfthebattle| ![knowingishalfthebattle](/output/knowingishalfthebattle.png)|
+|kombucha| ![kombucha](/output/kombucha.png)|
+|koolaid| ![koolaid](/output/koolaid.png)|
+|koopa_kart| ![koopa_kart](/output/koopa_kart.gif)|
+|korok| ![korok](/output/korok.png)|
+|kotlin| ![kotlin](/output/kotlin.png)|
+|kramer| ![kramer](/output/kramer.gif)|
+|krispykreme| ![krispykreme](/output/krispykreme.jpg)|
+|krusty| ![krusty](/output/krusty.gif)|
+|ksh| ![ksh](/output/ksh.png)|
+|kubernetes| ![kubernetes](/output/kubernetes.png)|
+|kubernetes-da| ![kubernetes-da](/output/kubernetes-da.png)|
+|kubernetesda| ![kubernetesda](/output/kubernetesda)|
+|kwanzaa| ![kwanzaa](/output/kwanzaa.png)|
+|kyloren| ![kyloren](/output/kyloren.png)|
+|lacroix| ![lacroix](/output/lacroix.jpg)|
+|lambda| ![lambda](/output/lambda.png)|
+|lambda_hl| ![lambda_hl](/output/lambda_hl.png)|
+|lando| ![lando](/output/lando.png)|
+|larry_david| ![larry_david](/output/larry_david.png)|
+|lasers| ![lasers](/output/lasers.png)|
+|latte| ![latte](/output/latte.jpg)|
+|lawn| ![lawn](/output/lawn.png)|
+|learner| ![learner](/output/learner.png)|
+|leftshark| ![leftshark](/output/leftshark.png)|
+|leftshark-dance| ![leftshark-dance](/output/leftshark-dance.gif)|
+|left_facing_fist| ![left_facing_fist](/output/left_facing_fist.png)|
+|left_shark| ![left_shark](/output/left_shark.gif)|
+|lego| ![lego](/output/lego.png)|
+|lemming| ![lemming](/output/lemming.gif)|
+|lesliedino| ![lesliedino](/output/lesliedino.jpg)|
+|letitcrash| ![letitcrash](/output/letitcrash.png)|
+|lettuce| ![lettuce](/output/lettuce.jpg)|
+|lgtm| ![lgtm](/output/lgtm.png)|

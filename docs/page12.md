@@ -1,103 +1,103 @@
 
 ## Emojis (Page 12)
-
-* nothingtodohere: ![nothingtodohere](/output/nothingtodohere.png)
-* notit: ![notit](/output/notit.png)
-* notlikethis: ![notlikethis](/output/notlikethis.png)
-* notsureif: ![notsureif](/output/notsureif.png)
-* notthedroids: ![notthedroids](/output/notthedroids.png)
-* not_fine: ![not_fine](/output/not_fine.png)
-* novell: ![novell](/output/novell.png)
-* no_8ball: ![no_8ball](/output/no_8ball.png)
-* no_internet: ![no_internet](/output/no_internet.png)
-* nu: ![nu](/output/nu.gif)
-* nuclear: ![nuclear](/output/nuclear.gif)
-* nuggets: ![nuggets](/output/nuggets.png)
-* nugs: ![nugs](/output/nugs)
-* nuke: ![nuke](/output/nuke.png)
-* nyan: ![nyan](/output/nyan.gif)
-* nyancat: ![nyancat](/output/nyancat.gif)
-* nyan_parrot: ![nyan_parrot](/output/nyan_parrot.gif)
-* oat_soda: ![oat_soda](/output/oat_soda.jpg)
-* oauth: ![oauth](/output/oauth)
-* octobox: ![octobox](/output/octobox.jpg)
-* octocat_de_los_muertos: ![octocat_de_los_muertos](/output/octocat_de_los_muertos.jpg)
-* octodog: ![octodog](/output/octodog.png)
-* octoface: ![octoface](/output/octoface.png)
-* octonauts: ![octonauts](/output/octonauts.png)
-* offline-dino: ![offline-dino](/output/offline-dino.png)
-* ogre_kiss: ![ogre_kiss](/output/ogre_kiss.jpg)
-* ohdeer: ![ohdeer](/output/ohdeer.png)
-* ohmy: ![ohmy](/output/ohmy.png)
-* ohno: ![ohno](/output/ohno.png)
-* ohyeah: ![ohyeah](/output/ohyeah.gif)
-* oh_my: ![oh_my](/output/oh_my.png)
-* oilers: ![oilers](/output/oilers.png)
-* okay: ![okay](/output/okay.jpg)
-* oktobercat: ![oktobercat](/output/oktobercat.png)
-* old-republic: ![old-republic](/output/old-republic.png)
-* older_man_winking: ![older_man_winking](/output/older_man_winking.gif)
-* old_man_cloud: ![old_man_cloud](/output/old_man_cloud.jpg)
-* old_man_yells_at_cloud: ![old_man_yells_at_cloud](/output/old_man_yells_at_cloud.jpg)
-* old_man_yells_at_ruby: ![old_man_yells_at_ruby](/output/old_man_yells_at_ruby.png)
-* old_timey_parrot: ![old_timey_parrot](/output/old_timey_parrot.gif)
-* olol: ![olol](/output/olol.gif)
-* omelette: ![omelette](/output/omelette.png)
-* omg: ![omg](/output/omg.gif)
-* onelogin: ![onelogin](/output/onelogin.png)
-* onering: ![onering](/output/onering.png)
-* one_million_dollars_dr_evil: ![one_million_dollars_dr_evil](/output/one_million_dollars_dr_evil.jpg)
-* oof: ![oof](/output/oof.jpg)
-* oontz: ![oontz](/output/oontz.gif)
-* ooo: ![ooo](/output/ooo.jpg)
-* oool: ![oool](/output/oool.png)
-* oooo: ![oooo](/output/oooo.png)
-* openbsd: ![openbsd](/output/openbsd.gif)
-* openstack: ![openstack](/output/openstack.png)
-* optics: ![optics](/output/optics)
-* optimus_prime: ![optimus_prime](/output/optimus_prime.png)
-* oracle: ![oracle](/output/oracle.jpg)
-* orangetheory: ![orangetheory](/output/orangetheory.png)
-* orange_juice: ![orange_juice](/output/orange_juice.png)
-* oregon-trail: ![oregon-trail](/output/oregon-trail.png)
-* oregon_love: ![oregon_love](/output/oregon_love.png)
-* oreo-dancing: ![oreo-dancing](/output/oreo-dancing.gif)
-* oreo-dancing-1: ![oreo-dancing-1](/output/oreo-dancing-1.gif)
-* orgs: ![orgs](/output/orgs.png)
-* orly: ![orly](/output/orly.png)
-* os2: ![os2](/output/os2.png)
-* oscar: ![oscar](/output/oscar.png)
-* ostrich_sand: ![ostrich_sand](/output/ostrich_sand.png)
-* otp: ![otp](/output/otp.png)
-* otto: ![otto](/output/otto.png)
-* ouroboros: ![ouroboros](/output/ouroboros.png)
-* overwatch: ![overwatch](/output/overwatch.png)
-* oveur: ![oveur](/output/oveur.jpg)
-* packer: ![packer](/output/packer.png)
-* packer-da: ![packer-da](/output/packer-da.png)
-* packerda: ![packerda](/output/packerda)
-* packet: ![packet](/output/packet.png)
-* pacman: ![pacman](/output/pacman.png)
-* pacman_chomp: ![pacman_chomp](/output/pacman_chomp.gif)
-* paddlin: ![paddlin](/output/paddlin.png)
-* pagerduty: ![pagerduty](/output/pagerduty.png)
-* paint: ![paint](/output/paint.png)
-* palantir: ![palantir](/output/palantir.png)
-* pancakes-tall: ![pancakes-tall](/output/pancakes-tall.png)
-* panda_dance: ![panda_dance](/output/panda_dance.gif)
-* panic: ![panic](/output/panic.jpg)
-* panthers: ![panthers](/output/panthers.png)
-* panthro: ![panthro](/output/panthro.png)
-* parkour: ![parkour](/output/parkour.png)
-* parrot_cop: ![parrot_cop](/output/parrot_cop)
-* parrot_wolf: ![parrot_wolf](/output/parrot_wolf.gif)
-* parsnip: ![parsnip](/output/parsnip.png)
-* participant: ![participant](/output/participant.png)
-* party-parrot: ![party-parrot](/output/party-parrot.gif)
-* party-vault: ![party-vault](/output/party-vault.gif)
-* party_corgi: ![party_corgi](/output/party_corgi.gif)
-* party_dumpster_fire: ![party_dumpster_fire](/output/party_dumpster_fire.gif)
-* party_github: ![party_github](/output/party_github.gif)
-* party_ohno: ![party_ohno](/output/party_ohno.gif)
-* party_poop: ![party_poop](/output/party_poop.gif)
-* patientbear: ![patientbear](/output/patientbear.jpg)
+|||
+|nothingtodohere| ![nothingtodohere](/output/nothingtodohere.png)|
+|notit| ![notit](/output/notit.png)|
+|notlikethis| ![notlikethis](/output/notlikethis.png)|
+|notsureif| ![notsureif](/output/notsureif.png)|
+|notthedroids| ![notthedroids](/output/notthedroids.png)|
+|not_fine| ![not_fine](/output/not_fine.png)|
+|novell| ![novell](/output/novell.png)|
+|no_8ball| ![no_8ball](/output/no_8ball.png)|
+|no_internet| ![no_internet](/output/no_internet.png)|
+|nu| ![nu](/output/nu.gif)|
+|nuclear| ![nuclear](/output/nuclear.gif)|
+|nuggets| ![nuggets](/output/nuggets.png)|
+|nugs| ![nugs](/output/nugs)|
+|nuke| ![nuke](/output/nuke.png)|
+|nyan| ![nyan](/output/nyan.gif)|
+|nyancat| ![nyancat](/output/nyancat.gif)|
+|nyan_parrot| ![nyan_parrot](/output/nyan_parrot.gif)|
+|oat_soda| ![oat_soda](/output/oat_soda.jpg)|
+|oauth| ![oauth](/output/oauth)|
+|octobox| ![octobox](/output/octobox.jpg)|
+|octocat_de_los_muertos| ![octocat_de_los_muertos](/output/octocat_de_los_muertos.jpg)|
+|octodog| ![octodog](/output/octodog.png)|
+|octoface| ![octoface](/output/octoface.png)|
+|octonauts| ![octonauts](/output/octonauts.png)|
+|offline-dino| ![offline-dino](/output/offline-dino.png)|
+|ogre_kiss| ![ogre_kiss](/output/ogre_kiss.jpg)|
+|ohdeer| ![ohdeer](/output/ohdeer.png)|
+|ohmy| ![ohmy](/output/ohmy.png)|
+|ohno| ![ohno](/output/ohno.png)|
+|ohyeah| ![ohyeah](/output/ohyeah.gif)|
+|oh_my| ![oh_my](/output/oh_my.png)|
+|oilers| ![oilers](/output/oilers.png)|
+|okay| ![okay](/output/okay.jpg)|
+|oktobercat| ![oktobercat](/output/oktobercat.png)|
+|old-republic| ![old-republic](/output/old-republic.png)|
+|older_man_winking| ![older_man_winking](/output/older_man_winking.gif)|
+|old_man_cloud| ![old_man_cloud](/output/old_man_cloud.jpg)|
+|old_man_yells_at_cloud| ![old_man_yells_at_cloud](/output/old_man_yells_at_cloud.jpg)|
+|old_man_yells_at_ruby| ![old_man_yells_at_ruby](/output/old_man_yells_at_ruby.png)|
+|old_timey_parrot| ![old_timey_parrot](/output/old_timey_parrot.gif)|
+|olol| ![olol](/output/olol.gif)|
+|omelette| ![omelette](/output/omelette.png)|
+|omg| ![omg](/output/omg.gif)|
+|onelogin| ![onelogin](/output/onelogin.png)|
+|onering| ![onering](/output/onering.png)|
+|one_million_dollars_dr_evil| ![one_million_dollars_dr_evil](/output/one_million_dollars_dr_evil.jpg)|
+|oof| ![oof](/output/oof.jpg)|
+|oontz| ![oontz](/output/oontz.gif)|
+|ooo| ![ooo](/output/ooo.jpg)|
+|oool| ![oool](/output/oool.png)|
+|oooo| ![oooo](/output/oooo.png)|
+|openbsd| ![openbsd](/output/openbsd.gif)|
+|openstack| ![openstack](/output/openstack.png)|
+|optics| ![optics](/output/optics)|
+|optimus_prime| ![optimus_prime](/output/optimus_prime.png)|
+|oracle| ![oracle](/output/oracle.jpg)|
+|orangetheory| ![orangetheory](/output/orangetheory.png)|
+|orange_juice| ![orange_juice](/output/orange_juice.png)|
+|oregon-trail| ![oregon-trail](/output/oregon-trail.png)|
+|oregon_love| ![oregon_love](/output/oregon_love.png)|
+|oreo-dancing| ![oreo-dancing](/output/oreo-dancing.gif)|
+|oreo-dancing-1| ![oreo-dancing-1](/output/oreo-dancing-1.gif)|
+|orgs| ![orgs](/output/orgs.png)|
+|orly| ![orly](/output/orly.png)|
+|os2| ![os2](/output/os2.png)|
+|oscar| ![oscar](/output/oscar.png)|
+|ostrich_sand| ![ostrich_sand](/output/ostrich_sand.png)|
+|otp| ![otp](/output/otp.png)|
+|otto| ![otto](/output/otto.png)|
+|ouroboros| ![ouroboros](/output/ouroboros.png)|
+|overwatch| ![overwatch](/output/overwatch.png)|
+|oveur| ![oveur](/output/oveur.jpg)|
+|packer| ![packer](/output/packer.png)|
+|packer-da| ![packer-da](/output/packer-da.png)|
+|packerda| ![packerda](/output/packerda)|
+|packet| ![packet](/output/packet.png)|
+|pacman| ![pacman](/output/pacman.png)|
+|pacman_chomp| ![pacman_chomp](/output/pacman_chomp.gif)|
+|paddlin| ![paddlin](/output/paddlin.png)|
+|pagerduty| ![pagerduty](/output/pagerduty.png)|
+|paint| ![paint](/output/paint.png)|
+|palantir| ![palantir](/output/palantir.png)|
+|pancakes-tall| ![pancakes-tall](/output/pancakes-tall.png)|
+|panda_dance| ![panda_dance](/output/panda_dance.gif)|
+|panic| ![panic](/output/panic.jpg)|
+|panthers| ![panthers](/output/panthers.png)|
+|panthro| ![panthro](/output/panthro.png)|
+|parkour| ![parkour](/output/parkour.png)|
+|parrot_cop| ![parrot_cop](/output/parrot_cop)|
+|parrot_wolf| ![parrot_wolf](/output/parrot_wolf.gif)|
+|parsnip| ![parsnip](/output/parsnip.png)|
+|participant| ![participant](/output/participant.png)|
+|party-parrot| ![party-parrot](/output/party-parrot.gif)|
+|party-vault| ![party-vault](/output/party-vault.gif)|
+|party_corgi| ![party_corgi](/output/party_corgi.gif)|
+|party_dumpster_fire| ![party_dumpster_fire](/output/party_dumpster_fire.gif)|
+|party_github| ![party_github](/output/party_github.gif)|
+|party_ohno| ![party_ohno](/output/party_ohno.gif)|
+|party_poop| ![party_poop](/output/party_poop.gif)|
+|patientbear| ![patientbear](/output/patientbear.jpg)|

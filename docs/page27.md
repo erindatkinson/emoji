@@ -1,103 +1,103 @@
 
 ## Emojis (Page 27)
-
-* upside-down-waving-hand: ![upside-down-waving-hand](/output/upside-down-waving-hand.png)
-* yuno: ![yuno](/output/yuno.png)
-* durdledoor: ![durdledoor](/output/durdledoor.jpg)
-* yay_tomato: ![yay_tomato](/output/yay_tomato.gif)
-* blondies: ![blondies](/output/blondies)
-* true: ![true](/output/true.png)
-* percy: ![percy](/output/percy.png)
-* roger-wizard: ![roger-wizard](/output/roger-wizard.png)
-* duckwave: ![duckwave](/output/duckwave.gif)
-* defcon: ![defcon](/output/defcon.png)
-* kirby_mola: ![kirby_mola](/output/kirby_mola.png)
-* thinking-marchesi: ![thinking-marchesi](/output/thinking-marchesi.png)
-* gimp-pepper: ![gimp-pepper](/output/gimp-pepper.png)
-* raptors: ![raptors](/output/raptors.png)
-* caipirinha: ![caipirinha](/output/caipirinha.png)
-* pride-fist: ![pride-fist](/output/pride-fist.png)
-* rainbow1: ![rainbow1](/output/rainbow1.png)
-* wasm: ![wasm](/output/wasm.png)
-* blobfish: ![blobfish](/output/blobfish.png)
-* keepcup: ![keepcup](/output/keepcup.png)
-* raytheon: ![raytheon](/output/raytheon.jpg)
-* chickensoup: ![chickensoup](/output/chickensoup.jpg)
-* oom: ![oom](/output/oom)
-* oom-killer: ![oom-killer](/output/oom-killer)
-* terraform-sparkling: ![terraform-sparkling](/output/terraform-sparkling.gif)
-* power-off: ![power-off](/output/power-off.png)
-* reginald-oot: ![reginald-oot](/output/reginald-oot.jpg)
-* ghostly: ![ghostly](/output/ghostly.png)
-* meltdown: ![meltdown](/output/meltdown.png)
-* greenhouse-dumpsterfire: ![greenhouse-dumpsterfire](/output/greenhouse-dumpsterfire.gif)
-* aus-intensifies: ![aus-intensifies](/output/aus-intensifies.gif)
-* bonsai: ![bonsai](/output/bonsai.png)
-* gta-wasted: ![gta-wasted](/output/gta-wasted.png)
-* dora-the-explorer: ![dora-the-explorer](/output/dora-the-explorer.png)
-* table: ![table](/output/table.png)
-* pride-trans2: ![pride-trans2](/output/pride-trans2.png)
-* azure-dns: ![azure-dns](/output/azure-dns.png)
-* cloud_search: ![cloud_search](/output/cloud_search.png)
-* cloud_search-da: ![cloud_search-da](/output/cloud_search-da.png)
-* fif: ![fif](/output/fif.png)
-* trans-gopher: ![trans-gopher](/output/trans-gopher.png)
-* lunch-intensifies: ![lunch-intensifies](/output/lunch-intensifies.gif)
-* synology: ![synology](/output/synology.png)
-* thread-da: ![thread-da](/output/thread-da.png)
-* homepod: ![homepod](/output/homepod.png)
-* woody: ![woody](/output/woody.png)
-* buzz-lightyear: ![buzz-lightyear](/output/buzz-lightyear.png)
-* wave-intensifies: ![wave-intensifies](/output/wave-intensifies.gif)
-* amanda-thumbsup: ![amanda-thumbsup](/output/amanda-thumbsup.gif)
-* faranak: ![faranak](/output/faranak.gif)
-* falco: ![falco](/output/falco.png)
-* westcoast: ![westcoast](/output/westcoast.jpg)
-* galaxy-brain: ![galaxy-brain](/output/galaxy-brain.png)
-* very: ![very](/output/very.png)
-* nice: ![nice](/output/nice)
-* silverfern: ![silverfern](/output/silverfern.png)
-* robbie: ![robbie](/output/robbie.png)
-* cloud-intensifies: ![cloud-intensifies](/output/cloud-intensifies.gif)
-* american-hero: ![american-hero](/output/american-hero.jpg)
-* fist_bump: ![fist_bump](/output/fist_bump.gif)
-* sleepy2: ![sleepy2](/output/sleepy2.png)
-* darkmodeparty: ![darkmodeparty](/output/darkmodeparty.gif)
-* badge: ![badge](/output/badge.png)
-* baby-da: ![baby-da](/output/baby-da.png)
-* ketchup: ![ketchup](/output/ketchup.png)
-* jigglycow: ![jigglycow](/output/jigglycow.gif)
-* rodrigo: ![rodrigo](/output/rodrigo.png)
-* buzzfeed_kit: ![buzzfeed_kit](/output/buzzfeed_kit.png)
-* robbieyay: ![robbieyay](/output/robbieyay.gif)
-* llama-carl: ![llama-carl](/output/llama-carl.png)
-* llama-paul: ![llama-paul](/output/llama-paul.png)
-* por-que-no-los-dos: ![por-que-no-los-dos](/output/por-que-no-los-dos.png)
-* why-not-both: ![why-not-both](/output/why-not-both)
-* lacework: ![lacework](/output/lacework.png)
-* gvisor: ![gvisor](/output/gvisor.png)
-* llvm: ![llvm](/output/llvm.png)
-* hyperthink3d: ![hyperthink3d](/output/hyperthink3d.gif)
-* thinkfalling: ![thinkfalling](/output/thinkfalling.gif)
-* ultrathink: ![ultrathink](/output/ultrathink.png)
-* party_gopher: ![party_gopher](/output/party_gopher.gif)
-* party_doge: ![party_doge](/output/party_doge.gif)
-* donut_parrot: ![donut_parrot](/output/donut_parrot.gif)
-* drill: ![drill](/output/drill.png)
-* currywurst: ![currywurst](/output/currywurst.png)
-* twitch: ![twitch](/output/twitch.png)
-* croc: ![croc](/output/croc.jpg)
-* party_dino: ![party_dino](/output/party_dino.gif)
-* pirate-face: ![pirate-face](/output/pirate-face.gif)
-* owo: ![owo](/output/owo.jpg)
-* tear_of_joy: ![tear_of_joy](/output/tear_of_joy.png)
-* bitbucket-da: ![bitbucket-da](/output/bitbucket-da.png)
-* bitbucket-party: ![bitbucket-party](/output/bitbucket-party.gif)
-* azure-da: ![azure-da](/output/azure-da.png)
-* azure-party: ![azure-party](/output/azure-party.gif)
-* azure-royal: ![azure-royal](/output/azure-royal.png)
-* azure-king: ![azure-king](/output/azure-king)
-* azure-queen: ![azure-queen](/output/azure-queen)
-* bitbucket-royal: ![bitbucket-royal](/output/bitbucket-royal.png)
-* bitbucket-king: ![bitbucket-king](/output/bitbucket-king)
-* bitbucket-queen: ![bitbucket-queen](/output/bitbucket-queen)
+|||
+|upside-down-waving-hand| ![upside-down-waving-hand](/output/upside-down-waving-hand.png)|
+|yuno| ![yuno](/output/yuno.png)|
+|durdledoor| ![durdledoor](/output/durdledoor.jpg)|
+|yay_tomato| ![yay_tomato](/output/yay_tomato.gif)|
+|blondies| ![blondies](/output/blondies)|
+|true| ![true](/output/true.png)|
+|percy| ![percy](/output/percy.png)|
+|roger-wizard| ![roger-wizard](/output/roger-wizard.png)|
+|duckwave| ![duckwave](/output/duckwave.gif)|
+|defcon| ![defcon](/output/defcon.png)|
+|kirby_mola| ![kirby_mola](/output/kirby_mola.png)|
+|thinking-marchesi| ![thinking-marchesi](/output/thinking-marchesi.png)|
+|gimp-pepper| ![gimp-pepper](/output/gimp-pepper.png)|
+|raptors| ![raptors](/output/raptors.png)|
+|caipirinha| ![caipirinha](/output/caipirinha.png)|
+|pride-fist| ![pride-fist](/output/pride-fist.png)|
+|rainbow1| ![rainbow1](/output/rainbow1.png)|
+|wasm| ![wasm](/output/wasm.png)|
+|blobfish| ![blobfish](/output/blobfish.png)|
+|keepcup| ![keepcup](/output/keepcup.png)|
+|raytheon| ![raytheon](/output/raytheon.jpg)|
+|chickensoup| ![chickensoup](/output/chickensoup.jpg)|
+|oom| ![oom](/output/oom)|
+|oom-killer| ![oom-killer](/output/oom-killer)|
+|terraform-sparkling| ![terraform-sparkling](/output/terraform-sparkling.gif)|
+|power-off| ![power-off](/output/power-off.png)|
+|reginald-oot| ![reginald-oot](/output/reginald-oot.jpg)|
+|ghostly| ![ghostly](/output/ghostly.png)|
+|meltdown| ![meltdown](/output/meltdown.png)|
+|greenhouse-dumpsterfire| ![greenhouse-dumpsterfire](/output/greenhouse-dumpsterfire.gif)|
+|aus-intensifies| ![aus-intensifies](/output/aus-intensifies.gif)|
+|bonsai| ![bonsai](/output/bonsai.png)|
+|gta-wasted| ![gta-wasted](/output/gta-wasted.png)|
+|dora-the-explorer| ![dora-the-explorer](/output/dora-the-explorer.png)|
+|table| ![table](/output/table.png)|
+|pride-trans2| ![pride-trans2](/output/pride-trans2.png)|
+|azure-dns| ![azure-dns](/output/azure-dns.png)|
+|cloud_search| ![cloud_search](/output/cloud_search.png)|
+|cloud_search-da| ![cloud_search-da](/output/cloud_search-da.png)|
+|fif| ![fif](/output/fif.png)|
+|trans-gopher| ![trans-gopher](/output/trans-gopher.png)|
+|lunch-intensifies| ![lunch-intensifies](/output/lunch-intensifies.gif)|
+|synology| ![synology](/output/synology.png)|
+|thread-da| ![thread-da](/output/thread-da.png)|
+|homepod| ![homepod](/output/homepod.png)|
+|woody| ![woody](/output/woody.png)|
+|buzz-lightyear| ![buzz-lightyear](/output/buzz-lightyear.png)|
+|wave-intensifies| ![wave-intensifies](/output/wave-intensifies.gif)|
+|amanda-thumbsup| ![amanda-thumbsup](/output/amanda-thumbsup.gif)|
+|faranak| ![faranak](/output/faranak.gif)|
+|falco| ![falco](/output/falco.png)|
+|westcoast| ![westcoast](/output/westcoast.jpg)|
+|galaxy-brain| ![galaxy-brain](/output/galaxy-brain.png)|
+|very| ![very](/output/very.png)|
+|nice| ![nice](/output/nice)|
+|silverfern| ![silverfern](/output/silverfern.png)|
+|robbie| ![robbie](/output/robbie.png)|
+|cloud-intensifies| ![cloud-intensifies](/output/cloud-intensifies.gif)|
+|american-hero| ![american-hero](/output/american-hero.jpg)|
+|fist_bump| ![fist_bump](/output/fist_bump.gif)|
+|sleepy2| ![sleepy2](/output/sleepy2.png)|
+|darkmodeparty| ![darkmodeparty](/output/darkmodeparty.gif)|
+|badge| ![badge](/output/badge.png)|
+|baby-da| ![baby-da](/output/baby-da.png)|
+|ketchup| ![ketchup](/output/ketchup.png)|
+|jigglycow| ![jigglycow](/output/jigglycow.gif)|
+|rodrigo| ![rodrigo](/output/rodrigo.png)|
+|buzzfeed_kit| ![buzzfeed_kit](/output/buzzfeed_kit.png)|
+|robbieyay| ![robbieyay](/output/robbieyay.gif)|
+|llama-carl| ![llama-carl](/output/llama-carl.png)|
+|llama-paul| ![llama-paul](/output/llama-paul.png)|
+|por-que-no-los-dos| ![por-que-no-los-dos](/output/por-que-no-los-dos.png)|
+|why-not-both| ![why-not-both](/output/why-not-both)|
+|lacework| ![lacework](/output/lacework.png)|
+|gvisor| ![gvisor](/output/gvisor.png)|
+|llvm| ![llvm](/output/llvm.png)|
+|hyperthink3d| ![hyperthink3d](/output/hyperthink3d.gif)|
+|thinkfalling| ![thinkfalling](/output/thinkfalling.gif)|
+|ultrathink| ![ultrathink](/output/ultrathink.png)|
+|party_gopher| ![party_gopher](/output/party_gopher.gif)|
+|party_doge| ![party_doge](/output/party_doge.gif)|
+|donut_parrot| ![donut_parrot](/output/donut_parrot.gif)|
+|drill| ![drill](/output/drill.png)|
+|currywurst| ![currywurst](/output/currywurst.png)|
+|twitch| ![twitch](/output/twitch.png)|
+|croc| ![croc](/output/croc.jpg)|
+|party_dino| ![party_dino](/output/party_dino.gif)|
+|pirate-face| ![pirate-face](/output/pirate-face.gif)|
+|owo| ![owo](/output/owo.jpg)|
+|tear_of_joy| ![tear_of_joy](/output/tear_of_joy.png)|
+|bitbucket-da| ![bitbucket-da](/output/bitbucket-da.png)|
+|bitbucket-party| ![bitbucket-party](/output/bitbucket-party.gif)|
+|azure-da| ![azure-da](/output/azure-da.png)|
+|azure-party| ![azure-party](/output/azure-party.gif)|
+|azure-royal| ![azure-royal](/output/azure-royal.png)|
+|azure-king| ![azure-king](/output/azure-king)|
+|azure-queen| ![azure-queen](/output/azure-queen)|
+|bitbucket-royal| ![bitbucket-royal](/output/bitbucket-royal.png)|
+|bitbucket-king| ![bitbucket-king](/output/bitbucket-king)|
+|bitbucket-queen| ![bitbucket-queen](/output/bitbucket-queen)|

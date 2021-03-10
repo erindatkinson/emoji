@@ -1,103 +1,103 @@
 
 ## Emojis (Page 56)
-
-* howdy_foks: ![howdy_foks](/output/howdy_foks.jpg)
-* pray-intensifies: ![pray-intensifies](/output/pray-intensifies.gif)
-* pray-intensifies2: ![pray-intensifies2](/output/pray-intensifies2.gif)
-* joop: ![joop](/output/joop.jpg)
-* iron: ![iron](/output/iron.png)
-* cs-o-2: ![cs-o-2](/output/cs-o-2.png)
-* cs-o-3: ![cs-o-3](/output/cs-o-3.png)
-* cs-o-4: ![cs-o-4](/output/cs-o-4.png)
-* cs-i-2: ![cs-i-2](/output/cs-i-2.png)
-* cs-h-2: ![cs-h-2](/output/cs-h-2.png)
-* cs-g-2: ![cs-g-2](/output/cs-g-2.png)
-* cs-n-2: ![cs-n-2](/output/cs-n-2.png)
-* cs-n-3: ![cs-n-3](/output/cs-n-3.png)
-* hashiconf-us-2020: ![hashiconf-us-2020](/output/hashiconf-us-2020.jpg)
-* susie-intensifies: ![susie-intensifies](/output/susie-intensifies.gif)
-* susie: ![susie](/output/susie.png)
-* cuphead: ![cuphead](/output/cuphead.gif)
-* menacing_do_do: ![menacing_do_do](/output/menacing_do_do.png)
-* menacing_do_do-intensifies: ![menacing_do_do-intensifies](/output/menacing_do_do-intensifies.gif)
-* bone2: ![bone2](/output/bone2.png)
-* team-terraform-practitioner: ![team-terraform-practitioner](/output/team-terraform-practitioner.gif)
-* noodle-dog2-rocket: ![noodle-dog2-rocket](/output/noodle-dog2-rocket.png)
-* noodle-dog-rocket: ![noodle-dog-rocket](/output/noodle-dog-rocket.png)
-* fancy-waffles: ![fancy-waffles](/output/fancy-waffles.png)
-* fancy-bash: ![fancy-bash](/output/fancy-bash.png)
-* fancy-cowboy_cat: ![fancy-cowboy_cat](/output/fancy-cowboy_cat.png)
-* fancy-noodle-dog: ![fancy-noodle-dog](/output/fancy-noodle-dog.png)
-* waffle-house: ![waffle-house](/output/waffle-house.gif)
-* tupac: ![tupac](/output/tupac.jpg)
-* noodle-dog-rocket-intensifies: ![noodle-dog-rocket-intensifies](/output/noodle-dog-rocket-intensifies.gif)
-* noodle-dog2-rocket-intensifies: ![noodle-dog2-rocket-intensifies](/output/noodle-dog2-rocket-intensifies.gif)
-* brick-wall: ![brick-wall](/output/brick-wall.png)
-* stone-wall: ![stone-wall](/output/stone-wall.png)
-* cloud-cullen: ![cloud-cullen](/output/cloud-cullen.png)
-* boundary: ![boundary](/output/boundary.png)
-* boundary-intensifies: ![boundary-intensifies](/output/boundary-intensifies.gif)
-* fancy-boundary: ![fancy-boundary](/output/fancy-boundary.png)
-* boundary-da: ![boundary-da](/output/boundary-da.png)
-* goth-boundary: ![goth-boundary](/output/goth-boundary.png)
-* nyan-boundary: ![nyan-boundary](/output/nyan-boundary.gif)
-* boundary-party: ![boundary-party](/output/boundary-party.gif)
-* boundary-technologist: ![boundary-technologist](/output/boundary-technologist.png)
-* flashing-light-blue: ![flashing-light-blue](/output/flashing-light-blue.gif)
-* azalea: ![azalea](/output/azalea.png)
-* tiny-potato: ![tiny-potato](/output/tiny-potato.jpg)
-* tato: ![tato](/output/tato)
-* fancy-waypoint: ![fancy-waypoint](/output/fancy-waypoint.png)
-* goth-waypoint: ![goth-waypoint](/output/goth-waypoint.png)
-* waypoint: ![waypoint](/output/waypoint.png)
-* waypoint-da: ![waypoint-da](/output/waypoint-da.png)
-* waypoint-intensifies: ![waypoint-intensifies](/output/waypoint-intensifies.gif)
-* waypoint-party: ![waypoint-party](/output/waypoint-party.gif)
-* waypoint-technologist: ![waypoint-technologist](/output/waypoint-technologist.png)
-* nyan-waypoint: ![nyan-waypoint](/output/nyan-waypoint.gif)
-* taint: ![taint](/output/taint.png)
-* terraform-love: ![terraform-love](/output/terraform-love.png)
-* aquaman: ![aquaman](/output/aquaman.png)
-* monstera: ![monstera](/output/monstera.png)
-* lemur: ![lemur](/output/lemur.png)
-* k8ernetes: ![k8ernetes](/output/k8ernetes.png)
-* k8ernetes-intensifies: ![k8ernetes-intensifies](/output/k8ernetes-intensifies.gif)
-* nod-crying: ![nod-crying](/output/nod-crying.gif)
-* mitch-what: ![mitch-what](/output/mitch-what.png)
-* saltbae-tf: ![saltbae-tf](/output/saltbae-tf.gif)
-* terraform-saltbae: ![terraform-saltbae](/output/terraform-saltbae)
-* hcp-technologist: ![hcp-technologist](/output/hcp-technologist.png)
-* robbieyay2: ![robbieyay2](/output/robbieyay2.gif)
-* ricardo-intensifies: ![ricardo-intensifies](/output/ricardo-intensifies.gif)
-* pumba: ![pumba](/output/pumba.png)
-* quarterly-planning: ![quarterly-planning](/output/quarterly-planning.jpg)
-* quarterly-planning-intensifies: ![quarterly-planning-intensifies](/output/quarterly-planning-intensifies.gif)
-* science-dog: ![science-dog](/output/science-dog)
-* i-have-no-idea-what-im-doing-dog: ![i-have-no-idea-what-im-doing-dog](/output/i-have-no-idea-what-im-doing-dog)
-* kodama: ![kodama](/output/kodama.gif)
-* ghost-goat: ![ghost-goat](/output/ghost-goat.png)
-* zegoggles: ![zegoggles](/output/zegoggles.png)
-* companion_cube: ![companion_cube](/output/companion_cube.png)
-* cookie_monster: ![cookie_monster](/output/cookie_monster.png)
-* count-alin: ![count-alin](/output/count-alin.png)
-* doge2: ![doge2](/output/doge2.png)
-* doge3d: ![doge3d](/output/doge3d.gif)
-* domo: ![domo](/output/domo.png)
-* flag-cat: ![flag-cat](/output/flag-cat.png)
-* galactica: ![galactica](/output/galactica.png)
-* gir_dance: ![gir_dance](/output/gir_dance.gif)
-* cheat: ![cheat](/output/cheat.png)
-* chewbacca: ![chewbacca](/output/chewbacca.png)
-* spongebob-mock: ![spongebob-mock](/output/spongebob-mock.png)
-* spongebobtellmemore: ![spongebobtellmemore](/output/spongebobtellmemore.jpg)
-* spongebobwtf: ![spongebobwtf](/output/spongebobwtf.jpg)
-* trap: ![trap](/output/trap.png)
-* picklerick: ![picklerick](/output/picklerick.png)
-* pigsfly: ![pigsfly](/output/pigsfly.jpg)
-* poe: ![poe](/output/poe.png)
-* pundog: ![pundog](/output/pundog.png)
-* qubecflag: ![qubecflag](/output/qubecflag.png)
-* ship-it-parrot: ![ship-it-parrot](/output/ship-it-parrot.gif)
-* koopakart: ![koopakart](/output/koopakart.gif)
-* love_parrot: ![love_parrot](/output/love_parrot.gif)
-* mario2: ![mario2](/output/mario2.gif)
+|||
+|howdy_foks| ![howdy_foks](/output/howdy_foks.jpg)|
+|pray-intensifies| ![pray-intensifies](/output/pray-intensifies.gif)|
+|pray-intensifies2| ![pray-intensifies2](/output/pray-intensifies2.gif)|
+|joop| ![joop](/output/joop.jpg)|
+|iron| ![iron](/output/iron.png)|
+|cs-o-2| ![cs-o-2](/output/cs-o-2.png)|
+|cs-o-3| ![cs-o-3](/output/cs-o-3.png)|
+|cs-o-4| ![cs-o-4](/output/cs-o-4.png)|
+|cs-i-2| ![cs-i-2](/output/cs-i-2.png)|
+|cs-h-2| ![cs-h-2](/output/cs-h-2.png)|
+|cs-g-2| ![cs-g-2](/output/cs-g-2.png)|
+|cs-n-2| ![cs-n-2](/output/cs-n-2.png)|
+|cs-n-3| ![cs-n-3](/output/cs-n-3.png)|
+|hashiconf-us-2020| ![hashiconf-us-2020](/output/hashiconf-us-2020.jpg)|
+|susie-intensifies| ![susie-intensifies](/output/susie-intensifies.gif)|
+|susie| ![susie](/output/susie.png)|
+|cuphead| ![cuphead](/output/cuphead.gif)|
+|menacing_do_do| ![menacing_do_do](/output/menacing_do_do.png)|
+|menacing_do_do-intensifies| ![menacing_do_do-intensifies](/output/menacing_do_do-intensifies.gif)|
+|bone2| ![bone2](/output/bone2.png)|
+|team-terraform-practitioner| ![team-terraform-practitioner](/output/team-terraform-practitioner.gif)|
+|noodle-dog2-rocket| ![noodle-dog2-rocket](/output/noodle-dog2-rocket.png)|
+|noodle-dog-rocket| ![noodle-dog-rocket](/output/noodle-dog-rocket.png)|
+|fancy-waffles| ![fancy-waffles](/output/fancy-waffles.png)|
+|fancy-bash| ![fancy-bash](/output/fancy-bash.png)|
+|fancy-cowboy_cat| ![fancy-cowboy_cat](/output/fancy-cowboy_cat.png)|
+|fancy-noodle-dog| ![fancy-noodle-dog](/output/fancy-noodle-dog.png)|
+|waffle-house| ![waffle-house](/output/waffle-house.gif)|
+|tupac| ![tupac](/output/tupac.jpg)|
+|noodle-dog-rocket-intensifies| ![noodle-dog-rocket-intensifies](/output/noodle-dog-rocket-intensifies.gif)|
+|noodle-dog2-rocket-intensifies| ![noodle-dog2-rocket-intensifies](/output/noodle-dog2-rocket-intensifies.gif)|
+|brick-wall| ![brick-wall](/output/brick-wall.png)|
+|stone-wall| ![stone-wall](/output/stone-wall.png)|
+|cloud-cullen| ![cloud-cullen](/output/cloud-cullen.png)|
+|boundary| ![boundary](/output/boundary.png)|
+|boundary-intensifies| ![boundary-intensifies](/output/boundary-intensifies.gif)|
+|fancy-boundary| ![fancy-boundary](/output/fancy-boundary.png)|
+|boundary-da| ![boundary-da](/output/boundary-da.png)|
+|goth-boundary| ![goth-boundary](/output/goth-boundary.png)|
+|nyan-boundary| ![nyan-boundary](/output/nyan-boundary.gif)|
+|boundary-party| ![boundary-party](/output/boundary-party.gif)|
+|boundary-technologist| ![boundary-technologist](/output/boundary-technologist.png)|
+|flashing-light-blue| ![flashing-light-blue](/output/flashing-light-blue.gif)|
+|azalea| ![azalea](/output/azalea.png)|
+|tiny-potato| ![tiny-potato](/output/tiny-potato.jpg)|
+|tato| ![tato](/output/tato)|
+|fancy-waypoint| ![fancy-waypoint](/output/fancy-waypoint.png)|
+|goth-waypoint| ![goth-waypoint](/output/goth-waypoint.png)|
+|waypoint| ![waypoint](/output/waypoint.png)|
+|waypoint-da| ![waypoint-da](/output/waypoint-da.png)|
+|waypoint-intensifies| ![waypoint-intensifies](/output/waypoint-intensifies.gif)|
+|waypoint-party| ![waypoint-party](/output/waypoint-party.gif)|
+|waypoint-technologist| ![waypoint-technologist](/output/waypoint-technologist.png)|
+|nyan-waypoint| ![nyan-waypoint](/output/nyan-waypoint.gif)|
+|taint| ![taint](/output/taint.png)|
+|terraform-love| ![terraform-love](/output/terraform-love.png)|
+|aquaman| ![aquaman](/output/aquaman.png)|
+|monstera| ![monstera](/output/monstera.png)|
+|lemur| ![lemur](/output/lemur.png)|
+|k8ernetes| ![k8ernetes](/output/k8ernetes.png)|
+|k8ernetes-intensifies| ![k8ernetes-intensifies](/output/k8ernetes-intensifies.gif)|
+|nod-crying| ![nod-crying](/output/nod-crying.gif)|
+|mitch-what| ![mitch-what](/output/mitch-what.png)|
+|saltbae-tf| ![saltbae-tf](/output/saltbae-tf.gif)|
+|terraform-saltbae| ![terraform-saltbae](/output/terraform-saltbae)|
+|hcp-technologist| ![hcp-technologist](/output/hcp-technologist.png)|
+|robbieyay2| ![robbieyay2](/output/robbieyay2.gif)|
+|ricardo-intensifies| ![ricardo-intensifies](/output/ricardo-intensifies.gif)|
+|pumba| ![pumba](/output/pumba.png)|
+|quarterly-planning| ![quarterly-planning](/output/quarterly-planning.jpg)|
+|quarterly-planning-intensifies| ![quarterly-planning-intensifies](/output/quarterly-planning-intensifies.gif)|
+|science-dog| ![science-dog](/output/science-dog)|
+|i-have-no-idea-what-im-doing-dog| ![i-have-no-idea-what-im-doing-dog](/output/i-have-no-idea-what-im-doing-dog)|
+|kodama| ![kodama](/output/kodama.gif)|
+|ghost-goat| ![ghost-goat](/output/ghost-goat.png)|
+|zegoggles| ![zegoggles](/output/zegoggles.png)|
+|companion_cube| ![companion_cube](/output/companion_cube.png)|
+|cookie_monster| ![cookie_monster](/output/cookie_monster.png)|
+|count-alin| ![count-alin](/output/count-alin.png)|
+|doge2| ![doge2](/output/doge2.png)|
+|doge3d| ![doge3d](/output/doge3d.gif)|
+|domo| ![domo](/output/domo.png)|
+|flag-cat| ![flag-cat](/output/flag-cat.png)|
+|galactica| ![galactica](/output/galactica.png)|
+|gir_dance| ![gir_dance](/output/gir_dance.gif)|
+|cheat| ![cheat](/output/cheat.png)|
+|chewbacca| ![chewbacca](/output/chewbacca.png)|
+|spongebob-mock| ![spongebob-mock](/output/spongebob-mock.png)|
+|spongebobtellmemore| ![spongebobtellmemore](/output/spongebobtellmemore.jpg)|
+|spongebobwtf| ![spongebobwtf](/output/spongebobwtf.jpg)|
+|trap| ![trap](/output/trap.png)|
+|picklerick| ![picklerick](/output/picklerick.png)|
+|pigsfly| ![pigsfly](/output/pigsfly.jpg)|
+|poe| ![poe](/output/poe.png)|
+|pundog| ![pundog](/output/pundog.png)|
+|qubecflag| ![qubecflag](/output/qubecflag.png)|
+|ship-it-parrot| ![ship-it-parrot](/output/ship-it-parrot.gif)|
+|koopakart| ![koopakart](/output/koopakart.gif)|
+|love_parrot| ![love_parrot](/output/love_parrot.gif)|
+|mario2| ![mario2](/output/mario2.gif)|

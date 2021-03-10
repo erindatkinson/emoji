@@ -1,103 +1,103 @@
 
 ## Emojis (Page 7)
-
-* grass: ![grass](/output/grass.jpg)
-* grave: ![grave](/output/grave)
-* great_scott: ![great_scott](/output/great_scott.png)
-* greece-da: ![greece-da](/output/greece-da.png)
-* green: ![green](/output/green)
-* greencheck: ![greencheck](/output/greencheck)
-* greenhappyok: ![greenhappyok](/output/greenhappyok.gif)
-* green_check_mark: ![green_check_mark](/output/green_check_mark)
-* green_mana: ![green_mana](/output/green_mana.png)
-* gremlin: ![gremlin](/output/gremlin)
-* griffin: ![griffin](/output/griffin.png)
-* grilled_cheese: ![grilled_cheese](/output/grilled_cheese.png)
-* grindoge: ![grindoge](/output/grindoge)
-* gritty: ![gritty](/output/gritty.png)
-* grouch: ![grouch](/output/grouch.jpg)
-* groucho: ![groucho](/output/groucho.png)
-* grumpet: ![grumpet](/output/grumpet.png)
-* grumpycat: ![grumpycat](/output/grumpycat.png)
-* guacamole: ![guacamole](/output/guacamole.png)
-* guilt: ![guilt](/output/guilt.jpg)
-* hacker: ![hacker](/output/hacker.png)
-* hackercat: ![hackercat](/output/hackercat.png)
-* hadouken: ![hadouken](/output/hadouken.jpg)
-* hagelslag: ![hagelslag](/output/hagelslag.png)
-* haha: ![haha](/output/haha.png)
-* hail: ![hail](/output/hail.png)
-* hal9000: ![hal9000](/output/hal9000.png)
-* halal_parrot: ![halal_parrot](/output/halal_parrot.gif)
-* halflife: ![halflife](/output/halflife.png)
-* hal_9000: ![hal_9000](/output/hal_9000.png)
-* ham: ![ham](/output/ham.png)
-* hamburger_parrot: ![hamburger_parrot](/output/hamburger_parrot.gif)
-* hamburglar: ![hamburglar](/output/hamburglar.gif)
-* hamster_dance: ![hamster_dance](/output/hamster_dance.gif)
-* ham_badger: ![ham_badger](/output/ham_badger.png)
-* handlebars: ![handlebars](/output/handlebars.png)
-* handshake-anim: ![handshake-anim](/output/handshake-anim.gif)
-* hangouts: ![hangouts](/output/hangouts.png)
-* happy-gopher-to-you: ![happy-gopher-to-you](/output/happy-gopher-to-you.jpg)
-* happycloud: ![happycloud](/output/happycloud.png)
-* happydance: ![happydance](/output/happydance.gif)
-* happyfries: ![happyfries](/output/happyfries)
-* happypomme: ![happypomme](/output/happypomme.png)
-* happy_pee: ![happy_pee](/output/happy_pee.png)
-* happy_tooth: ![happy_tooth](/output/happy_tooth.png)
-* hario: ![hario](/output/hario.jpg)
-* harrypotter_parrot: ![harrypotter_parrot](/output/harrypotter_parrot.gif)
-* harry_potter_parrot: ![harry_potter_parrot](/output/harry_potter_parrot.gif)
-* hashi-pal: ![hashi-pal](/output/hashi-pal.png)
-* hashibot: ![hashibot](/output/hashibot.png)
-* hashicast: ![hashicast](/output/hashicast.png)
-* hashicorp: ![hashicorp](/output/hashicorp.png)
-* hashicup: ![hashicup](/output/hashicup.png)
-* hashida: ![hashida](/output/hashida.png)
-* hashidays: ![hashidays](/output/hashidays.png)
-* hashikids: ![hashikids](/output/hashikids.png)
-* hashipride: ![hashipride](/output/hashipride.png)
-* hashisupport: ![hashisupport](/output/hashisupport.png)
-* hashi_blue_circle: ![hashi_blue_circle](/output/hashi_blue_circle.png)
-* hashi_green_circle: ![hashi_green_circle](/output/hashi_green_circle.png)
-* hashi_red_circle: ![hashi_red_circle](/output/hashi_red_circle.png)
-* hashi_tea: ![hashi_tea](/output/hashi_tea.png)
-* hashi_yellow_circle: ![hashi_yellow_circle](/output/hashi_yellow_circle.png)
-* hashi_yellow_circle_animated: ![hashi_yellow_circle_animated](/output/hashi_yellow_circle_animated.gif)
-* hash_browns: ![hash_browns](/output/hash_browns.png)
-* haskell: ![haskell](/output/haskell.png)
-* hasselhoff: ![hasselhoff](/output/hasselhoff.jpg)
-* hatastic: ![hatastic](/output/hatastic.jpg)
-* hazel: ![hazel](/output/hazel.png)
-* hcvault: ![hcvault](/output/hcvault.png)
-* headbash: ![headbash](/output/headbash.gif)
-* headdesk: ![headdesk](/output/headdesk.gif)
-* healthpack: ![healthpack](/output/healthpack.png)
-* heartbleed: ![heartbleed](/output/heartbleed.png)
-* hearthstone: ![hearthstone](/output/hearthstone.png)
-* heart_eyes_cthulhu: ![heart_eyes_cthulhu](/output/heart_eyes_cthulhu.png)
-* heart_eyes_daze: ![heart_eyes_daze](/output/heart_eyes_daze.png)
-* heart_eyes_dog: ![heart_eyes_dog](/output/heart_eyes_dog.png)
-* heart_eyes_drool: ![heart_eyes_drool](/output/heart_eyes_drool.png)
-* heart_eyes_rabbit: ![heart_eyes_rabbit](/output/heart_eyes_rabbit.png)
-* heart_eyes_robot: ![heart_eyes_robot](/output/heart_eyes_robot.png)
-* heart_eyes_scream: ![heart_eyes_scream](/output/heart_eyes_scream.png)
-* heart_eyes_shark: ![heart_eyes_shark](/output/heart_eyes_shark.png)
-* heart_eyes_skull: ![heart_eyes_skull](/output/heart_eyes_skull.png)
-* heart_eyes_sob: ![heart_eyes_sob](/output/heart_eyes_sob.png)
-* heart_wolf: ![heart_wolf](/output/heart_wolf.png)
-* hehe: ![hehe](/output/hehe.png)
-* heineken: ![heineken](/output/heineken.png)
-* heineken_bottle: ![heineken_bottle](/output/heineken_bottle)
-* heisenberg: ![heisenberg](/output/heisenberg.jpg)
-* hello: ![hello](/output/hello.jpg)
-* help-seal: ![help-seal](/output/help-seal.png)
-* helper2: ![helper2](/output/helper2.png)
-* hero: ![hero](/output/hero.png)
-* heroku: ![heroku](/output/heroku.png)
-* herokuda: ![herokuda](/output/herokuda.png)
-* hexagon: ![hexagon](/output/hexagon.png)
-* heyay: ![heyay](/output/heyay.png)
-* hf: ![hf](/output/hf.gif)
-* hieverybody: ![hieverybody](/output/hieverybody.png)
+|||
+|grass| ![grass](/output/grass.jpg)|
+|grave| ![grave](/output/grave)|
+|great_scott| ![great_scott](/output/great_scott.png)|
+|greece-da| ![greece-da](/output/greece-da.png)|
+|green| ![green](/output/green)|
+|greencheck| ![greencheck](/output/greencheck)|
+|greenhappyok| ![greenhappyok](/output/greenhappyok.gif)|
+|green_check_mark| ![green_check_mark](/output/green_check_mark)|
+|green_mana| ![green_mana](/output/green_mana.png)|
+|gremlin| ![gremlin](/output/gremlin)|
+|griffin| ![griffin](/output/griffin.png)|
+|grilled_cheese| ![grilled_cheese](/output/grilled_cheese.png)|
+|grindoge| ![grindoge](/output/grindoge)|
+|gritty| ![gritty](/output/gritty.png)|
+|grouch| ![grouch](/output/grouch.jpg)|
+|groucho| ![groucho](/output/groucho.png)|
+|grumpet| ![grumpet](/output/grumpet.png)|
+|grumpycat| ![grumpycat](/output/grumpycat.png)|
+|guacamole| ![guacamole](/output/guacamole.png)|
+|guilt| ![guilt](/output/guilt.jpg)|
+|hacker| ![hacker](/output/hacker.png)|
+|hackercat| ![hackercat](/output/hackercat.png)|
+|hadouken| ![hadouken](/output/hadouken.jpg)|
+|hagelslag| ![hagelslag](/output/hagelslag.png)|
+|haha| ![haha](/output/haha.png)|
+|hail| ![hail](/output/hail.png)|
+|hal9000| ![hal9000](/output/hal9000.png)|
+|halal_parrot| ![halal_parrot](/output/halal_parrot.gif)|
+|halflife| ![halflife](/output/halflife.png)|
+|hal_9000| ![hal_9000](/output/hal_9000.png)|
+|ham| ![ham](/output/ham.png)|
+|hamburger_parrot| ![hamburger_parrot](/output/hamburger_parrot.gif)|
+|hamburglar| ![hamburglar](/output/hamburglar.gif)|
+|hamster_dance| ![hamster_dance](/output/hamster_dance.gif)|
+|ham_badger| ![ham_badger](/output/ham_badger.png)|
+|handlebars| ![handlebars](/output/handlebars.png)|
+|handshake-anim| ![handshake-anim](/output/handshake-anim.gif)|
+|hangouts| ![hangouts](/output/hangouts.png)|
+|happy-gopher-to-you| ![happy-gopher-to-you](/output/happy-gopher-to-you.jpg)|
+|happycloud| ![happycloud](/output/happycloud.png)|
+|happydance| ![happydance](/output/happydance.gif)|
+|happyfries| ![happyfries](/output/happyfries)|
+|happypomme| ![happypomme](/output/happypomme.png)|
+|happy_pee| ![happy_pee](/output/happy_pee.png)|
+|happy_tooth| ![happy_tooth](/output/happy_tooth.png)|
+|hario| ![hario](/output/hario.jpg)|
+|harrypotter_parrot| ![harrypotter_parrot](/output/harrypotter_parrot.gif)|
+|harry_potter_parrot| ![harry_potter_parrot](/output/harry_potter_parrot.gif)|
+|hashi-pal| ![hashi-pal](/output/hashi-pal.png)|
+|hashibot| ![hashibot](/output/hashibot.png)|
+|hashicast| ![hashicast](/output/hashicast.png)|
+|hashicorp| ![hashicorp](/output/hashicorp.png)|
+|hashicup| ![hashicup](/output/hashicup.png)|
+|hashida| ![hashida](/output/hashida.png)|
+|hashidays| ![hashidays](/output/hashidays.png)|
+|hashikids| ![hashikids](/output/hashikids.png)|
+|hashipride| ![hashipride](/output/hashipride.png)|
+|hashisupport| ![hashisupport](/output/hashisupport.png)|
+|hashi_blue_circle| ![hashi_blue_circle](/output/hashi_blue_circle.png)|
+|hashi_green_circle| ![hashi_green_circle](/output/hashi_green_circle.png)|
+|hashi_red_circle| ![hashi_red_circle](/output/hashi_red_circle.png)|
+|hashi_tea| ![hashi_tea](/output/hashi_tea.png)|
+|hashi_yellow_circle| ![hashi_yellow_circle](/output/hashi_yellow_circle.png)|
+|hashi_yellow_circle_animated| ![hashi_yellow_circle_animated](/output/hashi_yellow_circle_animated.gif)|
+|hash_browns| ![hash_browns](/output/hash_browns.png)|
+|haskell| ![haskell](/output/haskell.png)|
+|hasselhoff| ![hasselhoff](/output/hasselhoff.jpg)|
+|hatastic| ![hatastic](/output/hatastic.jpg)|
+|hazel| ![hazel](/output/hazel.png)|
+|hcvault| ![hcvault](/output/hcvault.png)|
+|headbash| ![headbash](/output/headbash.gif)|
+|headdesk| ![headdesk](/output/headdesk.gif)|
+|healthpack| ![healthpack](/output/healthpack.png)|
+|heartbleed| ![heartbleed](/output/heartbleed.png)|
+|hearthstone| ![hearthstone](/output/hearthstone.png)|
+|heart_eyes_cthulhu| ![heart_eyes_cthulhu](/output/heart_eyes_cthulhu.png)|
+|heart_eyes_daze| ![heart_eyes_daze](/output/heart_eyes_daze.png)|
+|heart_eyes_dog| ![heart_eyes_dog](/output/heart_eyes_dog.png)|
+|heart_eyes_drool| ![heart_eyes_drool](/output/heart_eyes_drool.png)|
+|heart_eyes_rabbit| ![heart_eyes_rabbit](/output/heart_eyes_rabbit.png)|
+|heart_eyes_robot| ![heart_eyes_robot](/output/heart_eyes_robot.png)|
+|heart_eyes_scream| ![heart_eyes_scream](/output/heart_eyes_scream.png)|
+|heart_eyes_shark| ![heart_eyes_shark](/output/heart_eyes_shark.png)|
+|heart_eyes_skull| ![heart_eyes_skull](/output/heart_eyes_skull.png)|
+|heart_eyes_sob| ![heart_eyes_sob](/output/heart_eyes_sob.png)|
+|heart_wolf| ![heart_wolf](/output/heart_wolf.png)|
+|hehe| ![hehe](/output/hehe.png)|
+|heineken| ![heineken](/output/heineken.png)|
+|heineken_bottle| ![heineken_bottle](/output/heineken_bottle)|
+|heisenberg| ![heisenberg](/output/heisenberg.jpg)|
+|hello| ![hello](/output/hello.jpg)|
+|help-seal| ![help-seal](/output/help-seal.png)|
+|helper2| ![helper2](/output/helper2.png)|
+|hero| ![hero](/output/hero.png)|
+|heroku| ![heroku](/output/heroku.png)|
+|herokuda| ![herokuda](/output/herokuda.png)|
+|hexagon| ![hexagon](/output/hexagon.png)|
+|heyay| ![heyay](/output/heyay.png)|
+|hf| ![hf](/output/hf.gif)|
+|hieverybody| ![hieverybody](/output/hieverybody.png)|

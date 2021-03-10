@@ -1,103 +1,103 @@
 
 ## Emojis (Page 37)
-
-* ember-intensifies: ![ember-intensifies](/output/ember-intensifies.gif)
-* google-docs-intensifies: ![google-docs-intensifies](/output/google-docs-intensifies.gif)
-* google-docs: ![google-docs](/output/google-docs)
-* king-of-all-cosmos: ![king-of-all-cosmos](/output/king-of-all-cosmos.png)
-* circus-cannon: ![circus-cannon](/output/circus-cannon.png)
-* ba-chris: ![ba-chris](/output/ba-chris.png)
-* ba-chris-face: ![ba-chris-face](/output/ba-chris-face.png)
-* ba-gaby: ![ba-gaby](/output/ba-gaby.png)
-* ba-gaby-face: ![ba-gaby-face](/output/ba-gaby-face.png)
-* ba-andy-face: ![ba-andy-face](/output/ba-andy-face.png)
-* ba-andy: ![ba-andy](/output/ba-andy.png)
-* ba-delany-face: ![ba-delany-face](/output/ba-delany-face.png)
-* ba-delany: ![ba-delany](/output/ba-delany.png)
-* ba-carla: ![ba-carla](/output/ba-carla.png)
-* ba-carla-face: ![ba-carla-face](/output/ba-carla-face.png)
-* ba-molly: ![ba-molly](/output/ba-molly.png)
-* ba-molly-face: ![ba-molly-face](/output/ba-molly-face.png)
-* ba-christina-face: ![ba-christina-face](/output/ba-christina-face.png)
-* ba-christina: ![ba-christina](/output/ba-christina.png)
-* subaru: ![subaru](/output/subaru.png)
-* zeke: ![zeke](/output/zeke.png)
-* want: ![want](/output/want.png)
-* happy_mac-intensifies: ![happy_mac-intensifies](/output/happy_mac-intensifies.gif)
-* nice-left: ![nice-left](/output/nice-left.png)
-* nice-right: ![nice-right](/output/nice-right.png)
-* heb: ![heb](/output/heb.png)
-* lightcycle: ![lightcycle](/output/lightcycle.png)
-* oatmeal: ![oatmeal](/output/oatmeal.png)
-* sartre: ![sartre](/output/sartre.png)
-* bidet: ![bidet](/output/bidet.jpg)
-* zoom-intensifies: ![zoom-intensifies](/output/zoom-intensifies.gif)
-* yawn: ![yawn](/output/yawn.png)
-* hashimug2020: ![hashimug2020](/output/hashimug2020.png)
-* lolbarf: ![lolbarf](/output/lolbarf.png)
-* wally: ![wally](/output/wally.png)
-* cutehamster: ![cutehamster](/output/cutehamster.png)
-* channinghamsterface: ![channinghamsterface](/output/channinghamsterface.png)
-* channinghamster: ![channinghamster](/output/channinghamster.png)
-* poop-intensifies: ![poop-intensifies](/output/poop-intensifies.gif)
-* d3js: ![d3js](/output/d3js.png)
-* owasp: ![owasp](/output/owasp.png)
-* peachy: ![peachy](/output/peachy.gif)
-* surejan: ![surejan](/output/surejan.jpg)
-* yellingatcat1: ![yellingatcat1](/output/yellingatcat1.png)
-* yellingatcat2: ![yellingatcat2](/output/yellingatcat2.png)
-* blob_wave: ![blob_wave](/output/blob_wave.gif)
-* nod-sob: ![nod-sob](/output/nod-sob.gif)
-* vcs-next: ![vcs-next](/output/vcs-next.png)
-* kubernetes-on-fire: ![kubernetes-on-fire](/output/kubernetes-on-fire.gif)
-* hcl-da: ![hcl-da](/output/hcl-da.png)
-* vcs-next-text1: ![vcs-next-text1](/output/vcs-next-text1.png)
-* vcs-next-text2: ![vcs-next-text2](/output/vcs-next-text2.png)
-* slack-intensifies: ![slack-intensifies](/output/slack-intensifies.gif)
-* cs-0: ![cs-0](/output/cs-0.png)
-* cs-1: ![cs-1](/output/cs-1.png)
-* cs-2: ![cs-2](/output/cs-2.png)
-* cs-v: ![cs-v](/output/cs-v.png)
-* cs-w: ![cs-w](/output/cs-w.png)
-* cs-x: ![cs-x](/output/cs-x.png)
-* cs-y: ![cs-y](/output/cs-y.png)
-* cs-z: ![cs-z](/output/cs-z.png)
-* cs-s: ![cs-s](/output/cs-s.png)
-* cs-s-fs: ![cs-s-fs](/output/cs-s-fs.png)
-* cs-s-pc: ![cs-s-pc](/output/cs-s-pc.png)
-* cs-s-qm: ![cs-s-qm](/output/cs-s-qm.png)
-* cs-s-sp: ![cs-s-sp](/output/cs-s-sp.png)
-* cs-t: ![cs-t](/output/cs-t.png)
-* cs-u: ![cs-u](/output/cs-u.png)
-* cs-q: ![cs-q](/output/cs-q.png)
-* cs-r: ![cs-r](/output/cs-r.png)
-* cs-s-amp: ![cs-s-amp](/output/cs-s-amp.png)
-* cs-s-at: ![cs-s-at](/output/cs-s-at.png)
-* cs-s-com: ![cs-s-com](/output/cs-s-com.png)
-* cs-s-dol: ![cs-s-dol](/output/cs-s-dol.png)
-* cs-s-em: ![cs-s-em](/output/cs-s-em.png)
-* cs-s-hash: ![cs-s-hash](/output/cs-s-hash.png)
-* cs-m: ![cs-m](/output/cs-m.png)
-* cs-n: ![cs-n](/output/cs-n.png)
-* cs-o: ![cs-o](/output/cs-o.png)
-* cs-p: ![cs-p](/output/cs-p.png)
-* cs-pou: ![cs-pou](/output/cs-pou.png)
-* cs-d: ![cs-d](/output/cs-d.png)
-* cs-e: ![cs-e](/output/cs-e.png)
-* cs-f: ![cs-f](/output/cs-f.png)
-* cs-g: ![cs-g](/output/cs-g.png)
-* cs-h: ![cs-h](/output/cs-h.png)
-* cs-i: ![cs-i](/output/cs-i.png)
-* cs-j: ![cs-j](/output/cs-j.png)
-* cs-k: ![cs-k](/output/cs-k.png)
-* cs-l: ![cs-l](/output/cs-l.png)
-* cs-7: ![cs-7](/output/cs-7.png)
-* cs-8: ![cs-8](/output/cs-8.png)
-* cs-9: ![cs-9](/output/cs-9.png)
-* cs-a: ![cs-a](/output/cs-a.png)
-* cs-b: ![cs-b](/output/cs-b.png)
-* cs-c: ![cs-c](/output/cs-c.png)
-* cs-3: ![cs-3](/output/cs-3.png)
-* cs-4: ![cs-4](/output/cs-4.png)
-* cs-5: ![cs-5](/output/cs-5.png)
-* cs-6: ![cs-6](/output/cs-6.png)
+|||
+|ember-intensifies| ![ember-intensifies](/output/ember-intensifies.gif)|
+|google-docs-intensifies| ![google-docs-intensifies](/output/google-docs-intensifies.gif)|
+|google-docs| ![google-docs](/output/google-docs)|
+|king-of-all-cosmos| ![king-of-all-cosmos](/output/king-of-all-cosmos.png)|
+|circus-cannon| ![circus-cannon](/output/circus-cannon.png)|
+|ba-chris| ![ba-chris](/output/ba-chris.png)|
+|ba-chris-face| ![ba-chris-face](/output/ba-chris-face.png)|
+|ba-gaby| ![ba-gaby](/output/ba-gaby.png)|
+|ba-gaby-face| ![ba-gaby-face](/output/ba-gaby-face.png)|
+|ba-andy-face| ![ba-andy-face](/output/ba-andy-face.png)|
+|ba-andy| ![ba-andy](/output/ba-andy.png)|
+|ba-delany-face| ![ba-delany-face](/output/ba-delany-face.png)|
+|ba-delany| ![ba-delany](/output/ba-delany.png)|
+|ba-carla| ![ba-carla](/output/ba-carla.png)|
+|ba-carla-face| ![ba-carla-face](/output/ba-carla-face.png)|
+|ba-molly| ![ba-molly](/output/ba-molly.png)|
+|ba-molly-face| ![ba-molly-face](/output/ba-molly-face.png)|
+|ba-christina-face| ![ba-christina-face](/output/ba-christina-face.png)|
+|ba-christina| ![ba-christina](/output/ba-christina.png)|
+|subaru| ![subaru](/output/subaru.png)|
+|zeke| ![zeke](/output/zeke.png)|
+|want| ![want](/output/want.png)|
+|happy_mac-intensifies| ![happy_mac-intensifies](/output/happy_mac-intensifies.gif)|
+|nice-left| ![nice-left](/output/nice-left.png)|
+|nice-right| ![nice-right](/output/nice-right.png)|
+|heb| ![heb](/output/heb.png)|
+|lightcycle| ![lightcycle](/output/lightcycle.png)|
+|oatmeal| ![oatmeal](/output/oatmeal.png)|
+|sartre| ![sartre](/output/sartre.png)|
+|bidet| ![bidet](/output/bidet.jpg)|
+|zoom-intensifies| ![zoom-intensifies](/output/zoom-intensifies.gif)|
+|yawn| ![yawn](/output/yawn.png)|
+|hashimug2020| ![hashimug2020](/output/hashimug2020.png)|
+|lolbarf| ![lolbarf](/output/lolbarf.png)|
+|wally| ![wally](/output/wally.png)|
+|cutehamster| ![cutehamster](/output/cutehamster.png)|
+|channinghamsterface| ![channinghamsterface](/output/channinghamsterface.png)|
+|channinghamster| ![channinghamster](/output/channinghamster.png)|
+|poop-intensifies| ![poop-intensifies](/output/poop-intensifies.gif)|
+|d3js| ![d3js](/output/d3js.png)|
+|owasp| ![owasp](/output/owasp.png)|
+|peachy| ![peachy](/output/peachy.gif)|
+|surejan| ![surejan](/output/surejan.jpg)|
+|yellingatcat1| ![yellingatcat1](/output/yellingatcat1.png)|
+|yellingatcat2| ![yellingatcat2](/output/yellingatcat2.png)|
+|blob_wave| ![blob_wave](/output/blob_wave.gif)|
+|nod-sob| ![nod-sob](/output/nod-sob.gif)|
+|vcs-next| ![vcs-next](/output/vcs-next.png)|
+|kubernetes-on-fire| ![kubernetes-on-fire](/output/kubernetes-on-fire.gif)|
+|hcl-da| ![hcl-da](/output/hcl-da.png)|
+|vcs-next-text1| ![vcs-next-text1](/output/vcs-next-text1.png)|
+|vcs-next-text2| ![vcs-next-text2](/output/vcs-next-text2.png)|
+|slack-intensifies| ![slack-intensifies](/output/slack-intensifies.gif)|
+|cs-0| ![cs-0](/output/cs-0.png)|
+|cs-1| ![cs-1](/output/cs-1.png)|
+|cs-2| ![cs-2](/output/cs-2.png)|
+|cs-v| ![cs-v](/output/cs-v.png)|
+|cs-w| ![cs-w](/output/cs-w.png)|
+|cs-x| ![cs-x](/output/cs-x.png)|
+|cs-y| ![cs-y](/output/cs-y.png)|
+|cs-z| ![cs-z](/output/cs-z.png)|
+|cs-s| ![cs-s](/output/cs-s.png)|
+|cs-s-fs| ![cs-s-fs](/output/cs-s-fs.png)|
+|cs-s-pc| ![cs-s-pc](/output/cs-s-pc.png)|
+|cs-s-qm| ![cs-s-qm](/output/cs-s-qm.png)|
+|cs-s-sp| ![cs-s-sp](/output/cs-s-sp.png)|
+|cs-t| ![cs-t](/output/cs-t.png)|
+|cs-u| ![cs-u](/output/cs-u.png)|
+|cs-q| ![cs-q](/output/cs-q.png)|
+|cs-r| ![cs-r](/output/cs-r.png)|
+|cs-s-amp| ![cs-s-amp](/output/cs-s-amp.png)|
+|cs-s-at| ![cs-s-at](/output/cs-s-at.png)|
+|cs-s-com| ![cs-s-com](/output/cs-s-com.png)|
+|cs-s-dol| ![cs-s-dol](/output/cs-s-dol.png)|
+|cs-s-em| ![cs-s-em](/output/cs-s-em.png)|
+|cs-s-hash| ![cs-s-hash](/output/cs-s-hash.png)|
+|cs-m| ![cs-m](/output/cs-m.png)|
+|cs-n| ![cs-n](/output/cs-n.png)|
+|cs-o| ![cs-o](/output/cs-o.png)|
+|cs-p| ![cs-p](/output/cs-p.png)|
+|cs-pou| ![cs-pou](/output/cs-pou.png)|
+|cs-d| ![cs-d](/output/cs-d.png)|
+|cs-e| ![cs-e](/output/cs-e.png)|
+|cs-f| ![cs-f](/output/cs-f.png)|
+|cs-g| ![cs-g](/output/cs-g.png)|
+|cs-h| ![cs-h](/output/cs-h.png)|
+|cs-i| ![cs-i](/output/cs-i.png)|
+|cs-j| ![cs-j](/output/cs-j.png)|
+|cs-k| ![cs-k](/output/cs-k.png)|
+|cs-l| ![cs-l](/output/cs-l.png)|
+|cs-7| ![cs-7](/output/cs-7.png)|
+|cs-8| ![cs-8](/output/cs-8.png)|
+|cs-9| ![cs-9](/output/cs-9.png)|
+|cs-a| ![cs-a](/output/cs-a.png)|
+|cs-b| ![cs-b](/output/cs-b.png)|
+|cs-c| ![cs-c](/output/cs-c.png)|
+|cs-3| ![cs-3](/output/cs-3.png)|
+|cs-4| ![cs-4](/output/cs-4.png)|
+|cs-5| ![cs-5](/output/cs-5.png)|
+|cs-6| ![cs-6](/output/cs-6.png)|

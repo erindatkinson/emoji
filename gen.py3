@@ -19,10 +19,10 @@ for name, url in list["emoji"].items():
 
 tpl_str ="""
 ## Emojis (Page {{page}})
-
-{% for emoji, url in emojis -%}
-  * {{emoji}}: ![{{emoji}}]({{url}})
-{% endfor %}
+|||
+{%- for emoji, url in emojis %}
+|{{emoji}}| ![{{emoji}}]({{url}})|
+{%- endfor %}
 """
 
 template = Template(tpl_str)

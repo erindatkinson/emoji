@@ -1,103 +1,103 @@
 
 ## Emojis (Page 16)
-
-* shit_lord: ![shit_lord](/output/shit_lord.png)
-* shit_the_bed: ![shit_the_bed](/output/shit_the_bed.png)
-* shit_wolf: ![shit_wolf](/output/shit_wolf.png)
-* shocked: ![shocked](/output/shocked.gif)
-* shoryuken: ![shoryuken](/output/shoryuken.gif)
-* shovel: ![shovel](/output/shovel.png)
-* show-me: ![show-me](/output/show-me)
-* shower_cry: ![shower_cry](/output/shower_cry.png)
-* showme: ![showme](/output/showme.jpg)
-* shrek: ![shrek](/output/shrek.png)
-* shrug2: ![shrug2](/output/shrug2.png)
-* shrug_left: ![shrug_left](/output/shrug_left.png)
-* shrug_middle: ![shrug_middle](/output/shrug_middle.png)
-* shrug_right: ![shrug_right](/output/shrug_right.png)
-* shuffle_further_parrot: ![shuffle_further_parrot](/output/shuffle_further_parrot.gif)
-* shuffle_parrot: ![shuffle_parrot](/output/shuffle_parrot.gif)
-* shuffle_party_parrot: ![shuffle_party_parrot](/output/shuffle_party_parrot.gif)
-* sickblue-mario: ![sickblue-mario](/output/sickblue-mario.gif)
-* sickred-mario: ![sickred-mario](/output/sickred-mario.gif)
-* sickyellow-mario: ![sickyellow-mario](/output/sickyellow-mario.gif)
-* side_eye: ![side_eye](/output/side_eye.png)
-* sierra_beachball: ![sierra_beachball](/output/sierra_beachball.gif)
-* sigh: ![sigh](/output/sigh.png)
-* silo: ![silo](/output/silo.png)
-* sims: ![sims](/output/sims.png)
-* sinatra: ![sinatra](/output/sinatra.png)
-* singlebean: ![singlebean](/output/singlebean.jpg)
-* singularity: ![singularity](/output/singularity.jpg)
-* sir: ![sir](/output/sir.png)
-* siren: ![siren](/output/siren.gif)
-* six_coffees: ![six_coffees](/output/six_coffees.png)
-* skateboard-bart: ![skateboard-bart](/output/skateboard-bart.gif)
-* sketch: ![sketch](/output/sketch.png)
-* ski_parrot: ![ski_parrot](/output/ski_parrot.gif)
-* skull_scream: ![skull_scream](/output/skull_scream.png)
-* skull_with_rolling_eyes: ![skull_with_rolling_eyes](/output/skull_with_rolling_eyes.png)
-* skype: ![skype](/output/skype.png)
-* sleepy_parrot: ![sleepy_parrot](/output/sleepy_parrot.gif)
-* slithe: ![slithe](/output/slithe.png)
-* sloth-cute: ![sloth-cute](/output/sloth-cute.jpg)
-* slowazure: ![slowazure](/output/slowazure)
-* slowpoke: ![slowpoke](/output/slowpoke.jpg)
-* slow_clap: ![slow_clap](/output/slow_clap.gif)
-* slow_parrot: ![slow_parrot](/output/slow_parrot.gif)
-* small_baguette: ![small_baguette](/output/small_baguette.png)
-* smdh: ![smdh](/output/smdh.gif)
-* smee: ![smee](/output/smee.jpg)
-* smh: ![smh](/output/smh.gif)
-* smoke: ![smoke](/output/smoke.gif)
-* smokey: ![smokey](/output/smokey.png)
-* snake_left: ![snake_left](/output/snake_left.png)
-* snake_middle: ![snake_middle](/output/snake_middle.png)
-* snake_right: ![snake_right](/output/snake_right.png)
-* snake_spin: ![snake_spin](/output/snake_spin.gif)
-* snarf: ![snarf](/output/snarf.png)
-* snes: ![snes](/output/snes.png)
-* snoopy-ace: ![snoopy-ace](/output/snoopy-ace.png)
-* snoopydance: ![snoopydance](/output/snoopydance.gif)
-* sob_sunglasses: ![sob_sunglasses](/output/sob_sunglasses.png)
-* sonic: ![sonic](/output/sonic.gif)
-* sonic-ok: ![sonic-ok](/output/sonic-ok.png)
-* sonic-waiting: ![sonic-waiting](/output/sonic-waiting.gif)
-* sonic_boom: ![sonic_boom](/output/sonic_boom.gif)
-* sorry: ![sorry](/output/sorry.jpg)
-* soup: ![soup](/output/soup.png)
-* sourcetree: ![sourcetree](/output/sourcetree.png)
-* south: ![south](/output/south.png)
-* soverybritish: ![soverybritish](/output/soverybritish.png)
-* so_many_emotions: ![so_many_emotions](/output/so_many_emotions.gif)
-* spam: ![spam](/output/spam.jpg)
-* sparkle_skull: ![sparkle_skull](/output/sparkle_skull.png)
-* sparkle_wolf: ![sparkle_wolf](/output/sparkle_wolf.png)
-* sparkling: ![sparkling](/output/sparkling.gif)
-* spartan: ![spartan](/output/spartan.png)
-* spectre: ![spectre](/output/spectre.png)
-* speechless: ![speechless](/output/speechless.gif)
-* spelunky_anubis: ![spelunky_anubis](/output/spelunky_anubis.png)
-* spelunky_black_knight: ![spelunky_black_knight](/output/spelunky_black_knight.png)
-* spelunky_caveman: ![spelunky_caveman](/output/spelunky_caveman.png)
-* spelunky_ghost: ![spelunky_ghost](/output/spelunky_ghost.png)
-* spelunky_guy: ![spelunky_guy](/output/spelunky_guy.png)
-* spelunky_olmec: ![spelunky_olmec](/output/spelunky_olmec.png)
-* spelunky_pug: ![spelunky_pug](/output/spelunky_pug.png)
-* spelunky_robot: ![spelunky_robot](/output/spelunky_robot.png)
-* spelunky_yama: ![spelunky_yama](/output/spelunky_yama.png)
-* spelunky_yeti: ![spelunky_yeti](/output/spelunky_yeti.png)
-* sphericalcow: ![sphericalcow](/output/sphericalcow.png)
-* spideysense: ![spideysense](/output/spideysense.png)
-* spiffe: ![spiffe](/output/spiffe.png)
-* splintercell: ![splintercell](/output/splintercell.png)
-* splunk: ![splunk](/output/splunk.png)
-* splunkda: ![splunkda](/output/splunkda.png)
-* spongebob: ![spongebob](/output/spongebob.png)
-* spoon2: ![spoon2](/output/spoon2.jpg)
-* spot: ![spot](/output/spot.gif)
-* spotify: ![spotify](/output/spotify.png)
-* spy: ![spy](/output/spy.png)
-* sriracha: ![sriracha](/output/sriracha.jpg)
-* ssd: ![ssd](/output/ssd.jpg)
-* ssshipit: ![ssshipit](/output/ssshipit.png)
+|||
+|shit_lord| ![shit_lord](/output/shit_lord.png)|
+|shit_the_bed| ![shit_the_bed](/output/shit_the_bed.png)|
+|shit_wolf| ![shit_wolf](/output/shit_wolf.png)|
+|shocked| ![shocked](/output/shocked.gif)|
+|shoryuken| ![shoryuken](/output/shoryuken.gif)|
+|shovel| ![shovel](/output/shovel.png)|
+|show-me| ![show-me](/output/show-me)|
+|shower_cry| ![shower_cry](/output/shower_cry.png)|
+|showme| ![showme](/output/showme.jpg)|
+|shrek| ![shrek](/output/shrek.png)|
+|shrug2| ![shrug2](/output/shrug2.png)|
+|shrug_left| ![shrug_left](/output/shrug_left.png)|
+|shrug_middle| ![shrug_middle](/output/shrug_middle.png)|
+|shrug_right| ![shrug_right](/output/shrug_right.png)|
+|shuffle_further_parrot| ![shuffle_further_parrot](/output/shuffle_further_parrot.gif)|
+|shuffle_parrot| ![shuffle_parrot](/output/shuffle_parrot.gif)|
+|shuffle_party_parrot| ![shuffle_party_parrot](/output/shuffle_party_parrot.gif)|
+|sickblue-mario| ![sickblue-mario](/output/sickblue-mario.gif)|
+|sickred-mario| ![sickred-mario](/output/sickred-mario.gif)|
+|sickyellow-mario| ![sickyellow-mario](/output/sickyellow-mario.gif)|
+|side_eye| ![side_eye](/output/side_eye.png)|
+|sierra_beachball| ![sierra_beachball](/output/sierra_beachball.gif)|
+|sigh| ![sigh](/output/sigh.png)|
+|silo| ![silo](/output/silo.png)|
+|sims| ![sims](/output/sims.png)|
+|sinatra| ![sinatra](/output/sinatra.png)|
+|singlebean| ![singlebean](/output/singlebean.jpg)|
+|singularity| ![singularity](/output/singularity.jpg)|
+|sir| ![sir](/output/sir.png)|
+|siren| ![siren](/output/siren.gif)|
+|six_coffees| ![six_coffees](/output/six_coffees.png)|
+|skateboard-bart| ![skateboard-bart](/output/skateboard-bart.gif)|
+|sketch| ![sketch](/output/sketch.png)|
+|ski_parrot| ![ski_parrot](/output/ski_parrot.gif)|
+|skull_scream| ![skull_scream](/output/skull_scream.png)|
+|skull_with_rolling_eyes| ![skull_with_rolling_eyes](/output/skull_with_rolling_eyes.png)|
+|skype| ![skype](/output/skype.png)|
+|sleepy_parrot| ![sleepy_parrot](/output/sleepy_parrot.gif)|
+|slithe| ![slithe](/output/slithe.png)|
+|sloth-cute| ![sloth-cute](/output/sloth-cute.jpg)|
+|slowazure| ![slowazure](/output/slowazure)|
+|slowpoke| ![slowpoke](/output/slowpoke.jpg)|
+|slow_clap| ![slow_clap](/output/slow_clap.gif)|
+|slow_parrot| ![slow_parrot](/output/slow_parrot.gif)|
+|small_baguette| ![small_baguette](/output/small_baguette.png)|
+|smdh| ![smdh](/output/smdh.gif)|
+|smee| ![smee](/output/smee.jpg)|
+|smh| ![smh](/output/smh.gif)|
+|smoke| ![smoke](/output/smoke.gif)|
+|smokey| ![smokey](/output/smokey.png)|
+|snake_left| ![snake_left](/output/snake_left.png)|
+|snake_middle| ![snake_middle](/output/snake_middle.png)|
+|snake_right| ![snake_right](/output/snake_right.png)|
+|snake_spin| ![snake_spin](/output/snake_spin.gif)|
+|snarf| ![snarf](/output/snarf.png)|
+|snes| ![snes](/output/snes.png)|
+|snoopy-ace| ![snoopy-ace](/output/snoopy-ace.png)|
+|snoopydance| ![snoopydance](/output/snoopydance.gif)|
+|sob_sunglasses| ![sob_sunglasses](/output/sob_sunglasses.png)|
+|sonic| ![sonic](/output/sonic.gif)|
+|sonic-ok| ![sonic-ok](/output/sonic-ok.png)|
+|sonic-waiting| ![sonic-waiting](/output/sonic-waiting.gif)|
+|sonic_boom| ![sonic_boom](/output/sonic_boom.gif)|
+|sorry| ![sorry](/output/sorry.jpg)|
+|soup| ![soup](/output/soup.png)|
+|sourcetree| ![sourcetree](/output/sourcetree.png)|
+|south| ![south](/output/south.png)|
+|soverybritish| ![soverybritish](/output/soverybritish.png)|
+|so_many_emotions| ![so_many_emotions](/output/so_many_emotions.gif)|
+|spam| ![spam](/output/spam.jpg)|
+|sparkle_skull| ![sparkle_skull](/output/sparkle_skull.png)|
+|sparkle_wolf| ![sparkle_wolf](/output/sparkle_wolf.png)|
+|sparkling| ![sparkling](/output/sparkling.gif)|
+|spartan| ![spartan](/output/spartan.png)|
+|spectre| ![spectre](/output/spectre.png)|
+|speechless| ![speechless](/output/speechless.gif)|
+|spelunky_anubis| ![spelunky_anubis](/output/spelunky_anubis.png)|
+|spelunky_black_knight| ![spelunky_black_knight](/output/spelunky_black_knight.png)|
+|spelunky_caveman| ![spelunky_caveman](/output/spelunky_caveman.png)|
+|spelunky_ghost| ![spelunky_ghost](/output/spelunky_ghost.png)|
+|spelunky_guy| ![spelunky_guy](/output/spelunky_guy.png)|
+|spelunky_olmec| ![spelunky_olmec](/output/spelunky_olmec.png)|
+|spelunky_pug| ![spelunky_pug](/output/spelunky_pug.png)|
+|spelunky_robot| ![spelunky_robot](/output/spelunky_robot.png)|
+|spelunky_yama| ![spelunky_yama](/output/spelunky_yama.png)|
+|spelunky_yeti| ![spelunky_yeti](/output/spelunky_yeti.png)|
+|sphericalcow| ![sphericalcow](/output/sphericalcow.png)|
+|spideysense| ![spideysense](/output/spideysense.png)|
+|spiffe| ![spiffe](/output/spiffe.png)|
+|splintercell| ![splintercell](/output/splintercell.png)|
+|splunk| ![splunk](/output/splunk.png)|
+|splunkda| ![splunkda](/output/splunkda.png)|
+|spongebob| ![spongebob](/output/spongebob.png)|
+|spoon2| ![spoon2](/output/spoon2.jpg)|
+|spot| ![spot](/output/spot.gif)|
+|spotify| ![spotify](/output/spotify.png)|
+|spy| ![spy](/output/spy.png)|
+|sriracha| ![sriracha](/output/sriracha.jpg)|
+|ssd| ![ssd](/output/ssd.jpg)|
+|ssshipit| ![ssshipit](/output/ssshipit.png)|

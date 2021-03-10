@@ -1,103 +1,103 @@
 
 ## Emojis (Page 8)
-
-* high-five: ![high-five](/output/high-five.gif)
-* highball: ![highball](/output/highball.png)
-* highfive: ![highfive](/output/highfive.png)
-* high_five: ![high_five](/output/high_five.jpg)
-* hipchat: ![hipchat](/output/hipchat.png)
-* hipsterhat: ![hipsterhat](/output/hipsterhat.jpg)
-* history: ![history](/output/history.png)
-* hitme: ![hitme](/output/hitme.jpg)
-* hmm: ![hmm](/output/hmm)
-* hodor: ![hodor](/output/hodor.png)
-* holdmybeer: ![holdmybeer](/output/holdmybeer.jpg)
-* holdontoyourbutts: ![holdontoyourbutts](/output/holdontoyourbutts)
-* hollowknight: ![hollowknight](/output/hollowknight.png)
-* holycarp: ![holycarp](/output/holycarp.png)
-* holy_shit: ![holy_shit](/output/holy_shit.jpg)
-* homedepot: ![homedepot](/output/homedepot.jpg)
-* honeybadger: ![honeybadger](/output/honeybadger.png)
-* hoodie: ![hoodie](/output/hoodie.png)
-* hop: ![hop](/output/hop.gif)
-* hope: ![hope](/output/hope.jpg)
-* hops: ![hops](/output/hops.png)
-* hornet: ![hornet](/output/hornet.png)
-* horns: ![horns](/output/horns.png)
-* horse_gif: ![horse_gif](/output/horse_gif.gif)
-* hotline_bling: ![hotline_bling](/output/hotline_bling.gif)
-* hotline_bling1: ![hotline_bling1](/output/hotline_bling1.jpg)
-* hotline_bling10: ![hotline_bling10](/output/hotline_bling10.jpg)
-* hotline_bling11: ![hotline_bling11](/output/hotline_bling11.jpg)
-* hotline_bling2: ![hotline_bling2](/output/hotline_bling2.jpg)
-* hotline_bling3: ![hotline_bling3](/output/hotline_bling3.jpg)
-* hotline_bling4: ![hotline_bling4](/output/hotline_bling4.jpg)
-* hotline_bling5: ![hotline_bling5](/output/hotline_bling5.jpg)
-* hotline_bling6: ![hotline_bling6](/output/hotline_bling6.jpg)
-* hotline_bling7: ![hotline_bling7](/output/hotline_bling7.jpg)
-* hotline_bling8: ![hotline_bling8](/output/hotline_bling8.jpg)
-* hotline_bling9: ![hotline_bling9](/output/hotline_bling9.jpg)
-* hot_garbage: ![hot_garbage](/output/hot_garbage.png)
-* hourglass_spin: ![hourglass_spin](/output/hourglass_spin.gif)
-* house_arryn: ![house_arryn](/output/house_arryn.png)
-* house_baratheon: ![house_baratheon](/output/house_baratheon.png)
-* house_bolton: ![house_bolton](/output/house_bolton.png)
-* house_clegane: ![house_clegane](/output/house_clegane.png)
-* house_dondarrion: ![house_dondarrion](/output/house_dondarrion.png)
-* house_dragonstone: ![house_dragonstone](/output/house_dragonstone.jpg)
-* house_frey: ![house_frey](/output/house_frey.png)
-* house_greyjoy: ![house_greyjoy](/output/house_greyjoy.png)
-* house_lannister: ![house_lannister](/output/house_lannister.png)
-* house_martell: ![house_martell](/output/house_martell.png)
-* house_stark: ![house_stark](/output/house_stark.png)
-* house_targaryen: ![house_targaryen](/output/house_targaryen.png)
-* house_tarly: ![house_tarly](/output/house_tarly.jpg)
-* house_tully: ![house_tully](/output/house_tully.png)
-* house_tyrell: ![house_tyrell](/output/house_tyrell.png)
-* hovercat: ![hovercat](/output/hovercat.gif)
-* hp: ![hp](/output/hp.jpg)
-* html: ![html](/output/html.png)
-* hubot: ![hubot](/output/hubot.jpg)
-* hubot_grinch: ![hubot_grinch](/output/hubot_grinch.png)
-* hubot_spin: ![hubot_spin](/output/hubot_spin.gif)
-* hug: ![hug](/output/hug.jpg)
-* hugefan: ![hugefan](/output/hugefan.png)
-* huh: ![huh](/output/huh.png)
-* hulksmash: ![hulksmash](/output/hulksmash.png)
-* hurricanes: ![hurricanes](/output/hurricanes.png)
-* hypnotoad: ![hypnotoad](/output/hypnotoad.gif)
-* i-participated: ![i-participated](/output/i-participated)
-* i-voted-today: ![i-voted-today](/output/i-voted-today.png)
-* ianmalcolm: ![ianmalcolm](/output/ianmalcolm.png)
-* ianmalcolm_reclining: ![ianmalcolm_reclining](/output/ianmalcolm_reclining.png)
-* iawriter: ![iawriter](/output/iawriter.png)
-* ibm: ![ibm](/output/ibm.jpg)
-* iced_coffee: ![iced_coffee](/output/iced_coffee.png)
-* iced_tea: ![iced_tea](/output/iced_tea.png)
-* ice_cream_parrot: ![ice_cream_parrot](/output/ice_cream_parrot.gif)
-* ie: ![ie](/output/ie.png)
-* ignoreme: ![ignoreme](/output/ignoreme.jpg)
-* iiam: ![iiam](/output/iiam.gif)
-* illuminati: ![illuminati](/output/illuminati.png)
-* illumos: ![illumos](/output/illumos.png)
-* impressive: ![impressive](/output/impressive.jpg)
-* incoming: ![incoming](/output/incoming.png)
-* inconceivablehorror: ![inconceivablehorror](/output/inconceivablehorror.png)
-* indeed: ![indeed](/output/indeed.png)
-* indiana: ![indiana](/output/indiana.gif)
-* informational_message: ![informational_message](/output/informational_message.png)
-* infrapac: ![infrapac](/output/infrapac.png)
-* inquiringmindswanttoknow: ![inquiringmindswanttoknow](/output/inquiringmindswanttoknow.png)
-* instagram: ![instagram](/output/instagram.png)
-* instalike: ![instalike](/output/instalike.jpg)
-* instant_pot: ![instant_pot](/output/instant_pot.png)
-* invision: ![invision](/output/invision.png)
-* iot: ![iot](/output/iot.png)
-* iseewhatyoudid: ![iseewhatyoudid](/output/iseewhatyoudid.jpg)
-* iseewhatyoudidthere: ![iseewhatyoudidthere](/output/iseewhatyoudidthere.png)
-* islanders: ![islanders](/output/islanders.png)
-* issue: ![issue](/output/issue.png)
-* italiano: ![italiano](/output/italiano.png)
-* italiano-left: ![italiano-left](/output/italiano-left.png)
-* italiano-right: ![italiano-right](/output/italiano-right.png)
-* its-a-trap: ![its-a-trap](/output/its-a-trap)
+|||
+|high-five| ![high-five](/output/high-five.gif)|
+|highball| ![highball](/output/highball.png)|
+|highfive| ![highfive](/output/highfive.png)|
+|high_five| ![high_five](/output/high_five.jpg)|
+|hipchat| ![hipchat](/output/hipchat.png)|
+|hipsterhat| ![hipsterhat](/output/hipsterhat.jpg)|
+|history| ![history](/output/history.png)|
+|hitme| ![hitme](/output/hitme.jpg)|
+|hmm| ![hmm](/output/hmm)|
+|hodor| ![hodor](/output/hodor.png)|
+|holdmybeer| ![holdmybeer](/output/holdmybeer.jpg)|
+|holdontoyourbutts| ![holdontoyourbutts](/output/holdontoyourbutts)|
+|hollowknight| ![hollowknight](/output/hollowknight.png)|
+|holycarp| ![holycarp](/output/holycarp.png)|
+|holy_shit| ![holy_shit](/output/holy_shit.jpg)|
+|homedepot| ![homedepot](/output/homedepot.jpg)|
+|honeybadger| ![honeybadger](/output/honeybadger.png)|
+|hoodie| ![hoodie](/output/hoodie.png)|
+|hop| ![hop](/output/hop.gif)|
+|hope| ![hope](/output/hope.jpg)|
+|hops| ![hops](/output/hops.png)|
+|hornet| ![hornet](/output/hornet.png)|
+|horns| ![horns](/output/horns.png)|
+|horse_gif| ![horse_gif](/output/horse_gif.gif)|
+|hotline_bling| ![hotline_bling](/output/hotline_bling.gif)|
+|hotline_bling1| ![hotline_bling1](/output/hotline_bling1.jpg)|
+|hotline_bling10| ![hotline_bling10](/output/hotline_bling10.jpg)|
+|hotline_bling11| ![hotline_bling11](/output/hotline_bling11.jpg)|
+|hotline_bling2| ![hotline_bling2](/output/hotline_bling2.jpg)|
+|hotline_bling3| ![hotline_bling3](/output/hotline_bling3.jpg)|
+|hotline_bling4| ![hotline_bling4](/output/hotline_bling4.jpg)|
+|hotline_bling5| ![hotline_bling5](/output/hotline_bling5.jpg)|
+|hotline_bling6| ![hotline_bling6](/output/hotline_bling6.jpg)|
+|hotline_bling7| ![hotline_bling7](/output/hotline_bling7.jpg)|
+|hotline_bling8| ![hotline_bling8](/output/hotline_bling8.jpg)|
+|hotline_bling9| ![hotline_bling9](/output/hotline_bling9.jpg)|
+|hot_garbage| ![hot_garbage](/output/hot_garbage.png)|
+|hourglass_spin| ![hourglass_spin](/output/hourglass_spin.gif)|
+|house_arryn| ![house_arryn](/output/house_arryn.png)|
+|house_baratheon| ![house_baratheon](/output/house_baratheon.png)|
+|house_bolton| ![house_bolton](/output/house_bolton.png)|
+|house_clegane| ![house_clegane](/output/house_clegane.png)|
+|house_dondarrion| ![house_dondarrion](/output/house_dondarrion.png)|
+|house_dragonstone| ![house_dragonstone](/output/house_dragonstone.jpg)|
+|house_frey| ![house_frey](/output/house_frey.png)|
+|house_greyjoy| ![house_greyjoy](/output/house_greyjoy.png)|
+|house_lannister| ![house_lannister](/output/house_lannister.png)|
+|house_martell| ![house_martell](/output/house_martell.png)|
+|house_stark| ![house_stark](/output/house_stark.png)|
+|house_targaryen| ![house_targaryen](/output/house_targaryen.png)|
+|house_tarly| ![house_tarly](/output/house_tarly.jpg)|
+|house_tully| ![house_tully](/output/house_tully.png)|
+|house_tyrell| ![house_tyrell](/output/house_tyrell.png)|
+|hovercat| ![hovercat](/output/hovercat.gif)|
+|hp| ![hp](/output/hp.jpg)|
+|html| ![html](/output/html.png)|
+|hubot| ![hubot](/output/hubot.jpg)|
+|hubot_grinch| ![hubot_grinch](/output/hubot_grinch.png)|
+|hubot_spin| ![hubot_spin](/output/hubot_spin.gif)|
+|hug| ![hug](/output/hug.jpg)|
+|hugefan| ![hugefan](/output/hugefan.png)|
+|huh| ![huh](/output/huh.png)|
+|hulksmash| ![hulksmash](/output/hulksmash.png)|
+|hurricanes| ![hurricanes](/output/hurricanes.png)|
+|hypnotoad| ![hypnotoad](/output/hypnotoad.gif)|
+|i-participated| ![i-participated](/output/i-participated)|
+|i-voted-today| ![i-voted-today](/output/i-voted-today.png)|
+|ianmalcolm| ![ianmalcolm](/output/ianmalcolm.png)|
+|ianmalcolm_reclining| ![ianmalcolm_reclining](/output/ianmalcolm_reclining.png)|
+|iawriter| ![iawriter](/output/iawriter.png)|
+|ibm| ![ibm](/output/ibm.jpg)|
+|iced_coffee| ![iced_coffee](/output/iced_coffee.png)|
+|iced_tea| ![iced_tea](/output/iced_tea.png)|
+|ice_cream_parrot| ![ice_cream_parrot](/output/ice_cream_parrot.gif)|
+|ie| ![ie](/output/ie.png)|
+|ignoreme| ![ignoreme](/output/ignoreme.jpg)|
+|iiam| ![iiam](/output/iiam.gif)|
+|illuminati| ![illuminati](/output/illuminati.png)|
+|illumos| ![illumos](/output/illumos.png)|
+|impressive| ![impressive](/output/impressive.jpg)|
+|incoming| ![incoming](/output/incoming.png)|
+|inconceivablehorror| ![inconceivablehorror](/output/inconceivablehorror.png)|
+|indeed| ![indeed](/output/indeed.png)|
+|indiana| ![indiana](/output/indiana.gif)|
+|informational_message| ![informational_message](/output/informational_message.png)|
+|infrapac| ![infrapac](/output/infrapac.png)|
+|inquiringmindswanttoknow| ![inquiringmindswanttoknow](/output/inquiringmindswanttoknow.png)|
+|instagram| ![instagram](/output/instagram.png)|
+|instalike| ![instalike](/output/instalike.jpg)|
+|instant_pot| ![instant_pot](/output/instant_pot.png)|
+|invision| ![invision](/output/invision.png)|
+|iot| ![iot](/output/iot.png)|
+|iseewhatyoudid| ![iseewhatyoudid](/output/iseewhatyoudid.jpg)|
+|iseewhatyoudidthere| ![iseewhatyoudidthere](/output/iseewhatyoudidthere.png)|
+|islanders| ![islanders](/output/islanders.png)|
+|issue| ![issue](/output/issue.png)|
+|italiano| ![italiano](/output/italiano.png)|
+|italiano-left| ![italiano-left](/output/italiano-left.png)|
+|italiano-right| ![italiano-right](/output/italiano-right.png)|
+|its-a-trap| ![its-a-trap](/output/its-a-trap)|
