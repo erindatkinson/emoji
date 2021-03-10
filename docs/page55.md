@@ -1,6 +1,7 @@
 
 ## Emojis (Page 55)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |redacted| ![redacted](/output/redacted.png)|
 |hurt| ![hurt](/output/hurt.png)|
 |oprah_you_and_you| ![oprah_you_and_you](/output/oprah_you_and_you.gif)|

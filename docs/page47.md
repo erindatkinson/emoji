@@ -1,6 +1,7 @@
 
 ## Emojis (Page 47)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |yubikey-waves| ![yubikey-waves](/output/yubikey-waves.gif)|
 |goth-yubikey| ![goth-yubikey](/output/goth-yubikey.png)|
 |yubikey-sob| ![yubikey-sob](/output/yubikey-sob.png)|

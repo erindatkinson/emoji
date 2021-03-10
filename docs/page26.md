@@ -1,6 +1,7 @@
 
 ## Emojis (Page 26)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |hmm-yes-left| ![hmm-yes-left](/output/hmm-yes-left)|
 |graphql_intensifies| ![graphql_intensifies](/output/graphql_intensifies.gif)|
 |hooker| ![hooker](/output/hooker.png)|

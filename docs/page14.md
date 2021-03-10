@@ -1,6 +1,7 @@
 
 ## Emojis (Page 14)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |precious| ![precious](/output/precious.jpg)|
 |predators| ![predators](/output/predators.png)|
 |pretty-please| ![pretty-please](/output/pretty-please.png)|

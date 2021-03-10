@@ -1,6 +1,7 @@
 
 ## Emojis (Page 33)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |goose-da| ![goose-da](/output/goose-da)|
 |goose-honk-da| ![goose-honk-da](/output/goose-honk-da)|
 |cowboy_cat-cool| ![cowboy_cat-cool](/output/cowboy_cat-cool)|

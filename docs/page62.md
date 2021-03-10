@@ -1,6 +1,7 @@
 
 ## Emojis (Page 62)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |she-hulk| ![she-hulk](/output/she-hulk.jpg)|
 |lebron_james| ![lebron_james](/output/lebron_james.png)|
 |nyan-vagrant| ![nyan-vagrant](/output/nyan-vagrant.gif)|

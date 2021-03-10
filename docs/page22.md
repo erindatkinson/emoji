@@ -1,6 +1,7 @@
 
 ## Emojis (Page 22)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |buzzfeed_chris| ![buzzfeed_chris](/output/buzzfeed_chris.png)|
 |buzzfeed_pam| ![buzzfeed_pam](/output/buzzfeed_pam.png)|
 |buzzfeed_martin| ![buzzfeed_martin](/output/buzzfeed_martin.png)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 7)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |grass| ![grass](/output/grass.jpg)|
 |grave| ![grave](/output/grave)|
 |great_scott| ![great_scott](/output/great_scott.png)|

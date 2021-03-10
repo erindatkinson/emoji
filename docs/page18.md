@@ -1,6 +1,7 @@
 
 ## Emojis (Page 18)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |thanks| ![thanks](/output/thanks.gif)|
 |thatsthejoke| ![thatsthejoke](/output/thatsthejoke.png)|
 |theatrics| ![theatrics](/output/theatrics.jpg)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 15)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |robot_sob| ![robot_sob](/output/robot_sob.png)|
 |rocket_league| ![rocket_league](/output/rocket_league.png)|
 |rockies| ![rockies](/output/rockies.jpg)|

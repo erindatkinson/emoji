@@ -1,6 +1,7 @@
 
 ## Emojis (Page 31)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |sea-slug-05| ![sea-slug-05](/output/sea-slug-05.png)|
 |sea-slug-06| ![sea-slug-06](/output/sea-slug-06.png)|
 |groovin| ![groovin](/output/groovin.gif)|

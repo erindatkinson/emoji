@@ -1,6 +1,7 @@
 
 ## Emojis (Page 25)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |blalor-happy-intensifies| ![blalor-happy-intensifies](/output/blalor-happy-intensifies.gif)|
 |hashicorp-intensifies| ![hashicorp-intensifies](/output/hashicorp-intensifies.gif)|
 |starfighter| ![starfighter](/output/starfighter.png)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 32)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |poop-technologist| ![poop-technologist](/output/poop-technologist.png)|
 |cowboy_cat-technologist| ![cowboy_cat-technologist](/output/cowboy_cat-technologist.png)|
 |nyan-delorean| ![nyan-delorean](/output/nyan-delorean.gif)|

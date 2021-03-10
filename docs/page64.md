@@ -1,6 +1,7 @@
 
 ## Emojis (Page 64)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |kerbal| ![kerbal](/output/kerbal.png)|
 |spotlight| ![spotlight](/output/spotlight.png)|
 |gulducat| ![gulducat](/output/gulducat.jpg)|

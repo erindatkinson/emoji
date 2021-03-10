@@ -1,6 +1,7 @@
 
 ## Emojis (Page 65)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |aks| ![aks](/output/aks.png)|
 |wink-wink| ![wink-wink](/output/wink-wink.png)|
 |cozybernie2| ![cozybernie2](/output/cozybernie2.png)|

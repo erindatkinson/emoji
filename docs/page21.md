@@ -1,6 +1,7 @@
 
 ## Emojis (Page 21)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |science| ![science](/output/science)|
 |matrix| ![matrix](/output/matrix.gif)|
 |batman-banana-dance| ![batman-banana-dance](/output/batman-banana-dance.gif)|

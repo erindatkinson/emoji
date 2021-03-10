@@ -1,6 +1,7 @@
 
 ## Emojis (Page 13)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |patriots| ![patriots](/output/patriots)|
 |pats| ![pats](/output/pats.jpg)|
 |pbj| ![pbj](/output/pbj.png)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 46)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |goth-lunch| ![goth-lunch](/output/goth-lunch.png)|
 |lunch-royal| ![lunch-royal](/output/lunch-royal.png)|
 |lunch-queen| ![lunch-queen](/output/lunch-queen)|

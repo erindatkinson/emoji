@@ -1,6 +1,7 @@
 
 ## Emojis (Page 11)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |mindblown| ![mindblown](/output/mindblown.gif)|
 |minecraft| ![minecraft](/output/minecraft.png)|
 |minerva| ![minerva](/output/minerva.jpg)|

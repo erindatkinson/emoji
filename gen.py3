@@ -19,7 +19,8 @@ for name, url in list["emoji"].items():
 
 tpl_str ="""
 ## Emojis (Page {{page}})
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 {%- for emoji, url in emojis %}
 |{{emoji}}| ![{{emoji}}]({{url}})|
 {%- endfor %}

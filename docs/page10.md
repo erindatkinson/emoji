@@ -1,6 +1,7 @@
 
 ## Emojis (Page 10)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |liar| ![liar](/output/liar.png)|
 |libertymutual| ![libertymutual](/output/libertymutual.png)|
 |liberty_bell| ![liberty_bell](/output/liberty_bell.jpg)|

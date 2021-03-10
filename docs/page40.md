@@ -1,6 +1,7 @@
 
 ## Emojis (Page 40)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |quarantine-flag| ![quarantine-flag](/output/quarantine-flag.png)|
 |quarantine-sign| ![quarantine-sign](/output/quarantine-sign.gif)|
 |gandalf| ![gandalf](/output/gandalf.png)|

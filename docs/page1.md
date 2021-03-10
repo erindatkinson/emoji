@@ -1,6 +1,7 @@
 
 ## Emojis (Page 1)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |awesomecat| ![awesomecat](/output/awesomecat.png)|
 |awesome_cylon| ![awesome_cylon](/output/awesome_cylon.gif)|
 |awesome_possum| ![awesome_possum](/output/awesome_possum.jpg)|

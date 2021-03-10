@@ -1,6 +1,7 @@
 
 ## Emojis (Page 42)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |yayclod| ![yayclod](/output/yayclod.png)|
 |portmanteau| ![portmanteau](/output/portmanteau.png)|
 |mechell| ![mechell](/output/mechell.png)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 49)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |lenna_chicken| ![lenna_chicken](/output/lenna_chicken.gif)|
 |tesseract| ![tesseract](/output/tesseract.jpg)|
 |stonks| ![stonks](/output/stonks.png)|

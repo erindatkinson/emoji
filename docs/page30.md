@@ -1,6 +1,7 @@
 
 ## Emojis (Page 30)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |honk| ![honk](/output/honk.png)|
 |postgres-da| ![postgres-da](/output/postgres-da.png)|
 |sisyphus| ![sisyphus](/output/sisyphus.gif)|

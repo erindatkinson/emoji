@@ -1,6 +1,7 @@
 
 ## Emojis (Page 58)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |fingerguns| ![fingerguns](/output/fingerguns.png)|
 |what-a-fine-day-for-science-dexter| ![what-a-fine-day-for-science-dexter](/output/what-a-fine-day-for-science-dexter.png)|
 |jesschameleon| ![jesschameleon](/output/jesschameleon.png)|

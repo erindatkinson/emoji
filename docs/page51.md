@@ -1,6 +1,7 @@
 
 ## Emojis (Page 51)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |no-talk-angy| ![no-talk-angy](/output/no-talk-angy.png)|
 |bjorn| ![bjorn](/output/bjorn.png)|
 |antifa| ![antifa](/output/antifa.png)|

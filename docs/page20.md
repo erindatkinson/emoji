@@ -1,6 +1,7 @@
 
 ## Emojis (Page 20)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |wonderwoman| ![wonderwoman](/output/wonderwoman.png)|
 |wooden_glasses| ![wooden_glasses](/output/wooden_glasses.png)|
 |woohoo| ![woohoo](/output/woohoo.png)|

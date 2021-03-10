@@ -1,6 +1,7 @@
 
 ## Emojis (Page 54)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |ouija-planchette| ![ouija-planchette](/output/ouija-planchette.png)|
 |checklist| ![checklist](/output/checklist.png)|
 |waffles-technologist| ![waffles-technologist](/output/waffles-technologist.png)|

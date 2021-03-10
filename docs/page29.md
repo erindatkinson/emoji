@@ -1,6 +1,7 @@
 
 ## Emojis (Page 29)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |cloud_ff| ![cloud_ff](/output/cloud_ff.gif)|
 |sephiroth| ![sephiroth](/output/sephiroth.png)|
 |valid| ![valid](/output/valid.png)|

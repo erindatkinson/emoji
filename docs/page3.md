@@ -1,6 +1,7 @@
 
 ## Emojis (Page 3)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |club| ![club](/output/club.png)|
 |clutch_sausage| ![clutch_sausage](/output/clutch_sausage.png)|
 |cobra| ![cobra](/output/cobra.png)|

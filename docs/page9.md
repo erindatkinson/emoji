@@ -1,6 +1,7 @@
 
 ## Emojis (Page 9)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |itsatrap| ![itsatrap](/output/itsatrap.png)|
 |its_fine| ![its_fine](/output/its_fine.png)|
 |its_lit| ![its_lit](/output/its_lit.png)|

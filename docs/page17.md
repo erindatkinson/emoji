@@ -1,6 +1,7 @@
 
 ## Emojis (Page 17)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |stable_parrot| ![stable_parrot](/output/stable_parrot.gif)|
 |stack| ![stack](/output/stack.png)|
 |stackoverflow| ![stackoverflow](/output/stackoverflow.png)|

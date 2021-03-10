@@ -1,6 +1,7 @@
 
 ## Emojis (Page 19)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |uk-da| ![uk-da](/output/uk-da.png)|
 |ukulele| ![ukulele](/output/ukulele.png)|
 |umbrella_drink| ![umbrella_drink](/output/umbrella_drink.png)|

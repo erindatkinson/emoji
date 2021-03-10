@@ -1,6 +1,7 @@
 
 ## Emojis (Page 41)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |hashideer-intensifies| ![hashideer-intensifies](/output/hashideer-intensifies.gif)|
 |vega| ![vega](/output/vega.png)|
 |deer-intensifies| ![deer-intensifies](/output/deer-intensifies.gif)|

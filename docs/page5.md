@@ -1,6 +1,7 @@
 
 ## Emojis (Page 5)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |emmett| ![emmett](/output/emmett.jpg)|
 |emojilord| ![emojilord](/output/emojilord.jpg)|
 |empire| ![empire](/output/empire.png)|

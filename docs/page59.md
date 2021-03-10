@@ -1,6 +1,7 @@
 
 ## Emojis (Page 59)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |meow_red| ![meow_red](/output/meow_red)|
 |pug| ![pug](/output/pug.png)|
 |ublock-origin-intensifies| ![ublock-origin-intensifies](/output/ublock-origin-intensifies.gif)|

@@ -1,6 +1,7 @@
 
 ## Emojis (Page 28)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |azure-intensifies| ![azure-intensifies](/output/azure-intensifies.gif)|
 |bitbucket-intensifies| ![bitbucket-intensifies](/output/bitbucket-intensifies.gif)|
 |bitbucket_intensifies| ![bitbucket_intensifies](/output/bitbucket_intensifies)|

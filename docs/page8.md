@@ -1,6 +1,7 @@
 
 ## Emojis (Page 8)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |high-five| ![high-five](/output/high-five.gif)|
 |highball| ![highball](/output/highball.png)|
 |highfive| ![highfive](/output/highfive.png)|

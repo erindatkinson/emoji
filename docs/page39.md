@@ -1,6 +1,7 @@
 
 ## Emojis (Page 39)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |thomas_train| ![thomas_train](/output/thomas_train.png)|
 |bignood| ![bignood](/output/bignood.gif)|
 |redis-sob| ![redis-sob](/output/redis-sob.png)|

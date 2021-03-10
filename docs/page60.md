@@ -1,6 +1,7 @@
 
 ## Emojis (Page 60)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |samurai2| ![samurai2](/output/samurai2.png)|
 |samurai| ![samurai](/output/samurai.png)|
 |kier-approval| ![kier-approval](/output/kier-approval.png)|

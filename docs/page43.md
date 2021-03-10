@@ -1,6 +1,7 @@
 
 ## Emojis (Page 43)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |thonking_face-sad| ![thonking_face-sad](/output/thonking_face-sad.png)|
 |thonking_face-sob| ![thonking_face-sob](/output/thonking_face-sob.png)|
 |eyes-wide-thonk-sad| ![eyes-wide-thonk-sad](/output/eyes-wide-thonk-sad.png)|

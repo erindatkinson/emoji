@@ -1,6 +1,7 @@
 
 ## Emojis (Page 2)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |brexit| ![brexit](/output/brexit.png)|
 |brian| ![brian](/output/brian.png)|
 |brick| ![brick](/output/brick)|

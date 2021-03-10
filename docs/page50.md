@@ -1,6 +1,7 @@
 
 ## Emojis (Page 50)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |hamster-sob| ![hamster-sob](/output/hamster-sob.png)|
 |fan| ![fan](/output/fan.gif)|
 |poop-roll| ![poop-roll](/output/poop-roll.gif)|

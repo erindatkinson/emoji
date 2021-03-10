@@ -1,6 +1,7 @@
 
 ## Emojis (Page 0)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |bowtie| ![bowtie](/output/bowtie.png)|
 |squirrel| ![squirrel](/output/squirrel.png)|
 |glitch_crab| ![glitch_crab](/output/glitch_crab.png)|

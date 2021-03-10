@@ -1,6 +1,7 @@
 
 ## Emojis (Page 35)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |run-triggers4| ![run-triggers4](/output/run-triggers4.png)|
 |run-triggers-waves| ![run-triggers-waves](/output/run-triggers-waves.gif)|
 |run-triggers-cool| ![run-triggers-cool](/output/run-triggers-cool.png)|

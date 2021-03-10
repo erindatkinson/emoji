@@ -1,6 +1,7 @@
 
 ## Emojis (Page 4)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |deadite_ash| ![deadite_ash](/output/deadite_ash.png)|
 |deadpool| ![deadpool](/output/deadpool.png)|
 |dead_dove| ![dead_dove](/output/dead_dove.png)|

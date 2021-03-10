@@ -1,6 +1,7 @@
 
 ## Emojis (Page 52)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |run-cmd| ![run-cmd](/output/run-cmd.png)|
 |cheer-fox| ![cheer-fox](/output/cheer-fox.gif)|
 |bmo-dance| ![bmo-dance](/output/bmo-dance.gif)|

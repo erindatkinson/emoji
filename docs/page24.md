@@ -1,6 +1,7 @@
 
 ## Emojis (Page 24)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |penny-intensifies| ![penny-intensifies](/output/penny-intensifies.gif)|
 |russ-intensifies| ![russ-intensifies](/output/russ-intensifies.gif)|
 |florida-da| ![florida-da](/output/florida-da.png)|

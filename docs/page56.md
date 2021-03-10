@@ -1,6 +1,7 @@
 
 ## Emojis (Page 56)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |howdy_foks| ![howdy_foks](/output/howdy_foks.jpg)|
 |pray-intensifies| ![pray-intensifies](/output/pray-intensifies.gif)|
 |pray-intensifies2| ![pray-intensifies2](/output/pray-intensifies2.gif)|

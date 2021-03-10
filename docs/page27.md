@@ -1,6 +1,7 @@
 
 ## Emojis (Page 27)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |upside-down-waving-hand| ![upside-down-waving-hand](/output/upside-down-waving-hand.png)|
 |yuno| ![yuno](/output/yuno.png)|
 |durdledoor| ![durdledoor](/output/durdledoor.jpg)|

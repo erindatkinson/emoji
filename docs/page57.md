@@ -1,6 +1,7 @@
 
 ## Emojis (Page 57)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |mariostar| ![mariostar](/output/mariostar.gif)|
 |minion-fire| ![minion-fire](/output/minion-fire.jpg)|
 |minion_wave| ![minion_wave](/output/minion_wave.png)|

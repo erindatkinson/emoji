@@ -1,6 +1,7 @@
 
 ## Emojis (Page 12)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |nothingtodohere| ![nothingtodohere](/output/nothingtodohere.png)|
 |notit| ![notit](/output/notit.png)|
 |notlikethis| ![notlikethis](/output/notlikethis.png)|

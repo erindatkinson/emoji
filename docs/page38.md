@@ -1,6 +1,7 @@
 
 ## Emojis (Page 38)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |disrespect| ![disrespect](/output/disrespect.png)|
 |happy-cloud-da| ![happy-cloud-da](/output/happy-cloud-da.png)|
 |potato_kutchan| ![potato_kutchan](/output/potato_kutchan.jpg)|

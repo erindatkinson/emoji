@@ -1,6 +1,7 @@
 
 ## Emojis (Page 61)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |alphabet-yellow-r| ![alphabet-yellow-r](/output/alphabet-yellow-r.png)|
 |alphabet-yellow-s| ![alphabet-yellow-s](/output/alphabet-yellow-s.png)|
 |alphabet-yellow-t| ![alphabet-yellow-t](/output/alphabet-yellow-t.png)|

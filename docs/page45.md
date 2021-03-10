@@ -1,6 +1,7 @@
 
 ## Emojis (Page 45)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |goth-vcs-next| ![goth-vcs-next](/output/goth-vcs-next.png)|
 |vcs-next-royal| ![vcs-next-royal](/output/vcs-next-royal.png)|
 |vcs-next-king| ![vcs-next-king](/output/vcs-next-king)|

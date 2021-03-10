@@ -1,6 +1,7 @@
 
 ## Emojis (Page 53)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |mos-def-intensifies| ![mos-def-intensifies](/output/mos-def-intensifies.gif)|
 |coolio-intensifies| ![coolio-intensifies](/output/coolio-intensifies.gif)|
 |nightman| ![nightman](/output/nightman.png)|

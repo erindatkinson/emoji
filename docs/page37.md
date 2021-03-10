@@ -1,6 +1,7 @@
 
 ## Emojis (Page 37)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |ember-intensifies| ![ember-intensifies](/output/ember-intensifies.gif)|
 |google-docs-intensifies| ![google-docs-intensifies](/output/google-docs-intensifies.gif)|
 |google-docs| ![google-docs](/output/google-docs)|

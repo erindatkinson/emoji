@@ -1,6 +1,7 @@
 
 ## Emojis (Page 16)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |shit_lord| ![shit_lord](/output/shit_lord.png)|
 |shit_the_bed| ![shit_the_bed](/output/shit_the_bed.png)|
 |shit_wolf| ![shit_wolf](/output/shit_wolf.png)|

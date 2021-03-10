@@ -1,6 +1,7 @@
 
 ## Emojis (Page 34)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |baby-shark| ![baby-shark](/output/baby-shark.png)|
 |efc| ![efc](/output/efc.gif)|
 |efc-intensifies| ![efc-intensifies](/output/efc-intensifies.gif)|

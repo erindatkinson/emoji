@@ -1,6 +1,7 @@
 
 ## Emojis (Page 44)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |blob-yes| ![blob-yes](/output/blob-yes.png)|
 |blob-dizzy| ![blob-dizzy](/output/blob-dizzy.png)|
 |yes-party| ![yes-party](/output/yes-party.gif)|

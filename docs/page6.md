@@ -1,6 +1,7 @@
 
 ## Emojis (Page 6)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |foursquare| ![foursquare](/output/foursquare.png)|
 |fox| ![fox](/output/fox.gif)|
 |fox_running| ![fox_running](/output/fox_running.gif)|

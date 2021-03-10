@@ -1,6 +1,7 @@
 
 ## Emojis (Page 63)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |til-quiet| ![til-quiet](/output/til-quiet.png)|
 |terraform-sparkling-then-fall-down| ![terraform-sparkling-then-fall-down](/output/terraform-sparkling-then-fall-down.gif)|
 |stick| ![stick](/output/stick.png)|

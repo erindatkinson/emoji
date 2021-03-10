@@ -1,6 +1,7 @@
 
 ## Emojis (Page 23)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |captain-america| ![captain-america](/output/captain-america.jpg)|
 |bugcatcher| ![bugcatcher](/output/bugcatcher.png)|
 |appear| ![appear](/output/appear.gif)|

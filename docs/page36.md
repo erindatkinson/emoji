@@ -1,6 +1,7 @@
 
 ## Emojis (Page 36)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |squid4| ![squid4](/output/squid4.png)|
 |+1-hundred| ![+1-hundred](/output/+1-hundred.png)|
 |he-man| ![he-man](/output/he-man.png)|

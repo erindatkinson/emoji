@@ -1,6 +1,7 @@
 
 ## Emojis (Page 48)
-|||
+|Emoji Name|Image|
+| :-: | :-: |
 |quay-da| ![quay-da](/output/quay-da.png)|
 |quay-cry| ![quay-cry](/output/quay-cry.png)|
 |quay-on-fire| ![quay-on-fire](/output/quay-on-fire.gif)|
