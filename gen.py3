@@ -18,16 +18,30 @@ for name, url in list["emoji"].items():
         emojis.append((name, f"output/{name}{ext}"))
 
 tpl_str ="""
-## Emojis
+## Emojis (Page {{page}})
 
-{% for emoji, url in emojis %}
+{% for emoji, url in emojis -%}
   * {{emoji}}: ![{{emoji}}]({{url}})
 {% endfor %}
-
 """
 
 template = Template(tpl_str)
-out = template.render(emojis=emojis)
+count = 0
+for i in range(0, len(emojis), 10):
+    out = template.render(emojis=emojis[i:i+10], page=count)
+    
+    with open(f"docs/page{count}.md", 'w') as fp:
+        fp.write(out)
+    count+=1
 
-with open("README.md", 'w') as fp_o:
-    fp_o.write(out)
+
+readme_tpl_str = """
+
+# Emojis
+
+{% for count in range(pages) -%}
+* [Page {{count}}](docs/page{{count}}.md)
+{% endfor %}
+"""
+with open("README.md", 'w') as fp:
+    fp.write(Template(readme_tpl_str).render(pages=count))
