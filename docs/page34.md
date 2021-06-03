@@ -1,104 +1,105 @@
 
-## Emojis (Page 34)
-|Emoji Name|Image|
-| :-: | :-: |
-|baby-shark| ![baby-shark](/output/baby-shark.png)|
-|efc| ![efc](/output/efc.gif)|
-|efc-intensifies| ![efc-intensifies](/output/efc-intensifies.gif)|
-|crackingthevault| ![crackingthevault](/output/crackingthevault.jpg)|
-|meow_sip| ![meow_sip](/output/meow_sip.png)|
-|meow_popcorn| ![meow_popcorn](/output/meow_popcorn.gif)|
-|meow_peek| ![meow_peek](/output/meow_peek.png)|
-|meow_confused| ![meow_confused](/output/meow_confused.png)|
-|meow_giggle| ![meow_giggle](/output/meow_giggle.png)|
-|business-cat| ![business-cat](/output/business-cat.png)|
-|srs_bsn_cat| ![srs_bsn_cat](/output/srs_bsn_cat.png)|
-|terraformdaparrot| ![terraformdaparrot](/output/terraformdaparrot.gif)|
-|sparkle_sob| ![sparkle_sob](/output/sparkle_sob.png)|
-|mac_bomb| ![mac_bomb](/output/mac_bomb.png)|
-|mac_watch| ![mac_watch](/output/mac_watch.png)|
-|mac_save| ![mac_save](/output/mac_save.png)|
-|mac_doc| ![mac_doc](/output/mac_doc.png)|
-|mac_trash| ![mac_trash](/output/mac_trash.png)|
-|meow_headache| ![meow_headache](/output/meow_headache.png)|
-|ado| ![ado](/output/ado)|
-|ado-1| ![ado-1](/output/ado-1)|
-|ado-2| ![ado-2](/output/ado-2)|
-|ado-3| ![ado-3](/output/ado-3)|
-|no_shake| ![no_shake](/output/no_shake.gif)|
-|allyourbasearebelongtous| ![allyourbasearebelongtous](/output/allyourbasearebelongtous.gif)|
-|hashigo| ![hashigo](/output/hashigo.jpg)|
-|ateam| ![ateam](/output/ateam.jpg)|
-|baby-dory| ![baby-dory](/output/baby-dory.png)|
-|i-am-groot| ![i-am-groot](/output/i-am-groot.jpg)|
-|friday-intensifies| ![friday-intensifies](/output/friday-intensifies.gif)|
-|google-wave| ![google-wave](/output/google-wave.png)|
-|groot| ![groot](/output/groot.gif)|
-|dory| ![dory](/output/dory.png)|
-|fb-wow| ![fb-wow](/output/fb-wow.gif)|
-|meow_keyboard_bang| ![meow_keyboard_bang](/output/meow_keyboard_bang.gif)|
-|meow_cry| ![meow_cry](/output/meow_cry.png)|
-|meow_wah| ![meow_wah](/output/meow_wah.png)|
-|terry-krabs| ![terry-krabs](/output/terry-krabs.png)|
-|prune| ![prune](/output/prune.png)|
-|prune-2| ![prune-2](/output/prune-2.png)|
-|fox-mccloud| ![fox-mccloud](/output/fox-mccloud.png)|
-|baby-yoda-tea| ![baby-yoda-tea](/output/baby-yoda-tea.png)|
-|baby-yoda| ![baby-yoda](/output/baby-yoda.png)|
-|wire_guard| ![wire_guard](/output/wire_guard.png)|
-|typescript| ![typescript](/output/typescript.png)|
-|coors_light| ![coors_light](/output/coors_light.png)|
-|coors_banquet| ![coors_banquet](/output/coors_banquet.jpg)|
-|thuglife| ![thuglife](/output/thuglife.png)|
-|tea-lemon| ![tea-lemon](/output/tea-lemon.jpg)|
-|zod| ![zod](/output/zod.jpg)|
-|coffee-sob| ![coffee-sob](/output/coffee-sob.png)|
-|alvaro-villain| ![alvaro-villain](/output/alvaro-villain.gif)|
-|ice-cube-good-day| ![ice-cube-good-day](/output/ice-cube-good-day.png)|
-|martin| ![martin](/output/martin.jpg)|
-|packer-party| ![packer-party](/output/packer-party.gif)|
-|french-cliche| ![french-cliche](/output/french-cliche.png)|
-|lfino| ![lfino](/output/lfino.png)|
-|banica| ![banica](/output/banica.jpg)|
-|breville| ![breville](/output/breville.png)|
-|ridley| ![ridley](/output/ridley.png)|
-|meow_cry_bang| ![meow_cry_bang](/output/meow_cry_bang.gif)|
-|duchess| ![duchess](/output/duchess.jpg)|
-|yeet| ![yeet](/output/yeet.png)|
-|gnome| ![gnome](/output/gnome.png)|
-|gnomey| ![gnomey](/output/gnomey.png)|
-|bowser| ![bowser](/output/bowser.jpg)|
-|meow_dizzy| ![meow_dizzy](/output/meow_dizzy.png)|
-|winzip| ![winzip](/output/winzip.png)|
-|please_crying| ![please_crying](/output/please_crying.png)|
-|plllllease| ![plllllease](/output/plllllease.png)|
-|nyan-go-to-jail| ![nyan-go-to-jail](/output/nyan-go-to-jail.gif)|
-|nyan-terrynutkins| ![nyan-terrynutkins](/output/nyan-terrynutkins.gif)|
-|fallout_thumbs_up| ![fallout_thumbs_up](/output/fallout_thumbs_up.png)|
-|666| ![666](/output/666.png)|
-|mn-intensifies| ![mn-intensifies](/output/mn-intensifies.gif)|
-|so-sleepy| ![so-sleepy](/output/so-sleepy.gif)|
-|too-much-coffee-hero| ![too-much-coffee-hero](/output/too-much-coffee-hero.jpg)|
-|booster_mario_rpg| ![booster_mario_rpg](/output/booster_mario_rpg.gif)|
-|belome_mario_rpg| ![belome_mario_rpg](/output/belome_mario_rpg.png)|
-|croco_mario_rpg| ![croco_mario_rpg](/output/croco_mario_rpg.png)|
-|axem_black_mario_rpg| ![axem_black_mario_rpg](/output/axem_black_mario_rpg.png)|
-|axem_green_mario_rpg| ![axem_green_mario_rpg](/output/axem_green_mario_rpg.png)|
-|axem_pink_mario_rpg| ![axem_pink_mario_rpg](/output/axem_pink_mario_rpg.png)|
-|axem_red_mario_rpg| ![axem_red_mario_rpg](/output/axem_red_mario_rpg.png)|
-|axem_yellow_mario_rpg| ![axem_yellow_mario_rpg](/output/axem_yellow_mario_rpg.png)|
-|hallo| ![hallo](/output/hallo.gif)|
-|terraform-cloud| ![terraform-cloud](/output/terraform-cloud.png)|
-|terrynutkins-waves| ![terrynutkins-waves](/output/terrynutkins-waves.gif)|
-|terrynutkins-party| ![terrynutkins-party](/output/terrynutkins-party.gif)|
-|robbie-pacman| ![robbie-pacman](/output/robbie-pacman.gif)|
-|cigar_smiley| ![cigar_smiley](/output/cigar_smiley.jpg)|
-|alto-clef| ![alto-clef](/output/alto-clef.jpg)|
-|cello| ![cello](/output/cello)|
-|terrynutkins| ![terrynutkins](/output/terrynutkins.png)|
-|nodramallama| ![nodramallama](/output/nodramallama)|
-|terrynutkins-takemymoney| ![terrynutkins-takemymoney](/output/terrynutkins-takemymoney.png)|
-|run-triggers| ![run-triggers](/output/run-triggers.png)|
-|run-triggers1| ![run-triggers1](/output/run-triggers1.png)|
-|run-triggers2| ![run-triggers2](/output/run-triggers2.png)|
-|run-triggers3| ![run-triggers3](/output/run-triggers3.png)|
+  ## Emojis (Page 34)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |titan_usb_c| ![titan_usb_c](/output/titan_usb_c.png)|
+  |noob| ![noob](/output/noob.png)|
+  |baby-shark| ![baby-shark](/output/baby-shark.png)|
+  |efc| ![efc](/output/efc.gif)|
+  |efc-intensifies| ![efc-intensifies](/output/efc-intensifies.gif)|
+  |crackingthevault| ![crackingthevault](/output/crackingthevault.jpg)|
+  |meow_sip| ![meow_sip](/output/meow_sip.png)|
+  |meow_popcorn| ![meow_popcorn](/output/meow_popcorn.gif)|
+  |meow_peek| ![meow_peek](/output/meow_peek.png)|
+  |meow_confused| ![meow_confused](/output/meow_confused.png)|
+  |meow_giggle| ![meow_giggle](/output/meow_giggle.png)|
+  |business-cat| ![business-cat](/output/business-cat.png)|
+  |srs_bsn_cat| ![srs_bsn_cat](/output/srs_bsn_cat.png)|
+  |terraformdaparrot| ![terraformdaparrot](/output/terraformdaparrot.gif)|
+  |sparkle_sob| ![sparkle_sob](/output/sparkle_sob.png)|
+  |mac_bomb| ![mac_bomb](/output/mac_bomb.png)|
+  |mac_watch| ![mac_watch](/output/mac_watch.png)|
+  |mac_save| ![mac_save](/output/mac_save.png)|
+  |mac_doc| ![mac_doc](/output/mac_doc.png)|
+  |mac_trash| ![mac_trash](/output/mac_trash.png)|
+  |meow_headache| ![meow_headache](/output/meow_headache.png)|
+  |ado| ![ado](/output/ado)|
+  |ado-1| ![ado-1](/output/ado-1)|
+  |ado-2| ![ado-2](/output/ado-2)|
+  |ado-3| ![ado-3](/output/ado-3)|
+  |no_shake| ![no_shake](/output/no_shake.gif)|
+  |allyourbasearebelongtous| ![allyourbasearebelongtous](/output/allyourbasearebelongtous.gif)|
+  |hashigo| ![hashigo](/output/hashigo.jpg)|
+  |ateam| ![ateam](/output/ateam.jpg)|
+  |baby-dory| ![baby-dory](/output/baby-dory.png)|
+  |i-am-groot| ![i-am-groot](/output/i-am-groot.jpg)|
+  |friday-intensifies| ![friday-intensifies](/output/friday-intensifies.gif)|
+  |google-wave| ![google-wave](/output/google-wave.png)|
+  |groot| ![groot](/output/groot.gif)|
+  |dory| ![dory](/output/dory.png)|
+  |fb-wow| ![fb-wow](/output/fb-wow.gif)|
+  |meow_keyboard_bang| ![meow_keyboard_bang](/output/meow_keyboard_bang.gif)|
+  |meow_cry| ![meow_cry](/output/meow_cry.png)|
+  |meow_wah| ![meow_wah](/output/meow_wah.png)|
+  |terry-krabs| ![terry-krabs](/output/terry-krabs.png)|
+  |prune| ![prune](/output/prune.png)|
+  |prune-2| ![prune-2](/output/prune-2.png)|
+  |fox-mccloud| ![fox-mccloud](/output/fox-mccloud.png)|
+  |baby-yoda-tea| ![baby-yoda-tea](/output/baby-yoda-tea.png)|
+  |baby-yoda| ![baby-yoda](/output/baby-yoda.png)|
+  |wire_guard| ![wire_guard](/output/wire_guard.png)|
+  |typescript| ![typescript](/output/typescript.png)|
+  |coors_light| ![coors_light](/output/coors_light.png)|
+  |coors_banquet| ![coors_banquet](/output/coors_banquet.jpg)|
+  |thuglife| ![thuglife](/output/thuglife.png)|
+  |tea-lemon| ![tea-lemon](/output/tea-lemon.jpg)|
+  |zod| ![zod](/output/zod.jpg)|
+  |coffee-sob| ![coffee-sob](/output/coffee-sob.png)|
+  |alvaro-villain| ![alvaro-villain](/output/alvaro-villain.gif)|
+  |ice-cube-good-day| ![ice-cube-good-day](/output/ice-cube-good-day.png)|
+  |martin| ![martin](/output/martin.jpg)|
+  |packer-party| ![packer-party](/output/packer-party.gif)|
+  |french-cliche| ![french-cliche](/output/french-cliche.png)|
+  |lfino| ![lfino](/output/lfino.png)|
+  |banica| ![banica](/output/banica.jpg)|
+  |breville| ![breville](/output/breville.png)|
+  |ridley| ![ridley](/output/ridley.png)|
+  |meow_cry_bang| ![meow_cry_bang](/output/meow_cry_bang.gif)|
+  |duchess| ![duchess](/output/duchess.jpg)|
+  |yeet| ![yeet](/output/yeet.png)|
+  |gnome| ![gnome](/output/gnome.png)|
+  |gnomey| ![gnomey](/output/gnomey.png)|
+  |bowser| ![bowser](/output/bowser.jpg)|
+  |meow_dizzy| ![meow_dizzy](/output/meow_dizzy.png)|
+  |winzip| ![winzip](/output/winzip.png)|
+  |please_crying| ![please_crying](/output/please_crying.png)|
+  |plllllease| ![plllllease](/output/plllllease.png)|
+  |nyan-go-to-jail| ![nyan-go-to-jail](/output/nyan-go-to-jail.gif)|
+  |nyan-terrynutkins| ![nyan-terrynutkins](/output/nyan-terrynutkins.gif)|
+  |fallout_thumbs_up| ![fallout_thumbs_up](/output/fallout_thumbs_up.png)|
+  |666| ![666](/output/666.png)|
+  |mn-intensifies| ![mn-intensifies](/output/mn-intensifies.gif)|
+  |so-sleepy| ![so-sleepy](/output/so-sleepy.gif)|
+  |too-much-coffee-hero| ![too-much-coffee-hero](/output/too-much-coffee-hero.jpg)|
+  |booster_mario_rpg| ![booster_mario_rpg](/output/booster_mario_rpg.gif)|
+  |belome_mario_rpg| ![belome_mario_rpg](/output/belome_mario_rpg.png)|
+  |croco_mario_rpg| ![croco_mario_rpg](/output/croco_mario_rpg.png)|
+  |axem_black_mario_rpg| ![axem_black_mario_rpg](/output/axem_black_mario_rpg.png)|
+  |axem_green_mario_rpg| ![axem_green_mario_rpg](/output/axem_green_mario_rpg.png)|
+  |axem_pink_mario_rpg| ![axem_pink_mario_rpg](/output/axem_pink_mario_rpg.png)|
+  |axem_red_mario_rpg| ![axem_red_mario_rpg](/output/axem_red_mario_rpg.png)|
+  |axem_yellow_mario_rpg| ![axem_yellow_mario_rpg](/output/axem_yellow_mario_rpg.png)|
+  |hallo| ![hallo](/output/hallo.gif)|
+  |terraform-cloud| ![terraform-cloud](/output/terraform-cloud.png)|
+  |terrynutkins-waves| ![terrynutkins-waves](/output/terrynutkins-waves.gif)|
+  |terrynutkins-party| ![terrynutkins-party](/output/terrynutkins-party.gif)|
+  |robbie-pacman| ![robbie-pacman](/output/robbie-pacman.gif)|
+  |cigar_smiley| ![cigar_smiley](/output/cigar_smiley.jpg)|
+  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
+  |cello| ![cello](/output/cello)|
+  |terrynutkins| ![terrynutkins](/output/terrynutkins.png)|
+  |nodramallama| ![nodramallama](/output/nodramallama)|
+  |terrynutkins-takemymoney| ![terrynutkins-takemymoney](/output/terrynutkins-takemymoney.png)|
+  |run-triggers| ![run-triggers](/output/run-triggers.png)|
+  |run-triggers1| ![run-triggers1](/output/run-triggers1.png)|
+  

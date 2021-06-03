@@ -1,104 +1,105 @@
 
-## Emojis (Page 36)
-|Emoji Name|Image|
-| :-: | :-: |
-|squid4| ![squid4](/output/squid4.png)|
-|+1-hundred| ![+1-hundred](/output/+1-hundred.png)|
-|he-man| ![he-man](/output/he-man.png)|
-|homebrew| ![homebrew](/output/homebrew.png)|
-|achievement-unlocked| ![achievement-unlocked](/output/achievement-unlocked.png)|
-|billions| ![billions](/output/billions.jpg)|
-|clockwise| ![clockwise](/output/clockwise)|
-|wowdatadoge| ![wowdatadoge](/output/wowdatadoge.png)|
-|bubblegum| ![bubblegum](/output/bubblegum.jpg)|
-|shipyard| ![shipyard](/output/shipyard.png)|
-|shrug_left-intensifies| ![shrug_left-intensifies](/output/shrug_left-intensifies.gif)|
-|shrug_middle-intensifies| ![shrug_middle-intensifies](/output/shrug_middle-intensifies.gif)|
-|shrug_right-intensifies| ![shrug_right-intensifies](/output/shrug_right-intensifies.gif)|
-|cosmo-technologist-intensifies| ![cosmo-technologist-intensifies](/output/cosmo-technologist-intensifies.gif)|
-|cowboy_cat-technologist-intensifies| ![cowboy_cat-technologist-intensifies](/output/cowboy_cat-technologist-intensifies.gif)|
-|noodle-dog-technologist-intensifies| ![noodle-dog-technologist-intensifies](/output/noodle-dog-technologist-intensifies.gif)|
-|squirrel-technologist-intensifies| ![squirrel-technologist-intensifies](/output/squirrel-technologist-intensifies.gif)|
-|a-single-tear-of-joy| ![a-single-tear-of-joy](/output/a-single-tear-of-joy.png)|
-|happy-cry| ![happy-cry](/output/happy-cry.png)|
-|tears-of-joy| ![tears-of-joy](/output/tears-of-joy.png)|
-|waldo| ![waldo](/output/waldo.png)|
-|ack| ![ack](/output/ack.png)|
-|sanic-ball-rollin| ![sanic-ball-rollin](/output/sanic-ball-rollin.gif)|
-|confused-travolta| ![confused-travolta](/output/confused-travolta.gif)|
-|shooketh| ![shooketh](/output/shooketh.jpg)|
-|lakers| ![lakers](/output/lakers.png)|
-|mamba| ![mamba](/output/mamba.png)|
-|newbie| ![newbie](/output/newbie.jpg)|
-|newb| ![newb](/output/newb.jpg)|
-|sine| ![sine](/output/sine.png)|
-|nomudka| ![nomudka](/output/nomudka.png)|
-|bulbasaur-owo| ![bulbasaur-owo](/output/bulbasaur-owo.png)|
-|krz| ![krz](/output/krz.png)|
-|beatingheart| ![beatingheart](/output/beatingheart.gif)|
-|french_bulldog| ![french_bulldog](/output/french_bulldog.png)|
-|criticalthinking| ![criticalthinking](/output/criticalthinking.jpg)|
-|lattice-intensifies| ![lattice-intensifies](/output/lattice-intensifies.gif)|
-|sassy-erik| ![sassy-erik](/output/sassy-erik.png)|
-|liverpoolfc| ![liverpoolfc](/output/liverpoolfc.jpg)|
-|dog_white| ![dog_white](/output/dog_white.png)|
-|cooper-annoyed| ![cooper-annoyed](/output/cooper-annoyed.png)|
-|whistles| ![whistles](/output/whistles.jpg)|
-|asana-intensifies| ![asana-intensifies](/output/asana-intensifies.gif)|
-|lorryaf| ![lorryaf](/output/lorryaf.png)|
-|cooper-happy| ![cooper-happy](/output/cooper-happy.png)|
-|rollconsul| ![rollconsul](/output/rollconsul.gif)|
-|rollvault| ![rollvault](/output/rollvault.gif)|
-|rollnomad| ![rollnomad](/output/rollnomad.gif)|
-|atari| ![atari](/output/atari.png)|
-|machevoui| ![machevoui](/output/machevoui.png)|
-|yo-mtv| ![yo-mtv](/output/yo-mtv.jpg)|
-|yooo| ![yooo](/output/yooo.jpg)|
-|yo-| ![yo-](/output/yo-.jpg)|
-|definitely_ohio| ![definitely_ohio](/output/definitely_ohio.png)|
-|meatsweats| ![meatsweats](/output/meatsweats.png)|
-|goose-honk-sob1| ![goose-honk-sob1](/output/goose-honk-sob1.png)|
-|goose-honk-sob2| ![goose-honk-sob2](/output/goose-honk-sob2.png)|
-|goose-honk-sob4| ![goose-honk-sob4](/output/goose-honk-sob4.png)|
-|goose-honk-sob3| ![goose-honk-sob3](/output/goose-honk-sob3.png)|
-|meatsweats1| ![meatsweats1](/output/meatsweats1.png)|
-|meatsweats2| ![meatsweats2](/output/meatsweats2.png)|
-|meatsweats3| ![meatsweats3](/output/meatsweats3.png)|
-|meatsweats4| ![meatsweats4](/output/meatsweats4.png)|
-|ember-on-fire| ![ember-on-fire](/output/ember-on-fire.gif)|
-|bash-on-fire| ![bash-on-fire](/output/bash-on-fire.gif)|
-|yaml-on-fire| ![yaml-on-fire](/output/yaml-on-fire.gif)|
-|ba-rick| ![ba-rick](/output/ba-rick.png)|
-|ba-rick-face| ![ba-rick-face](/output/ba-rick-face.png)|
-|ba-claire| ![ba-claire](/output/ba-claire.png)|
-|ba-claire-face| ![ba-claire-face](/output/ba-claire-face.png)|
-|ba-brad| ![ba-brad](/output/ba-brad.png)|
-|ba-brad-face| ![ba-brad-face](/output/ba-brad-face.png)|
-|docker-on-fire| ![docker-on-fire](/output/docker-on-fire.gif)|
-|gopher-back-party| ![gopher-back-party](/output/gopher-back-party.gif)|
-|gopher-back-dance| ![gopher-back-dance](/output/gopher-back-dance.gif)|
-|itsallgood| ![itsallgood](/output/itsallgood.gif)|
-|heartifactory-bounce| ![heartifactory-bounce](/output/heartifactory-bounce.gif)|
-|traefik| ![traefik](/output/traefik.png)|
-|amsterdam1| ![amsterdam1](/output/amsterdam1.png)|
-|jruby| ![jruby](/output/jruby.png)|
-|watchtower| ![watchtower](/output/watchtower.png)|
-|meeseeks-scream| ![meeseeks-scream](/output/meeseeks-scream.png)|
-|pickle-rick| ![pickle-rick](/output/pickle-rick.png)|
-|cheeto-chihuahua-dog| ![cheeto-chihuahua-dog](/output/cheeto-chihuahua-dog.png)|
-|any-hoot| ![any-hoot](/output/any-hoot.png)|
-|wourder| ![wourder](/output/wourder.png)|
-|bitbucket-blood-sob| ![bitbucket-blood-sob](/output/bitbucket-blood-sob.png)|
-|cancan-sob| ![cancan-sob](/output/cancan-sob.png)|
-|cancan-blood-sob| ![cancan-blood-sob](/output/cancan-blood-sob.png)|
-|bitbucket-sob| ![bitbucket-sob](/output/bitbucket-sob.png)|
-|goose-honk-sob-cancan| ![goose-honk-sob-cancan](/output/goose-honk-sob-cancan.png)|
-|goose-honk-cry| ![goose-honk-cry](/output/goose-honk-cry.png)|
-|cancan-cry| ![cancan-cry](/output/cancan-cry.png)|
-|cowboy_cat-cry| ![cowboy_cat-cry](/output/cowboy_cat-cry.png)|
-|bon-appetit| ![bon-appetit](/output/bon-appetit.jpg)|
-|yaml-cry| ![yaml-cry](/output/yaml-cry.png)|
-|docker-cry| ![docker-cry](/output/docker-cry.png)|
-|hashibot-intensifies| ![hashibot-intensifies](/output/hashibot-intensifies.gif)|
-|diabetus| ![diabetus](/output/diabetus.png)|
-|ruby-intensifies| ![ruby-intensifies](/output/ruby-intensifies.gif)|
+  ## Emojis (Page 36)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |squid2| ![squid2](/output/squid2.png)|
+  |squid3| ![squid3](/output/squid3.png)|
+  |squid4| ![squid4](/output/squid4.png)|
+  |+1-hundred| ![+1-hundred](/output/+1-hundred.png)|
+  |he-man| ![he-man](/output/he-man.png)|
+  |homebrew| ![homebrew](/output/homebrew.png)|
+  |achievement-unlocked| ![achievement-unlocked](/output/achievement-unlocked.png)|
+  |billions| ![billions](/output/billions.jpg)|
+  |clockwise| ![clockwise](/output/clockwise)|
+  |wowdatadoge| ![wowdatadoge](/output/wowdatadoge.png)|
+  |bubblegum| ![bubblegum](/output/bubblegum.jpg)|
+  |shipyard| ![shipyard](/output/shipyard.png)|
+  |shrug_left-intensifies| ![shrug_left-intensifies](/output/shrug_left-intensifies.gif)|
+  |shrug_middle-intensifies| ![shrug_middle-intensifies](/output/shrug_middle-intensifies.gif)|
+  |shrug_right-intensifies| ![shrug_right-intensifies](/output/shrug_right-intensifies.gif)|
+  |cosmo-technologist-intensifies| ![cosmo-technologist-intensifies](/output/cosmo-technologist-intensifies.gif)|
+  |cowboy_cat-technologist-intensifies| ![cowboy_cat-technologist-intensifies](/output/cowboy_cat-technologist-intensifies.gif)|
+  |noodle-dog-technologist-intensifies| ![noodle-dog-technologist-intensifies](/output/noodle-dog-technologist-intensifies.gif)|
+  |squirrel-technologist-intensifies| ![squirrel-technologist-intensifies](/output/squirrel-technologist-intensifies.gif)|
+  |a-single-tear-of-joy| ![a-single-tear-of-joy](/output/a-single-tear-of-joy.png)|
+  |happy-cry| ![happy-cry](/output/happy-cry.png)|
+  |tears-of-joy| ![tears-of-joy](/output/tears-of-joy.png)|
+  |waldo| ![waldo](/output/waldo.png)|
+  |ack| ![ack](/output/ack.png)|
+  |sanic-ball-rollin| ![sanic-ball-rollin](/output/sanic-ball-rollin.gif)|
+  |confused-travolta| ![confused-travolta](/output/confused-travolta.gif)|
+  |shooketh| ![shooketh](/output/shooketh.jpg)|
+  |lakers| ![lakers](/output/lakers.png)|
+  |mamba| ![mamba](/output/mamba.png)|
+  |newbie| ![newbie](/output/newbie.jpg)|
+  |newb| ![newb](/output/newb.jpg)|
+  |sine| ![sine](/output/sine.png)|
+  |nomudka| ![nomudka](/output/nomudka.png)|
+  |bulbasaur-owo| ![bulbasaur-owo](/output/bulbasaur-owo.png)|
+  |krz| ![krz](/output/krz.png)|
+  |beatingheart| ![beatingheart](/output/beatingheart.gif)|
+  |french_bulldog| ![french_bulldog](/output/french_bulldog.png)|
+  |criticalthinking| ![criticalthinking](/output/criticalthinking.jpg)|
+  |lattice-intensifies| ![lattice-intensifies](/output/lattice-intensifies.gif)|
+  |sassy-erik| ![sassy-erik](/output/sassy-erik.png)|
+  |liverpoolfc| ![liverpoolfc](/output/liverpoolfc.jpg)|
+  |dog_white| ![dog_white](/output/dog_white.png)|
+  |cooper-annoyed| ![cooper-annoyed](/output/cooper-annoyed.png)|
+  |whistles| ![whistles](/output/whistles.jpg)|
+  |asana-intensifies| ![asana-intensifies](/output/asana-intensifies.gif)|
+  |lorryaf| ![lorryaf](/output/lorryaf.png)|
+  |cooper-happy| ![cooper-happy](/output/cooper-happy.png)|
+  |rollconsul| ![rollconsul](/output/rollconsul.gif)|
+  |rollvault| ![rollvault](/output/rollvault.gif)|
+  |rollnomad| ![rollnomad](/output/rollnomad.gif)|
+  |atari| ![atari](/output/atari.png)|
+  |machevoui| ![machevoui](/output/machevoui.png)|
+  |yo-mtv| ![yo-mtv](/output/yo-mtv.jpg)|
+  |yooo| ![yooo](/output/yooo.jpg)|
+  |yo-| ![yo-](/output/yo-.jpg)|
+  |definitely_ohio| ![definitely_ohio](/output/definitely_ohio.png)|
+  |meatsweats| ![meatsweats](/output/meatsweats.png)|
+  |goose-honk-sob1| ![goose-honk-sob1](/output/goose-honk-sob1.png)|
+  |goose-honk-sob2| ![goose-honk-sob2](/output/goose-honk-sob2.png)|
+  |goose-honk-sob4| ![goose-honk-sob4](/output/goose-honk-sob4.png)|
+  |goose-honk-sob3| ![goose-honk-sob3](/output/goose-honk-sob3.png)|
+  |meatsweats1| ![meatsweats1](/output/meatsweats1.png)|
+  |meatsweats2| ![meatsweats2](/output/meatsweats2.png)|
+  |meatsweats3| ![meatsweats3](/output/meatsweats3.png)|
+  |meatsweats4| ![meatsweats4](/output/meatsweats4.png)|
+  |ember-on-fire| ![ember-on-fire](/output/ember-on-fire.gif)|
+  |bash-on-fire| ![bash-on-fire](/output/bash-on-fire.gif)|
+  |yaml-on-fire| ![yaml-on-fire](/output/yaml-on-fire.gif)|
+  |ba-rick| ![ba-rick](/output/ba-rick.png)|
+  |ba-rick-face| ![ba-rick-face](/output/ba-rick-face.png)|
+  |ba-claire| ![ba-claire](/output/ba-claire.png)|
+  |ba-claire-face| ![ba-claire-face](/output/ba-claire-face.png)|
+  |ba-brad| ![ba-brad](/output/ba-brad.png)|
+  |ba-brad-face| ![ba-brad-face](/output/ba-brad-face.png)|
+  |docker-on-fire| ![docker-on-fire](/output/docker-on-fire.gif)|
+  |gopher-back-party| ![gopher-back-party](/output/gopher-back-party.gif)|
+  |gopher-back-dance| ![gopher-back-dance](/output/gopher-back-dance.gif)|
+  |itsallgood| ![itsallgood](/output/itsallgood.gif)|
+  |heartifactory-bounce| ![heartifactory-bounce](/output/heartifactory-bounce.gif)|
+  |traefik| ![traefik](/output/traefik.png)|
+  |amsterdam1| ![amsterdam1](/output/amsterdam1.png)|
+  |jruby| ![jruby](/output/jruby.png)|
+  |watchtower| ![watchtower](/output/watchtower.png)|
+  |meeseeks-scream| ![meeseeks-scream](/output/meeseeks-scream.png)|
+  |pickle-rick| ![pickle-rick](/output/pickle-rick.png)|
+  |cheeto-chihuahua-dog| ![cheeto-chihuahua-dog](/output/cheeto-chihuahua-dog.png)|
+  |any-hoot| ![any-hoot](/output/any-hoot.png)|
+  |wourder| ![wourder](/output/wourder.png)|
+  |bitbucket-blood-sob| ![bitbucket-blood-sob](/output/bitbucket-blood-sob.png)|
+  |cancan-sob| ![cancan-sob](/output/cancan-sob.png)|
+  |cancan-blood-sob| ![cancan-blood-sob](/output/cancan-blood-sob.png)|
+  |bitbucket-sob| ![bitbucket-sob](/output/bitbucket-sob.png)|
+  |goose-honk-sob-cancan| ![goose-honk-sob-cancan](/output/goose-honk-sob-cancan.png)|
+  |goose-honk-cry| ![goose-honk-cry](/output/goose-honk-cry.png)|
+  |cancan-cry| ![cancan-cry](/output/cancan-cry.png)|
+  |cowboy_cat-cry| ![cowboy_cat-cry](/output/cowboy_cat-cry.png)|
+  |bon-appetit| ![bon-appetit](/output/bon-appetit.jpg)|
+  |yaml-cry| ![yaml-cry](/output/yaml-cry.png)|
+  |docker-cry| ![docker-cry](/output/docker-cry.png)|
+  |hashibot-intensifies| ![hashibot-intensifies](/output/hashibot-intensifies.gif)|
+  

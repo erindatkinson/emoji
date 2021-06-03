@@ -1,104 +1,105 @@
 
-## Emojis (Page 63)
-|Emoji Name|Image|
-| :-: | :-: |
-|til-quiet| ![til-quiet](/output/til-quiet.png)|
-|terraform-sparkling-then-fall-down| ![terraform-sparkling-then-fall-down](/output/terraform-sparkling-then-fall-down.gif)|
-|stick| ![stick](/output/stick.png)|
-|stick2| ![stick2](/output/stick2.png)|
-|lift-weights| ![lift-weights](/output/lift-weights.png)|
-|greyman| ![greyman](/output/greyman.png)|
-|greywoman| ![greywoman](/output/greywoman.png)|
-|laugh_ham| ![laugh_ham](/output/laugh_ham.gif)|
-|pumpkin_ham| ![pumpkin_ham](/output/pumpkin_ham.gif)|
-|fireball| ![fireball](/output/fireball.jpg)|
-|ham_cake| ![ham_cake](/output/ham_cake.gif)|
-|avril-emoji| ![avril-emoji](/output/avril-emoji.png)|
-|zoom-close-avril| ![zoom-close-avril](/output/zoom-close-avril.gif)|
-|avrilintensifies| ![avrilintensifies](/output/avrilintensifies.gif)|
-|avril-burn| ![avril-burn](/output/avril-burn.gif)|
-|communityicon_b37n2zfs8k861| ![communityicon_b37n2zfs8k861](/output/communityicon_b37n2zfs8k861.png)|
-|wsb| ![wsb](/output/wsb.png)|
-|wallstreetbets| ![wallstreetbets](/output/wallstreetbets.jpg)|
-|til-channel-share| ![til-channel-share](/output/til-channel-share.png)|
-|mindblown-channel-share| ![mindblown-channel-share](/output/mindblown-channel-share.gif)|
-|tmyk-channel-share| ![tmyk-channel-share](/output/tmyk-channel-share.gif)|
-|drink-coffee| ![drink-coffee](/output/drink-coffee.gif)|
-|golden-state| ![golden-state](/output/golden-state.png)|
-|threeuk| ![threeuk](/output/threeuk.png)|
-|cts-channel-share| ![cts-channel-share](/output/cts-channel-share.png)|
-|blm| ![blm](/output/blm.png)|
-|coolcool-amanda| ![coolcool-amanda](/output/coolcool-amanda.gif)|
-|amandaburn| ![amandaburn](/output/amandaburn.gif)|
-|amandaangry| ![amandaangry](/output/amandaangry.gif)|
-|prettypennyintensifies| ![prettypennyintensifies](/output/prettypennyintensifies.gif)|
-|thetriforce| ![thetriforce](/output/thetriforce.png)|
-|slam-button-terraform| ![slam-button-terraform](/output/slam-button-terraform.jpg)|
-|slam-terraform| ![slam-terraform](/output/slam-terraform.png)|
-|shakesfist-at-aws| ![shakesfist-at-aws](/output/shakesfist-at-aws)|
-|redpanda| ![redpanda](/output/redpanda.png)|
-|dont-at-me| ![dont-at-me](/output/dont-at-me.png)|
-|gondor| ![gondor](/output/gondor.png)|
-|sphinx| ![sphinx](/output/sphinx.png)|
-|twisquint| ![twisquint](/output/twisquint.png)|
-|twibeam| ![twibeam](/output/twibeam.png)|
-|twidaw| ![twidaw](/output/twidaw.png)|
-|boo-urns| ![boo-urns](/output/boo-urns.jpg)|
-|aliens| ![aliens](/output/aliens.png)|
-|goodgood| ![goodgood](/output/goodgood.png)|
-|just-do-it| ![just-do-it](/output/just-do-it.png)|
-|paul-rudd| ![paul-rudd](/output/paul-rudd.png)|
-|whistle| ![whistle](/output/whistle.png)|
-|you-are-most-welcome| ![you-are-most-welcome](/output/you-are-most-welcome.png)|
-|hpux| ![hpux](/output/hpux.jpg)|
-|aix| ![aix](/output/aix.jpg)|
-|badjokeeel| ![badjokeeel](/output/badjokeeel.png)|
-|hip| ![hip](/output/hip.png)|
-|kent| ![kent](/output/kent.png)|
-|oh-yay| ![oh-yay](/output/oh-yay.png)|
-|crumpet| ![crumpet](/output/crumpet.png)|
-|hashmark| ![hashmark](/output/hashmark.jpg)|
-|snow-angel| ![snow-angel](/output/snow-angel.gif)|
-|chef_kiss2| ![chef_kiss2](/output/chef_kiss2.gif)|
-|space-jam| ![space-jam](/output/space-jam.png)|
-|zoinks| ![zoinks](/output/zoinks.png)|
-|zoinks-2| ![zoinks-2](/output/zoinks-2.png)|
-|3armedsweater| ![3armedsweater](/output/3armedsweater.jpg)|
-|threearmedsweater| ![threearmedsweater](/output/threearmedsweater)|
-|anonymous| ![anonymous](/output/anonymous.png)|
-|goofy| ![goofy](/output/goofy.png)|
-|canada-sorry| ![canada-sorry](/output/canada-sorry.gif)|
-|team-terraform-practitioner-intensifies| ![team-terraform-practitioner-intensifies](/output/team-terraform-practitioner-intensifies.gif)|
-|butler-cat| ![butler-cat](/output/butler-cat.png)|
-|team-tf-practitioner-da| ![team-tf-practitioner-da](/output/team-tf-practitioner-da.png)|
-|team-tf-practitioner-sob| ![team-tf-practitioner-sob](/output/team-tf-practitioner-sob.png)|
-|nyan-team-tf-practitioner| ![nyan-team-tf-practitioner](/output/nyan-team-tf-practitioner.gif)|
-|team-terraform-practitioner-sad| ![team-terraform-practitioner-sad](/output/team-terraform-practitioner-sad.png)|
-|team-terraform-practitioner-blood-sob| ![team-terraform-practitioner-blood-sob](/output/team-terraform-practitioner-blood-sob.png)|
-|team-terraform-practitioner-technologist| ![team-terraform-practitioner-technologist](/output/team-terraform-practitioner-technologist.png)|
-|team-terraform-practitioner2| ![team-terraform-practitioner2](/output/team-terraform-practitioner2.png)|
-|team-terraform-practitioner-goth| ![team-terraform-practitioner-goth](/output/team-terraform-practitioner-goth.gif)|
-|team-terraform-practitioner-cool| ![team-terraform-practitioner-cool](/output/team-terraform-practitioner-cool.gif)|
-|team-terraform-practitioner-on-fire| ![team-terraform-practitioner-on-fire](/output/team-terraform-practitioner-on-fire.gif)|
-|team-terraform-practitioner-party| ![team-terraform-practitioner-party](/output/team-terraform-practitioner-party.gif)|
-|business-skeleton| ![business-skeleton](/output/business-skeleton.jpg)|
-|read-the-manual| ![read-the-manual](/output/read-the-manual.gif)|
-|haha-business| ![haha-business](/output/haha-business.png)|
-|upside-down-canada-flag| ![upside-down-canada-flag](/output/upside-down-canada-flag.png)|
-|dopamine-hit| ![dopamine-hit](/output/dopamine-hit.gif)|
-|tooloud| ![tooloud](/output/tooloud.png)|
-|poohsmile| ![poohsmile](/output/poohsmile.png)|
-|cold-intensifies| ![cold-intensifies](/output/cold-intensifies.gif)|
-|wheeze| ![wheeze](/output/wheeze.png)|
-|elastic| ![elastic](/output/elastic.png)|
-|osquery| ![osquery](/output/osquery.png)|
-|trinity| ![trinity](/output/trinity.png)|
-|sledgehammer| ![sledgehammer](/output/sledgehammer.png)|
-|nico| ![nico](/output/nico.png)|
-|lunch-darkly| ![lunch-darkly](/output/lunch-darkly)|
-|inch-worm| ![inch-worm](/output/inch-worm.png)|
-|meow_snort| ![meow_snort](/output/meow_snort.png)|
-|loki| ![loki](/output/loki.png)|
-|agray-cool| ![agray-cool](/output/agray-cool.png)|
-|agray-cool-intensifies| ![agray-cool-intensifies](/output/agray-cool-intensifies.gif)|
-|chappie| ![chappie](/output/chappie.png)|
+  ## Emojis (Page 63)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |rakuten| ![rakuten](/output/rakuten.png)|
+  |yahoo_japan| ![yahoo_japan](/output/yahoo_japan.png)|
+  |til-quiet| ![til-quiet](/output/til-quiet.png)|
+  |terraform-sparkling-then-fall-down| ![terraform-sparkling-then-fall-down](/output/terraform-sparkling-then-fall-down.gif)|
+  |stick| ![stick](/output/stick.png)|
+  |stick2| ![stick2](/output/stick2.png)|
+  |lift-weights| ![lift-weights](/output/lift-weights.png)|
+  |greyman| ![greyman](/output/greyman.png)|
+  |greywoman| ![greywoman](/output/greywoman.png)|
+  |laugh_ham| ![laugh_ham](/output/laugh_ham.gif)|
+  |pumpkin_ham| ![pumpkin_ham](/output/pumpkin_ham.gif)|
+  |fireball| ![fireball](/output/fireball.jpg)|
+  |ham_cake| ![ham_cake](/output/ham_cake.gif)|
+  |avril-emoji| ![avril-emoji](/output/avril-emoji.png)|
+  |zoom-close-avril| ![zoom-close-avril](/output/zoom-close-avril.gif)|
+  |avrilintensifies| ![avrilintensifies](/output/avrilintensifies.gif)|
+  |avril-burn| ![avril-burn](/output/avril-burn.gif)|
+  |communityicon_b37n2zfs8k861| ![communityicon_b37n2zfs8k861](/output/communityicon_b37n2zfs8k861.png)|
+  |wsb| ![wsb](/output/wsb.png)|
+  |wallstreetbets| ![wallstreetbets](/output/wallstreetbets.jpg)|
+  |til-channel-share| ![til-channel-share](/output/til-channel-share.png)|
+  |mindblown-channel-share| ![mindblown-channel-share](/output/mindblown-channel-share.gif)|
+  |tmyk-channel-share| ![tmyk-channel-share](/output/tmyk-channel-share.gif)|
+  |drink-coffee| ![drink-coffee](/output/drink-coffee.gif)|
+  |golden-state| ![golden-state](/output/golden-state.png)|
+  |threeuk| ![threeuk](/output/threeuk.png)|
+  |cts-channel-share| ![cts-channel-share](/output/cts-channel-share.png)|
+  |blm| ![blm](/output/blm.png)|
+  |coolcool-amanda| ![coolcool-amanda](/output/coolcool-amanda.gif)|
+  |amandaburn| ![amandaburn](/output/amandaburn.gif)|
+  |amandaangry| ![amandaangry](/output/amandaangry.gif)|
+  |prettypennyintensifies| ![prettypennyintensifies](/output/prettypennyintensifies.gif)|
+  |thetriforce| ![thetriforce](/output/thetriforce.png)|
+  |slam-button-terraform| ![slam-button-terraform](/output/slam-button-terraform.jpg)|
+  |slam-terraform| ![slam-terraform](/output/slam-terraform.png)|
+  |shakesfist-at-aws| ![shakesfist-at-aws](/output/shakesfist-at-aws)|
+  |redpanda| ![redpanda](/output/redpanda.png)|
+  |dont-at-me| ![dont-at-me](/output/dont-at-me.png)|
+  |gondor| ![gondor](/output/gondor.png)|
+  |sphinx| ![sphinx](/output/sphinx.png)|
+  |twisquint| ![twisquint](/output/twisquint.png)|
+  |twibeam| ![twibeam](/output/twibeam.png)|
+  |twidaw| ![twidaw](/output/twidaw.png)|
+  |boo-urns| ![boo-urns](/output/boo-urns.jpg)|
+  |aliens| ![aliens](/output/aliens.png)|
+  |goodgood| ![goodgood](/output/goodgood.png)|
+  |just-do-it| ![just-do-it](/output/just-do-it.png)|
+  |paul-rudd| ![paul-rudd](/output/paul-rudd.png)|
+  |whistle| ![whistle](/output/whistle.png)|
+  |you-are-most-welcome| ![you-are-most-welcome](/output/you-are-most-welcome.png)|
+  |hpux| ![hpux](/output/hpux.jpg)|
+  |aix| ![aix](/output/aix.jpg)|
+  |badjokeeel| ![badjokeeel](/output/badjokeeel.png)|
+  |hip| ![hip](/output/hip.png)|
+  |kent| ![kent](/output/kent.png)|
+  |oh-yay| ![oh-yay](/output/oh-yay.png)|
+  |crumpet| ![crumpet](/output/crumpet.png)|
+  |hashmark| ![hashmark](/output/hashmark.jpg)|
+  |snow-angel| ![snow-angel](/output/snow-angel.gif)|
+  |chef_kiss2| ![chef_kiss2](/output/chef_kiss2.gif)|
+  |space-jam| ![space-jam](/output/space-jam.png)|
+  |zoinks| ![zoinks](/output/zoinks.png)|
+  |zoinks-2| ![zoinks-2](/output/zoinks-2.png)|
+  |3armedsweater| ![3armedsweater](/output/3armedsweater.jpg)|
+  |threearmedsweater| ![threearmedsweater](/output/threearmedsweater)|
+  |anonymous| ![anonymous](/output/anonymous.png)|
+  |goofy| ![goofy](/output/goofy.png)|
+  |canada-sorry| ![canada-sorry](/output/canada-sorry.gif)|
+  |team-terraform-practitioner-intensifies| ![team-terraform-practitioner-intensifies](/output/team-terraform-practitioner-intensifies.gif)|
+  |butler-cat| ![butler-cat](/output/butler-cat.png)|
+  |team-tf-practitioner-da| ![team-tf-practitioner-da](/output/team-tf-practitioner-da.png)|
+  |team-tf-practitioner-sob| ![team-tf-practitioner-sob](/output/team-tf-practitioner-sob.png)|
+  |nyan-team-tf-practitioner| ![nyan-team-tf-practitioner](/output/nyan-team-tf-practitioner.gif)|
+  |team-terraform-practitioner-sad| ![team-terraform-practitioner-sad](/output/team-terraform-practitioner-sad.png)|
+  |team-terraform-practitioner-blood-sob| ![team-terraform-practitioner-blood-sob](/output/team-terraform-practitioner-blood-sob.png)|
+  |team-terraform-practitioner-technologist| ![team-terraform-practitioner-technologist](/output/team-terraform-practitioner-technologist.png)|
+  |team-terraform-practitioner2| ![team-terraform-practitioner2](/output/team-terraform-practitioner2.png)|
+  |team-terraform-practitioner-goth| ![team-terraform-practitioner-goth](/output/team-terraform-practitioner-goth.gif)|
+  |team-terraform-practitioner-cool| ![team-terraform-practitioner-cool](/output/team-terraform-practitioner-cool.gif)|
+  |team-terraform-practitioner-on-fire| ![team-terraform-practitioner-on-fire](/output/team-terraform-practitioner-on-fire.gif)|
+  |team-terraform-practitioner-party| ![team-terraform-practitioner-party](/output/team-terraform-practitioner-party.gif)|
+  |business-skeleton| ![business-skeleton](/output/business-skeleton.jpg)|
+  |read-the-manual| ![read-the-manual](/output/read-the-manual.gif)|
+  |haha-business| ![haha-business](/output/haha-business.png)|
+  |upside-down-canada-flag| ![upside-down-canada-flag](/output/upside-down-canada-flag.png)|
+  |dopamine-hit| ![dopamine-hit](/output/dopamine-hit.gif)|
+  |tooloud| ![tooloud](/output/tooloud.png)|
+  |poohsmile| ![poohsmile](/output/poohsmile.png)|
+  |cold-intensifies| ![cold-intensifies](/output/cold-intensifies.gif)|
+  |wheeze| ![wheeze](/output/wheeze.png)|
+  |elastic| ![elastic](/output/elastic.png)|
+  |osquery| ![osquery](/output/osquery.png)|
+  |trinity| ![trinity](/output/trinity.png)|
+  |sledgehammer| ![sledgehammer](/output/sledgehammer.png)|
+  |nico| ![nico](/output/nico.png)|
+  |lunch-darkly| ![lunch-darkly](/output/lunch-darkly)|
+  |inch-worm| ![inch-worm](/output/inch-worm.png)|
+  |meow_snort| ![meow_snort](/output/meow_snort.png)|
+  |loki| ![loki](/output/loki.png)|
+  |agray-cool| ![agray-cool](/output/agray-cool.png)|
+  

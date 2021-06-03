@@ -1,104 +1,105 @@
 
-## Emojis (Page 52)
-|Emoji Name|Image|
-| :-: | :-: |
-|run-cmd| ![run-cmd](/output/run-cmd.png)|
-|cheer-fox| ![cheer-fox](/output/cheer-fox.gif)|
-|bmo-dance| ![bmo-dance](/output/bmo-dance.gif)|
-|partypete-dance| ![partypete-dance](/output/partypete-dance)|
-|terrynutkins-sob| ![terrynutkins-sob](/output/terrynutkins-sob.png)|
-|terraform-cloud-acceleration-globe| ![terraform-cloud-acceleration-globe](/output/terraform-cloud-acceleration-globe.gif)|
-|cloud-acceleration-globe| ![cloud-acceleration-globe](/output/cloud-acceleration-globe.gif)|
-|cloud-acceleration-waves| ![cloud-acceleration-waves](/output/cloud-acceleration-waves.gif)|
-|terraform-cloud-acceleration-waves| ![terraform-cloud-acceleration-waves](/output/terraform-cloud-acceleration-waves.gif)|
-|terraform-cloud-acceleration-cool| ![terraform-cloud-acceleration-cool](/output/terraform-cloud-acceleration-cool.png)|
-|cloud-acceleration-cool| ![cloud-acceleration-cool](/output/cloud-acceleration-cool.png)|
-|terraform-cloud-acceleration-sob| ![terraform-cloud-acceleration-sob](/output/terraform-cloud-acceleration-sob.png)|
-|cloud-acceleration-sob| ![cloud-acceleration-sob](/output/cloud-acceleration-sob.png)|
-|slam-terraform-cloud-acceleration| ![slam-terraform-cloud-acceleration](/output/slam-terraform-cloud-acceleration.png)|
-|slam-cloud-acceleration| ![slam-cloud-acceleration](/output/slam-cloud-acceleration.png)|
-|nyan-terraform-cloud-acceleration| ![nyan-terraform-cloud-acceleration](/output/nyan-terraform-cloud-acceleration.gif)|
-|nyan-cloud-acceleration| ![nyan-cloud-acceleration](/output/nyan-cloud-acceleration.gif)|
-|goose-honk-sob-terraform-cloud-acceleration| ![goose-honk-sob-terraform-cloud-acceleration](/output/goose-honk-sob-terraform-cloud-acceleration.png)|
-|goose-honk-sob-cloud-acceleration| ![goose-honk-sob-cloud-acceleration](/output/goose-honk-sob-cloud-acceleration.png)|
-|terraform-cloud-acceleration-on-fire| ![terraform-cloud-acceleration-on-fire](/output/terraform-cloud-acceleration-on-fire.gif)|
-|cloud-acceleration-on-fire| ![cloud-acceleration-on-fire](/output/cloud-acceleration-on-fire.gif)|
-|terraform-cloud-acceleration-da| ![terraform-cloud-acceleration-da](/output/terraform-cloud-acceleration-da.png)|
-|cloud-acceleration-da| ![cloud-acceleration-da](/output/cloud-acceleration-da.png)|
-|terraform-cloud-acceleration-blood-sob| ![terraform-cloud-acceleration-blood-sob](/output/terraform-cloud-acceleration-blood-sob.png)|
-|cloud-acceleration-blood-sob| ![cloud-acceleration-blood-sob](/output/cloud-acceleration-blood-sob.png)|
-|goth-terraform-cloud-acceleration| ![goth-terraform-cloud-acceleration](/output/goth-terraform-cloud-acceleration.png)|
-|goth-cloud-acceleration| ![goth-cloud-acceleration](/output/goth-cloud-acceleration.png)|
-|woot| ![woot](/output/woot.png)|
-|toys-r-us| ![toys-r-us](/output/toys-r-us.png)|
-|cabin| ![cabin](/output/cabin.png)|
-|loon| ![loon](/output/loon.png)|
-|jellyfish| ![jellyfish](/output/jellyfish.png)|
-|crunchie| ![crunchie](/output/crunchie.png)|
-|mia_the_doggo| ![mia_the_doggo](/output/mia_the_doggo.png)|
-|angie_the_doggo| ![angie_the_doggo](/output/angie_the_doggo.png)|
-|macy_the_doggo| ![macy_the_doggo](/output/macy_the_doggo.png)|
-|mylo_the_doggo| ![mylo_the_doggo](/output/mylo_the_doggo.png)|
-|the-best| ![the-best](/output/the-best.png)|
-|you-are| ![you-are](/output/you-are.png)|
-|no-problem| ![no-problem](/output/no-problem.png)|
-|no-worries-box| ![no-worries-box](/output/no-worries-box.png)|
-|penguin-love| ![penguin-love](/output/penguin-love.gif)|
-|quark| ![quark](/output/quark.jpg)|
-|mtg-mirage| ![mtg-mirage](/output/mtg-mirage.png)|
-|octo-wave| ![octo-wave](/output/octo-wave.gif)|
-|healer| ![healer](/output/healer.jpg)|
-|weaveworks| ![weaveworks](/output/weaveworks.png)|
-|chloe-intensifies| ![chloe-intensifies](/output/chloe-intensifies.gif)|
-|watercooler| ![watercooler](/output/watercooler.png)|
-|frink| ![frink](/output/frink.png)|
-|cloud-jp| ![cloud-jp](/output/cloud-jp.png)|
-|rubyonrails-intensifies| ![rubyonrails-intensifies](/output/rubyonrails-intensifies.gif)|
-|a11y| ![a11y](/output/a11y.png)|
-|microwave| ![microwave](/output/microwave.jpg)|
-|time_traveller| ![time_traveller](/output/time_traveller.png)|
-|hc-grail| ![hc-grail](/output/hc-grail.png)|
-|interac| ![interac](/output/interac.png)|
-|molly-dog| ![molly-dog](/output/molly-dog.png)|
-|sweaty-cloud-acceleration| ![sweaty-cloud-acceleration](/output/sweaty-cloud-acceleration.png)|
-|sweaty-terraform-cloud-acceleration| ![sweaty-terraform-cloud-acceleration](/output/sweaty-terraform-cloud-acceleration.png)|
-|sweaty-cloud-acceleration1| ![sweaty-cloud-acceleration1](/output/sweaty-cloud-acceleration1.png)|
-|sweaty-cloud-acceleration2| ![sweaty-cloud-acceleration2](/output/sweaty-cloud-acceleration2.png)|
-|sweaty-cloud-acceleration3| ![sweaty-cloud-acceleration3](/output/sweaty-cloud-acceleration3.png)|
-|sweaty-cloud-acceleration4| ![sweaty-cloud-acceleration4](/output/sweaty-cloud-acceleration4.png)|
-|sweaty-terraform-cloud-acceleration1| ![sweaty-terraform-cloud-acceleration1](/output/sweaty-terraform-cloud-acceleration1.png)|
-|sweaty-terraform-cloud-acceleration2| ![sweaty-terraform-cloud-acceleration2](/output/sweaty-terraform-cloud-acceleration2.png)|
-|sweaty-terraform-cloud-acceleration3| ![sweaty-terraform-cloud-acceleration3](/output/sweaty-terraform-cloud-acceleration3.png)|
-|sweaty-terraform-cloud-acceleration4| ![sweaty-terraform-cloud-acceleration4](/output/sweaty-terraform-cloud-acceleration4.png)|
-|jaw-drop| ![jaw-drop](/output/jaw-drop.gif)|
-|kansas| ![kansas](/output/kansas.jpg)|
-|deep-work| ![deep-work](/output/deep-work.png)|
-|game_on| ![game_on](/output/game_on.jpg)|
-|game_on2| ![game_on2](/output/game_on2.jpg)|
-|goose-honk-sob-sweaty-terraform-cloud-acceleration| ![goose-honk-sob-sweaty-terraform-cloud-acceleration](/output/goose-honk-sob-sweaty-terraform-cloud-acceleration.png)|
-|goose-honk-sob-sweaty-cloud-acceleration| ![goose-honk-sob-sweaty-cloud-acceleration](/output/goose-honk-sob-sweaty-cloud-acceleration.png)|
-|goth-goose-honk-sob-sweaty-cloud-acceleration| ![goth-goose-honk-sob-sweaty-cloud-acceleration](/output/goth-goose-honk-sob-sweaty-cloud-acceleration.png)|
-|goth-goose-honk-sob-sweaty-terraform-cloud-acceleration| ![goth-goose-honk-sob-sweaty-terraform-cloud-acceleration](/output/goth-goose-honk-sob-sweaty-terraform-cloud-acceleration.png)|
-|goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies| ![goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies](/output/goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies.gif)|
-|goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies| ![goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies](/output/goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies.gif)|
-|goose-honk-sob-sweaty-cloud-acceleration-intensifies| ![goose-honk-sob-sweaty-cloud-acceleration-intensifies](/output/goose-honk-sob-sweaty-cloud-acceleration-intensifies.gif)|
-|goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies| ![goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies](/output/goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies.gif)|
-|apache| ![apache](/output/apache.png)|
-|tracking| ![tracking](/output/tracking.png)|
-|doormat| ![doormat](/output/doormat.png)|
-|doormat-intensifies| ![doormat-intensifies](/output/doormat-intensifies.gif)|
-|mader| ![mader](/output/mader.jpg)|
-|wassup| ![wassup](/output/wassup.jpg)|
-|mlb_cleveland| ![mlb_cleveland](/output/mlb_cleveland.png)|
-|mighty-ducks| ![mighty-ducks](/output/mighty-ducks.png)|
-|cloud-zack| ![cloud-zack](/output/cloud-zack.png)|
-|letsgomagic| ![letsgomagic](/output/letsgomagic.jpg)|
-|orlandomagic| ![orlandomagic](/output/orlandomagic.png)|
-|mighty-ducks-intensifies| ![mighty-ducks-intensifies](/output/mighty-ducks-intensifies.gif)|
-|nomad-glad| ![nomad-glad](/output/nomad-glad)|
-|cross_talk| ![cross_talk](/output/cross_talk.png)|
-|mjolnir| ![mjolnir](/output/mjolnir.png)|
-|mentos-gum| ![mentos-gum](/output/mentos-gum.png)|
-|heart-eyes-marx| ![heart-eyes-marx](/output/heart-eyes-marx.png)|
-|maybe| ![maybe](/output/maybe.png)|
-|mos-def| ![mos-def](/output/mos-def.png)|
+  ## Emojis (Page 52)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |go-team-pennant| ![go-team-pennant](/output/go-team-pennant.png)|
+  |go-team-megaphone| ![go-team-megaphone](/output/go-team-megaphone.png)|
+  |chart_with_no_trend| ![chart_with_no_trend](/output/chart_with_no_trend.png)|
+  |run-cmd| ![run-cmd](/output/run-cmd.png)|
+  |cheer-fox| ![cheer-fox](/output/cheer-fox.gif)|
+  |bmo-dance| ![bmo-dance](/output/bmo-dance.gif)|
+  |partypete-dance| ![partypete-dance](/output/partypete-dance)|
+  |terrynutkins-sob| ![terrynutkins-sob](/output/terrynutkins-sob.png)|
+  |terraform-cloud-acceleration-globe| ![terraform-cloud-acceleration-globe](/output/terraform-cloud-acceleration-globe.gif)|
+  |cloud-acceleration-globe| ![cloud-acceleration-globe](/output/cloud-acceleration-globe.gif)|
+  |cloud-acceleration-waves| ![cloud-acceleration-waves](/output/cloud-acceleration-waves.gif)|
+  |terraform-cloud-acceleration-waves| ![terraform-cloud-acceleration-waves](/output/terraform-cloud-acceleration-waves.gif)|
+  |terraform-cloud-acceleration-cool| ![terraform-cloud-acceleration-cool](/output/terraform-cloud-acceleration-cool.png)|
+  |cloud-acceleration-cool| ![cloud-acceleration-cool](/output/cloud-acceleration-cool.png)|
+  |terraform-cloud-acceleration-sob| ![terraform-cloud-acceleration-sob](/output/terraform-cloud-acceleration-sob.png)|
+  |cloud-acceleration-sob| ![cloud-acceleration-sob](/output/cloud-acceleration-sob.png)|
+  |slam-terraform-cloud-acceleration| ![slam-terraform-cloud-acceleration](/output/slam-terraform-cloud-acceleration.png)|
+  |slam-cloud-acceleration| ![slam-cloud-acceleration](/output/slam-cloud-acceleration.png)|
+  |nyan-terraform-cloud-acceleration| ![nyan-terraform-cloud-acceleration](/output/nyan-terraform-cloud-acceleration.gif)|
+  |nyan-cloud-acceleration| ![nyan-cloud-acceleration](/output/nyan-cloud-acceleration.gif)|
+  |goose-honk-sob-terraform-cloud-acceleration| ![goose-honk-sob-terraform-cloud-acceleration](/output/goose-honk-sob-terraform-cloud-acceleration.png)|
+  |goose-honk-sob-cloud-acceleration| ![goose-honk-sob-cloud-acceleration](/output/goose-honk-sob-cloud-acceleration.png)|
+  |terraform-cloud-acceleration-on-fire| ![terraform-cloud-acceleration-on-fire](/output/terraform-cloud-acceleration-on-fire.gif)|
+  |cloud-acceleration-on-fire| ![cloud-acceleration-on-fire](/output/cloud-acceleration-on-fire.gif)|
+  |terraform-cloud-acceleration-da| ![terraform-cloud-acceleration-da](/output/terraform-cloud-acceleration-da.png)|
+  |cloud-acceleration-da| ![cloud-acceleration-da](/output/cloud-acceleration-da.png)|
+  |terraform-cloud-acceleration-blood-sob| ![terraform-cloud-acceleration-blood-sob](/output/terraform-cloud-acceleration-blood-sob.png)|
+  |cloud-acceleration-blood-sob| ![cloud-acceleration-blood-sob](/output/cloud-acceleration-blood-sob.png)|
+  |goth-terraform-cloud-acceleration| ![goth-terraform-cloud-acceleration](/output/goth-terraform-cloud-acceleration.png)|
+  |goth-cloud-acceleration| ![goth-cloud-acceleration](/output/goth-cloud-acceleration.png)|
+  |woot| ![woot](/output/woot.png)|
+  |toys-r-us| ![toys-r-us](/output/toys-r-us.png)|
+  |cabin| ![cabin](/output/cabin.png)|
+  |loon| ![loon](/output/loon.png)|
+  |jellyfish| ![jellyfish](/output/jellyfish.png)|
+  |crunchie| ![crunchie](/output/crunchie.png)|
+  |mia_the_doggo| ![mia_the_doggo](/output/mia_the_doggo.png)|
+  |angie_the_doggo| ![angie_the_doggo](/output/angie_the_doggo.png)|
+  |macy_the_doggo| ![macy_the_doggo](/output/macy_the_doggo.png)|
+  |mylo_the_doggo| ![mylo_the_doggo](/output/mylo_the_doggo.png)|
+  |the-best| ![the-best](/output/the-best.png)|
+  |you-are| ![you-are](/output/you-are.png)|
+  |no-problem| ![no-problem](/output/no-problem.png)|
+  |no-worries-box| ![no-worries-box](/output/no-worries-box.png)|
+  |penguin-love| ![penguin-love](/output/penguin-love.gif)|
+  |quark| ![quark](/output/quark.jpg)|
+  |mtg-mirage| ![mtg-mirage](/output/mtg-mirage.png)|
+  |octo-wave| ![octo-wave](/output/octo-wave.gif)|
+  |healer| ![healer](/output/healer.jpg)|
+  |weaveworks| ![weaveworks](/output/weaveworks.png)|
+  |chloe-intensifies| ![chloe-intensifies](/output/chloe-intensifies.gif)|
+  |watercooler| ![watercooler](/output/watercooler.png)|
+  |frink| ![frink](/output/frink.png)|
+  |cloud-jp| ![cloud-jp](/output/cloud-jp.png)|
+  |rubyonrails-intensifies| ![rubyonrails-intensifies](/output/rubyonrails-intensifies.gif)|
+  |a11y| ![a11y](/output/a11y.png)|
+  |microwave| ![microwave](/output/microwave.jpg)|
+  |time_traveller| ![time_traveller](/output/time_traveller.png)|
+  |hc-grail| ![hc-grail](/output/hc-grail.png)|
+  |interac| ![interac](/output/interac.png)|
+  |molly-dog| ![molly-dog](/output/molly-dog.png)|
+  |sweaty-cloud-acceleration| ![sweaty-cloud-acceleration](/output/sweaty-cloud-acceleration.png)|
+  |sweaty-terraform-cloud-acceleration| ![sweaty-terraform-cloud-acceleration](/output/sweaty-terraform-cloud-acceleration.png)|
+  |sweaty-cloud-acceleration1| ![sweaty-cloud-acceleration1](/output/sweaty-cloud-acceleration1.png)|
+  |sweaty-cloud-acceleration2| ![sweaty-cloud-acceleration2](/output/sweaty-cloud-acceleration2.png)|
+  |sweaty-cloud-acceleration3| ![sweaty-cloud-acceleration3](/output/sweaty-cloud-acceleration3.png)|
+  |sweaty-cloud-acceleration4| ![sweaty-cloud-acceleration4](/output/sweaty-cloud-acceleration4.png)|
+  |sweaty-terraform-cloud-acceleration1| ![sweaty-terraform-cloud-acceleration1](/output/sweaty-terraform-cloud-acceleration1.png)|
+  |sweaty-terraform-cloud-acceleration2| ![sweaty-terraform-cloud-acceleration2](/output/sweaty-terraform-cloud-acceleration2.png)|
+  |sweaty-terraform-cloud-acceleration3| ![sweaty-terraform-cloud-acceleration3](/output/sweaty-terraform-cloud-acceleration3.png)|
+  |sweaty-terraform-cloud-acceleration4| ![sweaty-terraform-cloud-acceleration4](/output/sweaty-terraform-cloud-acceleration4.png)|
+  |jaw-drop| ![jaw-drop](/output/jaw-drop.gif)|
+  |kansas| ![kansas](/output/kansas.jpg)|
+  |deep-work| ![deep-work](/output/deep-work.png)|
+  |game_on| ![game_on](/output/game_on.jpg)|
+  |game_on2| ![game_on2](/output/game_on2.jpg)|
+  |goose-honk-sob-sweaty-terraform-cloud-acceleration| ![goose-honk-sob-sweaty-terraform-cloud-acceleration](/output/goose-honk-sob-sweaty-terraform-cloud-acceleration.png)|
+  |goose-honk-sob-sweaty-cloud-acceleration| ![goose-honk-sob-sweaty-cloud-acceleration](/output/goose-honk-sob-sweaty-cloud-acceleration.png)|
+  |goth-goose-honk-sob-sweaty-cloud-acceleration| ![goth-goose-honk-sob-sweaty-cloud-acceleration](/output/goth-goose-honk-sob-sweaty-cloud-acceleration.png)|
+  |goth-goose-honk-sob-sweaty-terraform-cloud-acceleration| ![goth-goose-honk-sob-sweaty-terraform-cloud-acceleration](/output/goth-goose-honk-sob-sweaty-terraform-cloud-acceleration.png)|
+  |goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies| ![goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies](/output/goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies.gif)|
+  |goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies| ![goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies](/output/goth-goose-honk-sob-sweaty-terraform-cloud-acceleration-intensifies.gif)|
+  |goose-honk-sob-sweaty-cloud-acceleration-intensifies| ![goose-honk-sob-sweaty-cloud-acceleration-intensifies](/output/goose-honk-sob-sweaty-cloud-acceleration-intensifies.gif)|
+  |goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies| ![goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies](/output/goth-goose-honk-sob-sweaty-cloud-acceleration-intensifies.gif)|
+  |apache| ![apache](/output/apache.png)|
+  |tracking| ![tracking](/output/tracking.png)|
+  |doormat| ![doormat](/output/doormat.png)|
+  |doormat-intensifies| ![doormat-intensifies](/output/doormat-intensifies.gif)|
+  |mader| ![mader](/output/mader.jpg)|
+  |wassup| ![wassup](/output/wassup.jpg)|
+  |mlb_cleveland| ![mlb_cleveland](/output/mlb_cleveland.png)|
+  |mighty-ducks| ![mighty-ducks](/output/mighty-ducks.png)|
+  |cloud-zack| ![cloud-zack](/output/cloud-zack.png)|
+  |letsgomagic| ![letsgomagic](/output/letsgomagic.jpg)|
+  |orlandomagic| ![orlandomagic](/output/orlandomagic.png)|
+  |mighty-ducks-intensifies| ![mighty-ducks-intensifies](/output/mighty-ducks-intensifies.gif)|
+  |nomad-glad| ![nomad-glad](/output/nomad-glad)|
+  |cross_talk| ![cross_talk](/output/cross_talk.png)|
+  |mjolnir| ![mjolnir](/output/mjolnir.png)|
+  |mentos-gum| ![mentos-gum](/output/mentos-gum.png)|
+  

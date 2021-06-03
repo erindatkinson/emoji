@@ -1,104 +1,105 @@
 
-## Emojis (Page 48)
-|Emoji Name|Image|
-| :-: | :-: |
-|quay-da| ![quay-da](/output/quay-da.png)|
-|quay-cry| ![quay-cry](/output/quay-cry.png)|
-|quay-on-fire| ![quay-on-fire](/output/quay-on-fire.gif)|
-|quay-sob| ![quay-sob](/output/quay-sob.png)|
-|quay-blood-sob| ![quay-blood-sob](/output/quay-blood-sob.png)|
-|goose-honk-sob-quay| ![goose-honk-sob-quay](/output/goose-honk-sob-quay.png)|
-|blood-sob-technologist| ![blood-sob-technologist](/output/blood-sob-technologist.png)|
-|sob-technologist| ![sob-technologist](/output/sob-technologist.png)|
-|goose-honk-sob-yubikey| ![goose-honk-sob-yubikey](/output/goose-honk-sob-yubikey.png)|
-|goth-quay| ![goth-quay](/output/goth-quay.png)|
-|lolsob_kubernetes_blood| ![lolsob_kubernetes_blood](/output/lolsob_kubernetes_blood.png)|
-|lolsob_replicated_blood| ![lolsob_replicated_blood](/output/lolsob_replicated_blood.png)|
-|lunch-technologist| ![lunch-technologist](/output/lunch-technologist.png)|
-|cheese-fries-technologist| ![cheese-fries-technologist](/output/cheese-fries-technologist.png)|
-|cheese-fries-da| ![cheese-fries-da](/output/cheese-fries-da.png)|
-|cheese-fries-sob-da| ![cheese-fries-sob-da](/output/cheese-fries-sob-da.png)|
-|cheese-fries-sob| ![cheese-fries-sob](/output/cheese-fries-sob.png)|
-|cheese-fries-joy| ![cheese-fries-joy](/output/cheese-fries-joy.png)|
-|goth-cheese-fries| ![goth-cheese-fries](/output/goth-cheese-fries.png)|
-|cheese-fries-intensifies| ![cheese-fries-intensifies](/output/cheese-fries-intensifies.gif)|
-|quay-intensifies| ![quay-intensifies](/output/quay-intensifies.gif)|
-|yubikey-intensifies| ![yubikey-intensifies](/output/yubikey-intensifies.gif)|
-|petros_intensifies| ![petros_intensifies](/output/petros_intensifies.gif)|
-|adele| ![adele](/output/adele.jpg)|
-|rumor-has-it| ![rumor-has-it](/output/rumor-has-it)|
-|brussel-sprout| ![brussel-sprout](/output/brussel-sprout.png)|
-|brussel-sprout-da| ![brussel-sprout-da](/output/brussel-sprout-da.png)|
-|true-slack| ![true-slack](/output/true-slack.png)|
-|vinnie| ![vinnie](/output/vinnie.png)|
-|grumpy-cat-kitzia| ![grumpy-cat-kitzia](/output/grumpy-cat-kitzia.jpg)|
-|kitzia-no| ![kitzia-no](/output/kitzia-no.png)|
-|i_got_this| ![i_got_this](/output/i_got_this.jpg)|
-|cat-whaaaat| ![cat-whaaaat](/output/cat-whaaaat.png)|
-|shrugging-russ-intensifies| ![shrugging-russ-intensifies](/output/shrugging-russ-intensifies.gif)|
-|eu-intensifies| ![eu-intensifies](/output/eu-intensifies.gif)|
-|einstein| ![einstein](/output/einstein.jpg)|
-|roast_duck| ![roast_duck](/output/roast_duck.png)|
-|scream-into-the-void| ![scream-into-the-void](/output/scream-into-the-void.gif)|
-|back-to-the-future| ![back-to-the-future](/output/back-to-the-future.png)|
-|fascinating| ![fascinating](/output/fascinating.jpg)|
-|evernote| ![evernote](/output/evernote.png)|
-|turtle_dance| ![turtle_dance](/output/turtle_dance.gif)|
-|brain-flex| ![brain-flex](/output/brain-flex.png)|
-|bash-into-the-void| ![bash-into-the-void](/output/bash-into-the-void.gif)|
-|bash-sob| ![bash-sob](/output/bash-sob.png)|
-|bash-blood-sob| ![bash-blood-sob](/output/bash-blood-sob.png)|
-|goth-bash| ![goth-bash](/output/goth-bash.png)|
-|infinite-bash| ![infinite-bash](/output/infinite-bash.gif)|
-|heart_eyes_puke| ![heart_eyes_puke](/output/heart_eyes_puke.png)|
-|walterwhite| ![walterwhite](/output/walterwhite.png)|
-|jessepinkman| ![jessepinkman](/output/jessepinkman.png)|
-|hankshrader| ![hankshrader](/output/hankshrader.png)|
-|sweaty_blob| ![sweaty_blob](/output/sweaty_blob.png)|
-|cowboy_cat-ultra| ![cowboy_cat-ultra](/output/cowboy_cat-ultra.png)|
-|whoops| ![whoops](/output/whoops.jpg)|
-|patrick-shocked| ![patrick-shocked](/output/patrick-shocked.jpg)|
-|david-schitt| ![david-schitt](/output/david-schitt.png)|
-|alexis-schitt| ![alexis-schitt](/output/alexis-schitt.png)|
-|moira-schitt| ![moira-schitt](/output/moira-schitt.png)|
-|sideeye-left| ![sideeye-left](/output/sideeye-left.png)|
-|rabbit-cry-intensifies| ![rabbit-cry-intensifies](/output/rabbit-cry-intensifies.gif)|
-|pull-request-intensifies| ![pull-request-intensifies](/output/pull-request-intensifies.gif)|
-|cool_sunglasses_cowboy| ![cool_sunglasses_cowboy](/output/cool_sunglasses_cowboy.png)|
-|west-coast| ![west-coast](/output/west-coast.png)|
-|cloud-paul| ![cloud-paul](/output/cloud-paul.png)|
-|cloud-agray| ![cloud-agray](/output/cloud-agray)|
-|smudge| ![smudge](/output/smudge.png)|
-|email-da| ![email-da](/output/email-da.png)|
-|blob-oof| ![blob-oof](/output/blob-oof.png)|
-|oof-100| ![oof-100](/output/oof-100.png)|
-|thankyou| ![thankyou](/output/thankyou.png)|
-|allo-love| ![allo-love](/output/allo-love.gif)|
-|hrm| ![hrm](/output/hrm.png)|
-|brainfart| ![brainfart](/output/brainfart.gif)|
-|roll-canary| ![roll-canary](/output/roll-canary.gif)|
-|canary-intensifies| ![canary-intensifies](/output/canary-intensifies.gif)|
-|yak-intensifies| ![yak-intensifies](/output/yak-intensifies.gif)|
-|glitchcat| ![glitchcat](/output/glitchcat.gif)|
-|aww_blob| ![aww_blob](/output/aww_blob.png)|
-|comfy_blob| ![comfy_blob](/output/comfy_blob.png)|
-|cozy_blob| ![cozy_blob](/output/cozy_blob)|
-|aww_yeah| ![aww_yeah](/output/aww_yeah.gif)|
-|ori| ![ori](/output/ori.jpg)|
-|yikes_frog| ![yikes_frog](/output/yikes_frog.png)|
-|the_padfoot| ![the_padfoot](/output/the_padfoot.png)|
-|k8s-party-parrot| ![k8s-party-parrot](/output/k8s-party-parrot.gif)|
-|glhf| ![glhf](/output/glhf.png)|
-|they_pronoun| ![they_pronoun](/output/they_pronoun.png)|
-|blob_dance| ![blob_dance](/output/blob_dance.gif)|
-|llama_dance| ![llama_dance](/output/llama_dance.gif)|
-|cat_dance| ![cat_dance](/output/cat_dance.gif)|
-|party_trash_blob| ![party_trash_blob](/output/party_trash_blob.gif)|
-|femme-love| ![femme-love](/output/femme-love.gif)|
-|terraform-rfc-da-intensifies| ![terraform-rfc-da-intensifies](/output/terraform-rfc-da-intensifies.gif)|
-|snake_cowboy| ![snake_cowboy](/output/snake_cowboy.png)|
-|amazing-2| ![amazing-2](/output/amazing-2)|
-|folks| ![folks](/output/folks.gif)|
-|happy_cry| ![happy_cry](/output/happy_cry.png)|
-|big_ham| ![big_ham](/output/big_ham.gif)|
-|dance_ham| ![dance_ham](/output/dance_ham.gif)|
+  ## Emojis (Page 48)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |da-waves| ![da-waves](/output/da-waves.gif)|
+  |yubikey-da| ![yubikey-da](/output/yubikey-da.png)|
+  |yubikey-technologist| ![yubikey-technologist](/output/yubikey-technologist.png)|
+  |quay-da| ![quay-da](/output/quay-da.png)|
+  |quay-cry| ![quay-cry](/output/quay-cry.png)|
+  |quay-on-fire| ![quay-on-fire](/output/quay-on-fire.gif)|
+  |quay-sob| ![quay-sob](/output/quay-sob.png)|
+  |quay-blood-sob| ![quay-blood-sob](/output/quay-blood-sob.png)|
+  |goose-honk-sob-quay| ![goose-honk-sob-quay](/output/goose-honk-sob-quay.png)|
+  |blood-sob-technologist| ![blood-sob-technologist](/output/blood-sob-technologist.png)|
+  |sob-technologist| ![sob-technologist](/output/sob-technologist.png)|
+  |goose-honk-sob-yubikey| ![goose-honk-sob-yubikey](/output/goose-honk-sob-yubikey.png)|
+  |goth-quay| ![goth-quay](/output/goth-quay.png)|
+  |lolsob_kubernetes_blood| ![lolsob_kubernetes_blood](/output/lolsob_kubernetes_blood.png)|
+  |lolsob_replicated_blood| ![lolsob_replicated_blood](/output/lolsob_replicated_blood.png)|
+  |lunch-technologist| ![lunch-technologist](/output/lunch-technologist.png)|
+  |cheese-fries-technologist| ![cheese-fries-technologist](/output/cheese-fries-technologist.png)|
+  |cheese-fries-da| ![cheese-fries-da](/output/cheese-fries-da.png)|
+  |cheese-fries-sob-da| ![cheese-fries-sob-da](/output/cheese-fries-sob-da.png)|
+  |cheese-fries-sob| ![cheese-fries-sob](/output/cheese-fries-sob.png)|
+  |cheese-fries-joy| ![cheese-fries-joy](/output/cheese-fries-joy.png)|
+  |goth-cheese-fries| ![goth-cheese-fries](/output/goth-cheese-fries.png)|
+  |cheese-fries-intensifies| ![cheese-fries-intensifies](/output/cheese-fries-intensifies.gif)|
+  |quay-intensifies| ![quay-intensifies](/output/quay-intensifies.gif)|
+  |yubikey-intensifies| ![yubikey-intensifies](/output/yubikey-intensifies.gif)|
+  |petros_intensifies| ![petros_intensifies](/output/petros_intensifies.gif)|
+  |adele| ![adele](/output/adele.jpg)|
+  |rumor-has-it| ![rumor-has-it](/output/rumor-has-it)|
+  |brussel-sprout| ![brussel-sprout](/output/brussel-sprout.png)|
+  |brussel-sprout-da| ![brussel-sprout-da](/output/brussel-sprout-da.png)|
+  |true-slack| ![true-slack](/output/true-slack.png)|
+  |vinnie| ![vinnie](/output/vinnie.png)|
+  |grumpy-cat-kitzia| ![grumpy-cat-kitzia](/output/grumpy-cat-kitzia.jpg)|
+  |kitzia-no| ![kitzia-no](/output/kitzia-no.png)|
+  |i_got_this| ![i_got_this](/output/i_got_this.jpg)|
+  |cat-whaaaat| ![cat-whaaaat](/output/cat-whaaaat.png)|
+  |shrugging-russ-intensifies| ![shrugging-russ-intensifies](/output/shrugging-russ-intensifies.gif)|
+  |eu-intensifies| ![eu-intensifies](/output/eu-intensifies.gif)|
+  |einstein| ![einstein](/output/einstein.jpg)|
+  |roast_duck| ![roast_duck](/output/roast_duck.png)|
+  |scream-into-the-void| ![scream-into-the-void](/output/scream-into-the-void.gif)|
+  |back-to-the-future| ![back-to-the-future](/output/back-to-the-future.png)|
+  |fascinating| ![fascinating](/output/fascinating.jpg)|
+  |evernote| ![evernote](/output/evernote.png)|
+  |turtle_dance| ![turtle_dance](/output/turtle_dance.gif)|
+  |brain-flex| ![brain-flex](/output/brain-flex.png)|
+  |bash-into-the-void| ![bash-into-the-void](/output/bash-into-the-void.gif)|
+  |bash-sob| ![bash-sob](/output/bash-sob.png)|
+  |bash-blood-sob| ![bash-blood-sob](/output/bash-blood-sob.png)|
+  |goth-bash| ![goth-bash](/output/goth-bash.png)|
+  |infinite-bash| ![infinite-bash](/output/infinite-bash.gif)|
+  |heart_eyes_puke| ![heart_eyes_puke](/output/heart_eyes_puke.png)|
+  |walterwhite| ![walterwhite](/output/walterwhite.png)|
+  |jessepinkman| ![jessepinkman](/output/jessepinkman.png)|
+  |hankshrader| ![hankshrader](/output/hankshrader.png)|
+  |sweaty_blob| ![sweaty_blob](/output/sweaty_blob.png)|
+  |cowboy_cat-ultra| ![cowboy_cat-ultra](/output/cowboy_cat-ultra.png)|
+  |whoops| ![whoops](/output/whoops.jpg)|
+  |patrick-shocked| ![patrick-shocked](/output/patrick-shocked.jpg)|
+  |david-schitt| ![david-schitt](/output/david-schitt.png)|
+  |alexis-schitt| ![alexis-schitt](/output/alexis-schitt.png)|
+  |moira-schitt| ![moira-schitt](/output/moira-schitt.png)|
+  |sideeye-left| ![sideeye-left](/output/sideeye-left.png)|
+  |rabbit-cry-intensifies| ![rabbit-cry-intensifies](/output/rabbit-cry-intensifies.gif)|
+  |pull-request-intensifies| ![pull-request-intensifies](/output/pull-request-intensifies.gif)|
+  |cool_sunglasses_cowboy| ![cool_sunglasses_cowboy](/output/cool_sunglasses_cowboy.png)|
+  |west-coast| ![west-coast](/output/west-coast.png)|
+  |cloud-paul| ![cloud-paul](/output/cloud-paul.png)|
+  |cloud-agray| ![cloud-agray](/output/cloud-agray)|
+  |smudge| ![smudge](/output/smudge.png)|
+  |email-da| ![email-da](/output/email-da.png)|
+  |blob-oof| ![blob-oof](/output/blob-oof.png)|
+  |oof-100| ![oof-100](/output/oof-100.png)|
+  |thankyou| ![thankyou](/output/thankyou.png)|
+  |allo-love| ![allo-love](/output/allo-love.gif)|
+  |hrm| ![hrm](/output/hrm.png)|
+  |brainfart| ![brainfart](/output/brainfart.gif)|
+  |roll-canary| ![roll-canary](/output/roll-canary.gif)|
+  |canary-intensifies| ![canary-intensifies](/output/canary-intensifies.gif)|
+  |yak-intensifies| ![yak-intensifies](/output/yak-intensifies.gif)|
+  |glitchcat| ![glitchcat](/output/glitchcat.gif)|
+  |aww_blob| ![aww_blob](/output/aww_blob.png)|
+  |comfy_blob| ![comfy_blob](/output/comfy_blob.png)|
+  |cozy_blob| ![cozy_blob](/output/cozy_blob)|
+  |aww_yeah| ![aww_yeah](/output/aww_yeah.gif)|
+  |ori| ![ori](/output/ori.jpg)|
+  |yikes_frog| ![yikes_frog](/output/yikes_frog.png)|
+  |the_padfoot| ![the_padfoot](/output/the_padfoot.png)|
+  |k8s-party-parrot| ![k8s-party-parrot](/output/k8s-party-parrot.gif)|
+  |glhf| ![glhf](/output/glhf.png)|
+  |they_pronoun| ![they_pronoun](/output/they_pronoun.png)|
+  |blob_dance| ![blob_dance](/output/blob_dance.gif)|
+  |llama_dance| ![llama_dance](/output/llama_dance.gif)|
+  |cat_dance| ![cat_dance](/output/cat_dance.gif)|
+  |party_trash_blob| ![party_trash_blob](/output/party_trash_blob.gif)|
+  |femme-love| ![femme-love](/output/femme-love.gif)|
+  |terraform-rfc-da-intensifies| ![terraform-rfc-da-intensifies](/output/terraform-rfc-da-intensifies.gif)|
+  |snake_cowboy| ![snake_cowboy](/output/snake_cowboy.png)|
+  |amazing-2| ![amazing-2](/output/amazing-2)|
+  |folks| ![folks](/output/folks.gif)|
+  

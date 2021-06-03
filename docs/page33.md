@@ -1,104 +1,105 @@
 
-## Emojis (Page 33)
-|Emoji Name|Image|
-| :-: | :-: |
-|goose-da| ![goose-da](/output/goose-da)|
-|goose-honk-da| ![goose-honk-da](/output/goose-honk-da)|
-|cowboy_cat-cool| ![cowboy_cat-cool](/output/cowboy_cat-cool)|
-|goose-honk-globe| ![goose-honk-globe](/output/goose-honk-globe.gif)|
-|goose-honk-waves| ![goose-honk-waves](/output/goose-honk-waves.gif)|
-|waffles-cool| ![waffles-cool](/output/waffles-cool.png)|
-|waffles-waves| ![waffles-waves](/output/waffles-waves.gif)|
-|waffles-rage| ![waffles-rage](/output/waffles-rage.png)|
-|cowboy_cat-waves| ![cowboy_cat-waves](/output/cowboy_cat-waves.gif)|
-|waffles-party| ![waffles-party](/output/waffles-party.gif)|
-|cowboy_cat-party| ![cowboy_cat-party](/output/cowboy_cat-party.gif)|
-|waffles-spin| ![waffles-spin](/output/waffles-spin.gif)|
-|nyan-cowboy_cat| ![nyan-cowboy_cat](/output/nyan-cowboy_cat.gif)|
-|metal-cat| ![metal-cat](/output/metal-cat.png)|
-|nail-fire| ![nail-fire](/output/nail-fire.png)|
-|dancing-baby-finn| ![dancing-baby-finn](/output/dancing-baby-finn.gif)|
-|pear-intensifies| ![pear-intensifies](/output/pear-intensifies.gif)|
-|pear_intensifies| ![pear_intensifies](/output/pear_intensifies)|
-|mint| ![mint](/output/mint.png)|
-|penguin_technologist| ![penguin_technologist](/output/penguin_technologist.png)|
-|cat_technologist_transparent| ![cat_technologist_transparent](/output/cat_technologist_transparent.png)|
-|cloudman| ![cloudman](/output/cloudman.png)|
-|redford-yes| ![redford-yes](/output/redford-yes.gif)|
-|panbeh| ![panbeh](/output/panbeh.png)|
-|babyyoda| ![babyyoda](/output/babyyoda.png)|
-|zombie-mode| ![zombie-mode](/output/zombie-mode.gif)|
-|babyyoda2| ![babyyoda2](/output/babyyoda2.png)|
-|babyyoda3| ![babyyoda3](/output/babyyoda3.jpg)|
-|trollcute| ![trollcute](/output/trollcute.png)|
-|ublock-origin| ![ublock-origin](/output/ublock-origin.png)|
-|hogwarts-crest| ![hogwarts-crest](/output/hogwarts-crest.png)|
-|ravenclaw| ![ravenclaw](/output/ravenclaw.png)|
-|slytherin| ![slytherin](/output/slytherin.png)|
-|gryffindor| ![gryffindor](/output/gryffindor.png)|
-|hufflepuff| ![hufflepuff](/output/hufflepuff.png)|
-|dazn| ![dazn](/output/dazn.png)|
-|tadaish| ![tadaish](/output/tadaish.png)|
-|barfing-nerd| ![barfing-nerd](/output/barfing-nerd.png)|
-|barfing-rage| ![barfing-rage](/output/barfing-rage.png)|
-|barfing-sobbing| ![barfing-sobbing](/output/barfing-sobbing.png)|
-|barfing-sleepy| ![barfing-sleepy](/output/barfing-sleepy.png)|
-|eye-rolling-barfing| ![eye-rolling-barfing](/output/eye-rolling-barfing.png)|
-|angry-penguin| ![angry-penguin](/output/angry-penguin.png)|
-|shadowing| ![shadowing](/output/shadowing.jpg)|
-|google_slides| ![google_slides](/output/google_slides.png)|
-|bureaucracy| ![bureaucracy](/output/bureaucracy.png)|
-|blob-dance| ![blob-dance](/output/blob-dance.gif)|
-|meowparty| ![meowparty](/output/meowparty.gif)|
-|rainbow6_goose| ![rainbow6_goose](/output/rainbow6_goose.png)|
-|rainbow6_honk| ![rainbow6_honk](/output/rainbow6_honk)|
-|spider_neat| ![spider_neat](/output/spider_neat.gif)|
-|nyan-zoom| ![nyan-zoom](/output/nyan-zoom.gif)|
-|zoom-sob| ![zoom-sob](/output/zoom-sob.png)|
-|goose-honk-trippy| ![goose-honk-trippy](/output/goose-honk-trippy.gif)|
-|waffles-melting| ![waffles-melting](/output/waffles-melting.gif)|
-|goose-honk-melting| ![goose-honk-melting](/output/goose-honk-melting.gif)|
-|they| ![they](/output/they.jpg)|
-|rotterdam| ![rotterdam](/output/rotterdam.png)|
-|ethiopia| ![ethiopia](/output/ethiopia.png)|
-|caffeine| ![caffeine](/output/caffeine.png)|
-|todoist| ![todoist](/output/todoist.png)|
-|cybertruck| ![cybertruck](/output/cybertruck.png)|
-|never-ending| ![never-ending](/output/never-ending.png)|
-|jandal| ![jandal](/output/jandal.jpg)|
-|jandal-intensifies| ![jandal-intensifies](/output/jandal-intensifies.gif)|
-|awww| ![awww](/output/awww.png)|
-|man-shrugging-color-russ| ![man-shrugging-color-russ](/output/man-shrugging-color-russ.png)|
-|flan1| ![flan1](/output/flan1.png)|
-|cloudflare| ![cloudflare](/output/cloudflare.png)|
-|aws-intensifies| ![aws-intensifies](/output/aws-intensifies.gif)|
-|sticky| ![sticky](/output/sticky.jpg)|
-|lolsob2| ![lolsob2](/output/lolsob2.png)|
-|lolsobs| ![lolsobs](/output/lolsobs)|
-|lord-quas| ![lord-quas](/output/lord-quas.gif)|
-|björk| ![björk](/output/björk.png)|
-|bjorkquiet| ![bjorkquiet](/output/bjorkquiet.png)|
-|feelbetter| ![feelbetter](/output/feelbetter.gif)|
-|wave_smile| ![wave_smile](/output/wave_smile.gif)|
-|envoy-da| ![envoy-da](/output/envoy-da.png)|
-|mandalorian| ![mandalorian](/output/mandalorian.jpg)|
-|moji| ![moji](/output/moji.png)|
-|apex_charts| ![apex_charts](/output/apex_charts.png)|
-|svelte| ![svelte](/output/svelte.png)|
-|alisdair-waves| ![alisdair-waves](/output/alisdair-waves.gif)|
-|click| ![click](/output/click.gif)|
-|bjork2| ![bjork2](/output/bjork2.png)|
-|true-story| ![true-story](/output/true-story.png)|
-|meh-hand-left| ![meh-hand-left](/output/meh-hand-left.png)|
-|meh-hand-right| ![meh-hand-right](/output/meh-hand-right.png)|
-|meh-hand| ![meh-hand](/output/meh-hand)|
-|wave-waves| ![wave-waves](/output/wave-waves.gif)|
-|bulma| ![bulma](/output/bulma.png)|
-|nomnom| ![nomnom](/output/nomnom.png)|
-|geekbot-sob| ![geekbot-sob](/output/geekbot-sob.png)|
-|seattle| ![seattle](/output/seattle.png)|
-|exasperated-alvin| ![exasperated-alvin](/output/exasperated-alvin.png)|
-|mando| ![mando](/output/mando.jpg)|
-|whateverbrian| ![whateverbrian](/output/whateverbrian.png)|
-|titan_usb_c| ![titan_usb_c](/output/titan_usb_c.png)|
-|noob| ![noob](/output/noob.png)|
+  ## Emojis (Page 33)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |goose-honk-right-da| ![goose-honk-right-da](/output/goose-honk-right-da.png)|
+  |goose-da-right| ![goose-da-right](/output/goose-da-right.png)|
+  |goose-da| ![goose-da](/output/goose-da)|
+  |goose-honk-da| ![goose-honk-da](/output/goose-honk-da)|
+  |cowboy_cat-cool| ![cowboy_cat-cool](/output/cowboy_cat-cool)|
+  |goose-honk-globe| ![goose-honk-globe](/output/goose-honk-globe.gif)|
+  |goose-honk-waves| ![goose-honk-waves](/output/goose-honk-waves.gif)|
+  |waffles-cool| ![waffles-cool](/output/waffles-cool.png)|
+  |waffles-waves| ![waffles-waves](/output/waffles-waves.gif)|
+  |waffles-rage| ![waffles-rage](/output/waffles-rage.png)|
+  |cowboy_cat-waves| ![cowboy_cat-waves](/output/cowboy_cat-waves.gif)|
+  |waffles-party| ![waffles-party](/output/waffles-party.gif)|
+  |cowboy_cat-party| ![cowboy_cat-party](/output/cowboy_cat-party.gif)|
+  |waffles-spin| ![waffles-spin](/output/waffles-spin.gif)|
+  |nyan-cowboy_cat| ![nyan-cowboy_cat](/output/nyan-cowboy_cat.gif)|
+  |metal-cat| ![metal-cat](/output/metal-cat.png)|
+  |nail-fire| ![nail-fire](/output/nail-fire.png)|
+  |dancing-baby-finn| ![dancing-baby-finn](/output/dancing-baby-finn.gif)|
+  |pear-intensifies| ![pear-intensifies](/output/pear-intensifies.gif)|
+  |pear_intensifies| ![pear_intensifies](/output/pear_intensifies)|
+  |mint| ![mint](/output/mint.png)|
+  |penguin_technologist| ![penguin_technologist](/output/penguin_technologist.png)|
+  |cat_technologist_transparent| ![cat_technologist_transparent](/output/cat_technologist_transparent.png)|
+  |cloudman| ![cloudman](/output/cloudman.png)|
+  |redford-yes| ![redford-yes](/output/redford-yes.gif)|
+  |panbeh| ![panbeh](/output/panbeh.png)|
+  |babyyoda| ![babyyoda](/output/babyyoda.png)|
+  |zombie-mode| ![zombie-mode](/output/zombie-mode.gif)|
+  |babyyoda2| ![babyyoda2](/output/babyyoda2.png)|
+  |babyyoda3| ![babyyoda3](/output/babyyoda3.jpg)|
+  |trollcute| ![trollcute](/output/trollcute.png)|
+  |ublock-origin| ![ublock-origin](/output/ublock-origin.png)|
+  |hogwarts-crest| ![hogwarts-crest](/output/hogwarts-crest.png)|
+  |ravenclaw| ![ravenclaw](/output/ravenclaw.png)|
+  |slytherin| ![slytherin](/output/slytherin.png)|
+  |gryffindor| ![gryffindor](/output/gryffindor.png)|
+  |hufflepuff| ![hufflepuff](/output/hufflepuff.png)|
+  |dazn| ![dazn](/output/dazn.png)|
+  |tadaish| ![tadaish](/output/tadaish.png)|
+  |barfing-nerd| ![barfing-nerd](/output/barfing-nerd.png)|
+  |barfing-rage| ![barfing-rage](/output/barfing-rage.png)|
+  |barfing-sobbing| ![barfing-sobbing](/output/barfing-sobbing.png)|
+  |barfing-sleepy| ![barfing-sleepy](/output/barfing-sleepy.png)|
+  |eye-rolling-barfing| ![eye-rolling-barfing](/output/eye-rolling-barfing.png)|
+  |angry-penguin| ![angry-penguin](/output/angry-penguin.png)|
+  |shadowing| ![shadowing](/output/shadowing.jpg)|
+  |google_slides| ![google_slides](/output/google_slides.png)|
+  |bureaucracy| ![bureaucracy](/output/bureaucracy.png)|
+  |blob-dance| ![blob-dance](/output/blob-dance.gif)|
+  |meowparty| ![meowparty](/output/meowparty.gif)|
+  |rainbow6_goose| ![rainbow6_goose](/output/rainbow6_goose.png)|
+  |rainbow6_honk| ![rainbow6_honk](/output/rainbow6_honk)|
+  |spider_neat| ![spider_neat](/output/spider_neat.gif)|
+  |nyan-zoom| ![nyan-zoom](/output/nyan-zoom.gif)|
+  |zoom-sob| ![zoom-sob](/output/zoom-sob.png)|
+  |goose-honk-trippy| ![goose-honk-trippy](/output/goose-honk-trippy.gif)|
+  |waffles-melting| ![waffles-melting](/output/waffles-melting.gif)|
+  |goose-honk-melting| ![goose-honk-melting](/output/goose-honk-melting.gif)|
+  |they| ![they](/output/they.jpg)|
+  |rotterdam| ![rotterdam](/output/rotterdam.png)|
+  |ethiopia| ![ethiopia](/output/ethiopia.png)|
+  |caffeine| ![caffeine](/output/caffeine.png)|
+  |todoist| ![todoist](/output/todoist.png)|
+  |cybertruck| ![cybertruck](/output/cybertruck.png)|
+  |never-ending| ![never-ending](/output/never-ending.png)|
+  |jandal| ![jandal](/output/jandal.jpg)|
+  |jandal-intensifies| ![jandal-intensifies](/output/jandal-intensifies.gif)|
+  |awww| ![awww](/output/awww.png)|
+  |man-shrugging-color-russ| ![man-shrugging-color-russ](/output/man-shrugging-color-russ.png)|
+  |flan1| ![flan1](/output/flan1.png)|
+  |cloudflare| ![cloudflare](/output/cloudflare.png)|
+  |aws-intensifies| ![aws-intensifies](/output/aws-intensifies.gif)|
+  |sticky| ![sticky](/output/sticky.jpg)|
+  |lolsob2| ![lolsob2](/output/lolsob2.png)|
+  |lolsobs| ![lolsobs](/output/lolsobs)|
+  |lord-quas| ![lord-quas](/output/lord-quas.gif)|
+  |björk| ![björk](/output/björk.png)|
+  |bjorkquiet| ![bjorkquiet](/output/bjorkquiet.png)|
+  |feelbetter| ![feelbetter](/output/feelbetter.gif)|
+  |wave_smile| ![wave_smile](/output/wave_smile.gif)|
+  |envoy-da| ![envoy-da](/output/envoy-da.png)|
+  |mandalorian| ![mandalorian](/output/mandalorian.jpg)|
+  |moji| ![moji](/output/moji.png)|
+  |apex_charts| ![apex_charts](/output/apex_charts.png)|
+  |svelte| ![svelte](/output/svelte.png)|
+  |alisdair-waves| ![alisdair-waves](/output/alisdair-waves.gif)|
+  |click| ![click](/output/click.gif)|
+  |bjork2| ![bjork2](/output/bjork2.png)|
+  |true-story| ![true-story](/output/true-story.png)|
+  |meh-hand-left| ![meh-hand-left](/output/meh-hand-left.png)|
+  |meh-hand-right| ![meh-hand-right](/output/meh-hand-right.png)|
+  |meh-hand| ![meh-hand](/output/meh-hand)|
+  |wave-waves| ![wave-waves](/output/wave-waves.gif)|
+  |bulma| ![bulma](/output/bulma.png)|
+  |nomnom| ![nomnom](/output/nomnom.png)|
+  |geekbot-sob| ![geekbot-sob](/output/geekbot-sob.png)|
+  |seattle| ![seattle](/output/seattle.png)|
+  |exasperated-alvin| ![exasperated-alvin](/output/exasperated-alvin.png)|
+  |mando| ![mando](/output/mando.jpg)|
+  |whateverbrian| ![whateverbrian](/output/whateverbrian.png)|
+  

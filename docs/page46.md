@@ -1,104 +1,105 @@
 
-## Emojis (Page 46)
-|Emoji Name|Image|
-| :-: | :-: |
-|goth-lunch| ![goth-lunch](/output/goth-lunch.png)|
-|lunch-royal| ![lunch-royal](/output/lunch-royal.png)|
-|lunch-queen| ![lunch-queen](/output/lunch-queen)|
-|lunch-king| ![lunch-king](/output/lunch-king)|
-|fire-left| ![fire-left](/output/fire-left)|
-|fire-right| ![fire-right](/output/fire-right.png)|
-|flail| ![flail](/output/flail.gif)|
-|morty-confused| ![morty-confused](/output/morty-confused.png)|
-|rick-meh| ![rick-meh](/output/rick-meh.png)|
-|quake-1| ![quake-1](/output/quake-1.png)|
-|quake-2| ![quake-2](/output/quake-2.png)|
-|quake-3| ![quake-3](/output/quake-3.png)|
-|diabotical| ![diabotical](/output/diabotical.png)|
-|jolene| ![jolene](/output/jolene.png)|
-|parton| ![parton](/output/parton.png)|
-|leslie-dino-da| ![leslie-dino-da](/output/leslie-dino-da.png)|
-|eyes-intensifies| ![eyes-intensifies](/output/eyes-intensifies.gif)|
-|merged-intensifies| ![merged-intensifies](/output/merged-intensifies.gif)|
-|nokogiri| ![nokogiri](/output/nokogiri)|
-|sold| ![sold](/output/sold.png)|
-|darude| ![darude](/output/darude.jpg)|
-|can-you-dig-it| ![can-you-dig-it](/output/can-you-dig-it.png)|
-|sombrero-vueltiao| ![sombrero-vueltiao](/output/sombrero-vueltiao.png)|
-|amaze| ![amaze](/output/amaze.gif)|
-|rosa-dog| ![rosa-dog](/output/rosa-dog.png)|
-|tab| ![tab](/output/tab.png)|
-|slam-zoom| ![slam-zoom](/output/slam-zoom.png)|
-|slam-zoom-intensifies| ![slam-zoom-intensifies](/output/slam-zoom-intensifies.gif)|
-|00| ![00](/output/00.png)|
-|that_would_be_great| ![that_would_be_great](/output/that_would_be_great.jpg)|
-|eyes-wide-zoch| ![eyes-wide-zoch](/output/eyes-wide-zoch.png)|
-|zoch-thonking-face| ![zoch-thonking-face](/output/zoch-thonking-face.png)|
-|eyes-wide-zoch-technologist| ![eyes-wide-zoch-technologist](/output/eyes-wide-zoch-technologist.png)|
-|diet-dew| ![diet-dew](/output/diet-dew.png)|
-|cheers-diet-dew| ![cheers-diet-dew](/output/cheers-diet-dew.png)|
-|diet-dew-cheers| ![diet-dew-cheers](/output/diet-dew-cheers)|
-|caffeine2| ![caffeine2](/output/caffeine2.png)|
-|green-fly| ![green-fly](/output/green-fly.png)|
-|vbox| ![vbox](/output/vbox)|
-|good_thinking_intensifies| ![good_thinking_intensifies](/output/good_thinking_intensifies.gif)|
-|zoch| ![zoch](/output/zoch.png)|
-|fish-intensifies| ![fish-intensifies](/output/fish-intensifies.gif)|
-|whimsical| ![whimsical](/output/whimsical.png)|
-|ratchet| ![ratchet](/output/ratchet.gif)|
-|trout-slap| ![trout-slap](/output/trout-slap.gif)|
-|irc-slap| ![irc-slap](/output/irc-slap)|
-|open-late| ![open-late](/output/open-late.jpg)|
-|australian-hello| ![australian-hello](/output/australian-hello.png)|
-|infinite-coffee| ![infinite-coffee](/output/infinite-coffee.gif)|
-|coffee-technologist| ![coffee-technologist](/output/coffee-technologist.png)|
-|fancy-coffee| ![fancy-coffee](/output/fancy-coffee.png)|
-|fancy-noodle-dog2| ![fancy-noodle-dog2](/output/fancy-noodle-dog2.png)|
-|grrreat| ![grrreat](/output/grrreat.jpg)|
-|pibb-zero| ![pibb-zero](/output/pibb-zero.png)|
-|diet-coke| ![diet-coke](/output/diet-coke.png)|
-|thundercats| ![thundercats](/output/thundercats.png)|
-|wowpeasant| ![wowpeasant](/output/wowpeasant.jpg)|
-|yesmlord| ![yesmlord](/output/yesmlord)|
-|ted-talk| ![ted-talk](/output/ted-talk.jpg)|
-|yolo-intensifies| ![yolo-intensifies](/output/yolo-intensifies.gif)|
-|flotsam| ![flotsam](/output/flotsam.jpg)|
-|launch_darkly| ![launch_darkly](/output/launch_darkly.png)|
-|fixitfelix| ![fixitfelix](/output/fixitfelix.png)|
-|mi| ![mi](/output/mi.png)|
-|eminem_wtf| ![eminem_wtf](/output/eminem_wtf.gif)|
-|fedoralinux| ![fedoralinux](/output/fedoralinux.png)|
-|davecheney| ![davecheney](/output/davecheney.jpg)|
-|consul-zebra| ![consul-zebra](/output/consul-zebra.png)|
-|consul-zebra-intensifies| ![consul-zebra-intensifies](/output/consul-zebra-intensifies.gif)|
-|tv_eye| ![tv_eye](/output/tv_eye.png)|
-|tgif| ![tgif](/output/tgif.jpg)|
-|concur| ![concur](/output/concur.png)|
-|rv| ![rv](/output/rv.jpg)|
-|clam_av| ![clam_av](/output/clam_av.png)|
-|kentucky| ![kentucky](/output/kentucky.png)|
-|no-bugs| ![no-bugs](/output/no-bugs.jpg)|
-|splonk| ![splonk](/output/splonk.png)|
-|hornbeck| ![hornbeck](/output/hornbeck.png)|
-|deno| ![deno](/output/deno.png)|
-|quay_io| ![quay_io](/output/quay_io.png)|
-|gosec| ![gosec](/output/gosec.png)|
-|pixar-lamp| ![pixar-lamp](/output/pixar-lamp.gif)|
-|neovim| ![neovim](/output/neovim)|
-|inspec| ![inspec](/output/inspec.jpg)|
-|no-worries| ![no-worries](/output/no-worries.png)|
-|waiting-patiently| ![waiting-patiently](/output/waiting-patiently)|
-|team_work| ![team_work](/output/team_work.gif)|
-|team| ![team](/output/team)|
-|armanino| ![armanino](/output/armanino.png)|
-|teamwork_| ![teamwork_](/output/teamwork_)|
-|appa| ![appa](/output/appa.png)|
-|air| ![air](/output/air.png)|
-|water-tribe| ![water-tribe](/output/water-tribe.png)|
-|air-nomads| ![air-nomads](/output/air-nomads)|
-|fire-nation| ![fire-nation](/output/fire-nation.png)|
-|earth-kingdom| ![earth-kingdom](/output/earth-kingdom.png)|
-|cheese-fries| ![cheese-fries](/output/cheese-fries.png)|
-|murloc| ![murloc](/output/murloc.png)|
-|jiggy| ![jiggy](/output/jiggy.png)|
-|mmm| ![mmm](/output/mmm.jpg)|
+  ## Emojis (Page 46)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |goose-honk-lunch| ![goose-honk-lunch](/output/goose-honk-lunch.png)|
+  |skeleton-technologist| ![skeleton-technologist](/output/skeleton-technologist)|
+  |laptop-on-fire| ![laptop-on-fire](/output/laptop-on-fire.gif)|
+  |goth-lunch| ![goth-lunch](/output/goth-lunch.png)|
+  |lunch-royal| ![lunch-royal](/output/lunch-royal.png)|
+  |lunch-queen| ![lunch-queen](/output/lunch-queen)|
+  |lunch-king| ![lunch-king](/output/lunch-king)|
+  |fire-left| ![fire-left](/output/fire-left)|
+  |fire-right| ![fire-right](/output/fire-right.png)|
+  |flail| ![flail](/output/flail.gif)|
+  |morty-confused| ![morty-confused](/output/morty-confused.png)|
+  |rick-meh| ![rick-meh](/output/rick-meh.png)|
+  |quake-1| ![quake-1](/output/quake-1.png)|
+  |quake-2| ![quake-2](/output/quake-2.png)|
+  |quake-3| ![quake-3](/output/quake-3.png)|
+  |diabotical| ![diabotical](/output/diabotical.png)|
+  |jolene| ![jolene](/output/jolene.png)|
+  |parton| ![parton](/output/parton.png)|
+  |leslie-dino-da| ![leslie-dino-da](/output/leslie-dino-da.png)|
+  |eyes-intensifies| ![eyes-intensifies](/output/eyes-intensifies.gif)|
+  |merged-intensifies| ![merged-intensifies](/output/merged-intensifies.gif)|
+  |nokogiri| ![nokogiri](/output/nokogiri)|
+  |sold| ![sold](/output/sold.png)|
+  |darude| ![darude](/output/darude.jpg)|
+  |can-you-dig-it| ![can-you-dig-it](/output/can-you-dig-it.png)|
+  |sombrero-vueltiao| ![sombrero-vueltiao](/output/sombrero-vueltiao.png)|
+  |amaze| ![amaze](/output/amaze.gif)|
+  |rosa-dog| ![rosa-dog](/output/rosa-dog.png)|
+  |tab| ![tab](/output/tab.png)|
+  |slam-zoom| ![slam-zoom](/output/slam-zoom.png)|
+  |slam-zoom-intensifies| ![slam-zoom-intensifies](/output/slam-zoom-intensifies.gif)|
+  |00| ![00](/output/00.png)|
+  |that_would_be_great| ![that_would_be_great](/output/that_would_be_great.jpg)|
+  |eyes-wide-zoch| ![eyes-wide-zoch](/output/eyes-wide-zoch.png)|
+  |zoch-thonking-face| ![zoch-thonking-face](/output/zoch-thonking-face.png)|
+  |eyes-wide-zoch-technologist| ![eyes-wide-zoch-technologist](/output/eyes-wide-zoch-technologist.png)|
+  |diet-dew| ![diet-dew](/output/diet-dew.png)|
+  |cheers-diet-dew| ![cheers-diet-dew](/output/cheers-diet-dew.png)|
+  |diet-dew-cheers| ![diet-dew-cheers](/output/diet-dew-cheers)|
+  |caffeine2| ![caffeine2](/output/caffeine2.png)|
+  |green-fly| ![green-fly](/output/green-fly.png)|
+  |vbox| ![vbox](/output/vbox)|
+  |good_thinking_intensifies| ![good_thinking_intensifies](/output/good_thinking_intensifies.gif)|
+  |zoch| ![zoch](/output/zoch.png)|
+  |fish-intensifies| ![fish-intensifies](/output/fish-intensifies.gif)|
+  |whimsical| ![whimsical](/output/whimsical.png)|
+  |ratchet| ![ratchet](/output/ratchet.gif)|
+  |trout-slap| ![trout-slap](/output/trout-slap.gif)|
+  |irc-slap| ![irc-slap](/output/irc-slap)|
+  |open-late| ![open-late](/output/open-late.jpg)|
+  |australian-hello| ![australian-hello](/output/australian-hello.png)|
+  |infinite-coffee| ![infinite-coffee](/output/infinite-coffee.gif)|
+  |coffee-technologist| ![coffee-technologist](/output/coffee-technologist.png)|
+  |fancy-coffee| ![fancy-coffee](/output/fancy-coffee.png)|
+  |fancy-noodle-dog2| ![fancy-noodle-dog2](/output/fancy-noodle-dog2.png)|
+  |grrreat| ![grrreat](/output/grrreat.jpg)|
+  |pibb-zero| ![pibb-zero](/output/pibb-zero.png)|
+  |diet-coke| ![diet-coke](/output/diet-coke.png)|
+  |thundercats| ![thundercats](/output/thundercats.png)|
+  |wowpeasant| ![wowpeasant](/output/wowpeasant.jpg)|
+  |yesmlord| ![yesmlord](/output/yesmlord)|
+  |ted-talk| ![ted-talk](/output/ted-talk.jpg)|
+  |yolo-intensifies| ![yolo-intensifies](/output/yolo-intensifies.gif)|
+  |flotsam| ![flotsam](/output/flotsam.jpg)|
+  |launch_darkly| ![launch_darkly](/output/launch_darkly.png)|
+  |fixitfelix| ![fixitfelix](/output/fixitfelix.png)|
+  |mi| ![mi](/output/mi.png)|
+  |eminem_wtf| ![eminem_wtf](/output/eminem_wtf.gif)|
+  |fedoralinux| ![fedoralinux](/output/fedoralinux.png)|
+  |davecheney| ![davecheney](/output/davecheney.jpg)|
+  |consul-zebra| ![consul-zebra](/output/consul-zebra.png)|
+  |consul-zebra-intensifies| ![consul-zebra-intensifies](/output/consul-zebra-intensifies.gif)|
+  |tv_eye| ![tv_eye](/output/tv_eye.png)|
+  |tgif| ![tgif](/output/tgif.jpg)|
+  |concur| ![concur](/output/concur.png)|
+  |rv| ![rv](/output/rv.jpg)|
+  |clam_av| ![clam_av](/output/clam_av.png)|
+  |kentucky| ![kentucky](/output/kentucky.png)|
+  |no-bugs| ![no-bugs](/output/no-bugs.jpg)|
+  |splonk| ![splonk](/output/splonk.png)|
+  |hornbeck| ![hornbeck](/output/hornbeck.png)|
+  |deno| ![deno](/output/deno.png)|
+  |quay_io| ![quay_io](/output/quay_io.png)|
+  |gosec| ![gosec](/output/gosec.png)|
+  |pixar-lamp| ![pixar-lamp](/output/pixar-lamp.gif)|
+  |neovim| ![neovim](/output/neovim)|
+  |inspec| ![inspec](/output/inspec.jpg)|
+  |no-worries| ![no-worries](/output/no-worries.png)|
+  |waiting-patiently| ![waiting-patiently](/output/waiting-patiently)|
+  |team_work| ![team_work](/output/team_work.gif)|
+  |team| ![team](/output/team)|
+  |armanino| ![armanino](/output/armanino.png)|
+  |teamwork_| ![teamwork_](/output/teamwork_)|
+  |appa| ![appa](/output/appa.png)|
+  |air| ![air](/output/air.png)|
+  |water-tribe| ![water-tribe](/output/water-tribe.png)|
+  |air-nomads| ![air-nomads](/output/air-nomads)|
+  |fire-nation| ![fire-nation](/output/fire-nation.png)|
+  |earth-kingdom| ![earth-kingdom](/output/earth-kingdom.png)|
+  |cheese-fries| ![cheese-fries](/output/cheese-fries.png)|
+  

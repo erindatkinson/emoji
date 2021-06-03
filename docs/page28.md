@@ -1,104 +1,105 @@
 
-## Emojis (Page 28)
-|Emoji Name|Image|
-| :-: | :-: |
-|azure-intensifies| ![azure-intensifies](/output/azure-intensifies.gif)|
-|bitbucket-intensifies| ![bitbucket-intensifies](/output/bitbucket-intensifies.gif)|
-|bitbucket_intensifies| ![bitbucket_intensifies](/output/bitbucket_intensifies)|
-|bodecat| ![bodecat](/output/bodecat.png)|
-|pusheen-cat| ![pusheen-cat](/output/pusheen-cat.png)|
-|pusheen-cat-unicorn| ![pusheen-cat-unicorn](/output/pusheen-cat-unicorn.gif)|
-|pusheen-cat-pizza| ![pusheen-cat-pizza](/output/pusheen-cat-pizza.gif)|
-|pusheen-cat-computer| ![pusheen-cat-computer](/output/pusheen-cat-computer.gif)|
-|pusheen-cat-cupcake| ![pusheen-cat-cupcake](/output/pusheen-cat-cupcake.gif)|
-|pusheen-cat-beans| ![pusheen-cat-beans](/output/pusheen-cat-beans.gif)|
-|moka_pot| ![moka_pot](/output/moka_pot.png)|
-|bongo-gopher| ![bongo-gopher](/output/bongo-gopher.gif)|
-|gitlab-intensifies| ![gitlab-intensifies](/output/gitlab-intensifies.gif)|
-|github-da| ![github-da](/output/github-da.png)|
-|github-royal| ![github-royal](/output/github-royal.png)|
-|github-king| ![github-king](/output/github-king)|
-|github-queen| ![github-queen](/output/github-queen)|
-|gitlab-royal| ![gitlab-royal](/output/gitlab-royal.png)|
-|gitlab-king| ![gitlab-king](/output/gitlab-king)|
-|gitlab-queen| ![gitlab-queen](/output/gitlab-queen)|
-|gitlab-da| ![gitlab-da](/output/gitlab-da.png)|
-|gitlab-party| ![gitlab-party](/output/gitlab-party.gif)|
-|ruby-da| ![ruby-da](/output/ruby-da.png)|
-|bodysnatcher| ![bodysnatcher](/output/bodysnatcher.jpg)|
-|monday-rb| ![monday-rb](/output/monday-rb.png)|
-|bike-intensifies| ![bike-intensifies](/output/bike-intensifies.gif)|
-|vaultman| ![vaultman](/output/vaultman.png)|
-|mortalkombat| ![mortalkombat](/output/mortalkombat.png)|
-|wrecking-ball| ![wrecking-ball](/output/wrecking-ball.gif)|
-|lebowski| ![lebowski](/output/lebowski.png)|
-|biggie| ![biggie](/output/biggie.jpg)|
-|cardgage| ![cardgage](/output/cardgage.jpg)|
-|calendar_sob| ![calendar_sob](/output/calendar_sob.png)|
-|pikachu-dance| ![pikachu-dance](/output/pikachu-dance.gif)|
-|slowpoke-dance| ![slowpoke-dance](/output/slowpoke-dance.gif)|
-|dance-raichu| ![dance-raichu](/output/dance-raichu.gif)|
-|snorlax| ![snorlax](/output/snorlax.gif)|
-|spacer| ![spacer](/output/spacer.png)|
-|weed| ![weed](/output/weed.png)|
-|tumble-weed| ![tumble-weed](/output/tumble-weed.gif)|
-|azure-sob| ![azure-sob](/output/azure-sob.png)|
-|github-intensifies| ![github-intensifies](/output/github-intensifies.gif)|
-|gamecube| ![gamecube](/output/gamecube.png)|
-|pcf| ![pcf](/output/pcf.png)|
-|flv| ![flv](/output/flv.png)|
-|consul-intensifies| ![consul-intensifies](/output/consul-intensifies.gif)|
-|packer-intensifies| ![packer-intensifies](/output/packer-intensifies.gif)|
-|vagrant-intensifies| ![vagrant-intensifies](/output/vagrant-intensifies.gif)|
-|vault-intensifies| ![vault-intensifies](/output/vault-intensifies.gif)|
-|red-intensifies| ![red-intensifies](/output/red-intensifies.gif)|
-|terraform-party| ![terraform-party](/output/terraform-party.gif)|
-|agraylonging| ![agraylonging](/output/agraylonging.png)|
-|aeris| ![aeris](/output/aeris.png)|
-|unc| ![unc](/output/unc.jpg)|
-|aerith| ![aerith](/output/aerith)|
-|goose-honk| ![goose-honk](/output/goose-honk.png)|
-|goose-honk-right| ![goose-honk-right](/output/goose-honk-right.png)|
-|goose-honk-left| ![goose-honk-left](/output/goose-honk-left)|
-|montreal| ![montreal](/output/montreal.jpg)|
-|bow2| ![bow2](/output/bow2.gif)|
-|sadmac| ![sadmac](/output/sadmac.jpg)|
-|highfive-mariobros| ![highfive-mariobros](/output/highfive-mariobros.png)|
-|mariobrodance| ![mariobrodance](/output/mariobrodance.gif)|
-|dont-panic| ![dont-panic](/output/dont-panic.png)|
-|edustrong| ![edustrong](/output/edustrong.png)|
-|yaml_is_the_best| ![yaml_is_the_best](/output/yaml_is_the_best.png)|
-|grim-reaper| ![grim-reaper](/output/grim-reaper.png)|
-|creed_surprise| ![creed_surprise](/output/creed_surprise.jpg)|
-|rmms| ![rmms](/output/rmms.jpg)|
-|savage| ![savage](/output/savage.jpg)|
-|this_is_fine| ![this_is_fine](/output/this_is_fine.gif)|
-|star-wars-ewok| ![star-wars-ewok](/output/star-wars-ewok.png)|
-|runner-intensifies| ![runner-intensifies](/output/runner-intensifies.gif)|
-|hand-wave| ![hand-wave](/output/hand-wave.gif)|
-|scumbag_steve| ![scumbag_steve](/output/scumbag_steve.png)|
-|pippa| ![pippa](/output/pippa.png)|
-|goose-honk-intensifies| ![goose-honk-intensifies](/output/goose-honk-intensifies.gif)|
-|goose-honk-right-intensifies| ![goose-honk-right-intensifies](/output/goose-honk-right-intensifies.gif)|
-|goose-honk-left-intensifies| ![goose-honk-left-intensifies](/output/goose-honk-left-intensifies)|
-|icecream-da| ![icecream-da](/output/icecream-da.png)|
-|snyk| ![snyk](/output/snyk.png)|
-|tmux| ![tmux](/output/tmux.png)|
-|billing-da| ![billing-da](/output/billing-da.png)|
-|rocking| ![rocking](/output/rocking.gif)|
-|otter-dance| ![otter-dance](/output/otter-dance.gif)|
-|breakingbad| ![breakingbad](/output/breakingbad.png)|
-|althea| ![althea](/output/althea.png)|
-|cool-doge| ![cool-doge](/output/cool-doge.gif)|
-|cool-doge-intensifies| ![cool-doge-intensifies](/output/cool-doge-intensifies.gif)|
-|weight-lifter-intensifies| ![weight-lifter-intensifies](/output/weight-lifter-intensifies.gif)|
-|weight-lifter-woman-intensifies| ![weight-lifter-woman-intensifies](/output/weight-lifter-woman-intensifies.gif)|
-|army| ![army](/output/army.png)|
-|navy| ![navy](/output/navy.png)|
-|airforce| ![airforce](/output/airforce.png)|
-|capitol| ![capitol](/output/capitol.png)|
-|dhs| ![dhs](/output/dhs.png)|
-|whitehouse| ![whitehouse](/output/whitehouse.png)|
-|honeypig| ![honeypig](/output/honeypig.jpg)|
-|govshutdown| ![govshutdown](/output/govshutdown.png)|
-|rando| ![rando](/output/rando.jpg)|
+  ## Emojis (Page 28)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |bitbucket-king| ![bitbucket-king](/output/bitbucket-king)|
+  |bitbucket-queen| ![bitbucket-queen](/output/bitbucket-queen)|
+  |azure-intensifies| ![azure-intensifies](/output/azure-intensifies.gif)|
+  |bitbucket-intensifies| ![bitbucket-intensifies](/output/bitbucket-intensifies.gif)|
+  |bitbucket_intensifies| ![bitbucket_intensifies](/output/bitbucket_intensifies)|
+  |bodecat| ![bodecat](/output/bodecat.png)|
+  |pusheen-cat| ![pusheen-cat](/output/pusheen-cat.png)|
+  |pusheen-cat-unicorn| ![pusheen-cat-unicorn](/output/pusheen-cat-unicorn.gif)|
+  |pusheen-cat-pizza| ![pusheen-cat-pizza](/output/pusheen-cat-pizza.gif)|
+  |pusheen-cat-computer| ![pusheen-cat-computer](/output/pusheen-cat-computer.gif)|
+  |pusheen-cat-cupcake| ![pusheen-cat-cupcake](/output/pusheen-cat-cupcake.gif)|
+  |pusheen-cat-beans| ![pusheen-cat-beans](/output/pusheen-cat-beans.gif)|
+  |moka_pot| ![moka_pot](/output/moka_pot.png)|
+  |bongo-gopher| ![bongo-gopher](/output/bongo-gopher.gif)|
+  |gitlab-intensifies| ![gitlab-intensifies](/output/gitlab-intensifies.gif)|
+  |github-da| ![github-da](/output/github-da.png)|
+  |github-royal| ![github-royal](/output/github-royal.png)|
+  |github-king| ![github-king](/output/github-king)|
+  |github-queen| ![github-queen](/output/github-queen)|
+  |gitlab-royal| ![gitlab-royal](/output/gitlab-royal.png)|
+  |gitlab-king| ![gitlab-king](/output/gitlab-king)|
+  |gitlab-queen| ![gitlab-queen](/output/gitlab-queen)|
+  |gitlab-da| ![gitlab-da](/output/gitlab-da.png)|
+  |gitlab-party| ![gitlab-party](/output/gitlab-party.gif)|
+  |ruby-da| ![ruby-da](/output/ruby-da.png)|
+  |bodysnatcher| ![bodysnatcher](/output/bodysnatcher.jpg)|
+  |monday-rb| ![monday-rb](/output/monday-rb.png)|
+  |bike-intensifies| ![bike-intensifies](/output/bike-intensifies.gif)|
+  |vaultman| ![vaultman](/output/vaultman.png)|
+  |mortalkombat| ![mortalkombat](/output/mortalkombat.png)|
+  |wrecking-ball| ![wrecking-ball](/output/wrecking-ball.gif)|
+  |lebowski| ![lebowski](/output/lebowski.png)|
+  |biggie| ![biggie](/output/biggie.jpg)|
+  |cardgage| ![cardgage](/output/cardgage.jpg)|
+  |calendar_sob| ![calendar_sob](/output/calendar_sob.png)|
+  |pikachu-dance| ![pikachu-dance](/output/pikachu-dance.gif)|
+  |slowpoke-dance| ![slowpoke-dance](/output/slowpoke-dance.gif)|
+  |dance-raichu| ![dance-raichu](/output/dance-raichu.gif)|
+  |snorlax| ![snorlax](/output/snorlax.gif)|
+  |spacer| ![spacer](/output/spacer.png)|
+  |weed| ![weed](/output/weed.png)|
+  |tumble-weed| ![tumble-weed](/output/tumble-weed.gif)|
+  |azure-sob| ![azure-sob](/output/azure-sob.png)|
+  |github-intensifies| ![github-intensifies](/output/github-intensifies.gif)|
+  |gamecube| ![gamecube](/output/gamecube.png)|
+  |pcf| ![pcf](/output/pcf.png)|
+  |flv| ![flv](/output/flv.png)|
+  |consul-intensifies| ![consul-intensifies](/output/consul-intensifies.gif)|
+  |packer-intensifies| ![packer-intensifies](/output/packer-intensifies.gif)|
+  |vagrant-intensifies| ![vagrant-intensifies](/output/vagrant-intensifies.gif)|
+  |vault-intensifies| ![vault-intensifies](/output/vault-intensifies.gif)|
+  |red-intensifies| ![red-intensifies](/output/red-intensifies.gif)|
+  |terraform-party| ![terraform-party](/output/terraform-party.gif)|
+  |agraylonging| ![agraylonging](/output/agraylonging.png)|
+  |aeris| ![aeris](/output/aeris.png)|
+  |unc| ![unc](/output/unc.jpg)|
+  |aerith| ![aerith](/output/aerith)|
+  |goose-honk| ![goose-honk](/output/goose-honk.png)|
+  |goose-honk-right| ![goose-honk-right](/output/goose-honk-right.png)|
+  |goose-honk-left| ![goose-honk-left](/output/goose-honk-left)|
+  |montreal| ![montreal](/output/montreal.jpg)|
+  |bow2| ![bow2](/output/bow2.gif)|
+  |sadmac| ![sadmac](/output/sadmac.jpg)|
+  |highfive-mariobros| ![highfive-mariobros](/output/highfive-mariobros.png)|
+  |mariobrodance| ![mariobrodance](/output/mariobrodance.gif)|
+  |dont-panic| ![dont-panic](/output/dont-panic.png)|
+  |edustrong| ![edustrong](/output/edustrong.png)|
+  |yaml_is_the_best| ![yaml_is_the_best](/output/yaml_is_the_best.png)|
+  |grim-reaper| ![grim-reaper](/output/grim-reaper.png)|
+  |creed_surprise| ![creed_surprise](/output/creed_surprise.jpg)|
+  |rmms| ![rmms](/output/rmms.jpg)|
+  |savage| ![savage](/output/savage.jpg)|
+  |this_is_fine| ![this_is_fine](/output/this_is_fine.gif)|
+  |star-wars-ewok| ![star-wars-ewok](/output/star-wars-ewok.png)|
+  |runner-intensifies| ![runner-intensifies](/output/runner-intensifies.gif)|
+  |hand-wave| ![hand-wave](/output/hand-wave.gif)|
+  |scumbag_steve| ![scumbag_steve](/output/scumbag_steve.png)|
+  |pippa| ![pippa](/output/pippa.png)|
+  |goose-honk-intensifies| ![goose-honk-intensifies](/output/goose-honk-intensifies.gif)|
+  |goose-honk-right-intensifies| ![goose-honk-right-intensifies](/output/goose-honk-right-intensifies.gif)|
+  |goose-honk-left-intensifies| ![goose-honk-left-intensifies](/output/goose-honk-left-intensifies)|
+  |icecream-da| ![icecream-da](/output/icecream-da.png)|
+  |snyk| ![snyk](/output/snyk.png)|
+  |tmux| ![tmux](/output/tmux.png)|
+  |billing-da| ![billing-da](/output/billing-da.png)|
+  |rocking| ![rocking](/output/rocking.gif)|
+  |otter-dance| ![otter-dance](/output/otter-dance.gif)|
+  |breakingbad| ![breakingbad](/output/breakingbad.png)|
+  |althea| ![althea](/output/althea.png)|
+  |cool-doge| ![cool-doge](/output/cool-doge.gif)|
+  |cool-doge-intensifies| ![cool-doge-intensifies](/output/cool-doge-intensifies.gif)|
+  |weight-lifter-intensifies| ![weight-lifter-intensifies](/output/weight-lifter-intensifies.gif)|
+  |weight-lifter-woman-intensifies| ![weight-lifter-woman-intensifies](/output/weight-lifter-woman-intensifies.gif)|
+  |army| ![army](/output/army.png)|
+  |navy| ![navy](/output/navy.png)|
+  |airforce| ![airforce](/output/airforce.png)|
+  |capitol| ![capitol](/output/capitol.png)|
+  |dhs| ![dhs](/output/dhs.png)|
+  |whitehouse| ![whitehouse](/output/whitehouse.png)|
+  |honeypig| ![honeypig](/output/honeypig.jpg)|
+  

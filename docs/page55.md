@@ -1,104 +1,105 @@
 
-## Emojis (Page 55)
-|Emoji Name|Image|
-| :-: | :-: |
-|redacted| ![redacted](/output/redacted.png)|
-|hurt| ![hurt](/output/hurt.png)|
-|oprah_you_and_you| ![oprah_you_and_you](/output/oprah_you_and_you.gif)|
-|drumroll_animated| ![drumroll_animated](/output/drumroll_animated.gif)|
-|blob-f| ![blob-f](/output/blob-f.png)|
-|clock420| ![clock420](/output/clock420.png)|
-|goose-honk-on-grass| ![goose-honk-on-grass](/output/goose-honk-on-grass.png)|
-|earth_fire| ![earth_fire](/output/earth_fire.png)|
-|prettypenny| ![prettypenny](/output/prettypenny.jpg)|
-|mood| ![mood](/output/mood.png)|
-|ouchbae| ![ouchbae](/output/ouchbae.png)|
-|sp00ky| ![sp00ky](/output/sp00ky.gif)|
-|david-s-pumpkins| ![david-s-pumpkins](/output/david-s-pumpkins.gif)|
-|defrag| ![defrag](/output/defrag.gif)|
-|mayo| ![mayo](/output/mayo.png)|
-|do| ![do](/output/do.png)|
-|tunnel| ![tunnel](/output/tunnel.png)|
-|niners| ![niners](/output/niners.png)|
-|bustin| ![bustin](/output/bustin.jpg)|
-|cranky| ![cranky](/output/cranky.jpg)|
-|tivo| ![tivo](/output/tivo.png)|
-|sophos| ![sophos](/output/sophos.png)|
-|bandcamp-friday-yes| ![bandcamp-friday-yes](/output/bandcamp-friday-yes.gif)|
-|ashley| ![ashley](/output/ashley.jpg)|
-|irizarry| ![irizarry](/output/irizarry.jpg)|
-|grpc-pancakes| ![grpc-pancakes](/output/grpc-pancakes.png)|
-|grpc-pancakes-birthday| ![grpc-pancakes-birthday](/output/grpc-pancakes-birthday.png)|
-|grpc-pancakes-protoc-and-serve| ![grpc-pancakes-protoc-and-serve](/output/grpc-pancakes-protoc-and-serve.png)|
-|grpc-pancakes-with-stick| ![grpc-pancakes-with-stick](/output/grpc-pancakes-with-stick.png)|
-|grpc| ![grpc](/output/grpc.png)|
-|among_us_vibing| ![among_us_vibing](/output/among_us_vibing.gif)|
-|among_us_crewmate| ![among_us_crewmate](/output/among_us_crewmate.png)|
-|pretty_sus| ![pretty_sus](/output/pretty_sus.png)|
-|bryan-facepalm| ![bryan-facepalm](/output/bryan-facepalm.png)|
-|+2icon| ![+2icon](/output/+2icon.png)|
-|team-terraform-pipeline-bye| ![team-terraform-pipeline-bye](/output/team-terraform-pipeline-bye.gif)|
-|armon-halo2| ![armon-halo2](/output/armon-halo2.png)|
-|stinkbug| ![stinkbug](/output/stinkbug.jpg)|
-|mahomes| ![mahomes](/output/mahomes.png)|
-|meow_knife-intensifies| ![meow_knife-intensifies](/output/meow_knife-intensifies.gif)|
-|knife-intensifies| ![knife-intensifies](/output/knife-intensifies.gif)|
-|team-terraform-pipeline-hello| ![team-terraform-pipeline-hello](/output/team-terraform-pipeline-hello.gif)|
-|wafflehouse| ![wafflehouse](/output/wafflehouse.png)|
-|waho-w| ![waho-w](/output/waho-w.png)|
-|waho-a| ![waho-a](/output/waho-a.png)|
-|waho-f| ![waho-f](/output/waho-f.png)|
-|waho-f2| ![waho-f2](/output/waho-f2.png)|
-|waho-l| ![waho-l](/output/waho-l.png)|
-|waho-e| ![waho-e](/output/waho-e.png)|
-|wafflehouse1| ![wafflehouse1](/output/wafflehouse1.png)|
-|waho-h| ![waho-h](/output/waho-h.png)|
-|wafflehouse2| ![wafflehouse2](/output/wafflehouse2.png)|
-|waho-o| ![waho-o](/output/waho-o.png)|
-|waho-u| ![waho-u](/output/waho-u.png)|
-|waho-s| ![waho-s](/output/waho-s.png)|
-|waho-e2| ![waho-e2](/output/waho-e2.png)|
-|wednesday| ![wednesday](/output/wednesday.jpg)|
-|vmware-sob| ![vmware-sob](/output/vmware-sob.jpg)|
-|lexus| ![lexus](/output/lexus.png)|
-|vmware-sob2| ![vmware-sob2](/output/vmware-sob2.jpg)|
-|clint-intensifies| ![clint-intensifies](/output/clint-intensifies.gif)|
-|clintensifies| ![clintensifies](/output/clintensifies)|
-|jeep| ![jeep](/output/jeep.png)|
-|jeepjk| ![jeepjk](/output/jeepjk.png)|
-|clint-face| ![clint-face](/output/clint-face.png)|
-|clint-face-intensifies| ![clint-face-intensifies](/output/clint-face-intensifies.gif)|
-|clint-party| ![clint-party](/output/clint-party.gif)|
-|good-morning-intensifies| ![good-morning-intensifies](/output/good-morning-intensifies.gif)|
-|rotating_tom| ![rotating_tom](/output/rotating_tom.gif)|
-|alvaro-floppy| ![alvaro-floppy](/output/alvaro-floppy.png)|
-|agray-intensifies| ![agray-intensifies](/output/agray-intensifies.gif)|
-|agray-longing-intensifies| ![agray-longing-intensifies](/output/agray-longing-intensifies.gif)|
-|snail-hi| ![snail-hi](/output/snail-hi.png)|
-|alvaro-god| ![alvaro-god](/output/alvaro-god.png)|
-|gopher_evil| ![gopher_evil](/output/gopher_evil.png)|
-|gopher_excited| ![gopher_excited](/output/gopher_excited.png)|
-|gopher_happy| ![gopher_happy](/output/gopher_happy.png)|
-|gopher_happy_with_hat| ![gopher_happy_with_hat](/output/gopher_happy_with_hat.png)|
-|gopher_beach_lounging| ![gopher_beach_lounging](/output/gopher_beach_lounging.png)|
-|gopher_happy_with_rabbit_hat| ![gopher_happy_with_rabbit_hat](/output/gopher_happy_with_rabbit_hat.png)|
-|gopher_crying| ![gopher_crying](/output/gopher_crying.png)|
-|gopher_with_laptop| ![gopher_with_laptop](/output/gopher_with_laptop.png)|
-|gopher_mad| ![gopher_mad](/output/gopher_mad.png)|
-|gopher_love| ![gopher_love](/output/gopher_love.png)|
-|gopher_aww| ![gopher_aww](/output/gopher_aww.png)|
-|gopher_laugh| ![gopher_laugh](/output/gopher_laugh.png)|
-|gopher_balloons| ![gopher_balloons](/output/gopher_balloons.png)|
-|gopher_brain_slug| ![gopher_brain_slug](/output/gopher_brain_slug.png)|
-|gopher_digivolve_to| ![gopher_digivolve_to](/output/gopher_digivolve_to.png)|
-|gopher_welder| ![gopher_welder](/output/gopher_welder.png)|
-|gopher_fancy| ![gopher_fancy](/output/gopher_fancy.png)|
-|gopher_alert| ![gopher_alert](/output/gopher_alert.png)|
-|gopher_bulb| ![gopher_bulb](/output/gopher_bulb.png)|
-|gopher_in_car| ![gopher_in_car](/output/gopher_in_car.png)|
-|gopher_sip_coffee| ![gopher_sip_coffee](/output/gopher_sip_coffee.png)|
-|gopher_with_wrench| ![gopher_with_wrench](/output/gopher_with_wrench.png)|
-|gopher_with_money| ![gopher_with_money](/output/gopher_with_money.png)|
-|gopher_pilot| ![gopher_pilot](/output/gopher_pilot.png)|
-|request-response| ![request-response](/output/request-response.gif)|
-|bluetooth| ![bluetooth](/output/bluetooth.png)|
+  ## Emojis (Page 55)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |chompy-alt-left| ![chompy-alt-left](/output/chompy-alt-left.gif)|
+  |chompy-above| ![chompy-above](/output/chompy-above.gif)|
+  |chompy-alt-fast| ![chompy-alt-fast](/output/chompy-alt-fast.gif)|
+  |redacted| ![redacted](/output/redacted.png)|
+  |hurt| ![hurt](/output/hurt.png)|
+  |oprah_you_and_you| ![oprah_you_and_you](/output/oprah_you_and_you.gif)|
+  |drumroll_animated| ![drumroll_animated](/output/drumroll_animated.gif)|
+  |blob-f| ![blob-f](/output/blob-f.png)|
+  |clock420| ![clock420](/output/clock420.png)|
+  |goose-honk-on-grass| ![goose-honk-on-grass](/output/goose-honk-on-grass.png)|
+  |earth_fire| ![earth_fire](/output/earth_fire.png)|
+  |prettypenny| ![prettypenny](/output/prettypenny.jpg)|
+  |mood| ![mood](/output/mood.png)|
+  |ouchbae| ![ouchbae](/output/ouchbae.png)|
+  |sp00ky| ![sp00ky](/output/sp00ky.gif)|
+  |david-s-pumpkins| ![david-s-pumpkins](/output/david-s-pumpkins.gif)|
+  |defrag| ![defrag](/output/defrag.gif)|
+  |mayo| ![mayo](/output/mayo.png)|
+  |do| ![do](/output/do.png)|
+  |tunnel| ![tunnel](/output/tunnel.png)|
+  |niners| ![niners](/output/niners.png)|
+  |bustin| ![bustin](/output/bustin.jpg)|
+  |cranky| ![cranky](/output/cranky.jpg)|
+  |tivo| ![tivo](/output/tivo.png)|
+  |sophos| ![sophos](/output/sophos.png)|
+  |bandcamp-friday-yes| ![bandcamp-friday-yes](/output/bandcamp-friday-yes.gif)|
+  |ashley| ![ashley](/output/ashley.jpg)|
+  |irizarry| ![irizarry](/output/irizarry.jpg)|
+  |grpc-pancakes| ![grpc-pancakes](/output/grpc-pancakes.png)|
+  |grpc-pancakes-birthday| ![grpc-pancakes-birthday](/output/grpc-pancakes-birthday.png)|
+  |grpc-pancakes-protoc-and-serve| ![grpc-pancakes-protoc-and-serve](/output/grpc-pancakes-protoc-and-serve.png)|
+  |grpc-pancakes-with-stick| ![grpc-pancakes-with-stick](/output/grpc-pancakes-with-stick.png)|
+  |grpc| ![grpc](/output/grpc.png)|
+  |among_us_vibing| ![among_us_vibing](/output/among_us_vibing.gif)|
+  |among_us_crewmate| ![among_us_crewmate](/output/among_us_crewmate.png)|
+  |pretty_sus| ![pretty_sus](/output/pretty_sus.png)|
+  |bryan-facepalm| ![bryan-facepalm](/output/bryan-facepalm.png)|
+  |+2icon| ![+2icon](/output/+2icon.png)|
+  |team-terraform-pipeline-bye| ![team-terraform-pipeline-bye](/output/team-terraform-pipeline-bye.gif)|
+  |armon-halo2| ![armon-halo2](/output/armon-halo2.png)|
+  |stinkbug| ![stinkbug](/output/stinkbug.jpg)|
+  |mahomes| ![mahomes](/output/mahomes.png)|
+  |meow_knife-intensifies| ![meow_knife-intensifies](/output/meow_knife-intensifies.gif)|
+  |knife-intensifies| ![knife-intensifies](/output/knife-intensifies.gif)|
+  |team-terraform-pipeline-hello| ![team-terraform-pipeline-hello](/output/team-terraform-pipeline-hello.gif)|
+  |wafflehouse| ![wafflehouse](/output/wafflehouse.png)|
+  |waho-w| ![waho-w](/output/waho-w.png)|
+  |waho-a| ![waho-a](/output/waho-a.png)|
+  |waho-f| ![waho-f](/output/waho-f.png)|
+  |waho-f2| ![waho-f2](/output/waho-f2.png)|
+  |waho-l| ![waho-l](/output/waho-l.png)|
+  |waho-e| ![waho-e](/output/waho-e.png)|
+  |wafflehouse1| ![wafflehouse1](/output/wafflehouse1.png)|
+  |waho-h| ![waho-h](/output/waho-h.png)|
+  |wafflehouse2| ![wafflehouse2](/output/wafflehouse2.png)|
+  |waho-o| ![waho-o](/output/waho-o.png)|
+  |waho-u| ![waho-u](/output/waho-u.png)|
+  |waho-s| ![waho-s](/output/waho-s.png)|
+  |waho-e2| ![waho-e2](/output/waho-e2.png)|
+  |wednesday| ![wednesday](/output/wednesday.jpg)|
+  |vmware-sob| ![vmware-sob](/output/vmware-sob.jpg)|
+  |lexus| ![lexus](/output/lexus.png)|
+  |vmware-sob2| ![vmware-sob2](/output/vmware-sob2.jpg)|
+  |clint-intensifies| ![clint-intensifies](/output/clint-intensifies.gif)|
+  |clintensifies| ![clintensifies](/output/clintensifies)|
+  |jeep| ![jeep](/output/jeep.png)|
+  |jeepjk| ![jeepjk](/output/jeepjk.png)|
+  |clint-face| ![clint-face](/output/clint-face.png)|
+  |clint-face-intensifies| ![clint-face-intensifies](/output/clint-face-intensifies.gif)|
+  |clint-party| ![clint-party](/output/clint-party.gif)|
+  |good-morning-intensifies| ![good-morning-intensifies](/output/good-morning-intensifies.gif)|
+  |rotating_tom| ![rotating_tom](/output/rotating_tom.gif)|
+  |alvaro-floppy| ![alvaro-floppy](/output/alvaro-floppy.png)|
+  |agray-intensifies| ![agray-intensifies](/output/agray-intensifies.gif)|
+  |agray-longing-intensifies| ![agray-longing-intensifies](/output/agray-longing-intensifies.gif)|
+  |snail-hi| ![snail-hi](/output/snail-hi.png)|
+  |alvaro-god| ![alvaro-god](/output/alvaro-god.png)|
+  |gopher_evil| ![gopher_evil](/output/gopher_evil.png)|
+  |gopher_excited| ![gopher_excited](/output/gopher_excited.png)|
+  |gopher_happy| ![gopher_happy](/output/gopher_happy.png)|
+  |gopher_happy_with_hat| ![gopher_happy_with_hat](/output/gopher_happy_with_hat.png)|
+  |gopher_beach_lounging| ![gopher_beach_lounging](/output/gopher_beach_lounging.png)|
+  |gopher_happy_with_rabbit_hat| ![gopher_happy_with_rabbit_hat](/output/gopher_happy_with_rabbit_hat.png)|
+  |gopher_crying| ![gopher_crying](/output/gopher_crying.png)|
+  |gopher_with_laptop| ![gopher_with_laptop](/output/gopher_with_laptop.png)|
+  |gopher_mad| ![gopher_mad](/output/gopher_mad.png)|
+  |gopher_love| ![gopher_love](/output/gopher_love.png)|
+  |gopher_aww| ![gopher_aww](/output/gopher_aww.png)|
+  |gopher_laugh| ![gopher_laugh](/output/gopher_laugh.png)|
+  |gopher_balloons| ![gopher_balloons](/output/gopher_balloons.png)|
+  |gopher_brain_slug| ![gopher_brain_slug](/output/gopher_brain_slug.png)|
+  |gopher_digivolve_to| ![gopher_digivolve_to](/output/gopher_digivolve_to.png)|
+  |gopher_welder| ![gopher_welder](/output/gopher_welder.png)|
+  |gopher_fancy| ![gopher_fancy](/output/gopher_fancy.png)|
+  |gopher_alert| ![gopher_alert](/output/gopher_alert.png)|
+  |gopher_bulb| ![gopher_bulb](/output/gopher_bulb.png)|
+  |gopher_in_car| ![gopher_in_car](/output/gopher_in_car.png)|
+  |gopher_sip_coffee| ![gopher_sip_coffee](/output/gopher_sip_coffee.png)|
+  |gopher_with_wrench| ![gopher_with_wrench](/output/gopher_with_wrench.png)|
+  |gopher_with_money| ![gopher_with_money](/output/gopher_with_money.png)|
+  

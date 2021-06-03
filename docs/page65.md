@@ -1,15 +1,105 @@
 
-## Emojis (Page 65)
-|Emoji Name|Image|
-| :-: | :-: |
-|aks| ![aks](/output/aks.png)|
-|wink-wink| ![wink-wink](/output/wink-wink.png)|
-|cozybernie2| ![cozybernie2](/output/cozybernie2.png)|
-|tongue_wink_mirk| ![tongue_wink_mirk](/output/tongue_wink_mirk.png)|
-|care| ![care](/output/care.png)|
-|foxxo_nod| ![foxxo_nod](/output/foxxo_nod.gif)|
-|hugs-cat| ![hugs-cat](/output/hugs-cat.gif)|
-|cat-roomba| ![cat-roomba](/output/cat-roomba.gif)|
-|caticorn| ![caticorn](/output/caticorn.png)|
-|cat-money| ![cat-money](/output/cat-money.gif)|
-|cat-jump-rainbow| ![cat-jump-rainbow](/output/cat-jump-rainbow.gif)|
+  ## Emojis (Page 65)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |microsoftvisualstudioservicesicons| ![microsoftvisualstudioservicesicons](/output/microsoftvisualstudioservicesicons.png)|
+  |aks| ![aks](/output/aks.png)|
+  |wink-wink| ![wink-wink](/output/wink-wink.png)|
+  |cozybernie2| ![cozybernie2](/output/cozybernie2.png)|
+  |tongue_wink_mirk| ![tongue_wink_mirk](/output/tongue_wink_mirk.png)|
+  |care| ![care](/output/care.png)|
+  |foxxo_nod| ![foxxo_nod](/output/foxxo_nod.gif)|
+  |hugs-cat| ![hugs-cat](/output/hugs-cat.gif)|
+  |cat-roomba| ![cat-roomba](/output/cat-roomba.gif)|
+  |caticorn| ![caticorn](/output/caticorn.png)|
+  |cat-money| ![cat-money](/output/cat-money.gif)|
+  |cat-jump-rainbow| ![cat-jump-rainbow](/output/cat-jump-rainbow.gif)|
+  |vagrant-agogo| ![vagrant-agogo](/output/vagrant-agogo.png)|
+  |syringe-tada| ![syringe-tada](/output/syringe-tada.png)|
+  |syringe-tada-party| ![syringe-tada-party](/output/syringe-tada-party.gif)|
+  |see-no-evil-yubikey| ![see-no-evil-yubikey](/output/see-no-evil-yubikey.png)|
+  |see-no-evil-goth-yubikey| ![see-no-evil-goth-yubikey](/output/see-no-evil-goth-yubikey.png)|
+  |yubikey-see-no-evil| ![yubikey-see-no-evil](/output/yubikey-see-no-evil.png)|
+  |lamb| ![lamb](/output/lamb.png)|
+  |lamb-da| ![lamb-da](/output/lamb-da.png)|
+  |tab-soda| ![tab-soda](/output/tab-soda.jpg)|
+  |arms-crossed-yubikey| ![arms-crossed-yubikey](/output/arms-crossed-yubikey.png)|
+  |hawkwatch-cry| ![hawkwatch-cry](/output/hawkwatch-cry.png)|
+  |waypointer| ![waypointer](/output/waypointer.png)|
+  |terraform-associate| ![terraform-associate](/output/terraform-associate.png)|
+  |consul-associate| ![consul-associate](/output/consul-associate.png)|
+  |vault-associate| ![vault-associate](/output/vault-associate.png)|
+  |consul-associate-intensifies| ![consul-associate-intensifies](/output/consul-associate-intensifies.gif)|
+  |terraform-associate-intensifies| ![terraform-associate-intensifies](/output/terraform-associate-intensifies.gif)|
+  |vault-associate-intensifies| ![vault-associate-intensifies](/output/vault-associate-intensifies.gif)|
+  |airplane-intensifies| ![airplane-intensifies](/output/airplane-intensifies.gif)|
+  |phew2| ![phew2](/output/phew2.png)|
+  |phew-obama| ![phew-obama](/output/phew-obama.gif)|
+  |busy-bees| ![busy-bees](/output/busy-bees.png)|
+  |arms-crossed-joy| ![arms-crossed-joy](/output/arms-crossed-joy.png)|
+  |gideon-skull| ![gideon-skull](/output/gideon-skull.png)|
+  |wah| ![wah](/output/wah)|
+  |wah-dance| ![wah-dance](/output/wah-dance.gif)|
+  |bongo_pat| ![bongo_pat](/output/bongo_pat.gif)|
+  |blurry_paul| ![blurry_paul](/output/blurry_paul.png)|
+  |jag| ![jag](/output/jag.jpg)|
+  |grit-intensifies| ![grit-intensifies](/output/grit-intensifies.gif)|
+  |vaccine_party| ![vaccine_party](/output/vaccine_party.gif)|
+  |8bit-heart-bounce| ![8bit-heart-bounce](/output/8bit-heart-bounce.gif)|
+  |blob-hearts| ![blob-hearts](/output/blob-hearts.gif)|
+  |party-pug| ![party-pug](/output/party-pug.gif)|
+  |mini-warrior-sword| ![mini-warrior-sword](/output/mini-warrior-sword.gif)|
+  |brunner| ![brunner](/output/brunner.png)|
+  |sports| ![sports](/output/sports.png)|
+  |eggroll| ![eggroll](/output/eggroll.png)|
+  |wave-spin| ![wave-spin](/output/wave-spin.gif)|
+  |nooice| ![nooice](/output/nooice.png)|
+  |ember-spin| ![ember-spin](/output/ember-spin.gif)|
+  |ohnoes| ![ohnoes](/output/ohnoes.gif)|
+  |goober| ![goober](/output/goober.png)|
+  |life_uh_finds_a_way| ![life_uh_finds_a_way](/output/life_uh_finds_a_way.gif)|
+  |goldblum| ![goldblum](/output/goldblum.png)|
+  |blob-no| ![blob-no](/output/blob-no.png)|
+  |catjam| ![catjam](/output/catjam.gif)|
+  |meow_meh| ![meow_meh](/output/meow_meh.png)|
+  |cool-cool| ![cool-cool](/output/cool-cool.gif)|
+  |meow_hmm| ![meow_hmm](/output/meow_hmm.png)|
+  |kd| ![kd](/output/kd.png)|
+  |gudetama-glasses| ![gudetama-glasses](/output/gudetama-glasses.png)|
+  |gudetama-thinking| ![gudetama-thinking](/output/gudetama-thinking.png)|
+  |kd-box| ![kd-box](/output/kd-box.png)|
+  |infection-halo-flood| ![infection-halo-flood](/output/infection-halo-flood.png)|
+  |meow-coffee-intensifies| ![meow-coffee-intensifies](/output/meow-coffee-intensifies.gif)|
+  |henry| ![henry](/output/henry.png)|
+  |dslimmon-rolleyes| ![dslimmon-rolleyes](/output/dslimmon-rolleyes.gif)|
+  |kirk| ![kirk](/output/kirk.png)|
+  |oops_hand| ![oops_hand](/output/oops_hand.png)|
+  |spray-no| ![spray-no](/output/spray-no.gif)|
+  |grr| ![grr](/output/grr.gif)|
+  |meow-hungry| ![meow-hungry](/output/meow-hungry.gif)|
+  |meow-angry| ![meow-angry](/output/meow-angry.png)|
+  |mullet| ![mullet](/output/mullet.png)|
+  |ginger-root| ![ginger-root](/output/ginger-root.png)|
+  |lionel| ![lionel](/output/lionel.png)|
+  |goldy-gopher-hockey| ![goldy-gopher-hockey](/output/goldy-gopher-hockey.png)|
+  |retro-goldy-gopher-hockey| ![retro-goldy-gopher-hockey](/output/retro-goldy-gopher-hockey.png)|
+  |goldy-gopher-m| ![goldy-gopher-m](/output/goldy-gopher-m.png)|
+  |university-of-minnesota| ![university-of-minnesota](/output/university-of-minnesota.png)|
+  |am_ded| ![am_ded](/output/am_ded.png)|
+  |throw_computer| ![throw_computer](/output/throw_computer.gif)|
+  |gbeer-cheers| ![gbeer-cheers](/output/gbeer-cheers.jpg)|
+  |syringe-da| ![syringe-da](/output/syringe-da.png)|
+  |meow-chuckle| ![meow-chuckle](/output/meow-chuckle)|
+  |nod-fast| ![nod-fast](/output/nod-fast.gif)|
+  |cryalot| ![cryalot](/output/cryalot.png)|
+  |nod-sip| ![nod-sip](/output/nod-sip.gif)|
+  |ford| ![ford](/output/ford.png)|
+  |umbreon_yay| ![umbreon_yay](/output/umbreon_yay.gif)|
+  |git-bisect| ![git-bisect](/output/git-bisect.png)|
+  |nopartner| ![nopartner](/output/nopartner.png)|
+  |what_year_is_it| ![what_year_is_it](/output/what_year_is_it.png)|
+  |exhaust| ![exhaust](/output/exhaust.jpg)|
+  |instruqt| ![instruqt](/output/instruqt.png)|
+  |scott| ![scott](/output/scott.png)|
+  |sso-sob| ![sso-sob](/output/sso-sob.png)|
+  

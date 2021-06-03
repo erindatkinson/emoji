@@ -1,104 +1,105 @@
 
-## Emojis (Page 5)
-|Emoji Name|Image|
-| :-: | :-: |
-|emmett| ![emmett](/output/emmett.jpg)|
-|emojilord| ![emojilord](/output/emojilord.jpg)|
-|empire| ![empire](/output/empire.png)|
-|energizer| ![energizer](/output/energizer.gif)|
-|england-flag| ![england-flag](/output/england-flag.png)|
-|enquiringmindswanttoknow| ![enquiringmindswanttoknow](/output/enquiringmindswanttoknow.png)|
-|enterprise| ![enterprise](/output/enterprise.jpg)|
-|envoy| ![envoy](/output/envoy.png)|
-|erlang| ![erlang](/output/erlang.png)|
-|esc| ![esc](/output/esc.png)|
-|escalator| ![escalator](/output/escalator.jpg)|
-|espresso| ![espresso](/output/espresso.jpg)|
-|etch-a-sketch| ![etch-a-sketch](/output/etch-a-sketch.gif)|
-|europe| ![europe](/output/europe.png)|
-|evel_knievel| ![evel_knievel](/output/evel_knievel.jpg)|
-|everythingisawesome| ![everythingisawesome](/output/everythingisawesome.png)|
-|everythingisonfire| ![everythingisonfire](/output/everythingisonfire.gif)|
-|everything_is_fine| ![everything_is_fine](/output/everything_is_fine.gif)|
-|everything_is_fine_sticky_note| ![everything_is_fine_sticky_note](/output/everything_is_fine_sticky_note.png)|
-|evil| ![evil](/output/evil.png)|
-|evilburns| ![evilburns](/output/evilburns.png)|
-|evil_parrot| ![evil_parrot](/output/evil_parrot.gif)|
-|excel| ![excel](/output/excel.png)|
-|excellent| ![excellent](/output/excellent.png)|
-|excellent-mrburns| ![excellent-mrburns](/output/excellent-mrburns.gif)|
-|exploding_parrot| ![exploding_parrot](/output/exploding_parrot)|
-|explody_parrot| ![explody_parrot](/output/explody_parrot.gif)|
-|eyebleach| ![eyebleach](/output/eyebleach.gif)|
-|eyeroll| ![eyeroll](/output/eyeroll)|
-|eyes_flippy| ![eyes_flippy](/output/eyes_flippy.gif)|
-|eye_of_sauron| ![eye_of_sauron](/output/eye_of_sauron.jpg)|
-|fabio| ![fabio](/output/fabio.png)|
-|faceless_one| ![faceless_one](/output/faceless_one.png)|
-|facepalm| ![facepalm](/output/facepalm.gif)|
-|facepalm-janeway| ![facepalm-janeway](/output/facepalm-janeway.png)|
-|facepalm-sisko| ![facepalm-sisko](/output/facepalm-sisko.png)|
-|facepalm-ww| ![facepalm-ww](/output/facepalm-ww.gif)|
-|fades-away| ![fades-away](/output/fades-away)|
-|failed| ![failed](/output/failed.png)|
-|fantastic| ![fantastic](/output/fantastic.jpg)|
-|fastly| ![fastly](/output/fastly.png)|
-|fast_parrot| ![fast_parrot](/output/fast_parrot.gif)|
-|father_time| ![father_time](/output/father_time.gif)|
-|fatrabbit| ![fatrabbit](/output/fatrabbit)|
-|fat_chance| ![fat_chance](/output/fat_chance.png)|
-|fat_pony| ![fat_pony](/output/fat_pony.jpg)|
-|fear-io| ![fear-io](/output/fear-io.png)|
-|feature| ![feature](/output/feature.gif)|
-|fedora| ![fedora](/output/fedora)|
-|female-judge-gavel| ![female-judge-gavel](/output/female-judge-gavel.png)|
-|festivus| ![festivus](/output/festivus.png)|
-|fetch| ![fetch](/output/fetch.jpg)|
-|fez| ![fez](/output/fez.gif)|
-|fibonacci| ![fibonacci](/output/fibonacci.png)|
-|fidget_spinner| ![fidget_spinner](/output/fidget_spinner.gif)|
-|field_notes| ![field_notes](/output/field_notes.jpg)|
-|fieri-face| ![fieri-face](/output/fieri-face.png)|
-|fieri-parrot| ![fieri-parrot](/output/fieri-parrot.gif)|
-|fieri-shirt| ![fieri-shirt](/output/fieri-shirt.png)|
-|fiesta_parrot| ![fiesta_parrot](/output/fiesta_parrot.gif)|
-|finder| ![finder](/output/finder.png)|
-|fine| ![fine](/output/fine.png)|
-|finedog| ![finedog](/output/finedog.png)|
-|fingerscrossed| ![fingerscrossed](/output/fingerscrossed.png)|
-|fingers_crossed| ![fingers_crossed](/output/fingers_crossed.png)|
-|finn| ![finn](/output/finn.gif)|
-|fire-shh| ![fire-shh](/output/fire-shh.png)|
-|firecrap| ![firecrap](/output/firecrap)|
-|firefox| ![firefox](/output/firefox.png)|
-|firetruck| ![firetruck](/output/firetruck.png)|
-|fire_dancers| ![fire_dancers](/output/fire_dancers.png)|
-|fire_eyes_skull| ![fire_eyes_skull](/output/fire_eyes_skull.png)|
-|fire_wolf| ![fire_wolf](/output/fire_wolf.png)|
-|firstrule| ![firstrule](/output/firstrule.jpg)|
-|fistbump| ![fistbump](/output/fistbump)|
-|fixit| ![fixit](/output/fixit.png)|
-|flag-chi| ![flag-chi](/output/flag-chi.png)|
-|flag-missouri| ![flag-missouri](/output/flag-missouri.png)|
-|flag-pnw| ![flag-pnw](/output/flag-pnw.png)|
-|flag-tx| ![flag-tx](/output/flag-tx.png)|
-|flag-us-va| ![flag-us-va](/output/flag-us-va.gif)|
-|flake| ![flake](/output/flake.png)|
-|flames| ![flames](/output/flames.png)|
-|pink-cupcake| ![pink-cupcake](/output/pink-cupcake.png)|
-|flaming_poop| ![flaming_poop](/output/flaming_poop.png)|
-|flanders| ![flanders](/output/flanders.png)|
-|flappy| ![flappy](/output/flappy.gif)|
-|flash| ![flash](/output/flash.png)|
-|flossingavocado| ![flossingavocado](/output/flossingavocado.gif)|
-|flyers| ![flyers](/output/flyers.png)|
-|flying_money| ![flying_money](/output/flying_money.gif)|
-|flying_money_with_wings| ![flying_money_with_wings](/output/flying_money_with_wings.gif)|
-|fomo| ![fomo](/output/fomo.png)|
-|fonzie| ![fonzie](/output/fonzie.png)|
-|footgun| ![footgun](/output/footgun.png)|
-|fork| ![fork](/output/fork.png)|
-|forkit| ![forkit](/output/forkit)|
-|formerly-known-as| ![formerly-known-as](/output/formerly-known-as.png)|
-|fortyounce| ![fortyounce](/output/fortyounce.png)|
-|fossa| ![fossa](/output/fossa.jpg)|
+  ## Emojis (Page 5)
+  |Emoji Name|Image|
+  | :-: | :-: |
+  |emea-da| ![emea-da](/output/emea-da.png)|
+  |emmett| ![emmett](/output/emmett.jpg)|
+  |emojilord| ![emojilord](/output/emojilord.jpg)|
+  |empire| ![empire](/output/empire.png)|
+  |energizer| ![energizer](/output/energizer.gif)|
+  |england-flag| ![england-flag](/output/england-flag.png)|
+  |enquiringmindswanttoknow| ![enquiringmindswanttoknow](/output/enquiringmindswanttoknow.png)|
+  |enterprise| ![enterprise](/output/enterprise.jpg)|
+  |envoy| ![envoy](/output/envoy.png)|
+  |erlang| ![erlang](/output/erlang.png)|
+  |esc| ![esc](/output/esc.png)|
+  |escalator| ![escalator](/output/escalator.jpg)|
+  |espresso| ![espresso](/output/espresso.jpg)|
+  |etch-a-sketch| ![etch-a-sketch](/output/etch-a-sketch.gif)|
+  |europe| ![europe](/output/europe.png)|
+  |evel_knievel| ![evel_knievel](/output/evel_knievel.jpg)|
+  |everythingisawesome| ![everythingisawesome](/output/everythingisawesome.png)|
+  |everythingisonfire| ![everythingisonfire](/output/everythingisonfire.gif)|
+  |everything_is_fine| ![everything_is_fine](/output/everything_is_fine.gif)|
+  |everything_is_fine_sticky_note| ![everything_is_fine_sticky_note](/output/everything_is_fine_sticky_note.png)|
+  |evil| ![evil](/output/evil.png)|
+  |evilburns| ![evilburns](/output/evilburns.png)|
+  |evil_parrot| ![evil_parrot](/output/evil_parrot.gif)|
+  |excel| ![excel](/output/excel.png)|
+  |excellent| ![excellent](/output/excellent.png)|
+  |excellent-mrburns| ![excellent-mrburns](/output/excellent-mrburns.gif)|
+  |exploding_parrot| ![exploding_parrot](/output/exploding_parrot)|
+  |explody_parrot| ![explody_parrot](/output/explody_parrot.gif)|
+  |eyebleach| ![eyebleach](/output/eyebleach.gif)|
+  |eyeroll| ![eyeroll](/output/eyeroll)|
+  |eyes_flippy| ![eyes_flippy](/output/eyes_flippy.gif)|
+  |eye_of_sauron| ![eye_of_sauron](/output/eye_of_sauron.jpg)|
+  |fabio| ![fabio](/output/fabio.png)|
+  |faceless_one| ![faceless_one](/output/faceless_one.png)|
+  |facepalm| ![facepalm](/output/facepalm.gif)|
+  |facepalm-janeway| ![facepalm-janeway](/output/facepalm-janeway.png)|
+  |facepalm-sisko| ![facepalm-sisko](/output/facepalm-sisko.png)|
+  |facepalm-ww| ![facepalm-ww](/output/facepalm-ww.gif)|
+  |fades-away| ![fades-away](/output/fades-away)|
+  |failed| ![failed](/output/failed.png)|
+  |fantastic| ![fantastic](/output/fantastic.jpg)|
+  |fastly| ![fastly](/output/fastly.png)|
+  |fast_parrot| ![fast_parrot](/output/fast_parrot.gif)|
+  |father_time| ![father_time](/output/father_time.gif)|
+  |fatrabbit| ![fatrabbit](/output/fatrabbit)|
+  |fat_chance| ![fat_chance](/output/fat_chance.png)|
+  |fat_pony| ![fat_pony](/output/fat_pony.jpg)|
+  |fear-io| ![fear-io](/output/fear-io.png)|
+  |feature| ![feature](/output/feature.gif)|
+  |fedora| ![fedora](/output/fedora)|
+  |female-judge-gavel| ![female-judge-gavel](/output/female-judge-gavel.png)|
+  |festivus| ![festivus](/output/festivus.png)|
+  |fetch| ![fetch](/output/fetch.jpg)|
+  |fez| ![fez](/output/fez.gif)|
+  |fibonacci| ![fibonacci](/output/fibonacci.png)|
+  |fidget_spinner| ![fidget_spinner](/output/fidget_spinner.gif)|
+  |field_notes| ![field_notes](/output/field_notes.jpg)|
+  |fieri-face| ![fieri-face](/output/fieri-face.png)|
+  |fieri-parrot| ![fieri-parrot](/output/fieri-parrot.gif)|
+  |fieri-shirt| ![fieri-shirt](/output/fieri-shirt.png)|
+  |fiesta_parrot| ![fiesta_parrot](/output/fiesta_parrot.gif)|
+  |finder| ![finder](/output/finder.png)|
+  |fine| ![fine](/output/fine.png)|
+  |finedog| ![finedog](/output/finedog.png)|
+  |fingerscrossed| ![fingerscrossed](/output/fingerscrossed.png)|
+  |fingers_crossed| ![fingers_crossed](/output/fingers_crossed.png)|
+  |finn| ![finn](/output/finn.gif)|
+  |fire-shh| ![fire-shh](/output/fire-shh.png)|
+  |firecrap| ![firecrap](/output/firecrap)|
+  |firefox| ![firefox](/output/firefox.png)|
+  |firetruck| ![firetruck](/output/firetruck.png)|
+  |fire_dancers| ![fire_dancers](/output/fire_dancers.png)|
+  |fire_eyes_skull| ![fire_eyes_skull](/output/fire_eyes_skull.png)|
+  |fire_wolf| ![fire_wolf](/output/fire_wolf.png)|
+  |firstrule| ![firstrule](/output/firstrule.jpg)|
+  |fistbump| ![fistbump](/output/fistbump)|
+  |fixit| ![fixit](/output/fixit.png)|
+  |flag-chi| ![flag-chi](/output/flag-chi.png)|
+  |flag-missouri| ![flag-missouri](/output/flag-missouri.png)|
+  |flag-pnw| ![flag-pnw](/output/flag-pnw.png)|
+  |flag-tx| ![flag-tx](/output/flag-tx.png)|
+  |flag-us-va| ![flag-us-va](/output/flag-us-va.gif)|
+  |flake| ![flake](/output/flake.png)|
+  |flames| ![flames](/output/flames.png)|
+  |pink-cupcake| ![pink-cupcake](/output/pink-cupcake.png)|
+  |flaming_poop| ![flaming_poop](/output/flaming_poop.png)|
+  |flanders| ![flanders](/output/flanders.png)|
+  |flappy| ![flappy](/output/flappy.gif)|
+  |flash| ![flash](/output/flash.png)|
+  |flossingavocado| ![flossingavocado](/output/flossingavocado.gif)|
+  |flyers| ![flyers](/output/flyers.png)|
+  |flying_money| ![flying_money](/output/flying_money.gif)|
+  |flying_money_with_wings| ![flying_money_with_wings](/output/flying_money_with_wings.gif)|
+  |fomo| ![fomo](/output/fomo.png)|
+  |fonzie| ![fonzie](/output/fonzie.png)|
+  |footgun| ![footgun](/output/footgun.png)|
+  |fork| ![fork](/output/fork.png)|
+  |forkit| ![forkit](/output/forkit)|
+  |formerly-known-as| ![formerly-known-as](/output/formerly-known-as.png)|
+  |fortyounce| ![fortyounce](/output/fortyounce.png)|
+  
