@@ -43,7 +43,7 @@ def doc_gen(list_path):
   # Emojis
 
   {% for count in range(pages) -%}
-  * [Page {{count}}](docs/page{{count}}.md)
+  * [Page {{count}}](/docs/page{{count}}.md)
   {% endfor %}
   """
   with open("docs/index.md", 'w') as fp:
