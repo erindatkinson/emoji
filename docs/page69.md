@@ -2,6 +2,17 @@
   ## Emojis (Page 69)
   |Emoji Name|Image|
   | :-: | :-: |
+  |munna| ![munna](/output/munna.png)|
+  |rookworst| ![rookworst](/output/rookworst.png)|
+  |worst| ![worst](/output/worst)|
+  |sausage| ![sausage](/output/sausage)|
+  |shadytel| ![shadytel](/output/shadytel.png)|
+  |howdareyou-penny| ![howdareyou-penny](/output/howdareyou-penny.png)|
+  |yeetapult| ![yeetapult](/output/yeetapult.gif)|
+  |shiba_knife| ![shiba_knife](/output/shiba_knife.png)|
+  |oof-intensifies| ![oof-intensifies](/output/oof-intensifies.gif)|
+  |eula-da| ![eula-da](/output/eula-da.png)|
+  |legal-stuff| ![legal-stuff](/output/legal-stuff.jpg)|
   |livestream| ![livestream](/output/livestream)|
   |video| ![video](/output/video)|
   |podcast| ![podcast](/output/podcast)|
@@ -91,15 +102,4 @@
   |water-wave-waves| ![water-wave-waves](/output/water-wave-waves.gif)|
   |goth-chompy| ![goth-chompy](/output/goth-chompy.gif)|
   |waterfall| ![waterfall](/output/waterfall.png)|
-  |panic-grimace| ![panic-grimace](/output/panic-grimace.png)|
-  |slug-wolf| ![slug-wolf](/output/slug-wolf.png)|
-  |pizza-sob-wolf| ![pizza-sob-wolf](/output/pizza-sob-wolf.png)|
-  |noodle-wolf| ![noodle-wolf](/output/noodle-wolf.png)|
-  |jar-jar| ![jar-jar](/output/jar-jar.png)|
-  |palo-alto-networks| ![palo-alto-networks](/output/palo-alto-networks.png)|
-  |humpday-party| ![humpday-party](/output/humpday-party.gif)|
-  |agatha| ![agatha](/output/agatha.png)|
-  |think-noodle| ![think-noodle](/output/think-noodle.png)|
-  |cool-bean-intensifies| ![cool-bean-intensifies](/output/cool-bean-intensifies.gif)|
-  |dns-intensifies| ![dns-intensifies](/output/dns-intensifies.gif)|
   

@@ -2,6 +2,11 @@
   ## Emojis (Page 22)
   |Emoji Name|Image|
   | :-: | :-: |
+  |jobs_done| ![jobs_done](/output/jobs_done.jpg)|
+  |temmie| ![temmie](/output/temmie.png)|
+  |davidcelis-da| ![davidcelis-da](/output/davidcelis-da.gif)|
+  |developers| ![developers](/output/developers.gif)|
+  |nomad-scooter| ![nomad-scooter](/output/nomad-scooter.png)|
   |buzzfeed_james| ![buzzfeed_james](/output/buzzfeed_james.png)|
   |buzzfeed_brian| ![buzzfeed_brian](/output/buzzfeed_brian.png)|
   |buzzfeed_chris| ![buzzfeed_chris](/output/buzzfeed_chris.png)|
@@ -97,9 +102,4 @@
   |walmart| ![walmart](/output/walmart.png)|
   |donkeykong| ![donkeykong](/output/donkeykong.gif)|
   |iced-latte| ![iced-latte](/output/iced-latte.png)|
-  |coffee-intensifies| ![coffee-intensifies](/output/coffee-intensifies.gif)|
-  |raft-da| ![raft-da](/output/raft-da.png)|
-  |jessnaglecrash| ![jessnaglecrash](/output/jessnaglecrash.jpg)|
-  |rangohashidog| ![rangohashidog](/output/rangohashidog.jpg)|
-  |fc-tucson| ![fc-tucson](/output/fc-tucson.png)|
   

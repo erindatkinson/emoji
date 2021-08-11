@@ -2,6 +2,10 @@
   ## Emojis (Page 11)
   |Emoji Name|Image|
   | :-: | :-: |
+  |mic_pick_up| ![mic_pick_up](/output/mic_pick_up.gif)|
+  |middle_parrot| ![middle_parrot](/output/middle_parrot.gif)|
+  |midwest| ![midwest](/output/midwest.png)|
+  |milk| ![milk](/output/milk.png)|
   |mimosa| ![mimosa](/output/mimosa.png)|
   |mindblown| ![mindblown](/output/mindblown.gif)|
   |minecraft| ![minecraft](/output/minecraft.png)|
@@ -98,8 +102,4 @@
   |nooooo| ![nooooo](/output/nooooo.png)|
   |nope| ![nope](/output/nope.png)|
   |north| ![north](/output/north.png)|
-  |north-carolina| ![north-carolina](/output/north-carolina.png)|
-  |notbad| ![notbad](/output/notbad.png)|
-  |notch| ![notch](/output/notch.png)|
-  |notfine| ![notfine](/output/notfine.png)|
   

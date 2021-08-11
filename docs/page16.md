@@ -2,6 +2,11 @@
   ## Emojis (Page 16)
   |Emoji Name|Image|
   | :-: | :-: |
+  |shame| ![shame](/output/shame.png)|
+  |sharks| ![sharks](/output/sharks.png)|
+  |shed| ![shed](/output/shed.png)|
+  |shh-eyes| ![shh-eyes](/output/shh-eyes.png)|
+  |shifty_eyed_dog| ![shifty_eyed_dog](/output/shifty_eyed_dog.gif)|
   |ship-it| ![ship-it](/output/ship-it.png)|
   |shipit-good| ![shipit-good](/output/shipit-good.png)|
   |ship_it_parrot| ![ship_it_parrot](/output/ship_it_parrot.gif)|
@@ -97,9 +102,4 @@
   |splintercell| ![splintercell](/output/splintercell.png)|
   |splunk| ![splunk](/output/splunk.png)|
   |splunkda| ![splunkda](/output/splunkda.png)|
-  |spongebob| ![spongebob](/output/spongebob.png)|
-  |spoon2| ![spoon2](/output/spoon2.jpg)|
-  |spot| ![spot](/output/spot.gif)|
-  |spotify| ![spotify](/output/spotify.png)|
-  |spy| ![spy](/output/spy.png)|
   

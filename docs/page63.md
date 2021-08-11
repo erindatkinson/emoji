@@ -2,6 +2,17 @@
   ## Emojis (Page 63)
   |Emoji Name|Image|
   | :-: | :-: |
+  |kier-intensifies| ![kier-intensifies](/output/kier-intensifies.gif)|
+  |snep-intensifies| ![snep-intensifies](/output/snep-intensifies)|
+  |snep-approval| ![snep-approval](/output/snep-approval)|
+  |snep-disapproval| ![snep-disapproval](/output/snep-disapproval)|
+  |snep-wtf| ![snep-wtf](/output/snep-wtf)|
+  |pigs-fly| ![pigs-fly](/output/pigs-fly.png)|
+  |spit-take| ![spit-take](/output/spit-take.gif)|
+  |sounds_good| ![sounds_good](/output/sounds_good.jpg)|
+  |moog| ![moog](/output/moog.jpg)|
+  |moog-1| ![moog-1](/output/moog-1.png)|
+  |line| ![line](/output/line.png)|
   |rakuten| ![rakuten](/output/rakuten.png)|
   |yahoo_japan| ![yahoo_japan](/output/yahoo_japan.png)|
   |til-quiet| ![til-quiet](/output/til-quiet.png)|
@@ -91,15 +102,4 @@
   |tooloud| ![tooloud](/output/tooloud.png)|
   |poohsmile| ![poohsmile](/output/poohsmile.png)|
   |cold-intensifies| ![cold-intensifies](/output/cold-intensifies.gif)|
-  |wheeze| ![wheeze](/output/wheeze.png)|
-  |elastic| ![elastic](/output/elastic.png)|
-  |osquery| ![osquery](/output/osquery.png)|
-  |trinity| ![trinity](/output/trinity.png)|
-  |sledgehammer| ![sledgehammer](/output/sledgehammer.png)|
-  |nico| ![nico](/output/nico.png)|
-  |lunch-darkly| ![lunch-darkly](/output/lunch-darkly)|
-  |inch-worm| ![inch-worm](/output/inch-worm.png)|
-  |meow_snort| ![meow_snort](/output/meow_snort.png)|
-  |loki| ![loki](/output/loki.png)|
-  |agray-cool| ![agray-cool](/output/agray-cool.png)|
   

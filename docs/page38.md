@@ -2,6 +2,14 @@
   ## Emojis (Page 38)
   |Emoji Name|Image|
   | :-: | :-: |
+  |cs-7| ![cs-7](/output/cs-7.png)|
+  |cs-8| ![cs-8](/output/cs-8.png)|
+  |cs-9| ![cs-9](/output/cs-9.png)|
+  |cs-a| ![cs-a](/output/cs-a.png)|
+  |cs-b| ![cs-b](/output/cs-b.png)|
+  |cs-c| ![cs-c](/output/cs-c.png)|
+  |cs-3| ![cs-3](/output/cs-3.png)|
+  |cs-4| ![cs-4](/output/cs-4.png)|
   |cs-5| ![cs-5](/output/cs-5.png)|
   |cs-6| ![cs-6](/output/cs-6.png)|
   |disrespect| ![disrespect](/output/disrespect.png)|
@@ -94,12 +102,4 @@
   |thank-you-2| ![thank-you-2](/output/thank-you-2.png)|
   |sonic-dance| ![sonic-dance](/output/sonic-dance.gif)|
   |tips-hat| ![tips-hat](/output/tips-hat.gif)|
-  |cowboy-clap| ![cowboy-clap](/output/cowboy-clap.gif)|
-  |carlton-dance| ![carlton-dance](/output/carlton-dance.gif)|
-  |meatsweats-party| ![meatsweats-party](/output/meatsweats-party.gif)|
-  |alisdair-roll| ![alisdair-roll](/output/alisdair-roll.gif)|
-  |sad-yubikey| ![sad-yubikey](/output/sad-yubikey.png)|
-  |octo-clang| ![octo-clang](/output/octo-clang.png)|
-  |carcand-roll| ![carcand-roll](/output/carcand-roll.gif)|
-  |alvaro-toast| ![alvaro-toast](/output/alvaro-toast.png)|
   

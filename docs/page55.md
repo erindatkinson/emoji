@@ -2,6 +2,15 @@
   ## Emojis (Page 55)
   |Emoji Name|Image|
   | :-: | :-: |
+  |chompy-left| ![chompy-left](/output/chompy-left.gif)|
+  |chompy-lightspeed| ![chompy-lightspeed](/output/chompy-lightspeed.gif)|
+  |chompy-concerned| ![chompy-concerned](/output/chompy-concerned.gif)|
+  |chompy-deal-with-it| ![chompy-deal-with-it](/output/chompy-deal-with-it.gif)|
+  |chompy-fast| ![chompy-fast](/output/chompy-fast.gif)|
+  |chompy-angry| ![chompy-angry](/output/chompy-angry.gif)|
+  |chompy-blur| ![chompy-blur](/output/chompy-blur.gif)|
+  |chompy-coachella| ![chompy-coachella](/output/chompy-coachella.gif)|
+  |chompy-alt| ![chompy-alt](/output/chompy-alt.gif)|
   |chompy-alt-left| ![chompy-alt-left](/output/chompy-alt-left.gif)|
   |chompy-above| ![chompy-above](/output/chompy-above.gif)|
   |chompy-alt-fast| ![chompy-alt-fast](/output/chompy-alt-fast.gif)|
@@ -93,13 +102,4 @@
   |gopher_laugh| ![gopher_laugh](/output/gopher_laugh.png)|
   |gopher_balloons| ![gopher_balloons](/output/gopher_balloons.png)|
   |gopher_brain_slug| ![gopher_brain_slug](/output/gopher_brain_slug.png)|
-  |gopher_digivolve_to| ![gopher_digivolve_to](/output/gopher_digivolve_to.png)|
-  |gopher_welder| ![gopher_welder](/output/gopher_welder.png)|
-  |gopher_fancy| ![gopher_fancy](/output/gopher_fancy.png)|
-  |gopher_alert| ![gopher_alert](/output/gopher_alert.png)|
-  |gopher_bulb| ![gopher_bulb](/output/gopher_bulb.png)|
-  |gopher_in_car| ![gopher_in_car](/output/gopher_in_car.png)|
-  |gopher_sip_coffee| ![gopher_sip_coffee](/output/gopher_sip_coffee.png)|
-  |gopher_with_wrench| ![gopher_with_wrench](/output/gopher_with_wrench.png)|
-  |gopher_with_money| ![gopher_with_money](/output/gopher_with_money.png)|
   

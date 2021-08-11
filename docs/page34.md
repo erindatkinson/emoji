@@ -2,6 +2,14 @@
   ## Emojis (Page 34)
   |Emoji Name|Image|
   | :-: | :-: |
+  |wave-waves| ![wave-waves](/output/wave-waves.gif)|
+  |bulma| ![bulma](/output/bulma.png)|
+  |nomnom| ![nomnom](/output/nomnom.png)|
+  |geekbot-sob| ![geekbot-sob](/output/geekbot-sob.png)|
+  |seattle| ![seattle](/output/seattle.png)|
+  |exasperated-alvin| ![exasperated-alvin](/output/exasperated-alvin.png)|
+  |mando| ![mando](/output/mando.jpg)|
+  |whateverbrian| ![whateverbrian](/output/whateverbrian.png)|
   |titan_usb_c| ![titan_usb_c](/output/titan_usb_c.png)|
   |noob| ![noob](/output/noob.png)|
   |baby-shark| ![baby-shark](/output/baby-shark.png)|
@@ -94,12 +102,4 @@
   |terrynutkins-waves| ![terrynutkins-waves](/output/terrynutkins-waves.gif)|
   |terrynutkins-party| ![terrynutkins-party](/output/terrynutkins-party.gif)|
   |robbie-pacman| ![robbie-pacman](/output/robbie-pacman.gif)|
-  |cigar_smiley| ![cigar_smiley](/output/cigar_smiley.jpg)|
-  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
-  |cello| ![cello](/output/cello)|
-  |terrynutkins| ![terrynutkins](/output/terrynutkins.png)|
-  |nodramallama| ![nodramallama](/output/nodramallama)|
-  |terrynutkins-takemymoney| ![terrynutkins-takemymoney](/output/terrynutkins-takemymoney.png)|
-  |run-triggers| ![run-triggers](/output/run-triggers.png)|
-  |run-triggers1| ![run-triggers1](/output/run-triggers1.png)|
   

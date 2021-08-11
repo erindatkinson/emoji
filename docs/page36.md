@@ -2,6 +2,14 @@
   ## Emojis (Page 36)
   |Emoji Name|Image|
   | :-: | :-: |
+  |lime| ![lime](/output/lime.jpg)|
+  |exhausted_starfish| ![exhausted_starfish](/output/exhausted_starfish.png)|
+  |starfish_flower| ![starfish_flower](/output/starfish_flower.png)|
+  |netflix| ![netflix](/output/netflix.jpg)|
+  |italian-disapproves| ![italian-disapproves](/output/italian-disapproves.png)|
+  |x-cloud| ![x-cloud](/output/x-cloud.png)|
+  |catbus| ![catbus](/output/catbus.png)|
+  |squid1| ![squid1](/output/squid1.png)|
   |squid2| ![squid2](/output/squid2.png)|
   |squid3| ![squid3](/output/squid3.png)|
   |squid4| ![squid4](/output/squid4.png)|
@@ -94,12 +102,4 @@
   |cancan-sob| ![cancan-sob](/output/cancan-sob.png)|
   |cancan-blood-sob| ![cancan-blood-sob](/output/cancan-blood-sob.png)|
   |bitbucket-sob| ![bitbucket-sob](/output/bitbucket-sob.png)|
-  |goose-honk-sob-cancan| ![goose-honk-sob-cancan](/output/goose-honk-sob-cancan.png)|
-  |goose-honk-cry| ![goose-honk-cry](/output/goose-honk-cry.png)|
-  |cancan-cry| ![cancan-cry](/output/cancan-cry.png)|
-  |cowboy_cat-cry| ![cowboy_cat-cry](/output/cowboy_cat-cry.png)|
-  |bon-appetit| ![bon-appetit](/output/bon-appetit.jpg)|
-  |yaml-cry| ![yaml-cry](/output/yaml-cry.png)|
-  |docker-cry| ![docker-cry](/output/docker-cry.png)|
-  |hashibot-intensifies| ![hashibot-intensifies](/output/hashibot-intensifies.gif)|
   

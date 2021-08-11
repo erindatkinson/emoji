@@ -2,6 +2,15 @@
   ## Emojis (Page 47)
   |Emoji Name|Image|
   | :-: | :-: |
+  |armanino| ![armanino](/output/armanino.png)|
+  |teamwork_| ![teamwork_](/output/teamwork_)|
+  |appa| ![appa](/output/appa.png)|
+  |air| ![air](/output/air.png)|
+  |water-tribe| ![water-tribe](/output/water-tribe.png)|
+  |air-nomads| ![air-nomads](/output/air-nomads)|
+  |fire-nation| ![fire-nation](/output/fire-nation.png)|
+  |earth-kingdom| ![earth-kingdom](/output/earth-kingdom.png)|
+  |cheese-fries| ![cheese-fries](/output/cheese-fries.png)|
   |murloc| ![murloc](/output/murloc.png)|
   |jiggy| ![jiggy](/output/jiggy.png)|
   |mmm| ![mmm](/output/mmm.jpg)|
@@ -93,13 +102,4 @@
   |hayhayhay| ![hayhayhay](/output/hayhayhay.png)|
   |quokka| ![quokka](/output/quokka.png)|
   |upside_down_sob| ![upside_down_sob](/output/upside_down_sob.png)|
-  |partner-badge| ![partner-badge](/output/partner-badge.png)|
-  |black-lives-matter| ![black-lives-matter](/output/black-lives-matter.png)|
-  |terraform-v0-13| ![terraform-v0-13](/output/terraform-v0-13.png)|
-  |margot| ![margot](/output/margot.png)|
-  |earthfire| ![earthfire](/output/earthfire.gif)|
-  |petros-intensifies| ![petros-intensifies](/output/petros-intensifies.gif)|
-  |petros| ![petros](/output/petros.png)|
-  |petros-da| ![petros-da](/output/petros-da.png)|
-  |petros-waves| ![petros-waves](/output/petros-waves.gif)|
   

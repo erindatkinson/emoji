@@ -2,6 +2,14 @@
   ## Emojis (Page 41)
   |Emoji Name|Image|
   | :-: | :-: |
+  |lean-coffee-da| ![lean-coffee-da](/output/lean-coffee-da.png)|
+  |lean-coffee| ![lean-coffee](/output/lean-coffee.png)|
+  |companioncube| ![companioncube](/output/companioncube.png)|
+  |whammie| ![whammie](/output/whammie.gif)|
+  |whammied| ![whammied](/output/whammied.gif)|
+  |speaking_head_in_silhouette_left| ![speaking_head_in_silhouette_left](/output/speaking_head_in_silhouette_left.png)|
+  |australian-thumbsup| ![australian-thumbsup](/output/australian-thumbsup.png)|
+  |australian-thumbsdown| ![australian-thumbsdown](/output/australian-thumbsdown.png)|
   |corona-extra| ![corona-extra](/output/corona-extra.png)|
   |oklahoma-intensifies| ![oklahoma-intensifies](/output/oklahoma-intensifies.gif)|
   |pentacorn| ![pentacorn](/output/pentacorn.jpg)|
@@ -94,12 +102,4 @@
   |rolldice| ![rolldice](/output/rolldice.gif)|
   |rolleye| ![rolleye](/output/rolleye.gif)|
   |rolleyes| ![rolleyes](/output/rolleyes.gif)|
-  |smith| ![smith](/output/smith.gif)|
-  |smithcloud| ![smithcloud](/output/smithcloud.gif)|
-  |smug| ![smug](/output/smug.gif)|
-  |smuggo| ![smuggo](/output/smuggo.gif)|
-  |stare2| ![stare2](/output/stare2.gif)|
-  |stonk| ![stonk](/output/stonk.gif)|
-  |tipshat| ![tipshat](/output/tipshat.gif)|
-  |toot| ![toot](/output/toot.gif)|
   

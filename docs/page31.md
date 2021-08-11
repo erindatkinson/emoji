@@ -2,6 +2,14 @@
   ## Emojis (Page 31)
   |Emoji Name|Image|
   | :-: | :-: |
+  |walker| ![walker](/output/walker)|
+  |metrowerks| ![metrowerks](/output/metrowerks.png)|
+  |codewarrior| ![codewarrior](/output/codewarrior)|
+  |bailando| ![bailando](/output/bailando.gif)|
+  |salsadance| ![salsadance](/output/salsadance)|
+  |swing| ![swing](/output/swing)|
+  |sea-slug-01| ![sea-slug-01](/output/sea-slug-01.png)|
+  |sea-slug-02| ![sea-slug-02](/output/sea-slug-02.png)|
   |sea-slug-03| ![sea-slug-03](/output/sea-slug-03.png)|
   |sea-slug-04| ![sea-slug-04](/output/sea-slug-04.png)|
   |sea-slug-05| ![sea-slug-05](/output/sea-slug-05.png)|
@@ -94,12 +102,4 @@
   |dependabot| ![dependabot](/output/dependabot.png)|
   |arcand-intensifies| ![arcand-intensifies](/output/arcand-intensifies.gif)|
   |semmle_lgtm| ![semmle_lgtm](/output/semmle_lgtm.png)|
-  |jelly-lingonberry-intensifies| ![jelly-lingonberry-intensifies](/output/jelly-lingonberry-intensifies.gif)|
-  |go-intensifies| ![go-intensifies](/output/go-intensifies.gif)|
-  |qubit-intensifies| ![qubit-intensifies](/output/qubit-intensifies.gif)|
-  |sea-slug-01-intensifies| ![sea-slug-01-intensifies](/output/sea-slug-01-intensifies.gif)|
-  |oatly| ![oatly](/output/oatly.jpg)|
-  |smile-intensifies| ![smile-intensifies](/output/smile-intensifies.gif)|
-  |lunch-on-fire| ![lunch-on-fire](/output/lunch-on-fire.gif)|
-  |cute-pitbull-dog| ![cute-pitbull-dog](/output/cute-pitbull-dog.png)|
   

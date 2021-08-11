@@ -2,6 +2,17 @@
   ## Emojis (Page 60)
   |Emoji Name|Image|
   | :-: | :-: |
+  |bows| ![bows](/output/bows.png)|
+  |happy-hans-intensifies| ![happy-hans-intensifies](/output/happy-hans-intensifies.gif)|
+  |flanders-smile| ![flanders-smile](/output/flanders-smile.gif)|
+  |cloud-patrick| ![cloud-patrick](/output/cloud-patrick.png)|
+  |cloud-fitz| ![cloud-fitz](/output/cloud-fitz.png)|
+  |robertoyes| ![robertoyes](/output/robertoyes.png)|
+  |robertowuut| ![robertowuut](/output/robertowuut.png)|
+  |robertono| ![robertono](/output/robertono.png)|
+  |guts-man| ![guts-man](/output/guts-man.png)|
+  |chess| ![chess](/output/chess.png)|
+  |hallmark| ![hallmark](/output/hallmark.png)|
   |dance_ham_party| ![dance_ham_party](/output/dance_ham_party.gif)|
   |kitchen| ![kitchen](/output/kitchen.png)|
   |statlerwaldorfghost| ![statlerwaldorfghost](/output/statlerwaldorfghost.gif)|
@@ -91,15 +102,4 @@
   |alphabet-yellow-d| ![alphabet-yellow-d](/output/alphabet-yellow-d.png)|
   |alphabet-yellow-e| ![alphabet-yellow-e](/output/alphabet-yellow-e.png)|
   |alphabet-yellow-exclamation| ![alphabet-yellow-exclamation](/output/alphabet-yellow-exclamation.png)|
-  |alphabet-yellow-f| ![alphabet-yellow-f](/output/alphabet-yellow-f.png)|
-  |alphabet-yellow-g| ![alphabet-yellow-g](/output/alphabet-yellow-g.png)|
-  |alphabet-yellow-h| ![alphabet-yellow-h](/output/alphabet-yellow-h.png)|
-  |alphabet-yellow-hash| ![alphabet-yellow-hash](/output/alphabet-yellow-hash.png)|
-  |alphabet-yellow-i| ![alphabet-yellow-i](/output/alphabet-yellow-i.png)|
-  |alphabet-yellow-j| ![alphabet-yellow-j](/output/alphabet-yellow-j.png)|
-  |alphabet-yellow-k| ![alphabet-yellow-k](/output/alphabet-yellow-k.png)|
-  |alphabet-yellow-l| ![alphabet-yellow-l](/output/alphabet-yellow-l.png)|
-  |alphabet-yellow-m| ![alphabet-yellow-m](/output/alphabet-yellow-m.png)|
-  |alphabet-yellow-n| ![alphabet-yellow-n](/output/alphabet-yellow-n.png)|
-  |alphabet-yellow-o| ![alphabet-yellow-o](/output/alphabet-yellow-o.png)|
   

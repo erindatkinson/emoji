@@ -2,6 +2,14 @@
   ## Emojis (Page 42)
   |Emoji Name|Image|
   | :-: | :-: |
+  |smith| ![smith](/output/smith.gif)|
+  |smithcloud| ![smithcloud](/output/smithcloud.gif)|
+  |smug| ![smug](/output/smug.gif)|
+  |smuggo| ![smuggo](/output/smuggo.gif)|
+  |stare2| ![stare2](/output/stare2.gif)|
+  |stonk| ![stonk](/output/stonk.gif)|
+  |tipshat| ![tipshat](/output/tipshat.gif)|
+  |toot| ![toot](/output/toot.gif)|
   |unsmith| ![unsmith](/output/unsmith.gif)|
   |woop| ![woop](/output/woop.gif)|
   |yayclod| ![yayclod](/output/yayclod.png)|
@@ -70,6 +78,7 @@
   |brownbear| ![brownbear](/output/brownbear.png)|
   |chef_kissing_fingers_intensifies| ![chef_kissing_fingers_intensifies](/output/chef_kissing_fingers_intensifies.gif)|
   |cowboy-kissing-fingers-intensifies| ![cowboy-kissing-fingers-intensifies](/output/cowboy-kissing-fingers-intensifies.gif)|
+  |lobster3| ![lobster3](/output/lobster3.jpg)|
   |lobster2| ![lobster2](/output/lobster2.png)|
   |github-loading| ![github-loading](/output/github-loading.gif)|
   |kitkat| ![kitkat](/output/kitkat.png)|
@@ -93,13 +102,4 @@
   |waluigi| ![waluigi](/output/waluigi.png)|
   |luigi| ![luigi](/output/luigi.png)|
   |luigi-8bit| ![luigi-8bit](/output/luigi-8bit.png)|
-  |aloha| ![aloha](/output/aloha)|
-  |goose-honk-sob-cancan-intensifies| ![goose-honk-sob-cancan-intensifies](/output/goose-honk-sob-cancan-intensifies.gif)|
-  |cancancancan-intensifies| ![cancancancan-intensifies](/output/cancancancan-intensifies.gif)|
-  |chris-intensifies| ![chris-intensifies](/output/chris-intensifies.gif)|
-  |blue_ghost| ![blue_ghost](/output/blue_ghost.png)|
-  |that| ![that](/output/that.gif)|
-  |green-intensifies| ![green-intensifies](/output/green-intensifies.gif)|
-  |lsp| ![lsp](/output/lsp.gif)|
-  |awesome1| ![awesome1](/output/awesome1.gif)|
   

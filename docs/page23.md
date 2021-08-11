@@ -2,6 +2,11 @@
   ## Emojis (Page 23)
   |Emoji Name|Image|
   | :-: | :-: |
+  |coffee-intensifies| ![coffee-intensifies](/output/coffee-intensifies.gif)|
+  |raft-da| ![raft-da](/output/raft-da.png)|
+  |jessnaglecrash| ![jessnaglecrash](/output/jessnaglecrash.jpg)|
+  |rangohashidog| ![rangohashidog](/output/rangohashidog.jpg)|
+  |fc-tucson| ![fc-tucson](/output/fc-tucson.png)|
   |replicated| ![replicated](/output/replicated.png)|
   |gribbo| ![gribbo](/output/gribbo.png)|
   |captain-america| ![captain-america](/output/captain-america.jpg)|
@@ -97,9 +102,4 @@
   |mmda| ![mmda](/output/mmda)|
   |magician-da| ![magician-da](/output/magician-da)|
   |magic-modules| ![magic-modules](/output/magic-modules.png)|
-  |mm| ![mm](/output/mm)|
-  |cost-estimation| ![cost-estimation](/output/cost-estimation.png)|
-  |frizzle| ![frizzle](/output/frizzle.jpg)|
-  |handwave| ![handwave](/output/handwave.gif)|
-  |evangelion_rei_neutral| ![evangelion_rei_neutral](/output/evangelion_rei_neutral.png)|
   

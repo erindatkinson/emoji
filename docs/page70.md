@@ -2,6 +2,17 @@
   ## Emojis (Page 70)
   |Emoji Name|Image|
   | :-: | :-: |
+  |panic-grimace| ![panic-grimace](/output/panic-grimace.png)|
+  |slug-wolf| ![slug-wolf](/output/slug-wolf.png)|
+  |pizza-sob-wolf| ![pizza-sob-wolf](/output/pizza-sob-wolf.png)|
+  |noodle-wolf| ![noodle-wolf](/output/noodle-wolf.png)|
+  |jar-jar| ![jar-jar](/output/jar-jar.png)|
+  |palo-alto-networks| ![palo-alto-networks](/output/palo-alto-networks.png)|
+  |humpday-party| ![humpday-party](/output/humpday-party.gif)|
+  |agatha| ![agatha](/output/agatha.png)|
+  |think-noodle| ![think-noodle](/output/think-noodle.png)|
+  |cool-bean-intensifies| ![cool-bean-intensifies](/output/cool-bean-intensifies.gif)|
+  |dns-intensifies| ![dns-intensifies](/output/dns-intensifies.gif)|
   |dns-technologist-intensifies| ![dns-technologist-intensifies](/output/dns-technologist-intensifies.gif)|
   |think-noodle-intensifies| ![think-noodle-intensifies](/output/think-noodle-intensifies.gif)|
   |panic-grimace-intensifies| ![panic-grimace-intensifies](/output/panic-grimace-intensifies.gif)|
@@ -45,4 +56,50 @@
   |unsubscribe| ![unsubscribe](/output/unsubscribe.png)|
   |squonk-technologist| ![squonk-technologist](/output/squonk-technologist.png)|
   |mothman-technologist| ![mothman-technologist](/output/mothman-technologist.png)|
+  |hashi-corp-coffee| ![hashi-corp-coffee](/output/hashi-corp-coffee.png)|
+  |hard| ![hard](/output/hard.png)|
+  |meow-cowboy| ![meow-cowboy](/output/meow-cowboy.png)|
+  |meow-cowboy-smile| ![meow-cowboy-smile](/output/meow-cowboy-smile.png)|
+  |meow-cowboy-derp| ![meow-cowboy-derp](/output/meow-cowboy-derp.png)|
+  |meow-cowboy-glare| ![meow-cowboy-glare](/output/meow-cowboy-glare.png)|
+  |meow-cowboy-wow| ![meow-cowboy-wow](/output/meow-cowboy-wow.png)|
+  |hello-ralph| ![hello-ralph](/output/hello-ralph.gif)|
+  |grant_us_eyes| ![grant_us_eyes](/output/grant_us_eyes.png)|
+  |meow_pride| ![meow_pride](/output/meow_pride.png)|
+  |meow_genderqueer| ![meow_genderqueer](/output/meow_genderqueer.png)|
+  |meow_prideheart| ![meow_prideheart](/output/meow_prideheart.gif)|
+  |meow_prideheart_alt| ![meow_prideheart_alt](/output/meow_prideheart_alt.png)|
+  |meow_trans| ![meow_trans](/output/meow_trans.png)|
+  |wood-intensifies| ![wood-intensifies](/output/wood-intensifies.gif)|
+  |lumber-intensifies| ![lumber-intensifies](/output/lumber-intensifies)|
+  |joye-intensifies| ![joye-intensifies](/output/joye-intensifies.gif)|
+  |joye-jiggly-cow| ![joye-jiggly-cow](/output/joye-jiggly-cow.gif)|
+  |parmigiano-reggiano| ![parmigiano-reggiano](/output/parmigiano-reggiano.jpg)|
+  |warm_beverage_cheers| ![warm_beverage_cheers](/output/warm_beverage_cheers.png)|
+  |hello-picard| ![hello-picard](/output/hello-picard.gif)|
+  |blob_joy| ![blob_joy](/output/blob_joy.png)|
+  |blob_woah| ![blob_woah](/output/blob_woah.png)|
+  |blob_grin| ![blob_grin](/output/blob_grin.png)|
+  |terraform-run-pipelines| ![terraform-run-pipelines](/output/terraform-run-pipelines.gif)|
+  |laurie| ![laurie](/output/laurie.png)|
+  |laurie-intensifies| ![laurie-intensifies](/output/laurie-intensifies.gif)|
+  |chef_kissing_while_crying| ![chef_kissing_while_crying](/output/chef_kissing_while_crying.png)|
+  |gresearch| ![gresearch](/output/gresearch.png)|
+  |goodbye_there| ![goodbye_there](/output/goodbye_there.gif)|
+  |andyd_dance| ![andyd_dance](/output/andyd_dance.gif)|
+  |lemonade| ![lemonade](/output/lemonade.png)|
+  |adulting| ![adulting](/output/adulting.png)|
+  |itsloki| ![itsloki](/output/itsloki.png)|
+  |hello-inigo-montoya| ![hello-inigo-montoya](/output/hello-inigo-montoya.gif)|
+  |dyinginside| ![dyinginside](/output/dyinginside.png)|
+  |fc-barcelona| ![fc-barcelona](/output/fc-barcelona.png)|
+  |steph| ![steph](/output/steph.jpg)|
+  |thin-mints| ![thin-mints](/output/thin-mints.png)|
+  |samoas| ![samoas](/output/samoas.png)|
+  |meow_knife_heart_eyes| ![meow_knife_heart_eyes](/output/meow_knife_heart_eyes.png)|
+  |are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you| ![are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you](/output/are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you)|
+  |thinkies-intensifies| ![thinkies-intensifies](/output/thinkies-intensifies.gif)|
+  |meow_knife_heart_eyes-intensifies| ![meow_knife_heart_eyes-intensifies](/output/meow_knife_heart_eyes-intensifies.gif)|
+  |are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies| ![are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies](/output/are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies.gif)|
+  |argmapper| ![argmapper](/output/argmapper.png)|
   

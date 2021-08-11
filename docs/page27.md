@@ -2,6 +2,13 @@
   ## Emojis (Page 27)
   |Emoji Name|Image|
   | :-: | :-: |
+  |killerqueen| ![killerqueen](/output/killerqueen.png)|
+  |youre_breathtaking| ![youre_breathtaking](/output/youre_breathtaking.png)|
+  |ted-theodore-logan| ![ted-theodore-logan](/output/ted-theodore-logan.png)|
+  |ted| ![ted](/output/ted)|
+  |krista| ![krista](/output/krista)|
+  |steve-jobs| ![steve-jobs](/output/steve-jobs.jpg)|
+  |jippi| ![jippi](/output/jippi.jpg)|
   |unicornshades| ![unicornshades](/output/unicornshades.png)|
   |it-me| ![it-me](/output/it-me.gif)|
   |upside-down-waving-hand| ![upside-down-waving-hand](/output/upside-down-waving-hand.png)|
@@ -39,6 +46,7 @@
   |gta-wasted| ![gta-wasted](/output/gta-wasted.png)|
   |dora-the-explorer| ![dora-the-explorer](/output/dora-the-explorer.png)|
   |table| ![table](/output/table.png)|
+  |chair2| ![chair2](/output/chair2.png)|
   |pride-trans2| ![pride-trans2](/output/pride-trans2.png)|
   |azure-dns| ![azure-dns](/output/azure-dns.png)|
   |cloud_search| ![cloud_search](/output/cloud_search.png)|
@@ -94,12 +102,4 @@
   |pirate-face| ![pirate-face](/output/pirate-face.gif)|
   |owo| ![owo](/output/owo.jpg)|
   |tear_of_joy| ![tear_of_joy](/output/tear_of_joy.png)|
-  |bitbucket-da| ![bitbucket-da](/output/bitbucket-da.png)|
-  |bitbucket-party| ![bitbucket-party](/output/bitbucket-party.gif)|
-  |azure-da| ![azure-da](/output/azure-da.png)|
-  |azure-party| ![azure-party](/output/azure-party.gif)|
-  |azure-royal| ![azure-royal](/output/azure-royal.png)|
-  |azure-king| ![azure-king](/output/azure-king)|
-  |azure-queen| ![azure-queen](/output/azure-queen)|
-  |bitbucket-royal| ![bitbucket-royal](/output/bitbucket-royal.png)|
   

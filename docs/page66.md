@@ -2,6 +2,17 @@
   ## Emojis (Page 66)
   |Emoji Name|Image|
   | :-: | :-: |
+  |cryalot| ![cryalot](/output/cryalot.png)|
+  |nod-sip| ![nod-sip](/output/nod-sip.gif)|
+  |ford| ![ford](/output/ford.png)|
+  |umbreon_yay| ![umbreon_yay](/output/umbreon_yay.gif)|
+  |git-bisect| ![git-bisect](/output/git-bisect.png)|
+  |nopartner| ![nopartner](/output/nopartner.png)|
+  |what_year_is_it| ![what_year_is_it](/output/what_year_is_it.png)|
+  |exhaust| ![exhaust](/output/exhaust.jpg)|
+  |instruqt| ![instruqt](/output/instruqt.png)|
+  |scott| ![scott](/output/scott.png)|
+  |sso-sob| ![sso-sob](/output/sso-sob.png)|
   |sso-blood-sob| ![sso-blood-sob](/output/sso-blood-sob.png)|
   |dadada| ![dadada](/output/dadada.jpg)|
   |duchamp-da| ![duchamp-da](/output/duchamp-da)|
@@ -91,15 +102,4 @@
   |jeff-hi| ![jeff-hi](/output/jeff-hi.gif)|
   |jeffrey| ![jeffrey](/output/jeffrey.gif)|
   |andmyaxe| ![andmyaxe](/output/andmyaxe.jpg)|
-  |going_to_get_weird| ![going_to_get_weird](/output/going_to_get_weird.jpg)|
-  |headcrab| ![headcrab](/output/headcrab.gif)|
-  |feedthewolf| ![feedthewolf](/output/feedthewolf.jpg)|
-  |hl-crowbar| ![hl-crowbar](/output/hl-crowbar.png)|
-  |grit-intensifies-intensifies| ![grit-intensifies-intensifies](/output/grit-intensifies-intensifies.gif)|
-  |navi| ![navi](/output/navi.png)|
-  |lei| ![lei](/output/lei.jpg)|
-  |marmot| ![marmot](/output/marmot.png)|
-  |puppers| ![puppers](/output/puppers.png)|
-  |hashiconf2021-consul| ![hashiconf2021-consul](/output/hashiconf2021-consul.png)|
-  |hashiconf2021-nomad| ![hashiconf2021-nomad](/output/hashiconf2021-nomad.png)|
   

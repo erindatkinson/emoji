@@ -2,6 +2,15 @@
   ## Emojis (Page 43)
   |Emoji Name|Image|
   | :-: | :-: |
+  |aloha| ![aloha](/output/aloha)|
+  |goose-honk-sob-cancan-intensifies| ![goose-honk-sob-cancan-intensifies](/output/goose-honk-sob-cancan-intensifies.gif)|
+  |cancancancan-intensifies| ![cancancancan-intensifies](/output/cancancancan-intensifies.gif)|
+  |chris-intensifies| ![chris-intensifies](/output/chris-intensifies.gif)|
+  |blue_ghost| ![blue_ghost](/output/blue_ghost.png)|
+  |that| ![that](/output/that.gif)|
+  |green-intensifies| ![green-intensifies](/output/green-intensifies.gif)|
+  |lsp| ![lsp](/output/lsp.gif)|
+  |awesome1| ![awesome1](/output/awesome1.gif)|
   |okra| ![okra](/output/okra.png)|
   |waffles-royal| ![waffles-royal](/output/waffles-royal.png)|
   |thonking_face-sad| ![thonking_face-sad](/output/thonking_face-sad.png)|
@@ -93,13 +102,4 @@
   |winamp| ![winamp](/output/winamp.png)|
   |learn| ![learn](/output/learn.png)|
   |pulumipus| ![pulumipus](/output/pulumipus.png)|
-  |musical-note-intensifies| ![musical-note-intensifies](/output/musical-note-intensifies.gif)|
-  |thread-new| ![thread-new](/output/thread-new.png)|
-  |ff_cactuar| ![ff_cactuar](/output/ff_cactuar.png)|
-  |goodnightwish| ![goodnightwish](/output/goodnightwish.jpg)|
-  |nvim| ![nvim](/output/nvim.png)|
-  |fat-thor| ![fat-thor](/output/fat-thor.png)|
-  |slam-morning| ![slam-morning](/output/slam-morning.jpg)|
-  |minesweeper| ![minesweeper](/output/minesweeper.png)|
-  |game-over| ![game-over](/output/game-over.png)|
   

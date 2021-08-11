@@ -2,6 +2,15 @@
   ## Emojis (Page 56)
   |Emoji Name|Image|
   | :-: | :-: |
+  |gopher_digivolve_to| ![gopher_digivolve_to](/output/gopher_digivolve_to.png)|
+  |gopher_welder| ![gopher_welder](/output/gopher_welder.png)|
+  |gopher_fancy| ![gopher_fancy](/output/gopher_fancy.png)|
+  |gopher_alert| ![gopher_alert](/output/gopher_alert.png)|
+  |gopher_bulb| ![gopher_bulb](/output/gopher_bulb.png)|
+  |gopher_in_car| ![gopher_in_car](/output/gopher_in_car.png)|
+  |gopher_sip_coffee| ![gopher_sip_coffee](/output/gopher_sip_coffee.png)|
+  |gopher_with_wrench| ![gopher_with_wrench](/output/gopher_with_wrench.png)|
+  |gopher_with_money| ![gopher_with_money](/output/gopher_with_money.png)|
   |gopher_pilot| ![gopher_pilot](/output/gopher_pilot.png)|
   |request-response| ![request-response](/output/request-response.gif)|
   |bluetooth| ![bluetooth](/output/bluetooth.png)|
@@ -24,6 +33,7 @@
   |cuphead| ![cuphead](/output/cuphead.gif)|
   |menacing_do_do| ![menacing_do_do](/output/menacing_do_do.png)|
   |menacing_do_do-intensifies| ![menacing_do_do-intensifies](/output/menacing_do_do-intensifies.gif)|
+  |flamingo2| ![flamingo2](/output/flamingo2.png)|
   |bone2| ![bone2](/output/bone2.png)|
   |team-terraform-practitioner| ![team-terraform-practitioner](/output/team-terraform-practitioner.gif)|
   |noodle-dog2-rocket| ![noodle-dog2-rocket](/output/noodle-dog2-rocket.png)|
@@ -92,14 +102,4 @@
   |gir_dance| ![gir_dance](/output/gir_dance.gif)|
   |cheat| ![cheat](/output/cheat.png)|
   |chewbacca| ![chewbacca](/output/chewbacca.png)|
-  |spongebob-mock| ![spongebob-mock](/output/spongebob-mock.png)|
-  |spongebobtellmemore| ![spongebobtellmemore](/output/spongebobtellmemore.jpg)|
-  |spongebobwtf| ![spongebobwtf](/output/spongebobwtf.jpg)|
-  |trap| ![trap](/output/trap.png)|
-  |picklerick| ![picklerick](/output/picklerick.png)|
-  |pigsfly| ![pigsfly](/output/pigsfly.jpg)|
-  |poe| ![poe](/output/poe.png)|
-  |pundog| ![pundog](/output/pundog.png)|
-  |qubecflag| ![qubecflag](/output/qubecflag.png)|
-  |ship-it-parrot| ![ship-it-parrot](/output/ship-it-parrot.gif)|
   

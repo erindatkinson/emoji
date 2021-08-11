@@ -2,6 +2,11 @@
   ## Emojis (Page 19)
   |Emoji Name|Image|
   | :-: | :-: |
+  |t_hanks| ![t_hanks](/output/t_hanks.png)|
+  |uber| ![uber](/output/uber.png)|
+  |uber-bit| ![uber-bit](/output/uber-bit.png)|
+  |ubiquiti| ![ubiquiti](/output/ubiquiti)|
+  |ubnt| ![ubnt](/output/ubnt.jpg)|
   |ubuntu| ![ubuntu](/output/ubuntu.png)|
   |uga| ![uga](/output/uga.png)|
   |uh-huh| ![uh-huh](/output/uh-huh)|
@@ -97,9 +102,4 @@
   |wizard| ![wizard](/output/wizard.png)|
   |wl| ![wl](/output/wl.gif)|
   |woah| ![woah](/output/woah)|
-  |wolf_wolf| ![wolf_wolf](/output/wolf_wolf.png)|
-  |woman_codertocat| ![woman_codertocat](/output/woman_codertocat.png)|
-  |woman_purple_hair| ![woman_purple_hair](/output/woman_purple_hair.png)|
-  |woman_purple_hair_skin-tone-2| ![woman_purple_hair_skin-tone-2](/output/woman_purple_hair_skin-tone-2.png)|
-  |woman_purple_hair_skin-tone-3| ![woman_purple_hair_skin-tone-3](/output/woman_purple_hair_skin-tone-3.png)|
   

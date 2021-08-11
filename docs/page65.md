@@ -2,6 +2,17 @@
   ## Emojis (Page 65)
   |Emoji Name|Image|
   | :-: | :-: |
+  |friyay-intensifies| ![friyay-intensifies](/output/friyay-intensifies.gif)|
+  |gainsight| ![gainsight](/output/gainsight.png)|
+  |gainsight-da| ![gainsight-da](/output/gainsight-da.png)|
+  |chris-waves| ![chris-waves](/output/chris-waves.gif)|
+  |team-terraform-practitioner-waves| ![team-terraform-practitioner-waves](/output/team-terraform-practitioner-waves.gif)|
+  |goth_germany| ![goth_germany](/output/goth_germany.png)|
+  |wing| ![wing](/output/wing.png)|
+  |nandoslogo| ![nandoslogo](/output/nandoslogo.png)|
+  |chestnut-da| ![chestnut-da](/output/chestnut-da.png)|
+  |chestnut-tree-da| ![chestnut-tree-da](/output/chestnut-tree-da.png)|
+  |chestnut-tree| ![chestnut-tree](/output/chestnut-tree.png)|
   |microsoftvisualstudioservicesicons| ![microsoftvisualstudioservicesicons](/output/microsoftvisualstudioservicesicons.png)|
   |aks| ![aks](/output/aks.png)|
   |wink-wink| ![wink-wink](/output/wink-wink.png)|
@@ -91,15 +102,4 @@
   |syringe-da| ![syringe-da](/output/syringe-da.png)|
   |meow-chuckle| ![meow-chuckle](/output/meow-chuckle)|
   |nod-fast| ![nod-fast](/output/nod-fast.gif)|
-  |cryalot| ![cryalot](/output/cryalot.png)|
-  |nod-sip| ![nod-sip](/output/nod-sip.gif)|
-  |ford| ![ford](/output/ford.png)|
-  |umbreon_yay| ![umbreon_yay](/output/umbreon_yay.gif)|
-  |git-bisect| ![git-bisect](/output/git-bisect.png)|
-  |nopartner| ![nopartner](/output/nopartner.png)|
-  |what_year_is_it| ![what_year_is_it](/output/what_year_is_it.png)|
-  |exhaust| ![exhaust](/output/exhaust.jpg)|
-  |instruqt| ![instruqt](/output/instruqt.png)|
-  |scott| ![scott](/output/scott.png)|
-  |sso-sob| ![sso-sob](/output/sso-sob.png)|
   

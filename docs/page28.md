@@ -2,6 +2,14 @@
   ## Emojis (Page 28)
   |Emoji Name|Image|
   | :-: | :-: |
+  |bitbucket-da| ![bitbucket-da](/output/bitbucket-da.png)|
+  |bitbucket-party| ![bitbucket-party](/output/bitbucket-party.gif)|
+  |azure-da| ![azure-da](/output/azure-da.png)|
+  |azure-party| ![azure-party](/output/azure-party.gif)|
+  |azure-royal| ![azure-royal](/output/azure-royal.png)|
+  |azure-king| ![azure-king](/output/azure-king)|
+  |azure-queen| ![azure-queen](/output/azure-queen)|
+  |bitbucket-royal| ![bitbucket-royal](/output/bitbucket-royal.png)|
   |bitbucket-king| ![bitbucket-king](/output/bitbucket-king)|
   |bitbucket-queen| ![bitbucket-queen](/output/bitbucket-queen)|
   |azure-intensifies| ![azure-intensifies](/output/azure-intensifies.gif)|
@@ -94,12 +102,4 @@
   |cool-doge| ![cool-doge](/output/cool-doge.gif)|
   |cool-doge-intensifies| ![cool-doge-intensifies](/output/cool-doge-intensifies.gif)|
   |weight-lifter-intensifies| ![weight-lifter-intensifies](/output/weight-lifter-intensifies.gif)|
-  |weight-lifter-woman-intensifies| ![weight-lifter-woman-intensifies](/output/weight-lifter-woman-intensifies.gif)|
-  |army| ![army](/output/army.png)|
-  |navy| ![navy](/output/navy.png)|
-  |airforce| ![airforce](/output/airforce.png)|
-  |capitol| ![capitol](/output/capitol.png)|
-  |dhs| ![dhs](/output/dhs.png)|
-  |whitehouse| ![whitehouse](/output/whitehouse.png)|
-  |honeypig| ![honeypig](/output/honeypig.jpg)|
   

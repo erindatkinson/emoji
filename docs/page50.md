@@ -2,6 +2,15 @@
   ## Emojis (Page 50)
   |Emoji Name|Image|
   | :-: | :-: |
+  |life-heart-half| ![life-heart-half](/output/life-heart-half.png)|
+  |hack-time| ![hack-time](/output/hack-time.gif)|
+  |cmdrdata| ![cmdrdata](/output/cmdrdata.png)|
+  |hehe_fish| ![hehe_fish](/output/hehe_fish.png)|
+  |me| ![me](/output/me.png)|
+  |expensify| ![expensify](/output/expensify.png)|
+  |fork-alert| ![fork-alert](/output/fork-alert.png)|
+  |red-flag| ![red-flag](/output/red-flag.png)|
+  |highly_irritated| ![highly_irritated](/output/highly_irritated.png)|
   |grace-ism| ![grace-ism](/output/grace-ism.png)|
   |inclusive-clapping| ![inclusive-clapping](/output/inclusive-clapping.gif)|
   |dark_cloud| ![dark_cloud](/output/dark_cloud.png)|
@@ -93,13 +102,4 @@
   |nomad-mask| ![nomad-mask](/output/nomad-mask.png)|
   |psplus| ![psplus](/output/psplus.png)|
   |ahoy-clang-intensifies| ![ahoy-clang-intensifies](/output/ahoy-clang-intensifies.gif)|
-  |ahoy-clang-ss-ship-it-intensifies| ![ahoy-clang-ss-ship-it-intensifies](/output/ahoy-clang-ss-ship-it-intensifies.gif)|
-  |bob-ross-clang-intensifies| ![bob-ross-clang-intensifies](/output/bob-ross-clang-intensifies.gif)|
-  |clang-hair-intensifies| ![clang-hair-intensifies](/output/clang-hair-intensifies.gif)|
-  |octo-clang-intensifies| ![octo-clang-intensifies](/output/octo-clang-intensifies.gif)|
-  |puck-lazy-blep| ![puck-lazy-blep](/output/puck-lazy-blep.png)|
-  |sysdig| ![sysdig](/output/sysdig.png)|
-  |comb| ![comb](/output/comb.png)|
-  |grill| ![grill](/output/grill.png)|
-  |zapier| ![zapier](/output/zapier.png)|
   

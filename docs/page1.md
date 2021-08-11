@@ -28,6 +28,7 @@
   |banana_suit| ![banana_suit](/output/banana_suit.png)|
   |bandaid| ![bandaid](/output/bandaid.jpg)|
   |bane| ![bane](/output/bane.png)|
+  |banjo2| ![banjo2](/output/banjo2.jpg)|
   |banks| ![banks](/output/banks.png)|
   |bao| ![bao](/output/bao.png)|
   |barbell| ![barbell](/output/barbell.png)|
@@ -35,6 +36,7 @@
   |bart| ![bart](/output/bart.gif)|
   |bash| ![bash](/output/bash.png)|
   |bash-da| ![bash-da](/output/bash-da.png)|
+  |basket2| ![basket2](/output/basket2.png)|
   |batman| ![batman](/output/batman.png)|
   |batman-adamwest| ![batman-adamwest](/output/batman-adamwest)|
   |batman-nolan| ![batman-nolan](/output/batman-nolan.png)|
@@ -100,6 +102,4 @@
   |brainz| ![brainz](/output/brainz.jpg)|
   |brain_slug| ![brain_slug](/output/brain_slug.jpg)|
   |branch| ![branch](/output/branch.png)|
-  |braves| ![braves](/output/braves.gif)|
-  |brazil| ![brazil](/output/brazil.png)|
   

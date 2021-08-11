@@ -2,6 +2,15 @@
   ## Emojis (Page 44)
   |Emoji Name|Image|
   | :-: | :-: |
+  |musical-note-intensifies| ![musical-note-intensifies](/output/musical-note-intensifies.gif)|
+  |thread-new| ![thread-new](/output/thread-new.png)|
+  |ff_cactuar| ![ff_cactuar](/output/ff_cactuar.png)|
+  |goodnightwish| ![goodnightwish](/output/goodnightwish.jpg)|
+  |nvim| ![nvim](/output/nvim.png)|
+  |fat-thor| ![fat-thor](/output/fat-thor.png)|
+  |slam-morning| ![slam-morning](/output/slam-morning.jpg)|
+  |minesweeper| ![minesweeper](/output/minesweeper.png)|
+  |game-over| ![game-over](/output/game-over.png)|
   |lol-f| ![lol-f](/output/lol-f.png)|
   |aws-da| ![aws-da](/output/aws-da.png)|
   |aws-fine-da| ![aws-fine-da](/output/aws-fine-da.png)|
@@ -93,13 +102,4 @@
   |wisp| ![wisp](/output/wisp.png)|
   |diy| ![diy](/output/diy.png)|
   |goldrose| ![goldrose](/output/goldrose.png)|
-  |tarantulas| ![tarantulas](/output/tarantulas.png)|
-  |scorpions| ![scorpions](/output/scorpions.png)|
-  |oarfish| ![oarfish](/output/oarfish.png)|
-  |coelacanth| ![coelacanth](/output/coelacanth.png)|
-  |kyle| ![kyle](/output/kyle.png)|
-  |turnips| ![turnips](/output/turnips.png)|
-  |sonatype_nancy| ![sonatype_nancy](/output/sonatype_nancy.png)|
-  |finger-string-remember| ![finger-string-remember](/output/finger-string-remember.png)|
-  |cheers| ![cheers](/output/cheers.png)|
   

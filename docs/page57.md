@@ -2,6 +2,16 @@
   ## Emojis (Page 57)
   |Emoji Name|Image|
   | :-: | :-: |
+  |spongebob-mock| ![spongebob-mock](/output/spongebob-mock.png)|
+  |spongebobtellmemore| ![spongebobtellmemore](/output/spongebobtellmemore.jpg)|
+  |spongebobwtf| ![spongebobwtf](/output/spongebobwtf.jpg)|
+  |trap| ![trap](/output/trap.png)|
+  |picklerick| ![picklerick](/output/picklerick.png)|
+  |pigsfly| ![pigsfly](/output/pigsfly.jpg)|
+  |poe| ![poe](/output/poe.png)|
+  |pundog| ![pundog](/output/pundog.png)|
+  |qubecflag| ![qubecflag](/output/qubecflag.png)|
+  |ship-it-parrot| ![ship-it-parrot](/output/ship-it-parrot.gif)|
   |koopakart| ![koopakart](/output/koopakart.gif)|
   |love_parrot| ![love_parrot](/output/love_parrot.gif)|
   |mario2| ![mario2](/output/mario2.gif)|
@@ -92,14 +102,4 @@
   |bell-hooks| ![bell-hooks](/output/bell-hooks.png)|
   |hume| ![hume](/output/hume.png)|
   |spielke| ![spielke](/output/spielke.png)|
-  |wittgenstein| ![wittgenstein](/output/wittgenstein.png)|
-  |russell| ![russell](/output/russell.png)|
-  |wittgenstein-stare| ![wittgenstein-stare](/output/wittgenstein-stare.png)|
-  |scapegoat| ![scapegoat](/output/scapegoat.png)|
-  |malcolm-x| ![malcolm-x](/output/malcolm-x.png)|
-  |jacobs| ![jacobs](/output/jacobs.png)|
-  |soblol| ![soblol](/output/soblol.png)|
-  |butler| ![butler](/output/butler.png)|
-  |diogenes| ![diogenes](/output/diogenes.png)|
-  |shannon| ![shannon](/output/shannon.png)|
   

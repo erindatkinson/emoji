@@ -2,6 +2,17 @@
   ## Emojis (Page 64)
   |Emoji Name|Image|
   | :-: | :-: |
+  |wheeze| ![wheeze](/output/wheeze.png)|
+  |elastic| ![elastic](/output/elastic.png)|
+  |osquery| ![osquery](/output/osquery.png)|
+  |trinity| ![trinity](/output/trinity.png)|
+  |sledgehammer| ![sledgehammer](/output/sledgehammer.png)|
+  |nico| ![nico](/output/nico.png)|
+  |lunch-darkly| ![lunch-darkly](/output/lunch-darkly)|
+  |inch-worm| ![inch-worm](/output/inch-worm.png)|
+  |meow_snort| ![meow_snort](/output/meow_snort.png)|
+  |loki| ![loki](/output/loki.png)|
+  |agray-cool| ![agray-cool](/output/agray-cool.png)|
   |agray-cool-intensifies| ![agray-cool-intensifies](/output/agray-cool-intensifies.gif)|
   |chappie| ![chappie](/output/chappie.png)|
   |kerbal| ![kerbal](/output/kerbal.png)|
@@ -91,15 +102,4 @@
   |wompwomp| ![wompwomp](/output/wompwomp.gif)|
   |can-of-rabbit-holes| ![can-of-rabbit-holes](/output/can-of-rabbit-holes.gif)|
   |friyay| ![friyay](/output/friyay.png)|
-  |friyay-intensifies| ![friyay-intensifies](/output/friyay-intensifies.gif)|
-  |gainsight| ![gainsight](/output/gainsight.png)|
-  |gainsight-da| ![gainsight-da](/output/gainsight-da.png)|
-  |chris-waves| ![chris-waves](/output/chris-waves.gif)|
-  |team-terraform-practitioner-waves| ![team-terraform-practitioner-waves](/output/team-terraform-practitioner-waves.gif)|
-  |goth_germany| ![goth_germany](/output/goth_germany.png)|
-  |wing| ![wing](/output/wing.png)|
-  |nandoslogo| ![nandoslogo](/output/nandoslogo.png)|
-  |chestnut-da| ![chestnut-da](/output/chestnut-da.png)|
-  |chestnut-tree-da| ![chestnut-tree-da](/output/chestnut-tree-da.png)|
-  |chestnut-tree| ![chestnut-tree](/output/chestnut-tree.png)|
   

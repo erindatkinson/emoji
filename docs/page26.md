@@ -2,6 +2,12 @@
   ## Emojis (Page 26)
   |Emoji Name|Image|
   | :-: | :-: |
+  |highfiveleft| ![highfiveleft](/output/highfiveleft.gif)|
+  |highfiveright| ![highfiveright](/output/highfiveright.gif)|
+  |headdesk2| ![headdesk2](/output/headdesk2.gif)|
+  |lurking| ![lurking](/output/lurking.png)|
+  |dietcoke| ![dietcoke](/output/dietcoke.jpg)|
+  |awkward-monkey| ![awkward-monkey](/output/awkward-monkey.png)|
   |pair-programming-intensifies| ![pair-programming-intensifies](/output/pair-programming-intensifies.gif)|
   |hmm-yes-left| ![hmm-yes-left](/output/hmm-yes-left)|
   |graphql_intensifies| ![graphql_intensifies](/output/graphql_intensifies.gif)|
@@ -91,15 +97,9 @@
   |servicedog| ![servicedog](/output/servicedog.png)|
   |bushwhacking| ![bushwhacking](/output/bushwhacking.png)|
   |panic-ahhh| ![panic-ahhh](/output/panic-ahhh.gif)|
+  |butter2| ![butter2](/output/butter2.png)|
   |gong| ![gong](/output/gong.png)|
   |pride-wave| ![pride-wave](/output/pride-wave.png)|
   |beau| ![beau](/output/beau.jpg)|
   |beau-puppy| ![beau-puppy](/output/beau-puppy.jpg)|
-  |killerqueen| ![killerqueen](/output/killerqueen.png)|
-  |youre_breathtaking| ![youre_breathtaking](/output/youre_breathtaking.png)|
-  |ted-theodore-logan| ![ted-theodore-logan](/output/ted-theodore-logan.png)|
-  |ted| ![ted](/output/ted)|
-  |krista| ![krista](/output/krista)|
-  |steve-jobs| ![steve-jobs](/output/steve-jobs.jpg)|
-  |jippi| ![jippi](/output/jippi.jpg)|
   

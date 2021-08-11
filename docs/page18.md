@@ -2,6 +2,11 @@
   ## Emojis (Page 18)
   |Emoji Name|Image|
   | :-: | :-: |
+  |tesla| ![tesla](/output/tesla.jpg)|
+  |test| ![test](/output/test.gif)|
+  |testkitchen| ![testkitchen](/output/testkitchen.png)|
+  |tetris| ![tetris](/output/tetris.png)|
+  |texas| ![texas](/output/texas.jpg)|
   |texas-flag| ![texas-flag](/output/texas-flag.png)|
   |tfebot| ![tfebot](/output/tfebot.png)|
   |tfe_heart_eyes| ![tfe_heart_eyes](/output/tfe_heart_eyes.png)|
@@ -97,9 +102,4 @@
   |two_coffees| ![two_coffees](/output/two_coffees.png)|
   |ty| ![ty](/output/ty.gif)|
   |tygra| ![tygra](/output/tygra.png)|
-  |t_hanks| ![t_hanks](/output/t_hanks.png)|
-  |uber| ![uber](/output/uber.png)|
-  |uber-bit| ![uber-bit](/output/uber-bit.png)|
-  |ubiquiti| ![ubiquiti](/output/ubiquiti)|
-  |ubnt| ![ubnt](/output/ubnt.jpg)|
   

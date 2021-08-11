@@ -2,6 +2,11 @@
   ## Emojis (Page 24)
   |Emoji Name|Image|
   | :-: | :-: |
+  |mm| ![mm](/output/mm)|
+  |cost-estimation| ![cost-estimation](/output/cost-estimation.png)|
+  |frizzle| ![frizzle](/output/frizzle.jpg)|
+  |handwave| ![handwave](/output/handwave.gif)|
+  |evangelion_rei_neutral| ![evangelion_rei_neutral](/output/evangelion_rei_neutral.png)|
   |terraform-intensifies| ![terraform-intensifies](/output/terraform-intensifies.gif)|
   |penny-intensifies| ![penny-intensifies](/output/penny-intensifies.gif)|
   |russ-intensifies| ![russ-intensifies](/output/russ-intensifies.gif)|
@@ -15,6 +20,7 @@
   |asana-sob| ![asana-sob](/output/asana-sob.png)|
   |mocking_spongebob| ![mocking_spongebob](/output/mocking_spongebob.png)|
   |thank-you| ![thank-you](/output/thank-you.png)|
+  |tamale2| ![tamale2](/output/tamale2.png)|
   |cowboy_cat| ![cowboy_cat](/output/cowboy_cat.png)|
   |abby| ![abby](/output/abby.png)|
   |abbydog| ![abbydog](/output/abbydog.png)|
@@ -96,10 +102,4 @@
   |pr| ![pr](/output/pr.png)|
   |puppet| ![puppet](/output/puppet.png)|
   |watson| ![watson](/output/watson.jpg)|
-  |irc| ![irc](/output/irc.png)|
-  |no_probllama| ![no_probllama](/output/no_probllama.png)|
-  |party-blob| ![party-blob](/output/party-blob.gif)|
-  |party-gritty-2| ![party-gritty-2](/output/party-gritty-2.gif)|
-  |inception| ![inception](/output/inception.gif)|
-  |beholder| ![beholder](/output/beholder.png)|
   

@@ -2,6 +2,10 @@
   ## Emojis (Page 6)
   |Emoji Name|Image|
   | :-: | :-: |
+  |fork| ![fork](/output/fork.png)|
+  |forkit| ![forkit](/output/forkit)|
+  |formerly-known-as| ![formerly-known-as](/output/formerly-known-as.png)|
+  |fortyounce| ![fortyounce](/output/fortyounce.png)|
   |fossa| ![fossa](/output/fossa.jpg)|
   |foursquare| ![foursquare](/output/foursquare.png)|
   |fox| ![fox](/output/fox.gif)|
@@ -98,8 +102,4 @@
   |gorbypuff| ![gorbypuff](/output/gorbypuff.png)|
   |gorbypuff2| ![gorbypuff2](/output/gorbypuff2.png)|
   |goth_nail_care| ![goth_nail_care](/output/goth_nail_care.jpg)|
-  |goth_parrot| ![goth_parrot](/output/goth_parrot.gif)|
-  |goth_smile| ![goth_smile](/output/goth_smile.png)|
-  |goth_sob| ![goth_sob](/output/goth_sob.jpg)|
-  |gottagofast| ![gottagofast](/output/gottagofast)|
   

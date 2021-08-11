@@ -2,6 +2,11 @@
   ## Emojis (Page 14)
   |Emoji Name|Image|
   | :-: | :-: |
+  |poutine| ![poutine](/output/poutine.png)|
+  |powerglove| ![powerglove](/output/powerglove.png)|
+  |powershell| ![powershell](/output/powershell.jpg)|
+  |powerup| ![powerup](/output/powerup.gif)|
+  |power_glove| ![power_glove](/output/power_glove.png)|
   |power_up_spin| ![power_up_spin](/output/power_up_spin.gif)|
   |praise| ![praise](/output/praise)|
   |precious| ![precious](/output/precious.jpg)|
@@ -97,9 +102,4 @@
   |right_facing_fist| ![right_facing_fist](/output/right_facing_fist.png)|
   |right_parrot| ![right_parrot](/output/right_parrot.gif)|
   |right_shark| ![right_shark](/output/right_shark.gif)|
-  |rimshot| ![rimshot](/output/rimshot.gif)|
-  |rip| ![rip](/output/rip.png)|
-  |rip-da| ![rip-da](/output/rip-da.png)|
-  |rita| ![rita](/output/rita.png)|
-  |rms| ![rms](/output/rms.png)|
   

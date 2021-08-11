@@ -2,6 +2,14 @@
   ## Emojis (Page 35)
   |Emoji Name|Image|
   | :-: | :-: |
+  |cigar_smiley| ![cigar_smiley](/output/cigar_smiley.jpg)|
+  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
+  |cello| ![cello](/output/cello)|
+  |terrynutkins| ![terrynutkins](/output/terrynutkins.png)|
+  |nodramallama| ![nodramallama](/output/nodramallama)|
+  |terrynutkins-takemymoney| ![terrynutkins-takemymoney](/output/terrynutkins-takemymoney.png)|
+  |run-triggers| ![run-triggers](/output/run-triggers.png)|
+  |run-triggers1| ![run-triggers1](/output/run-triggers1.png)|
   |run-triggers2| ![run-triggers2](/output/run-triggers2.png)|
   |run-triggers3| ![run-triggers3](/output/run-triggers3.png)|
   |run-triggers4| ![run-triggers4](/output/run-triggers4.png)|
@@ -94,12 +102,4 @@
   |tim-hortons| ![tim-hortons](/output/tim-hortons.gif)|
   |tim-hortons-spin| ![tim-hortons-spin](/output/tim-hortons-spin.gif)|
   |slam-tim-hortons| ![slam-tim-hortons](/output/slam-tim-hortons.jpg)|
-  |lime| ![lime](/output/lime.jpg)|
-  |exhausted_starfish| ![exhausted_starfish](/output/exhausted_starfish.png)|
-  |starfish_flower| ![starfish_flower](/output/starfish_flower.png)|
-  |netflix| ![netflix](/output/netflix.jpg)|
-  |italian-disapproves| ![italian-disapproves](/output/italian-disapproves.png)|
-  |x-cloud| ![x-cloud](/output/x-cloud.png)|
-  |catbus| ![catbus](/output/catbus.png)|
-  |squid1| ![squid1](/output/squid1.png)|
   

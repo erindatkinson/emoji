@@ -2,6 +2,14 @@
   ## Emojis (Page 39)
   |Emoji Name|Image|
   | :-: | :-: |
+  |cowboy-clap| ![cowboy-clap](/output/cowboy-clap.gif)|
+  |carlton-dance| ![carlton-dance](/output/carlton-dance.gif)|
+  |meatsweats-party| ![meatsweats-party](/output/meatsweats-party.gif)|
+  |alisdair-roll| ![alisdair-roll](/output/alisdair-roll.gif)|
+  |sad-yubikey| ![sad-yubikey](/output/sad-yubikey.png)|
+  |octo-clang| ![octo-clang](/output/octo-clang.png)|
+  |carcand-roll| ![carcand-roll](/output/carcand-roll.gif)|
+  |alvaro-toast| ![alvaro-toast](/output/alvaro-toast.png)|
   |jigsaw2| ![jigsaw2](/output/jigsaw2.png)|
   |puzzle-piece| ![puzzle-piece](/output/puzzle-piece)|
   |joshepstein| ![joshepstein](/output/joshepstein.png)|
@@ -94,12 +102,4 @@
   |fancy-lunch| ![fancy-lunch](/output/fancy-lunch.png)|
   |lupper| ![lupper](/output/lupper)|
   |nyan-noodle-dog2| ![nyan-noodle-dog2](/output/nyan-noodle-dog2.gif)|
-  |desert-waves| ![desert-waves](/output/desert-waves.gif)|
-  |mirage| ![mirage](/output/mirage)|
-  |nyan-meatsweats| ![nyan-meatsweats](/output/nyan-meatsweats.gif)|
-  |meatsweats-da| ![meatsweats-da](/output/meatsweats-da.png)|
-  |meatsweats-waves| ![meatsweats-waves](/output/meatsweats-waves.gif)|
-  |meatsweats-on-fire| ![meatsweats-on-fire](/output/meatsweats-on-fire.gif)|
-  |meatsweats-cool| ![meatsweats-cool](/output/meatsweats-cool.png)|
-  |meatsweats-intensifies| ![meatsweats-intensifies](/output/meatsweats-intensifies.gif)|
   

@@ -2,6 +2,16 @@
   ## Emojis (Page 59)
   |Emoji Name|Image|
   | :-: | :-: |
+  |detroit| ![detroit](/output/detroit.jpg)|
+  |not-ideal| ![not-ideal](/output/not-ideal.png)|
+  |axolotl| ![axolotl](/output/axolotl.png)|
+  |cloud-graham| ![cloud-graham](/output/cloud-graham.jpg)|
+  |cloud-tommaso| ![cloud-tommaso](/output/cloud-tommaso.png)|
+  |cloud-tom| ![cloud-tom](/output/cloud-tom)|
+  |fry-eyes| ![fry-eyes](/output/fry-eyes.gif)|
+  |cloud-chappie| ![cloud-chappie](/output/cloud-chappie.jpg)|
+  |stop-making-sense| ![stop-making-sense](/output/stop-making-sense.png)|
+  |feedback-loop| ![feedback-loop](/output/feedback-loop.png)|
   |chart_with_upwards_trend_intensifies| ![chart_with_upwards_trend_intensifies](/output/chart_with_upwards_trend_intensifies.gif)|
   |chart_with_downwards_trend_intensifies| ![chart_with_downwards_trend_intensifies](/output/chart_with_downwards_trend_intensifies.gif)|
   |chart_with_no_trend_intensifies| ![chart_with_no_trend_intensifies](/output/chart_with_no_trend_intensifies.gif)|
@@ -54,6 +64,7 @@
   |segment-da| ![segment-da](/output/segment-da.png)|
   |duo-knife| ![duo-knife](/output/duo-knife.png)|
   |duolingo-knife| ![duolingo-knife](/output/duolingo-knife)|
+  |beaver2| ![beaver2](/output/beaver2.png)|
   |erkan| ![erkan](/output/erkan.png)|
   |erkan-intensifies| ![erkan-intensifies](/output/erkan-intensifies.gif)|
   |jboero-intensifies| ![jboero-intensifies](/output/jboero-intensifies.gif)|
@@ -91,15 +102,4 @@
   |cut-man| ![cut-man](/output/cut-man.png)|
   |i-mean| ![i-mean](/output/i-mean.png)|
   |stardew_chicken| ![stardew_chicken](/output/stardew_chicken.png)|
-  |bows| ![bows](/output/bows.png)|
-  |happy-hans-intensifies| ![happy-hans-intensifies](/output/happy-hans-intensifies.gif)|
-  |flanders-smile| ![flanders-smile](/output/flanders-smile.gif)|
-  |cloud-patrick| ![cloud-patrick](/output/cloud-patrick.png)|
-  |cloud-fitz| ![cloud-fitz](/output/cloud-fitz.png)|
-  |robertoyes| ![robertoyes](/output/robertoyes.png)|
-  |robertowuut| ![robertowuut](/output/robertowuut.png)|
-  |robertono| ![robertono](/output/robertono.png)|
-  |guts-man| ![guts-man](/output/guts-man.png)|
-  |chess| ![chess](/output/chess.png)|
-  |hallmark| ![hallmark](/output/hallmark.png)|
   

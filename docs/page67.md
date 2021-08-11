@@ -2,6 +2,17 @@
   ## Emojis (Page 67)
   |Emoji Name|Image|
   | :-: | :-: |
+  |going_to_get_weird| ![going_to_get_weird](/output/going_to_get_weird.jpg)|
+  |headcrab| ![headcrab](/output/headcrab.gif)|
+  |feedthewolf| ![feedthewolf](/output/feedthewolf.jpg)|
+  |hl-crowbar| ![hl-crowbar](/output/hl-crowbar.png)|
+  |grit-intensifies-intensifies| ![grit-intensifies-intensifies](/output/grit-intensifies-intensifies.gif)|
+  |navi| ![navi](/output/navi.png)|
+  |lei| ![lei](/output/lei.jpg)|
+  |marmot| ![marmot](/output/marmot.png)|
+  |puppers| ![puppers](/output/puppers.png)|
+  |hashiconf2021-consul| ![hashiconf2021-consul](/output/hashiconf2021-consul.png)|
+  |hashiconf2021-nomad| ![hashiconf2021-nomad](/output/hashiconf2021-nomad.png)|
   |hashiconf2021-packer| ![hashiconf2021-packer](/output/hashiconf2021-packer.png)|
   |hashiconf2021-terraform| ![hashiconf2021-terraform](/output/hashiconf2021-terraform.png)|
   |hashiconf2021-vagrant| ![hashiconf2021-vagrant](/output/hashiconf2021-vagrant.png)|
@@ -91,15 +102,4 @@
   |zaglaugh| ![zaglaugh](/output/zaglaugh.png)|
   |zaghearts| ![zaghearts](/output/zaghearts.png)|
   |zagangry| ![zagangry](/output/zagangry.png)|
-  |zagsob| ![zagsob](/output/zagsob.png)|
-  |dusa| ![dusa](/output/dusa.png)|
-  |goldblum-intensifies| ![goldblum-intensifies](/output/goldblum-intensifies.gif)|
-  |full-send| ![full-send](/output/full-send.jpg)|
-  |iam-cyring| ![iam-cyring](/output/iam-cyring.gif)|
-  |iam-crying| ![iam-crying](/output/iam-crying.gif)|
-  |white-hand| ![white-hand](/output/white-hand.png)|
-  |saruman| ![saruman](/output/saruman)|
-  |kermit-intensifies| ![kermit-intensifies](/output/kermit-intensifies.gif)|
-  |waiting-spin| ![waiting-spin](/output/waiting-spin.gif)|
-  |offline| ![offline](/output/offline.png)|
   

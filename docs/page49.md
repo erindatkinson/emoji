@@ -2,6 +2,15 @@
   ## Emojis (Page 49)
   |Emoji Name|Image|
   | :-: | :-: |
+  |blob_dance| ![blob_dance](/output/blob_dance.gif)|
+  |llama_dance| ![llama_dance](/output/llama_dance.gif)|
+  |cat_dance| ![cat_dance](/output/cat_dance.gif)|
+  |party_trash_blob| ![party_trash_blob](/output/party_trash_blob.gif)|
+  |femme-love| ![femme-love](/output/femme-love.gif)|
+  |terraform-rfc-da-intensifies| ![terraform-rfc-da-intensifies](/output/terraform-rfc-da-intensifies.gif)|
+  |snake_cowboy| ![snake_cowboy](/output/snake_cowboy.png)|
+  |amazing-2| ![amazing-2](/output/amazing-2)|
+  |folks| ![folks](/output/folks.gif)|
   |happy_cry| ![happy_cry](/output/happy_cry.png)|
   |big_ham| ![big_ham](/output/big_ham.gif)|
   |dance_ham| ![dance_ham](/output/dance_ham.gif)|
@@ -93,13 +102,4 @@
   |calvin-smirk| ![calvin-smirk](/output/calvin-smirk.jpg)|
   |life-heart-empty| ![life-heart-empty](/output/life-heart-empty.png)|
   |life-heart-full| ![life-heart-full](/output/life-heart-full.png)|
-  |life-heart-half| ![life-heart-half](/output/life-heart-half.png)|
-  |hack-time| ![hack-time](/output/hack-time.gif)|
-  |cmdrdata| ![cmdrdata](/output/cmdrdata.png)|
-  |hehe_fish| ![hehe_fish](/output/hehe_fish.png)|
-  |me| ![me](/output/me.png)|
-  |expensify| ![expensify](/output/expensify.png)|
-  |fork-alert| ![fork-alert](/output/fork-alert.png)|
-  |red-flag| ![red-flag](/output/red-flag.png)|
-  |highly_irritated| ![highly_irritated](/output/highly_irritated.png)|
   

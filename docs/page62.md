@@ -2,6 +2,17 @@
   ## Emojis (Page 62)
   |Emoji Name|Image|
   | :-: | :-: |
+  |goodevening| ![goodevening](/output/goodevening.png)|
+  |lavender| ![lavender](/output/lavender.jpg)|
+  |mlk| ![mlk](/output/mlk.jpg)|
+  |hangmonk| ![hangmonk](/output/hangmonk.gif)|
+  |vercel| ![vercel](/output/vercel.png)|
+  |vercel-da| ![vercel-da](/output/vercel-da.png)|
+  |greenies| ![greenies](/output/greenies.png)|
+  |analytics| ![analytics](/output/analytics.png)|
+  |brooke| ![brooke](/output/brooke.png)|
+  |lua-logo| ![lua-logo](/output/lua-logo.png)|
+  |secure| ![secure](/output/secure.gif)|
   |aws-shakefist| ![aws-shakefist](/output/aws-shakefist)|
   |88mph| ![88mph](/output/88mph.gif)|
   |hulk-smash| ![hulk-smash](/output/hulk-smash.gif)|
@@ -91,15 +102,4 @@
   |inchworm| ![inchworm](/output/inchworm.png)|
   |veuve-clicquot| ![veuve-clicquot](/output/veuve-clicquot.png)|
   |pride-progress| ![pride-progress](/output/pride-progress.png)|
-  |kier-intensifies| ![kier-intensifies](/output/kier-intensifies.gif)|
-  |snep-intensifies| ![snep-intensifies](/output/snep-intensifies)|
-  |snep-approval| ![snep-approval](/output/snep-approval)|
-  |snep-disapproval| ![snep-disapproval](/output/snep-disapproval)|
-  |snep-wtf| ![snep-wtf](/output/snep-wtf)|
-  |pigs-fly| ![pigs-fly](/output/pigs-fly.png)|
-  |spit-take| ![spit-take](/output/spit-take.gif)|
-  |sounds_good| ![sounds_good](/output/sounds_good.jpg)|
-  |moog| ![moog](/output/moog.jpg)|
-  |moog-1| ![moog-1](/output/moog-1.png)|
-  |line| ![line](/output/line.png)|
   

@@ -2,6 +2,10 @@
   ## Emojis (Page 12)
   |Emoji Name|Image|
   | :-: | :-: |
+  |north-carolina| ![north-carolina](/output/north-carolina.png)|
+  |notbad| ![notbad](/output/notbad.png)|
+  |notch| ![notch](/output/notch.png)|
+  |notfine| ![notfine](/output/notfine.png)|
   |nothankyou| ![nothankyou](/output/nothankyou.png)|
   |nothingtodohere| ![nothingtodohere](/output/nothingtodohere.png)|
   |notit| ![notit](/output/notit.png)|
@@ -49,6 +53,7 @@
   |onelogin| ![onelogin](/output/onelogin.png)|
   |onering| ![onering](/output/onering.png)|
   |one_million_dollars_dr_evil| ![one_million_dollars_dr_evil](/output/one_million_dollars_dr_evil.jpg)|
+  |onion2| ![onion2](/output/onion2.png)|
   |oof| ![oof](/output/oof.jpg)|
   |oontz| ![oontz](/output/oontz.gif)|
   |ooo| ![ooo](/output/ooo.jpg)|
@@ -97,9 +102,4 @@
   |parsnip| ![parsnip](/output/parsnip.png)|
   |participant| ![participant](/output/participant.png)|
   |party-parrot| ![party-parrot](/output/party-parrot.gif)|
-  |party-vault| ![party-vault](/output/party-vault.gif)|
-  |party_corgi| ![party_corgi](/output/party_corgi.gif)|
-  |party_dumpster_fire| ![party_dumpster_fire](/output/party_dumpster_fire.gif)|
-  |party_github| ![party_github](/output/party_github.gif)|
-  |party_ohno| ![party_ohno](/output/party_ohno.gif)|
   

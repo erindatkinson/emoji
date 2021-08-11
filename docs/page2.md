@@ -2,13 +2,17 @@
   ## Emojis (Page 2)
   |Emoji Name|Image|
   | :-: | :-: |
+  |braves| ![braves](/output/braves.gif)|
+  |brazil| ![brazil](/output/brazil.png)|
   |brent-rambo| ![brent-rambo](/output/brent-rambo.gif)|
   |brexit| ![brexit](/output/brexit.png)|
   |brian| ![brian](/output/brian.png)|
   |brick| ![brick](/output/brick)|
+  |bricks2| ![bricks2](/output/bricks2.jpg)|
   |brocccoli| ![brocccoli](/output/brocccoli.png)|
   |broken-record| ![broken-record](/output/broken-record.jpg)|
   |broken_image| ![broken_image](/output/broken_image.jpg)|
+  |broom2| ![broom2](/output/broom2.png)|
   |bruins| ![bruins](/output/bruins.png)|
   |brush-teeth| ![brush-teeth](/output/brush-teeth.gif)|
   |btb| ![btb](/output/btb.png)|
@@ -98,8 +102,4 @@
   |clapping| ![clapping](/output/clapping.gif)|
   |clapping_out_of_seat| ![clapping_out_of_seat](/output/clapping_out_of_seat.jpg)|
   |clean| ![clean](/output/clean.gif)|
-  |clippy| ![clippy](/output/clippy.png)|
-  |clippy_page| ![clippy_page](/output/clippy_page.png)|
-  |cloud_formation| ![cloud_formation](/output/cloud_formation.png)|
-  |cloud_wolf| ![cloud_wolf](/output/cloud_wolf.png)|
   

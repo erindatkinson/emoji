@@ -2,6 +2,10 @@
   ## Emojis (Page 5)
   |Emoji Name|Image|
   | :-: | :-: |
+  |emacs| ![emacs](/output/emacs.png)|
+  |ember| ![ember](/output/ember.png)|
+  |ember-da| ![ember-da](/output/ember-da.png)|
+  |emea| ![emea](/output/emea.png)|
   |emea-da| ![emea-da](/output/emea-da.png)|
   |emmett| ![emmett](/output/emmett.jpg)|
   |emojilord| ![emojilord](/output/emojilord.jpg)|
@@ -98,8 +102,4 @@
   |fomo| ![fomo](/output/fomo.png)|
   |fonzie| ![fonzie](/output/fonzie.png)|
   |footgun| ![footgun](/output/footgun.png)|
-  |fork| ![fork](/output/fork.png)|
-  |forkit| ![forkit](/output/forkit)|
-  |formerly-known-as| ![formerly-known-as](/output/formerly-known-as.png)|
-  |fortyounce| ![fortyounce](/output/fortyounce.png)|
   

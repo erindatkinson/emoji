@@ -2,6 +2,10 @@
   ## Emojis (Page 7)
   |Emoji Name|Image|
   | :-: | :-: |
+  |goth_parrot| ![goth_parrot](/output/goth_parrot.gif)|
+  |goth_smile| ![goth_smile](/output/goth_smile.png)|
+  |goth_sob| ![goth_sob](/output/goth_sob.jpg)|
+  |gottagofast| ![gottagofast](/output/gottagofast)|
   |graphql| ![graphql](/output/graphql.png)|
   |grass| ![grass](/output/grass.jpg)|
   |grave| ![grave](/output/grave)|
@@ -98,8 +102,4 @@
   |helper2| ![helper2](/output/helper2.png)|
   |hero| ![hero](/output/hero.png)|
   |heroku| ![heroku](/output/heroku.png)|
-  |herokuda| ![herokuda](/output/herokuda.png)|
-  |hexagon| ![hexagon](/output/hexagon.png)|
-  |heyay| ![heyay](/output/heyay.png)|
-  |hf| ![hf](/output/hf.gif)|
   

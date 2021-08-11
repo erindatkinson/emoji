@@ -2,6 +2,14 @@
   ## Emojis (Page 37)
   |Emoji Name|Image|
   | :-: | :-: |
+  |goose-honk-sob-cancan| ![goose-honk-sob-cancan](/output/goose-honk-sob-cancan.png)|
+  |goose-honk-cry| ![goose-honk-cry](/output/goose-honk-cry.png)|
+  |cancan-cry| ![cancan-cry](/output/cancan-cry.png)|
+  |cowboy_cat-cry| ![cowboy_cat-cry](/output/cowboy_cat-cry.png)|
+  |bon-appetit| ![bon-appetit](/output/bon-appetit.jpg)|
+  |yaml-cry| ![yaml-cry](/output/yaml-cry.png)|
+  |docker-cry| ![docker-cry](/output/docker-cry.png)|
+  |hashibot-intensifies| ![hashibot-intensifies](/output/hashibot-intensifies.gif)|
   |diabetus| ![diabetus](/output/diabetus.png)|
   |ruby-intensifies| ![ruby-intensifies](/output/ruby-intensifies.gif)|
   |ember-intensifies| ![ember-intensifies](/output/ember-intensifies.gif)|
@@ -94,12 +102,4 @@
   |cs-j| ![cs-j](/output/cs-j.png)|
   |cs-k| ![cs-k](/output/cs-k.png)|
   |cs-l| ![cs-l](/output/cs-l.png)|
-  |cs-7| ![cs-7](/output/cs-7.png)|
-  |cs-8| ![cs-8](/output/cs-8.png)|
-  |cs-9| ![cs-9](/output/cs-9.png)|
-  |cs-a| ![cs-a](/output/cs-a.png)|
-  |cs-b| ![cs-b](/output/cs-b.png)|
-  |cs-c| ![cs-c](/output/cs-c.png)|
-  |cs-3| ![cs-3](/output/cs-3.png)|
-  |cs-4| ![cs-4](/output/cs-4.png)|
   

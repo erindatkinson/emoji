@@ -2,6 +2,11 @@
   ## Emojis (Page 13)
   |Emoji Name|Image|
   | :-: | :-: |
+  |party-vault| ![party-vault](/output/party-vault.gif)|
+  |party_corgi| ![party_corgi](/output/party_corgi.gif)|
+  |party_dumpster_fire| ![party_dumpster_fire](/output/party_dumpster_fire.gif)|
+  |party_github| ![party_github](/output/party_github.gif)|
+  |party_ohno| ![party_ohno](/output/party_ohno.gif)|
   |party_poop| ![party_poop](/output/party_poop.gif)|
   |patientbear| ![patientbear](/output/patientbear.jpg)|
   |patriots| ![patriots](/output/patriots)|
@@ -97,9 +102,4 @@
   |postgresql| ![postgresql](/output/postgresql.png)|
   |potato2| ![potato2](/output/potato2.png)|
   |potato_tornado| ![potato_tornado](/output/potato_tornado.png)|
-  |poutine| ![poutine](/output/poutine.png)|
-  |powerglove| ![powerglove](/output/powerglove.png)|
-  |powershell| ![powershell](/output/powershell.jpg)|
-  |powerup| ![powerup](/output/powerup.gif)|
-  |power_glove| ![power_glove](/output/power_glove.png)|
   

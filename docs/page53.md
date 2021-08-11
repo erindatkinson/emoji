@@ -2,6 +2,15 @@
   ## Emojis (Page 53)
   |Emoji Name|Image|
   | :-: | :-: |
+  |mighty-ducks| ![mighty-ducks](/output/mighty-ducks.png)|
+  |cloud-zack| ![cloud-zack](/output/cloud-zack.png)|
+  |letsgomagic| ![letsgomagic](/output/letsgomagic.jpg)|
+  |orlandomagic| ![orlandomagic](/output/orlandomagic.png)|
+  |mighty-ducks-intensifies| ![mighty-ducks-intensifies](/output/mighty-ducks-intensifies.gif)|
+  |nomad-glad| ![nomad-glad](/output/nomad-glad)|
+  |cross_talk| ![cross_talk](/output/cross_talk.png)|
+  |mjolnir| ![mjolnir](/output/mjolnir.png)|
+  |mentos-gum| ![mentos-gum](/output/mentos-gum.png)|
   |heart-eyes-marx| ![heart-eyes-marx](/output/heart-eyes-marx.png)|
   |maybe| ![maybe](/output/maybe.png)|
   |mos-def| ![mos-def](/output/mos-def.png)|
@@ -93,13 +102,4 @@
   |amelia-badelia| ![amelia-badelia](/output/amelia-badelia.png)|
   |aws-sad| ![aws-sad](/output/aws-sad.png)|
   |aws-happy| ![aws-happy](/output/aws-happy.png)|
-  |good-morning| ![good-morning](/output/good-morning.png)|
-  |darkside| ![darkside](/output/darkside.png)|
-  |darkside_darthmaul| ![darkside_darthmaul](/output/darkside_darthmaul.gif)|
-  |saweet| ![saweet](/output/saweet.png)|
-  |walken| ![walken](/output/walken.jpg)|
-  |keep-vermont-weird| ![keep-vermont-weird](/output/keep-vermont-weird.jpg)|
-  |obiwan| ![obiwan](/output/obiwan.jpg)|
-  |raccoon-attack| ![raccoon-attack](/output/raccoon-attack.png)|
-  |nyt| ![nyt](/output/nyt.png)|
   

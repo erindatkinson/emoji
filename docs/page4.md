@@ -2,6 +2,10 @@
   ## Emojis (Page 4)
   |Emoji Name|Image|
   | :-: | :-: |
+  |dat_boi| ![dat_boi](/output/dat_boi.gif)|
+  |davidcelis| ![davidcelis](/output/davidcelis)|
+  |dawgs| ![dawgs](/output/dawgs.png)|
+  |dcloud| ![dcloud](/output/dcloud.png)|
   |dead| ![dead](/output/dead.png)|
   |deadite_ash| ![deadite_ash](/output/deadite_ash.png)|
   |deadpool| ![deadpool](/output/deadpool.png)|
@@ -98,8 +102,4 @@
   |eiffel-tower| ![eiffel-tower](/output/eiffel-tower.png)|
   |electrocat| ![electrocat](/output/electrocat.png)|
   |electron| ![electron](/output/electron.png)|
-  |emacs| ![emacs](/output/emacs.png)|
-  |ember| ![ember](/output/ember.png)|
-  |ember-da| ![ember-da](/output/ember-da.png)|
-  |emea| ![emea](/output/emea.png)|
   

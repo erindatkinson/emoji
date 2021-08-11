@@ -2,6 +2,11 @@
   ## Emojis (Page 20)
   |Emoji Name|Image|
   | :-: | :-: |
+  |wolf_wolf| ![wolf_wolf](/output/wolf_wolf.png)|
+  |woman_codertocat| ![woman_codertocat](/output/woman_codertocat.png)|
+  |woman_purple_hair| ![woman_purple_hair](/output/woman_purple_hair.png)|
+  |woman_purple_hair_skin-tone-2| ![woman_purple_hair_skin-tone-2](/output/woman_purple_hair_skin-tone-2.png)|
+  |woman_purple_hair_skin-tone-3| ![woman_purple_hair_skin-tone-3](/output/woman_purple_hair_skin-tone-3.png)|
   |woman_purple_hair_skin-tone-4| ![woman_purple_hair_skin-tone-4](/output/woman_purple_hair_skin-tone-4.png)|
   |woman_purple_hair_skin-tone-5| ![woman_purple_hair_skin-tone-5](/output/woman_purple_hair_skin-tone-5.png)|
   |woman_purple_hair_skin-tone-6| ![woman_purple_hair_skin-tone-6](/output/woman_purple_hair_skin-tone-6.png)|
@@ -97,9 +102,4 @@
   |merkur| ![merkur](/output/merkur.png)|
   |lena| ![lena](/output/lena.jpg)|
   |gopher_mic_drop| ![gopher_mic_drop](/output/gopher_mic_drop.png)|
-  |gopher_dance| ![gopher_dance](/output/gopher_dance.gif)|
-  |vault-muscle| ![vault-muscle](/output/vault-muscle.png)|
-  |dabears| ![dabears](/output/dabears.png)|
-  |sox| ![sox](/output/sox.png)|
-  |bulls| ![bulls](/output/bulls.png)|
   

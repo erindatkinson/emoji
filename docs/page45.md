@@ -2,6 +2,15 @@
   ## Emojis (Page 45)
   |Emoji Name|Image|
   | :-: | :-: |
+  |tarantulas| ![tarantulas](/output/tarantulas.png)|
+  |scorpions| ![scorpions](/output/scorpions.png)|
+  |oarfish| ![oarfish](/output/oarfish.png)|
+  |coelacanth| ![coelacanth](/output/coelacanth.png)|
+  |kyle| ![kyle](/output/kyle.png)|
+  |turnips| ![turnips](/output/turnips.png)|
+  |sonatype_nancy| ![sonatype_nancy](/output/sonatype_nancy.png)|
+  |finger-string-remember| ![finger-string-remember](/output/finger-string-remember.png)|
+  |cheers| ![cheers](/output/cheers.png)|
   |wildwest| ![wildwest](/output/wildwest.jpg)|
   |goth-run-triggers| ![goth-run-triggers](/output/goth-run-triggers.png)|
   |goth-team-terraform-pipeline| ![goth-team-terraform-pipeline](/output/goth-team-terraform-pipeline.png)|
@@ -93,13 +102,4 @@
   |tpda| ![tpda](/output/tpda.png)|
   |dolly| ![dolly](/output/dolly.png)|
   |pip-party-parrot| ![pip-party-parrot](/output/pip-party-parrot.gif)|
-  |go-to-jail-party-parrot| ![go-to-jail-party-parrot](/output/go-to-jail-party-parrot)|
-  |pizza_sob-technologist| ![pizza_sob-technologist](/output/pizza_sob-technologist.png)|
-  |go-to-jail-technologist| ![go-to-jail-technologist](/output/go-to-jail-technologist.png)|
-  |pip-technologist| ![pip-technologist](/output/pip-technologist)|
-  |stasquatch-technologist| ![stasquatch-technologist](/output/stasquatch-technologist.png)|
-  |party-parrot-technologist| ![party-parrot-technologist](/output/party-parrot-technologist.gif)|
-  |watson-borb-technologist| ![watson-borb-technologist](/output/watson-borb-technologist.png)|
-  |thonking-technologist| ![thonking-technologist](/output/thonking-technologist.png)|
-  |lunch-waves| ![lunch-waves](/output/lunch-waves.gif)|
   

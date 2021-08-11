@@ -2,6 +2,14 @@
   ## Emojis (Page 29)
   |Emoji Name|Image|
   | :-: | :-: |
+  |weight-lifter-woman-intensifies| ![weight-lifter-woman-intensifies](/output/weight-lifter-woman-intensifies.gif)|
+  |army| ![army](/output/army.png)|
+  |navy| ![navy](/output/navy.png)|
+  |airforce| ![airforce](/output/airforce.png)|
+  |capitol| ![capitol](/output/capitol.png)|
+  |dhs| ![dhs](/output/dhs.png)|
+  |whitehouse| ![whitehouse](/output/whitehouse.png)|
+  |honeypig| ![honeypig](/output/honeypig.jpg)|
   |govshutdown| ![govshutdown](/output/govshutdown.png)|
   |rando| ![rando](/output/rando.jpg)|
   |cloud_ff| ![cloud_ff](/output/cloud_ff.gif)|
@@ -94,12 +102,4 @@
   |sushi_cat| ![sushi_cat](/output/sushi_cat.png)|
   |nyan-team-terraform-pipeline| ![nyan-team-terraform-pipeline](/output/nyan-team-terraform-pipeline.gif)|
   |rubykc| ![rubykc](/output/rubykc.png)|
-  |gcp-on-fire| ![gcp-on-fire](/output/gcp-on-fire.gif)|
-  |nyan-ruby| ![nyan-ruby](/output/nyan-ruby.gif)|
-  |team-terraform-pipeline-party| ![team-terraform-pipeline-party](/output/team-terraform-pipeline-party.gif)|
-  |ruby-party| ![ruby-party](/output/ruby-party.gif)|
-  |tf-pipeline-party| ![tf-pipeline-party](/output/tf-pipeline-party)|
-  |tf-pipeline-intensifies| ![tf-pipeline-intensifies](/output/tf-pipeline-intensifies)|
-  |tf-pipeline-da| ![tf-pipeline-da](/output/tf-pipeline-da)|
-  |nyan-tf-pipeline| ![nyan-tf-pipeline](/output/nyan-tf-pipeline)|
   

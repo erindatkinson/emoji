@@ -2,6 +2,10 @@
   ## Emojis (Page 3)
   |Emoji Name|Image|
   | :-: | :-: |
+  |clippy| ![clippy](/output/clippy.png)|
+  |clippy_page| ![clippy_page](/output/clippy_page.png)|
+  |cloud_formation| ![cloud_formation](/output/cloud_formation.png)|
+  |cloud_wolf| ![cloud_wolf](/output/cloud_wolf.png)|
   |clownshoes| ![clownshoes](/output/clownshoes.jpg)|
   |club| ![club](/output/club.png)|
   |clutch_sausage| ![clutch_sausage](/output/clutch_sausage.png)|
@@ -98,8 +102,4 @@
   |database| ![database](/output/database.png)|
   |databass| ![databass](/output/databass.png)|
   |datadog| ![datadog](/output/datadog.png)|
-  |dat_boi| ![dat_boi](/output/dat_boi.gif)|
-  |davidcelis| ![davidcelis](/output/davidcelis)|
-  |dawgs| ![dawgs](/output/dawgs.png)|
-  |dcloud| ![dcloud](/output/dcloud.png)|
   

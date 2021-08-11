@@ -2,6 +2,11 @@
   ## Emojis (Page 17)
   |Emoji Name|Image|
   | :-: | :-: |
+  |spongebob| ![spongebob](/output/spongebob.png)|
+  |spoon2| ![spoon2](/output/spoon2.jpg)|
+  |spot| ![spot](/output/spot.gif)|
+  |spotify| ![spotify](/output/spotify.png)|
+  |spy| ![spy](/output/spy.png)|
   |sriracha| ![sriracha](/output/sriracha.jpg)|
   |ssd| ![ssd](/output/ssd.jpg)|
   |ssshipit| ![ssshipit](/output/ssshipit.png)|
@@ -17,6 +22,7 @@
   |start| ![start](/output/start.jpg)|
   |startrek| ![startrek](/output/startrek.png)|
   |stella| ![stella](/output/stella.gif)|
+  |stethoscope2| ![stethoscope2](/output/stethoscope2.jpg)|
   |steve_holt| ![steve_holt](/output/steve_holt.png)|
   |stir_pot| ![stir_pot](/output/stir_pot.gif)|
   |stop| ![stop](/output/stop.png)|
@@ -24,7 +30,6 @@
   |strangeloop| ![strangeloop](/output/strangeloop.jpg)|
   |strongbad| ![strongbad](/output/strongbad.png)|
   |stroopwafel| ![stroopwafel](/output/stroopwafel.png)|
-  |sublime-text| ![sublime-text](/output/sublime-text.png)|
   |subway| ![subway](/output/subway.png)|
   |success| ![success](/output/success.png)|
   |successful| ![successful](/output/successful.png)|
@@ -97,9 +102,4 @@
   |terraform-dab| ![terraform-dab](/output/terraform-dab.gif)|
   |terraform-loading| ![terraform-loading](/output/terraform-loading.gif)|
   |terraformda| ![terraformda](/output/terraformda)|
-  |tesla| ![tesla](/output/tesla.jpg)|
-  |test| ![test](/output/test.gif)|
-  |testkitchen| ![testkitchen](/output/testkitchen.png)|
-  |tetris| ![tetris](/output/tetris.png)|
-  |texas| ![texas](/output/texas.jpg)|
   

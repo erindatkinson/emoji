@@ -2,6 +2,17 @@
   ## Emojis (Page 68)
   |Emoji Name|Image|
   | :-: | :-: |
+  |zagsob| ![zagsob](/output/zagsob.png)|
+  |dusa| ![dusa](/output/dusa.png)|
+  |goldblum-intensifies| ![goldblum-intensifies](/output/goldblum-intensifies.gif)|
+  |full-send| ![full-send](/output/full-send.jpg)|
+  |iam-cyring| ![iam-cyring](/output/iam-cyring.gif)|
+  |iam-crying| ![iam-crying](/output/iam-crying.gif)|
+  |white-hand| ![white-hand](/output/white-hand.png)|
+  |saruman| ![saruman](/output/saruman)|
+  |kermit-intensifies| ![kermit-intensifies](/output/kermit-intensifies.gif)|
+  |waiting-spin| ![waiting-spin](/output/waiting-spin.gif)|
+  |offline| ![offline](/output/offline.png)|
   |circleci-running| ![circleci-running](/output/circleci-running.gif)|
   |guinea-pig| ![guinea-pig](/output/guinea-pig.png)|
   |coffee_cheers-intensifies| ![coffee_cheers-intensifies](/output/coffee_cheers-intensifies.gif)|
@@ -91,15 +102,4 @@
   |psy_what| ![psy_what](/output/psy_what.png)|
   |bulba_confused| ![bulba_confused](/output/bulba_confused.png)|
   |jigglypuff| ![jigglypuff](/output/jigglypuff.png)|
-  |munna| ![munna](/output/munna.png)|
-  |rookworst| ![rookworst](/output/rookworst.png)|
-  |worst| ![worst](/output/worst)|
-  |sausage| ![sausage](/output/sausage)|
-  |shadytel| ![shadytel](/output/shadytel.png)|
-  |howdareyou-penny| ![howdareyou-penny](/output/howdareyou-penny.png)|
-  |yeetapult| ![yeetapult](/output/yeetapult.gif)|
-  |shiba_knife| ![shiba_knife](/output/shiba_knife.png)|
-  |oof-intensifies| ![oof-intensifies](/output/oof-intensifies.gif)|
-  |eula-da| ![eula-da](/output/eula-da.png)|
-  |legal-stuff| ![legal-stuff](/output/legal-stuff.jpg)|
   

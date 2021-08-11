@@ -2,6 +2,15 @@
   ## Emojis (Page 51)
   |Emoji Name|Image|
   | :-: | :-: |
+  |ahoy-clang-ss-ship-it-intensifies| ![ahoy-clang-ss-ship-it-intensifies](/output/ahoy-clang-ss-ship-it-intensifies.gif)|
+  |bob-ross-clang-intensifies| ![bob-ross-clang-intensifies](/output/bob-ross-clang-intensifies.gif)|
+  |clang-hair-intensifies| ![clang-hair-intensifies](/output/clang-hair-intensifies.gif)|
+  |octo-clang-intensifies| ![octo-clang-intensifies](/output/octo-clang-intensifies.gif)|
+  |puck-lazy-blep| ![puck-lazy-blep](/output/puck-lazy-blep.png)|
+  |sysdig| ![sysdig](/output/sysdig.png)|
+  |comb| ![comb](/output/comb.png)|
+  |grill| ![grill](/output/grill.png)|
+  |zapier| ![zapier](/output/zapier.png)|
   |sobbie| ![sobbie](/output/sobbie.png)|
   |lunch_burger| ![lunch_burger](/output/lunch_burger.gif)|
   |whack-a-mole| ![whack-a-mole](/output/whack-a-mole.gif)|
@@ -93,13 +102,4 @@
   |moana| ![moana](/output/moana.png)|
   |moana-intensifies| ![moana-intensifies](/output/moana-intensifies.gif)|
   |killer-instinct| ![killer-instinct](/output/killer-instinct.png)|
-  |combo-breaker| ![combo-breaker](/output/combo-breaker.png)|
-  |nhl| ![nhl](/output/nhl.png)|
-  |smugpuck| ![smugpuck](/output/smugpuck.png)|
-  |nhl-intensifies| ![nhl-intensifies](/output/nhl-intensifies.gif)|
-  |gopher-coffee| ![gopher-coffee](/output/gopher-coffee.gif)|
-  |terraform-cloud-agent| ![terraform-cloud-agent](/output/terraform-cloud-agent)|
-  |terraform-cloud-agent-intensifies| ![terraform-cloud-agent-intensifies](/output/terraform-cloud-agent-intensifies)|
-  |okta-intensifies| ![okta-intensifies](/output/okta-intensifies.gif)|
-  |bobby-berk-face| ![bobby-berk-face](/output/bobby-berk-face.png)|
   

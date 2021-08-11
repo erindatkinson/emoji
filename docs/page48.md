@@ -2,6 +2,15 @@
   ## Emojis (Page 48)
   |Emoji Name|Image|
   | :-: | :-: |
+  |partner-badge| ![partner-badge](/output/partner-badge.png)|
+  |black-lives-matter| ![black-lives-matter](/output/black-lives-matter.png)|
+  |terraform-v0-13| ![terraform-v0-13](/output/terraform-v0-13.png)|
+  |margot| ![margot](/output/margot.png)|
+  |earthfire| ![earthfire](/output/earthfire.gif)|
+  |petros-intensifies| ![petros-intensifies](/output/petros-intensifies.gif)|
+  |petros| ![petros](/output/petros.png)|
+  |petros-da| ![petros-da](/output/petros-da.png)|
+  |petros-waves| ![petros-waves](/output/petros-waves.gif)|
   |da-waves| ![da-waves](/output/da-waves.gif)|
   |yubikey-da| ![yubikey-da](/output/yubikey-da.png)|
   |yubikey-technologist| ![yubikey-technologist](/output/yubikey-technologist.png)|
@@ -93,13 +102,4 @@
   |k8s-party-parrot| ![k8s-party-parrot](/output/k8s-party-parrot.gif)|
   |glhf| ![glhf](/output/glhf.png)|
   |they_pronoun| ![they_pronoun](/output/they_pronoun.png)|
-  |blob_dance| ![blob_dance](/output/blob_dance.gif)|
-  |llama_dance| ![llama_dance](/output/llama_dance.gif)|
-  |cat_dance| ![cat_dance](/output/cat_dance.gif)|
-  |party_trash_blob| ![party_trash_blob](/output/party_trash_blob.gif)|
-  |femme-love| ![femme-love](/output/femme-love.gif)|
-  |terraform-rfc-da-intensifies| ![terraform-rfc-da-intensifies](/output/terraform-rfc-da-intensifies.gif)|
-  |snake_cowboy| ![snake_cowboy](/output/snake_cowboy.png)|
-  |amazing-2| ![amazing-2](/output/amazing-2)|
-  |folks| ![folks](/output/folks.gif)|
   

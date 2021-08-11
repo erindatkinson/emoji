@@ -2,6 +2,10 @@
   ## Emojis (Page 10)
   |Emoji Name|Image|
   | :-: | :-: |
+  |lemming| ![lemming](/output/lemming.gif)|
+  |lesliedino| ![lesliedino](/output/lesliedino.jpg)|
+  |letitcrash| ![letitcrash](/output/letitcrash.png)|
+  |lettuce| ![lettuce](/output/lettuce.jpg)|
   |lgtm| ![lgtm](/output/lgtm.png)|
   |liar| ![liar](/output/liar.png)|
   |libertymutual| ![libertymutual](/output/libertymutual.png)|
@@ -98,8 +102,4 @@
   |microbes| ![microbes](/output/microbes.png)|
   |microsoft| ![microsoft](/output/microsoft.png)|
   |mic_drop| ![mic_drop](/output/mic_drop.gif)|
-  |mic_pick_up| ![mic_pick_up](/output/mic_pick_up.gif)|
-  |middle_parrot| ![middle_parrot](/output/middle_parrot.gif)|
-  |midwest| ![midwest](/output/midwest.png)|
-  |milk| ![milk](/output/milk.png)|
   

@@ -2,6 +2,11 @@
   ## Emojis (Page 15)
   |Emoji Name|Image|
   | :-: | :-: |
+  |rimshot| ![rimshot](/output/rimshot.gif)|
+  |rip| ![rip](/output/rip.png)|
+  |rip-da| ![rip-da](/output/rip-da.png)|
+  |rita| ![rita](/output/rita.png)|
+  |rms| ![rms](/output/rms.png)|
   |robin| ![robin](/output/robin.png)|
   |robot_cry| ![robot_cry](/output/robot_cry.png)|
   |robot_sob| ![robot_sob](/output/robot_sob.png)|
@@ -24,7 +29,6 @@
   |rubykaigi| ![rubykaigi](/output/rubykaigi.png)|
   |rubyonrails| ![rubyonrails](/output/rubyonrails.png)|
   |ruhroh| ![ruhroh](/output/ruhroh.png)|
-  |rule34| ![rule34](/output/rule34.png)|
   |rupee| ![rupee](/output/rupee.gif)|
   |russ-da| ![russ-da](/output/russ-da.png)|
   |rust| ![rust](/output/rust.png)|
@@ -82,6 +86,7 @@
   |screenhero| ![screenhero](/output/screenhero.png)|
   |scroll-da| ![scroll-da](/output/scroll-da.png)|
   |seagull| ![seagull](/output/seagull.jpg)|
+  |seal2| ![seal2](/output/seal2.jpg)|
   |sea_lion| ![sea_lion](/output/sea_lion.png)|
   |seinfeld| ![seinfeld](/output/seinfeld.jpg)|
   |select| ![select](/output/select.jpg)|
@@ -97,9 +102,4 @@
   |shaggy| ![shaggy](/output/shaggy.png)|
   |shaka-sign| ![shaka-sign](/output/shaka-sign.png)|
   |shakesfist| ![shakesfist](/output/shakesfist.png)|
-  |shame| ![shame](/output/shame.png)|
-  |sharks| ![sharks](/output/sharks.png)|
-  |shed| ![shed](/output/shed.png)|
-  |shh-eyes| ![shh-eyes](/output/shh-eyes.png)|
-  |shifty_eyed_dog| ![shifty_eyed_dog](/output/shifty_eyed_dog.gif)|
   

@@ -2,6 +2,12 @@
   ## Emojis (Page 25)
   |Emoji Name|Image|
   | :-: | :-: |
+  |irc| ![irc](/output/irc.png)|
+  |no_probllama| ![no_probllama](/output/no_probllama.png)|
+  |party-blob| ![party-blob](/output/party-blob.gif)|
+  |party-gritty-2| ![party-gritty-2](/output/party-gritty-2.gif)|
+  |inception| ![inception](/output/inception.gif)|
+  |beholder| ![beholder](/output/beholder.png)|
   |winning| ![winning](/output/winning)|
   |blalor-happy-intensifies| ![blalor-happy-intensifies](/output/blalor-happy-intensifies.gif)|
   |hashicorp-intensifies| ![hashicorp-intensifies](/output/hashicorp-intensifies.gif)|
@@ -96,10 +102,4 @@
   |lilsweet| ![lilsweet](/output/lilsweet.jpg)|
   |firehose| ![firehose](/output/firehose.png)|
   |highfive-pokemon| ![highfive-pokemon](/output/highfive-pokemon.gif)|
-  |highfiveleft| ![highfiveleft](/output/highfiveleft.gif)|
-  |highfiveright| ![highfiveright](/output/highfiveright.gif)|
-  |headdesk2| ![headdesk2](/output/headdesk2.gif)|
-  |lurking| ![lurking](/output/lurking.png)|
-  |dietcoke| ![dietcoke](/output/dietcoke.jpg)|
-  |awkward-monkey| ![awkward-monkey](/output/awkward-monkey.png)|
   

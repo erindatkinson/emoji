@@ -2,6 +2,15 @@
   ## Emojis (Page 46)
   |Emoji Name|Image|
   | :-: | :-: |
+  |go-to-jail-party-parrot| ![go-to-jail-party-parrot](/output/go-to-jail-party-parrot)|
+  |pizza_sob-technologist| ![pizza_sob-technologist](/output/pizza_sob-technologist.png)|
+  |go-to-jail-technologist| ![go-to-jail-technologist](/output/go-to-jail-technologist.png)|
+  |pip-technologist| ![pip-technologist](/output/pip-technologist)|
+  |stasquatch-technologist| ![stasquatch-technologist](/output/stasquatch-technologist.png)|
+  |party-parrot-technologist| ![party-parrot-technologist](/output/party-parrot-technologist.gif)|
+  |watson-borb-technologist| ![watson-borb-technologist](/output/watson-borb-technologist.png)|
+  |thonking-technologist| ![thonking-technologist](/output/thonking-technologist.png)|
+  |lunch-waves| ![lunch-waves](/output/lunch-waves.gif)|
   |goose-honk-lunch| ![goose-honk-lunch](/output/goose-honk-lunch.png)|
   |skeleton-technologist| ![skeleton-technologist](/output/skeleton-technologist)|
   |laptop-on-fire| ![laptop-on-fire](/output/laptop-on-fire.gif)|
@@ -93,13 +102,4 @@
   |waiting-patiently| ![waiting-patiently](/output/waiting-patiently)|
   |team_work| ![team_work](/output/team_work.gif)|
   |team| ![team](/output/team)|
-  |armanino| ![armanino](/output/armanino.png)|
-  |teamwork_| ![teamwork_](/output/teamwork_)|
-  |appa| ![appa](/output/appa.png)|
-  |air| ![air](/output/air.png)|
-  |water-tribe| ![water-tribe](/output/water-tribe.png)|
-  |air-nomads| ![air-nomads](/output/air-nomads)|
-  |fire-nation| ![fire-nation](/output/fire-nation.png)|
-  |earth-kingdom| ![earth-kingdom](/output/earth-kingdom.png)|
-  |cheese-fries| ![cheese-fries](/output/cheese-fries.png)|
   

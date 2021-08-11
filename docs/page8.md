@@ -2,6 +2,10 @@
   ## Emojis (Page 8)
   |Emoji Name|Image|
   | :-: | :-: |
+  |herokuda| ![herokuda](/output/herokuda.png)|
+  |hexagon| ![hexagon](/output/hexagon.png)|
+  |heyay| ![heyay](/output/heyay.png)|
+  |hf| ![hf](/output/hf.gif)|
   |hieverybody| ![hieverybody](/output/hieverybody.png)|
   |high-five| ![high-five](/output/high-five.gif)|
   |highball| ![highball](/output/highball.png)|
@@ -98,8 +102,4 @@
   |iseewhatyoudid| ![iseewhatyoudid](/output/iseewhatyoudid.jpg)|
   |iseewhatyoudidthere| ![iseewhatyoudidthere](/output/iseewhatyoudidthere.png)|
   |islanders| ![islanders](/output/islanders.png)|
-  |issue| ![issue](/output/issue.png)|
-  |italiano| ![italiano](/output/italiano.png)|
-  |italiano-left| ![italiano-left](/output/italiano-left.png)|
-  |italiano-right| ![italiano-right](/output/italiano-right.png)|
   

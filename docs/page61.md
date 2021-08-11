@@ -2,6 +2,17 @@
   ## Emojis (Page 61)
   |Emoji Name|Image|
   | :-: | :-: |
+  |alphabet-yellow-f| ![alphabet-yellow-f](/output/alphabet-yellow-f.png)|
+  |alphabet-yellow-g| ![alphabet-yellow-g](/output/alphabet-yellow-g.png)|
+  |alphabet-yellow-h| ![alphabet-yellow-h](/output/alphabet-yellow-h.png)|
+  |alphabet-yellow-hash| ![alphabet-yellow-hash](/output/alphabet-yellow-hash.png)|
+  |alphabet-yellow-i| ![alphabet-yellow-i](/output/alphabet-yellow-i.png)|
+  |alphabet-yellow-j| ![alphabet-yellow-j](/output/alphabet-yellow-j.png)|
+  |alphabet-yellow-k| ![alphabet-yellow-k](/output/alphabet-yellow-k.png)|
+  |alphabet-yellow-l| ![alphabet-yellow-l](/output/alphabet-yellow-l.png)|
+  |alphabet-yellow-m| ![alphabet-yellow-m](/output/alphabet-yellow-m.png)|
+  |alphabet-yellow-n| ![alphabet-yellow-n](/output/alphabet-yellow-n.png)|
+  |alphabet-yellow-o| ![alphabet-yellow-o](/output/alphabet-yellow-o.png)|
   |alphabet-yellow-p| ![alphabet-yellow-p](/output/alphabet-yellow-p.png)|
   |alphabet-yellow-q| ![alphabet-yellow-q](/output/alphabet-yellow-q.png)|
   |alphabet-yellow-question| ![alphabet-yellow-question](/output/alphabet-yellow-question.png)|
@@ -91,15 +102,4 @@
   |corgibounce| ![corgibounce](/output/corgibounce.gif)|
   |google-sheet-intensifies| ![google-sheet-intensifies](/output/google-sheet-intensifies.gif)|
   |hard-same-intensifies| ![hard-same-intensifies](/output/hard-same-intensifies.gif)|
-  |goodevening| ![goodevening](/output/goodevening.png)|
-  |lavender| ![lavender](/output/lavender.jpg)|
-  |mlk| ![mlk](/output/mlk.jpg)|
-  |hangmonk| ![hangmonk](/output/hangmonk.gif)|
-  |vercel| ![vercel](/output/vercel.png)|
-  |vercel-da| ![vercel-da](/output/vercel-da.png)|
-  |greenies| ![greenies](/output/greenies.png)|
-  |analytics| ![analytics](/output/analytics.png)|
-  |brooke| ![brooke](/output/brooke.png)|
-  |lua-logo| ![lua-logo](/output/lua-logo.png)|
-  |secure| ![secure](/output/secure.gif)|
   

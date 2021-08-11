@@ -2,6 +2,14 @@
   ## Emojis (Page 30)
   |Emoji Name|Image|
   | :-: | :-: |
+  |gcp-on-fire| ![gcp-on-fire](/output/gcp-on-fire.gif)|
+  |nyan-ruby| ![nyan-ruby](/output/nyan-ruby.gif)|
+  |team-terraform-pipeline-party| ![team-terraform-pipeline-party](/output/team-terraform-pipeline-party.gif)|
+  |ruby-party| ![ruby-party](/output/ruby-party.gif)|
+  |tf-pipeline-party| ![tf-pipeline-party](/output/tf-pipeline-party)|
+  |tf-pipeline-intensifies| ![tf-pipeline-intensifies](/output/tf-pipeline-intensifies)|
+  |tf-pipeline-da| ![tf-pipeline-da](/output/tf-pipeline-da)|
+  |nyan-tf-pipeline| ![nyan-tf-pipeline](/output/nyan-tf-pipeline)|
   |slam-lunch| ![slam-lunch](/output/slam-lunch.jpg)|
   |breakdance| ![breakdance](/output/breakdance.gif)|
   |honk| ![honk](/output/honk.png)|
@@ -94,12 +102,4 @@
   |elmo_rise| ![elmo_rise](/output/elmo_rise.gif)|
   |elmo-rise| ![elmo-rise](/output/elmo-rise.png)|
   |powerbook| ![powerbook](/output/powerbook.png)|
-  |walker| ![walker](/output/walker)|
-  |metrowerks| ![metrowerks](/output/metrowerks.png)|
-  |codewarrior| ![codewarrior](/output/codewarrior)|
-  |bailando| ![bailando](/output/bailando.gif)|
-  |salsadance| ![salsadance](/output/salsadance)|
-  |swing| ![swing](/output/swing)|
-  |sea-slug-01| ![sea-slug-01](/output/sea-slug-01.png)|
-  |sea-slug-02| ![sea-slug-02](/output/sea-slug-02.png)|
   

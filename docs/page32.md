@@ -2,6 +2,14 @@
   ## Emojis (Page 32)
   |Emoji Name|Image|
   | :-: | :-: |
+  |jelly-lingonberry-intensifies| ![jelly-lingonberry-intensifies](/output/jelly-lingonberry-intensifies.gif)|
+  |go-intensifies| ![go-intensifies](/output/go-intensifies.gif)|
+  |qubit-intensifies| ![qubit-intensifies](/output/qubit-intensifies.gif)|
+  |sea-slug-01-intensifies| ![sea-slug-01-intensifies](/output/sea-slug-01-intensifies.gif)|
+  |oatly| ![oatly](/output/oatly.jpg)|
+  |smile-intensifies| ![smile-intensifies](/output/smile-intensifies.gif)|
+  |lunch-on-fire| ![lunch-on-fire](/output/lunch-on-fire.gif)|
+  |cute-pitbull-dog| ![cute-pitbull-dog](/output/cute-pitbull-dog.png)|
   |potato-on-fire| ![potato-on-fire](/output/potato-on-fire.gif)|
   |hot-potato| ![hot-potato](/output/hot-potato)|
   |poop-technologist| ![poop-technologist](/output/poop-technologist.png)|
@@ -94,12 +102,4 @@
   |vaporwave| ![vaporwave](/output/vaporwave.jpg)|
   |salesman| ![salesman](/output/salesman.jpg)|
   |ikea| ![ikea](/output/ikea.png)|
-  |github-sob| ![github-sob](/output/github-sob.png)|
-  |github-blood-sob| ![github-blood-sob](/output/github-blood-sob.png)|
-  |goose-honk-left-cool| ![goose-honk-left-cool](/output/goose-honk-left-cool.png)|
-  |goose-honk-right-cool| ![goose-honk-right-cool](/output/goose-honk-right-cool.png)|
-  |goose-honk-cool| ![goose-honk-cool](/output/goose-honk-cool)|
-  |cowboy-cat-cool| ![cowboy-cat-cool](/output/cowboy-cat-cool.png)|
-  |goose-da-left| ![goose-da-left](/output/goose-da-left.png)|
-  |goose-honk-left-da| ![goose-honk-left-da](/output/goose-honk-left-da.png)|
   

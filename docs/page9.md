@@ -2,6 +2,10 @@
   ## Emojis (Page 9)
   |Emoji Name|Image|
   | :-: | :-: |
+  |issue| ![issue](/output/issue.png)|
+  |italiano| ![italiano](/output/italiano.png)|
+  |italiano-left| ![italiano-left](/output/italiano-left.png)|
+  |italiano-right| ![italiano-right](/output/italiano-right.png)|
   |its-a-trap| ![its-a-trap](/output/its-a-trap)|
   |itsatrap| ![itsatrap](/output/itsatrap.png)|
   |its_fine| ![its_fine](/output/its_fine.png)|
@@ -98,8 +102,4 @@
   |left_facing_fist| ![left_facing_fist](/output/left_facing_fist.png)|
   |left_shark| ![left_shark](/output/left_shark.gif)|
   |lego| ![lego](/output/lego.png)|
-  |lemming| ![lemming](/output/lemming.gif)|
-  |lesliedino| ![lesliedino](/output/lesliedino.jpg)|
-  |letitcrash| ![letitcrash](/output/letitcrash.png)|
-  |lettuce| ![lettuce](/output/lettuce.jpg)|
   

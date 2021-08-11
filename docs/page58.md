@@ -2,6 +2,16 @@
   ## Emojis (Page 58)
   |Emoji Name|Image|
   | :-: | :-: |
+  |wittgenstein| ![wittgenstein](/output/wittgenstein.png)|
+  |russell| ![russell](/output/russell.png)|
+  |wittgenstein-stare| ![wittgenstein-stare](/output/wittgenstein-stare.png)|
+  |scapegoat| ![scapegoat](/output/scapegoat.png)|
+  |malcolm-x| ![malcolm-x](/output/malcolm-x.png)|
+  |jacobs| ![jacobs](/output/jacobs.png)|
+  |soblol| ![soblol](/output/soblol.png)|
+  |butler| ![butler](/output/butler.png)|
+  |diogenes| ![diogenes](/output/diogenes.png)|
+  |shannon| ![shannon](/output/shannon.png)|
   |kropotkin| ![kropotkin](/output/kropotkin.png)|
   |fingerguns-3| ![fingerguns-3](/output/fingerguns-3.png)|
   |fingerguns-2| ![fingerguns-2](/output/fingerguns-2.png)|
@@ -92,14 +102,4 @@
   |ninja_star| ![ninja_star](/output/ninja_star.png)|
   |bhumie2| ![bhumie2](/output/bhumie2.png)|
   |old_woman_cloud_sq| ![old_woman_cloud_sq](/output/old_woman_cloud_sq.jpg)|
-  |detroit| ![detroit](/output/detroit.jpg)|
-  |not-ideal| ![not-ideal](/output/not-ideal.png)|
-  |axolotl| ![axolotl](/output/axolotl.png)|
-  |cloud-graham| ![cloud-graham](/output/cloud-graham.jpg)|
-  |cloud-tommaso| ![cloud-tommaso](/output/cloud-tommaso.png)|
-  |cloud-tom| ![cloud-tom](/output/cloud-tom)|
-  |fry-eyes| ![fry-eyes](/output/fry-eyes.gif)|
-  |cloud-chappie| ![cloud-chappie](/output/cloud-chappie.jpg)|
-  |stop-making-sense| ![stop-making-sense](/output/stop-making-sense.png)|
-  |feedback-loop| ![feedback-loop](/output/feedback-loop.png)|
   

@@ -2,6 +2,11 @@
   ## Emojis (Page 21)
   |Emoji Name|Image|
   | :-: | :-: |
+  |gopher_dance| ![gopher_dance](/output/gopher_dance.gif)|
+  |vault-muscle| ![vault-muscle](/output/vault-muscle.png)|
+  |dabears| ![dabears](/output/dabears.png)|
+  |sox| ![sox](/output/sox.png)|
+  |bulls| ![bulls](/output/bulls.png)|
   |kanye_weird_smile| ![kanye_weird_smile](/output/kanye_weird_smile.png)|
   |kanye_skeptical| ![kanye_skeptical](/output/kanye_skeptical.jpg)|
   |bill-nye| ![bill-nye](/output/bill-nye.png)|
@@ -97,9 +102,4 @@
   |linda-dance| ![linda-dance](/output/linda-dance.gif)|
   |deadlift| ![deadlift](/output/deadlift.gif)|
   |hashi-k| ![hashi-k](/output/hashi-k.png)|
-  |jobs_done| ![jobs_done](/output/jobs_done.jpg)|
-  |temmie| ![temmie](/output/temmie.png)|
-  |davidcelis-da| ![davidcelis-da](/output/davidcelis-da.gif)|
-  |developers| ![developers](/output/developers.gif)|
-  |nomad-scooter| ![nomad-scooter](/output/nomad-scooter.png)|
   

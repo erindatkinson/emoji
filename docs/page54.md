@@ -2,6 +2,15 @@
   ## Emojis (Page 54)
   |Emoji Name|Image|
   | :-: | :-: |
+  |good-morning| ![good-morning](/output/good-morning.png)|
+  |darkside| ![darkside](/output/darkside.png)|
+  |darkside_darthmaul| ![darkside_darthmaul](/output/darkside_darthmaul.gif)|
+  |saweet| ![saweet](/output/saweet.png)|
+  |walken| ![walken](/output/walken.jpg)|
+  |keep-vermont-weird| ![keep-vermont-weird](/output/keep-vermont-weird.jpg)|
+  |obiwan| ![obiwan](/output/obiwan.jpg)|
+  |raccoon-attack| ![raccoon-attack](/output/raccoon-attack.png)|
+  |nyt| ![nyt](/output/nyt.png)|
   |nyt2| ![nyt2](/output/nyt2.png)|
   |alarm_clock-intensifies| ![alarm_clock-intensifies](/output/alarm_clock-intensifies.gif)|
   |timer_clock-intensifies| ![timer_clock-intensifies](/output/timer_clock-intensifies.gif)|
@@ -93,13 +102,4 @@
   |chompy-heart-eyes| ![chompy-heart-eyes](/output/chompy-heart-eyes.gif)|
   |chompy-inverse| ![chompy-inverse](/output/chompy-inverse.gif)|
   |chompy-laugh| ![chompy-laugh](/output/chompy-laugh.gif)|
-  |chompy-left| ![chompy-left](/output/chompy-left.gif)|
-  |chompy-lightspeed| ![chompy-lightspeed](/output/chompy-lightspeed.gif)|
-  |chompy-concerned| ![chompy-concerned](/output/chompy-concerned.gif)|
-  |chompy-deal-with-it| ![chompy-deal-with-it](/output/chompy-deal-with-it.gif)|
-  |chompy-fast| ![chompy-fast](/output/chompy-fast.gif)|
-  |chompy-angry| ![chompy-angry](/output/chompy-angry.gif)|
-  |chompy-blur| ![chompy-blur](/output/chompy-blur.gif)|
-  |chompy-coachella| ![chompy-coachella](/output/chompy-coachella.gif)|
-  |chompy-alt| ![chompy-alt](/output/chompy-alt.gif)|
   

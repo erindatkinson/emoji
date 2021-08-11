@@ -2,6 +2,14 @@
   ## Emojis (Page 33)
   |Emoji Name|Image|
   | :-: | :-: |
+  |github-sob| ![github-sob](/output/github-sob.png)|
+  |github-blood-sob| ![github-blood-sob](/output/github-blood-sob.png)|
+  |goose-honk-left-cool| ![goose-honk-left-cool](/output/goose-honk-left-cool.png)|
+  |goose-honk-right-cool| ![goose-honk-right-cool](/output/goose-honk-right-cool.png)|
+  |goose-honk-cool| ![goose-honk-cool](/output/goose-honk-cool)|
+  |cowboy-cat-cool| ![cowboy-cat-cool](/output/cowboy-cat-cool.png)|
+  |goose-da-left| ![goose-da-left](/output/goose-da-left.png)|
+  |goose-honk-left-da| ![goose-honk-left-da](/output/goose-honk-left-da.png)|
   |goose-honk-right-da| ![goose-honk-right-da](/output/goose-honk-right-da.png)|
   |goose-da-right| ![goose-da-right](/output/goose-da-right.png)|
   |goose-da| ![goose-da](/output/goose-da)|
@@ -94,12 +102,4 @@
   |meh-hand-left| ![meh-hand-left](/output/meh-hand-left.png)|
   |meh-hand-right| ![meh-hand-right](/output/meh-hand-right.png)|
   |meh-hand| ![meh-hand](/output/meh-hand)|
-  |wave-waves| ![wave-waves](/output/wave-waves.gif)|
-  |bulma| ![bulma](/output/bulma.png)|
-  |nomnom| ![nomnom](/output/nomnom.png)|
-  |geekbot-sob| ![geekbot-sob](/output/geekbot-sob.png)|
-  |seattle| ![seattle](/output/seattle.png)|
-  |exasperated-alvin| ![exasperated-alvin](/output/exasperated-alvin.png)|
-  |mando| ![mando](/output/mando.jpg)|
-  |whateverbrian| ![whateverbrian](/output/whateverbrian.png)|
   

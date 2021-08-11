@@ -2,6 +2,14 @@
   ## Emojis (Page 40)
   |Emoji Name|Image|
   | :-: | :-: |
+  |desert-waves| ![desert-waves](/output/desert-waves.gif)|
+  |mirage| ![mirage](/output/mirage)|
+  |nyan-meatsweats| ![nyan-meatsweats](/output/nyan-meatsweats.gif)|
+  |meatsweats-da| ![meatsweats-da](/output/meatsweats-da.png)|
+  |meatsweats-waves| ![meatsweats-waves](/output/meatsweats-waves.gif)|
+  |meatsweats-on-fire| ![meatsweats-on-fire](/output/meatsweats-on-fire.gif)|
+  |meatsweats-cool| ![meatsweats-cool](/output/meatsweats-cool.png)|
+  |meatsweats-intensifies| ![meatsweats-intensifies](/output/meatsweats-intensifies.gif)|
   |sick| ![sick](/output/sick.gif)|
   |did_i_do_that| ![did_i_do_that](/output/did_i_do_that.jpg)|
   |urkel| ![urkel](/output/urkel)|
@@ -94,12 +102,4 @@
   |+++++1| ![+++++1](/output/+++++1.png)|
   |hat-tip| ![hat-tip](/output/hat-tip.gif)|
   |linner| ![linner](/output/linner)|
-  |lean-coffee-da| ![lean-coffee-da](/output/lean-coffee-da.png)|
-  |lean-coffee| ![lean-coffee](/output/lean-coffee.png)|
-  |companioncube| ![companioncube](/output/companioncube.png)|
-  |whammie| ![whammie](/output/whammie.gif)|
-  |whammied| ![whammied](/output/whammied.gif)|
-  |speaking_head_in_silhouette_left| ![speaking_head_in_silhouette_left](/output/speaking_head_in_silhouette_left.png)|
-  |australian-thumbsup| ![australian-thumbsup](/output/australian-thumbsup.png)|
-  |australian-thumbsdown| ![australian-thumbsdown](/output/australian-thumbsdown.png)|
   
