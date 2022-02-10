@@ -2,24 +2,6 @@
   ## Emojis (Page 3)
   |Emoji Name|Image|
   | :-: | :-: |
-  |aquaman| ![aquaman](/output/aquaman.png)|
-  |arbok| ![arbok](/output/arbok.png)|
-  |arbys| ![arbys](/output/arbys.png)|
-  |arcade_cabinet| ![arcade_cabinet](/output/arcade_cabinet.png)|
-  |arcand-intensifies| ![arcand-intensifies](/output/arcand-intensifies.gif)|
-  |arch_linux| ![arch_linux](/output/arch_linux.png)|
-  |archer| ![archer](/output/archer.png)|
-  |archivist| ![archivist](/output/archivist.png)|
-  |are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you| ![are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you](/output/are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you)|
-  |are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies| ![are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies](/output/are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies.gif)|
-  |arendt| ![arendt](/output/arendt.png)|
-  |areyoukiddingme| ![areyoukiddingme](/output/areyoukiddingme.jpg)|
-  |argh| ![argh](/output/argh.gif)|
-  |arghfist| ![arghfist](/output/arghfist.gif)|
-  |argmapper| ![argmapper](/output/argmapper.png)|
-  |argmapper-intensifies| ![argmapper-intensifies](/output/argmapper-intensifies.gif)|
-  |arizona| ![arizona](/output/arizona.png)|
-  |arm_robin| ![arm_robin](/output/arm_robin.png)|
   |armanino| ![armanino](/output/armanino.png)|
   |armon| ![armon](/output/armon.png)|
   |armon-halo| ![armon-halo](/output/armon-halo.png)|
@@ -32,8 +14,6 @@
   |arnie| ![arnie](/output/arnie.jpg)|
   |arsenal| ![arsenal](/output/arsenal.png)|
   |arthur| ![arthur](/output/arthur.jpg)|
-  |arthur-fist| ![arthur-fist](/output/arthur-fist.png)|
-  |article| ![article](/output/article)|
   |artifactory| ![artifactory](/output/artifactory.png)|
   |asana| ![asana](/output/asana.png)|
   |asana-cool-blood-cry| ![asana-cool-blood-cry](/output/asana-cool-blood-cry.png)|
@@ -46,7 +26,6 @@
   |ash_evil_dead_cute| ![ash_evil_dead_cute](/output/ash_evil_dead_cute.png)|
   |ashe-ow| ![ashe-ow](/output/ashe-ow.png)|
   |ashley| ![ashley](/output/ashley.jpg)|
-  |ask4friend| ![ask4friend](/output/ask4friend.jpg)|
   |ass| ![ass](/output/ass.png)|
   |astrazeneca| ![astrazeneca](/output/astrazeneca.png)|
   |astros_emoji| ![astros_emoji](/output/astros_emoji.png)|
@@ -102,4 +81,25 @@
   |awesome-think| ![awesome-think](/output/awesome-think.png)|
   |awesome1| ![awesome1](/output/awesome1.gif)|
   |awesome_cylon| ![awesome_cylon](/output/awesome_cylon.gif)|
+  |awesome_possum| ![awesome_possum](/output/awesome_possum.jpg)|
+  |awesomecat| ![awesomecat](/output/awesomecat.png)|
+  |awkward-monkey| ![awkward-monkey](/output/awkward-monkey.png)|
+  |awkward_turtle| ![awkward_turtle](/output/awkward_turtle.gif)|
+  |aws| ![aws](/output/aws.png)|
+  |aws-da| ![aws-da](/output/aws-da.png)|
+  |aws-fine| ![aws-fine](/output/aws-fine)|
+  |aws-fine-da| ![aws-fine-da](/output/aws-fine-da.png)|
+  |aws-happy| ![aws-happy](/output/aws-happy.png)|
+  |aws-intensifies| ![aws-intensifies](/output/aws-intensifies.gif)|
+  |aws-sad| ![aws-sad](/output/aws-sad.png)|
+  |aws-shakefist| ![aws-shakefist](/output/aws-shakefist)|
+  |aws-smile| ![aws-smile](/output/aws-smile.png)|
+  |aws-tada| ![aws-tada](/output/aws-tada.png)|
+  |awthanks| ![awthanks](/output/awthanks.png)|
+  |aww| ![aww](/output/aww.png)|
+  |aww-hd| ![aww-hd](/output/aww-hd)|
+  |aww_blob| ![aww_blob](/output/aww_blob.png)|
+  |aww_yeah| ![aww_yeah](/output/aww_yeah.gif)|
+  |awww| ![awww](/output/awww.png)|
+  |awyeah| ![awyeah](/output/awyeah.png)|
   

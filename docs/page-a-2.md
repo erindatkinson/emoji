@@ -2,14 +2,6 @@
   ## Emojis (Page 2)
   |Emoji Name|Image|
   | :-: | :-: |
-  |alphabet-yellow-x| ![alphabet-yellow-x](/output/alphabet-yellow-x.png)|
-  |alphabet-yellow-y| ![alphabet-yellow-y](/output/alphabet-yellow-y.png)|
-  |alphabet-yellow-z| ![alphabet-yellow-z](/output/alphabet-yellow-z.png)|
-  |alpine-linux| ![alpine-linux](/output/alpine-linux.png)|
-  |alrightalrightalright| ![alrightalrightalright](/output/alrightalrightalright.png)|
-  |althea| ![althea](/output/althea.png)|
-  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
-  |alvaro| ![alvaro](/output/alvaro.jpg)|
   |alvaro-9008| ![alvaro-9008](/output/alvaro-9008.jpg)|
   |alvaro-beer| ![alvaro-beer](/output/alvaro-beer.png)|
   |alvaro-bicycle| ![alvaro-bicycle](/output/alvaro-bicycle.png)|
@@ -40,7 +32,6 @@
   |american-hero| ![american-hero](/output/american-hero.jpg)|
   |americano| ![americano](/output/americano.png)|
   |americaseal| ![americaseal](/output/americaseal.png)|
-  |among-us-party| ![among-us-party](/output/among-us-party.gif)|
   |among-us-pink-dum| ![among-us-pink-dum](/output/among-us-pink-dum.png)|
   |among-us-pink-dum-extreme-intensifies| ![among-us-pink-dum-extreme-intensifies](/output/among-us-pink-dum-extreme-intensifies.gif)|
   |among-us-pink-dum-intensifies| ![among-us-pink-dum-intensifies](/output/among-us-pink-dum-intensifies.gif)|
@@ -60,7 +51,6 @@
   |andy| ![andy](/output/andy.png)|
   |andy-lunch| ![andy-lunch](/output/andy-lunch.gif)|
   |andy_bot| ![andy_bot](/output/andy_bot.gif)|
-  |andyd_dance| ![andyd_dance](/output/andyd_dance.gif)|
   |anger-io| ![anger-io](/output/anger-io.png)|
   |angery-meow| ![angery-meow](/output/angery-meow.png)|
   |angie_the_doggo| ![angie_the_doggo](/output/angie_the_doggo.png)|
@@ -68,11 +58,9 @@
   |angry-partying| ![angry-partying](/output/angry-partying.png)|
   |angry-penguin| ![angry-penguin](/output/angry-penguin.png)|
   |angry-snarf| ![angry-snarf](/output/angry-snarf.png)|
-  |angry-sun| ![angry-sun](/output/angry-sun.png)|
   |angry_red| ![angry_red](/output/angry_red.gif)|
   |angry_scream| ![angry_scream](/output/angry_scream.png)|
   |angry_spin| ![angry_spin](/output/angry_spin.gif)|
-  |angry_sun| ![angry_sun](/output/angry_sun.png)|
   |angrycat| ![angrycat](/output/angrycat.gif)|
   |angrydoge| ![angrydoge](/output/angrydoge.png)|
   |angrysquid| ![angrysquid](/output/angrysquid.png)|
@@ -82,10 +70,8 @@
   |annoying_dog| ![annoying_dog](/output/annoying_dog)|
   |anonymous| ![anonymous](/output/anonymous.png)|
   |ansible| ![ansible](/output/ansible.png)|
-  |answer| ![answer](/output/answer)|
   |anti-dolphin| ![anti-dolphin](/output/anti-dolphin.jpg)|
   |antifa| ![antifa](/output/antifa.png)|
-  |anton| ![anton](/output/anton.jpg)|
   |anvil| ![anvil](/output/anvil.png)|
   |anxiousaf| ![anxiousaf](/output/anxiousaf.png)|
   |any-hoot| ![any-hoot](/output/any-hoot.png)|
@@ -102,4 +88,18 @@
   |apples| ![apples](/output/apples.png)|
   |approved| ![approved](/output/approved.png)|
   |appveyor| ![appveyor](/output/appveyor.png)|
+  |aquaman| ![aquaman](/output/aquaman.png)|
+  |arbok| ![arbok](/output/arbok.png)|
+  |arbys| ![arbys](/output/arbys.png)|
+  |arcade_cabinet| ![arcade_cabinet](/output/arcade_cabinet.png)|
+  |arcand-intensifies| ![arcand-intensifies](/output/arcand-intensifies.gif)|
+  |arch_linux| ![arch_linux](/output/arch_linux.png)|
+  |archer| ![archer](/output/archer.png)|
+  |archivist| ![archivist](/output/archivist.png)|
+  |arendt| ![arendt](/output/arendt.png)|
+  |areyoukiddingme| ![areyoukiddingme](/output/areyoukiddingme.jpg)|
+  |argh| ![argh](/output/argh.gif)|
+  |arghfist| ![arghfist](/output/arghfist.gif)|
+  |arizona| ![arizona](/output/arizona.png)|
+  |arm_robin| ![arm_robin](/output/arm_robin.png)|
   

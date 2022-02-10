@@ -6,6 +6,9 @@ endif
 install:
 	pipenv install
 
+amalgamate:
+	./scripts/amalgamate.py
+
 get: needs-json-path
 	./scripts/download.sh $(JSON_PATH)
 

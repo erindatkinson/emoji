@@ -2,13 +2,6 @@
   ## Emojis (Page 1)
   |Emoji Name|Image|
   | :-: | :-: |
-  |ahoy-clang-ss-ship-it| ![ahoy-clang-ss-ship-it](/output/ahoy-clang-ss-ship-it.png)|
-  |ahoy-clang-ss-ship-it-intensifies| ![ahoy-clang-ss-ship-it-intensifies](/output/ahoy-clang-ss-ship-it-intensifies.gif)|
-  |ahsoka| ![ahsoka](/output/ahsoka.png)|
-  |aileen| ![aileen](/output/aileen.png)|
-  |air| ![air](/output/air.png)|
-  |air-nomads| ![air-nomads](/output/air-nomads)|
-  |air_quotes| ![air_quotes](/output/air_quotes.gif)|
   |air_quotes_close| ![air_quotes_close](/output/air_quotes_close.gif)|
   |airforce| ![airforce](/output/airforce.png)|
   |airhorn| ![airhorn](/output/airhorn.png)|
@@ -41,7 +34,6 @@
   |allstate-intensifies| ![allstate-intensifies](/output/allstate-intensifies.gif)|
   |allthethings| ![allthethings](/output/allthethings.png)|
   |allyourbasearebelongtous| ![allyourbasearebelongtous](/output/allyourbasearebelongtous.gif)|
-  |aloe| ![aloe](/output/aloe.png)|
   |aloha| ![aloha](/output/aloha)|
   |alot| ![alot](/output/alot.png)|
   |alpaca| ![alpaca](/output/alpaca.png)|
@@ -102,4 +94,12 @@
   |alphabet-yellow-u| ![alphabet-yellow-u](/output/alphabet-yellow-u.png)|
   |alphabet-yellow-v| ![alphabet-yellow-v](/output/alphabet-yellow-v.png)|
   |alphabet-yellow-w| ![alphabet-yellow-w](/output/alphabet-yellow-w.png)|
+  |alphabet-yellow-x| ![alphabet-yellow-x](/output/alphabet-yellow-x.png)|
+  |alphabet-yellow-y| ![alphabet-yellow-y](/output/alphabet-yellow-y.png)|
+  |alphabet-yellow-z| ![alphabet-yellow-z](/output/alphabet-yellow-z.png)|
+  |alpine-linux| ![alpine-linux](/output/alpine-linux.png)|
+  |alrightalrightalright| ![alrightalrightalright](/output/alrightalrightalright.png)|
+  |althea| ![althea](/output/althea.png)|
+  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
+  |alvaro| ![alvaro](/output/alvaro.jpg)|
   

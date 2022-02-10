@@ -2,37 +2,6 @@
   ## Emojis (Page 4)
   |Emoji Name|Image|
   | :-: | :-: |
-  |awesome_possum| ![awesome_possum](/output/awesome_possum.jpg)|
-  |awesomecat| ![awesomecat](/output/awesomecat.png)|
-  |awkward-monkey| ![awkward-monkey](/output/awkward-monkey.png)|
-  |awkward_turtle| ![awkward_turtle](/output/awkward_turtle.gif)|
-  |aws| ![aws](/output/aws.png)|
-  |aws-blood-sob| ![aws-blood-sob](/output/aws-blood-sob.png)|
-  |aws-cool| ![aws-cool](/output/aws-cool.png)|
-  |aws-cry| ![aws-cry](/output/aws-cry.png)|
-  |aws-da| ![aws-da](/output/aws-da.png)|
-  |aws-fine| ![aws-fine](/output/aws-fine)|
-  |aws-fine-da| ![aws-fine-da](/output/aws-fine-da.png)|
-  |aws-happy| ![aws-happy](/output/aws-happy.png)|
-  |aws-intensifies| ![aws-intensifies](/output/aws-intensifies.gif)|
-  |aws-lambda| ![aws-lambda](/output/aws-lambda.png)|
-  |aws-lambda-intensifies| ![aws-lambda-intensifies](/output/aws-lambda-intensifies.gif)|
-  |aws-on-fire| ![aws-on-fire](/output/aws-on-fire.gif)|
-  |aws-sad| ![aws-sad](/output/aws-sad.png)|
-  |aws-shakefist| ![aws-shakefist](/output/aws-shakefist)|
-  |aws-smile| ![aws-smile](/output/aws-smile.png)|
-  |aws-sob| ![aws-sob](/output/aws-sob.png)|
-  |aws-tada| ![aws-tada](/output/aws-tada.png)|
-  |aws-technologist| ![aws-technologist](/output/aws-technologist.png)|
-  |aws-waves| ![aws-waves](/output/aws-waves.gif)|
-  |awthanks| ![awthanks](/output/awthanks.png)|
-  |aww| ![aww](/output/aww.png)|
-  |aww-hd| ![aww-hd](/output/aww-hd)|
-  |aww-yeah| ![aww-yeah](/output/aww-yeah.gif)|
-  |aww_blob| ![aww_blob](/output/aww_blob.png)|
-  |aww_yeah| ![aww_yeah](/output/aww_yeah.gif)|
-  |awww| ![awww](/output/awww.png)|
-  |awyeah| ![awyeah](/output/awyeah.png)|
   |axe2| ![axe2](/output/axe2.png)|
   |axem_black_mario_rpg| ![axem_black_mario_rpg](/output/axem_black_mario_rpg.png)|
   |axem_green_mario_rpg| ![axem_green_mario_rpg](/output/axem_green_mario_rpg.png)|
@@ -82,7 +51,6 @@
   |baby-yo-da| ![baby-yo-da](/output/baby-yo-da.png)|
   |baby-yoda| ![baby-yoda](/output/baby-yoda.png)|
   |baby-yoda-tea| ![baby-yoda-tea](/output/baby-yoda-tea.png)|
-  |baby_possum| ![baby_possum](/output/baby_possum.png)|
   |baby_yoda_soup| ![baby_yoda_soup](/output/baby_yoda_soup.gif)|
   |babyburrito| ![babyburrito](/output/babyburrito.jpg)|
   |babyyoda| ![babyyoda](/output/babyyoda.png)|
@@ -94,7 +62,6 @@
   |backlogda| ![backlogda](/output/backlogda.png)|
   |bacon2| ![bacon2](/output/bacon2.png)|
   |bad-boss| ![bad-boss](/output/bad-boss.png)|
-  |bad-data| ![bad-data](/output/bad-data.jpg)|
   |bad-kerning| ![bad-kerning](/output/bad-kerning.png)|
   |badge| ![badge](/output/badge.png)|
   |badge-intensifies| ![badge-intensifies](/output/badge-intensifies.gif)|
@@ -102,4 +69,37 @@
   |badgerbadger| ![badgerbadger](/output/badgerbadger.gif)|
   |badjokeeel| ![badjokeeel](/output/badjokeeel.png)|
   |badpokerface| ![badpokerface](/output/badpokerface.png)|
+  |badtime| ![badtime](/output/badtime.png)|
+  |baduk| ![baduk](/output/baduk.png)|
+  |badumtss| ![badumtss](/output/badumtss.png)|
+  |bagels| ![bagels](/output/bagels.jpg)|
+  |bagels_and_lox| ![bagels_and_lox](/output/bagels_and_lox.jpg)|
+  |bagspacked| ![bagspacked](/output/bagspacked.png)|
+  |bahn_mi| ![bahn_mi](/output/bahn_mi.png)|
+  |bail| ![bail](/output/bail.png)|
+  |bailando| ![bailando](/output/bailando.gif)|
+  |baked_beans| ![baked_beans](/output/baked_beans.png)|
+  |balance| ![balance](/output/balance.png)|
+  |baleeted| ![baleeted](/output/baleeted.png)|
+  |balsamiq| ![balsamiq](/output/balsamiq.png)|
+  |ban-hammer| ![ban-hammer](/output/ban-hammer.png)|
+  |banana_parrot| ![banana_parrot](/output/banana_parrot.gif)|
+  |banana_suit| ![banana_suit](/output/banana_suit.png)|
+  |bandaid| ![bandaid](/output/bandaid.jpg)|
+  |bandcamp-friday-yes| ![bandcamp-friday-yes](/output/bandcamp-friday-yes.gif)|
+  |bandit| ![bandit](/output/bandit.gif)|
+  |bane| ![bane](/output/bane.png)|
+  |bang| ![bang](/output/bang.gif)|
+  |bangarang| ![bangarang](/output/bangarang.png)|
+  |banica| ![banica](/output/banica.jpg)|
+  |banks| ![banks](/output/banks.png)|
+  |bao| ![bao](/output/bao.png)|
+  |baptiste-ow| ![baptiste-ow](/output/baptiste-ow.png)|
+  |barbell| ![barbell](/output/barbell.png)|
+  |barclays| ![barclays](/output/barclays.png)|
+  |barfing-nerd| ![barfing-nerd](/output/barfing-nerd.png)|
+  |barfing-rage| ![barfing-rage](/output/barfing-rage.png)|
+  |barfing-sleepy| ![barfing-sleepy](/output/barfing-sleepy.png)|
+  |barfing-sobbing| ![barfing-sobbing](/output/barfing-sobbing.png)|
+  |bart| ![bart](/output/bart.gif)|
   

@@ -2,63 +2,6 @@
   ## Emojis (Page 6)
   |Emoji Name|Image|
   | :-: | :-: |
-  |bearhunt5| ![bearhunt5](/output/bearhunt5.png)|
-  |bearicon| ![bearicon](/output/bearicon.png)|
-  |bears| ![bears](/output/bears.png)|
-  |beart| ![beart](/output/beart.png)|
-  |beastieboys| ![beastieboys](/output/beastieboys.jpg)|
-  |beatingheart| ![beatingheart](/output/beatingheart.gif)|
-  |beau| ![beau](/output/beau.jpg)|
-  |beau-puppy| ![beau-puppy](/output/beau-puppy.jpg)|
-  |beaver2| ![beaver2](/output/beaver2.png)|
-  |beekus| ![beekus](/output/beekus.jpg)|
-  |beer-da| ![beer-da](/output/beer-da.png)|
-  |beer-intensifies| ![beer-intensifies](/output/beer-intensifies.gif)|
-  |beer-right| ![beer-right](/output/beer-right.png)|
-  |beer-right-intensifies| ![beer-right-intensifies](/output/beer-right-intensifies.gif)|
-  |beer_parrot| ![beer_parrot](/output/beer_parrot.gif)|
-  |beer_wolf| ![beer_wolf](/output/beer_wolf.png)|
-  |behindu| ![behindu](/output/behindu.png)|
-  |beholder| ![beholder](/output/beholder.png)|
-  |beignets| ![beignets](/output/beignets.jpg)|
-  |bel| ![bel](/output/bel.png)|
-  |bell-hooks| ![bell-hooks](/output/bell-hooks.png)|
-  |bell_coin| ![bell_coin](/output/bell_coin.png)|
-  |bells| ![bells](/output/bells.png)|
-  |belome_mario_rpg| ![belome_mario_rpg](/output/belome_mario_rpg.png)|
-  |ben_rolling_through| ![ben_rolling_through](/output/ben_rolling_through)|
-  |benb-intensifies| ![benb-intensifies](/output/benb-intensifies.gif)|
-  |bend| ![bend](/output/bend.png)|
-  |bender| ![bender](/output/bender.gif)|
-  |benjamin| ![benjamin](/output/benjamin.jpg)|
-  |bennetboys| ![bennetboys](/output/bennetboys)|
-  |berlinerbär| ![berlinerbär](/output/berlinerbär.png)|
-  |bernie| ![bernie](/output/bernie.png)|
-  |bernie-mittens| ![bernie-mittens](/output/bernie-mittens.png)|
-  |bernie_megaphone| ![bernie_megaphone](/output/bernie_megaphone.jpg)|
-  |berniecolors| ![berniecolors](/output/berniecolors.gif)|
-  |bernieintensifies| ![bernieintensifies](/output/bernieintensifies.gif)|
-  |bernieshake| ![bernieshake](/output/bernieshake.gif)|
-  |bernieshakecolors| ![bernieshakecolors](/output/bernieshakecolors.gif)|
-  |berniezoom| ![berniezoom](/output/berniezoom.gif)|
-  |beta| ![beta](/output/beta.png)|
-  |beta-wooper| ![beta-wooper](/output/beta-wooper.png)|
-  |better-salad| ![better-salad](/output/better-salad.png)|
-  |betty-white| ![betty-white](/output/betty-white.jpg)|
-  |beyonce| ![beyonce](/output/beyonce.png)|
-  |bhumie| ![bhumie](/output/bhumie.png)|
-  |bhumie2| ![bhumie2](/output/bhumie2.png)|
-  |bi-heart| ![bi-heart](/output/bi-heart.png)|
-  |bianca| ![bianca](/output/bianca)|
-  |bibimbap| ![bibimbap](/output/bibimbap.png)|
-  |bicepleft| ![bicepleft](/output/bicepleft.png)|
-  |bicepright| ![bicepright](/output/bicepright.png)|
-  |bidet| ![bidet](/output/bidet.jpg)|
-  |big-gulp| ![big-gulp](/output/big-gulp.gif)|
-  |big-hashiconf2021-consul| ![big-hashiconf2021-consul](/output/big-hashiconf2021-consul.png)|
-  |big-hashiconf2021-packer| ![big-hashiconf2021-packer](/output/big-hashiconf2021-packer.png)|
-  |big-hashiconf2021-terraform| ![big-hashiconf2021-terraform](/output/big-hashiconf2021-terraform.png)|
-  |big-hashiconf2021-vagrant| ![big-hashiconf2021-vagrant](/output/big-hashiconf2021-vagrant.png)|
   |big-hashiconf2021-vault| ![big-hashiconf2021-vault](/output/big-hashiconf2021-vault.png)|
   |big-hashiconf2021-waypoint| ![big-hashiconf2021-waypoint](/output/big-hashiconf2021-waypoint.png)|
   |big-texan| ![big-texan](/output/big-texan.png)|
@@ -81,7 +24,6 @@
   |bingo| ![bingo](/output/bingo.png)|
   |birb-dance| ![birb-dance](/output/birb-dance.gif)|
   |birbs| ![birbs](/output/birbs.jpg)|
-  |bird-person| ![bird-person](/output/bird-person.png)|
   |bitbucket| ![bitbucket](/output/bitbucket.png)|
   |bitbucket-blood-sob| ![bitbucket-blood-sob](/output/bitbucket-blood-sob.png)|
   |bitbucket-da| ![bitbucket-da](/output/bitbucket-da.png)|
@@ -102,4 +44,62 @@
   |bk| ![bk](/output/bk)|
   |black-lives-matter| ![black-lives-matter](/output/black-lives-matter.png)|
   |black-mesa| ![black-mesa](/output/black-mesa.png)|
+  |black-panther| ![black-panther](/output/black-panther.png)|
+  |black-t-shirt| ![black-t-shirt](/output/black-t-shirt.png)|
+  |black_duck| ![black_duck](/output/black_duck.jpg)|
+  |black_duck-da| ![black_duck-da](/output/black_duck-da.png)|
+  |black_heart_eyes| ![black_heart_eyes](/output/black_heart_eyes.png)|
+  |black_mana| ![black_mana](/output/black_mana.png)|
+  |black_square| ![black_square](/output/black_square)|
+  |black_tea| ![black_tea](/output/black_tea.png)|
+  |blackbar| ![blackbar](/output/blackbar.jpg)|
+  |blackhawks| ![blackhawks](/output/blackhawks.png)|
+  |blackstar| ![blackstar](/output/blackstar.png)|
+  |blalor| ![blalor](/output/blalor)|
+  |blalor-angry| ![blalor-angry](/output/blalor-angry.png)|
+  |blalor-happy| ![blalor-happy](/output/blalor-happy.png)|
+  |blalor-happy-intensifies| ![blalor-happy-intensifies](/output/blalor-happy-intensifies.gif)|
+  |blank| ![blank](/output/blank.gif)|
+  |blathers| ![blathers](/output/blathers.png)|
+  |blender| ![blender](/output/blender.gif)|
+  |blink| ![blink](/output/blink.gif)|
+  |blm| ![blm](/output/blm.png)|
+  |blob-dance| ![blob-dance](/output/blob-dance.gif)|
+  |blob-derp| ![blob-derp](/output/blob-derp.png)|
+  |blob-dizzy| ![blob-dizzy](/output/blob-dizzy.png)|
+  |blob-f| ![blob-f](/output/blob-f.png)|
+  |blob-gif-cool| ![blob-gif-cool](/output/blob-gif-cool.gif)|
+  |blob-hearts| ![blob-hearts](/output/blob-hearts.gif)|
+  |blob-help| ![blob-help](/output/blob-help.png)|
+  |blob-no| ![blob-no](/output/blob-no.png)|
+  |blob-oof| ![blob-oof](/output/blob-oof.png)|
+  |blob-yes| ![blob-yes](/output/blob-yes.png)|
+  |blob_cookie| ![blob_cookie](/output/blob_cookie.png)|
+  |blob_council| ![blob_council](/output/blob_council.png)|
+  |blob_dance| ![blob_dance](/output/blob_dance.gif)|
+  |blob_dancer| ![blob_dancer](/output/blob_dancer.gif)|
+  |blob_excited| ![blob_excited](/output/blob_excited.gif)|
+  |blob_fire| ![blob_fire](/output/blob_fire.gif)|
+  |blob_wave| ![blob_wave](/output/blob_wave.gif)|
+  |blobfish| ![blobfish](/output/blobfish.png)|
+  |blobl-grimace| ![blobl-grimace](/output/blobl-grimace.gif)|
+  |blobpeek| ![blobpeek](/output/blobpeek.png)|
+  |blonde_sassy_parrot| ![blonde_sassy_parrot](/output/blonde_sassy_parrot.gif)|
+  |blondies| ![blondies](/output/blondies)|
+  |blood-da| ![blood-da](/output/blood-da)|
+  |blood-sob-technologist| ![blood-sob-technologist](/output/blood-sob-technologist.png)|
+  |blood_drop| ![blood_drop](/output/blood_drop.png)|
+  |blood_drops| ![blood_drops](/output/blood_drops.png)|
+  |blood_party| ![blood_party](/output/blood_party.png)|
+  |blood_sob| ![blood_sob](/output/blood_sob.png)|
+  |blood_wave| ![blood_wave](/output/blood_wave.png)|
+  |bloodshot-look| ![bloodshot-look](/output/bloodshot-look.png)|
+  |blucifer| ![blucifer](/output/blucifer.png)|
+  |blue-ticks| ![blue-ticks](/output/blue-ticks.jpg)|
+  |blue_ghost| ![blue_ghost](/output/blue_ghost.png)|
+  |blue_jackets| ![blue_jackets](/output/blue_jackets.png)|
+  |blue_mana| ![blue_mana](/output/blue_mana.png)|
+  |blue_shell| ![blue_shell](/output/blue_shell.png)|
+  |blue_shell_incoming| ![blue_shell_incoming](/output/blue_shell_incoming.gif)|
+  |blue_tortilla_chip| ![blue_tortilla_chip](/output/blue_tortilla_chip.png)|
   

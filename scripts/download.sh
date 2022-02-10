@@ -43,8 +43,10 @@ while read -r line || [[ -n "$line" ]]; do
 	name=${parts[0]}
 	extension=${url##*.}
 
-	echo "Downloading ${name}.${extension}"
-	curl -s -o "output/${name}.${extension}" "${url}"
+  thisName=$(echo "${name}" | sed 's/://g')
+
+	echo "Downloading ${thisName}.${extension}"
+	curl -s -o "output/${thisName}.${extension}" "${url}"
 
 done;
 
