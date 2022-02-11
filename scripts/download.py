@@ -86,7 +86,7 @@ def gen(outputDir="./output"):
     out = template.render(emojis=chunk, page=count, dir=outputDir)
     first_letter = chunk[0][0][0]
 
-    with open(f"docs/page-{first_letter}-{count}.md", 'w') as fp:
+    with open(f"docs/page-{first_letter}-{count:04d}.md", 'w') as fp:
       fp.write(out)
     count += 1
 
