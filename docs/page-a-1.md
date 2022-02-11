@@ -2,39 +2,91 @@
   ## Emojis (Page 1)
   |Emoji Name|Image|
   | :-: | :-: |
+  |advent_21| ![advent_21](/output/advent_21.png)|
+  |advent_22| ![advent_22](/output/advent_22.png)|
+  |advent_23| ![advent_23](/output/advent_23.png)|
+  |advent_24| ![advent_24](/output/advent_24.png)|
+  |advent_3| ![advent_3](/output/advent_3.png)|
+  |advent_4| ![advent_4](/output/advent_4.png)|
+  |advent_5| ![advent_5](/output/advent_5.png)|
+  |advent_6| ![advent_6](/output/advent_6.png)|
+  |advent_7| ![advent_7](/output/advent_7.png)|
+  |advent_8| ![advent_8](/output/advent_8.png)|
+  |advent_9| ![advent_9](/output/advent_9.png)|
+  |aeris| ![aeris](/output/aeris.png)|
+  |aerith| ![aerith](/output/aerith.png)|
+  |aeropress| ![aeropress](/output/aeropress.png)|
+  |aesir| ![aesir](/output/aesir.png)|
+  |affleck| ![affleck](/output/affleck.jpg)|
+  |afk| ![afk](/output/afk.png)|
+  |afk_1| ![afk_1](/output/afk_1.png)|
+  |afro_top| ![afro_top](/output/afro_top.png)|
+  |agatha| ![agatha](/output/agatha.png)|
+  |agathafirefoxcat| ![agathafirefoxcat](/output/agathafirefoxcat.png)|
+  |agave| ![agave](/output/agave.jpg)|
+  |agent| ![agent](/output/agent.png)|
+  |agentless-intensifies| ![agentless-intensifies](/output/agentless-intensifies.gif)|
+  |agentless| ![agentless](/output/agentless.png)|
+  |agray-cool-intensifies| ![agray-cool-intensifies](/output/agray-cool-intensifies.gif)|
+  |agray-cool| ![agray-cool](/output/agray-cool.png)|
+  |agray-intensifies| ![agray-intensifies](/output/agray-intensifies.gif)|
+  |agray-longing-intensifies| ![agray-longing-intensifies](/output/agray-longing-intensifies.gif)|
+  |agray-pepper-dog| ![agray-pepper-dog](/output/agray-pepper-dog.png)|
+  |agray-spice| ![agray-spice](/output/agray-spice.png)|
+  |agrayconfused| ![agrayconfused](/output/agrayconfused.png)|
+  |agrayhappy| ![agrayhappy](/output/agrayhappy.png)|
+  |agraylonging| ![agraylonging](/output/agraylonging.png)|
+  |agrayscowl| ![agrayscowl](/output/agrayscowl.png)|
+  |ahaaa| ![ahaaa](/output/ahaaa.jpg)|
+  |ahhh| ![ahhh](/output/ahhh.gif)|
+  |ahhhhhhhhh| ![ahhhhhhhhh](/output/ahhhhhhhhh.gif)|
+  |ahoy-clang-intensifies| ![ahoy-clang-intensifies](/output/ahoy-clang-intensifies.gif)|
+  |ahoy-clang-ss-ship-it-intensifies| ![ahoy-clang-ss-ship-it-intensifies](/output/ahoy-clang-ss-ship-it-intensifies.gif)|
+  |ahoy-clang-ss-ship-it| ![ahoy-clang-ss-ship-it](/output/ahoy-clang-ss-ship-it.png)|
+  |ahoy-clang| ![ahoy-clang](/output/ahoy-clang.png)|
+  |ahsoka| ![ahsoka](/output/ahsoka.png)|
+  |aileen| ![aileen](/output/aileen.png)|
+  |air-nomads| ![air-nomads](/output/air-nomads.png)|
+  |air| ![air](/output/air.png)|
+  |air_quotes| ![air_quotes](/output/air_quotes.gif)|
   |air_quotes_close| ![air_quotes_close](/output/air_quotes_close.gif)|
   |airforce| ![airforce](/output/airforce.png)|
   |airhorn| ![airhorn](/output/airhorn.png)|
   |airplane-intensifies| ![airplane-intensifies](/output/airplane-intensifies.gif)|
   |airpods| ![airpods](/output/airpods.png)|
   |airquote| ![airquote](/output/airquote.gif)|
+  |airtable| ![airtable](/output/airtable.png)|
   |aix| ![aix](/output/aix.jpg)|
   |akbar| ![akbar](/output/akbar.jpg)|
   |aks| ![aks](/output/aks.png)|
+  |alam-intensifies| ![alam-intensifies](/output/alam-intensifies.gif)|
   |alarm_clock-intensifies| ![alarm_clock-intensifies](/output/alarm_clock-intensifies.gif)|
-  |alas-poor-yorick| ![alas-poor-yorick](/output/alas-poor-yorick)|
+  |alas-poor-yorick| ![alas-poor-yorick](/output/alas-poor-yorick.png)|
+  |alberta| ![alberta](/output/alberta.png)|
   |alert| ![alert](/output/alert.gif)|
-  |alexis| ![alexis](/output/alexis.jpg)|
   |alexis-schitt| ![alexis-schitt](/output/alexis-schitt.png)|
+  |alexis| ![alexis](/output/alexis.jpg)|
+  |alfa-romeo| ![alfa-romeo](/output/alfa-romeo.png)|
   |ali-intensifies| ![ali-intensifies](/output/ali-intensifies.gif)|
   |alien-for-sale| ![alien-for-sale](/output/alien-for-sale.png)|
   |alien-heart-eyes| ![alien-heart-eyes](/output/alien-heart-eyes.png)|
+  |alien-rave| ![alien-rave](/output/alien-rave.gif)|
   |aliens| ![aliens](/output/aliens.png)|
   |alis-da| ![alis-da](/output/alis-da.png)|
-  |alisdair| ![alisdair](/output/alisdair.png)|
   |alisdair-intensifies| ![alisdair-intensifies](/output/alisdair-intensifies.gif)|
   |alisdair-roll| ![alisdair-roll](/output/alisdair-roll.gif)|
   |alisdair-sob| ![alisdair-sob](/output/alisdair-sob.png)|
   |alisdair-waves| ![alisdair-waves](/output/alisdair-waves.gif)|
+  |alisdair| ![alisdair](/output/alisdair.png)|
   |all_the_da| ![all_the_da](/output/all_the_da.png)|
   |allears| ![allears](/output/allears.gif)|
+  |allen| ![allen](/output/allen.jpg)|
   |allhands-intensifies| ![allhands-intensifies](/output/allhands-intensifies.gif)|
-  |alligator| ![alligator](/output/alligator)|
   |allo-love| ![allo-love](/output/allo-love.gif)|
   |allstate-intensifies| ![allstate-intensifies](/output/allstate-intensifies.gif)|
   |allthethings| ![allthethings](/output/allthethings.png)|
   |allyourbasearebelongtous| ![allyourbasearebelongtous](/output/allyourbasearebelongtous.gif)|
-  |aloha| ![aloha](/output/aloha)|
+  |aloe| ![aloe](/output/aloe.png)|
   |alot| ![alot](/output/alot.png)|
   |alpaca| ![alpaca](/output/alpaca.png)|
   |alphabet-white-a| ![alphabet-white-a](/output/alphabet-white-a.png)|
@@ -50,56 +102,4 @@
   |alphabet-white-hash| ![alphabet-white-hash](/output/alphabet-white-hash.png)|
   |alphabet-white-i| ![alphabet-white-i](/output/alphabet-white-i.png)|
   |alphabet-white-j| ![alphabet-white-j](/output/alphabet-white-j.png)|
-  |alphabet-white-k| ![alphabet-white-k](/output/alphabet-white-k.png)|
-  |alphabet-white-l| ![alphabet-white-l](/output/alphabet-white-l.png)|
-  |alphabet-white-m| ![alphabet-white-m](/output/alphabet-white-m.png)|
-  |alphabet-white-n| ![alphabet-white-n](/output/alphabet-white-n.png)|
-  |alphabet-white-o| ![alphabet-white-o](/output/alphabet-white-o.png)|
-  |alphabet-white-p| ![alphabet-white-p](/output/alphabet-white-p.png)|
-  |alphabet-white-q| ![alphabet-white-q](/output/alphabet-white-q.png)|
-  |alphabet-white-question| ![alphabet-white-question](/output/alphabet-white-question.png)|
-  |alphabet-white-r| ![alphabet-white-r](/output/alphabet-white-r.png)|
-  |alphabet-white-s| ![alphabet-white-s](/output/alphabet-white-s.png)|
-  |alphabet-white-t| ![alphabet-white-t](/output/alphabet-white-t.png)|
-  |alphabet-white-u| ![alphabet-white-u](/output/alphabet-white-u.png)|
-  |alphabet-white-v| ![alphabet-white-v](/output/alphabet-white-v.png)|
-  |alphabet-white-w| ![alphabet-white-w](/output/alphabet-white-w.png)|
-  |alphabet-white-x| ![alphabet-white-x](/output/alphabet-white-x.png)|
-  |alphabet-white-y| ![alphabet-white-y](/output/alphabet-white-y.png)|
-  |alphabet-white-z| ![alphabet-white-z](/output/alphabet-white-z.png)|
-  |alphabet-yellow-a| ![alphabet-yellow-a](/output/alphabet-yellow-a.png)|
-  |alphabet-yellow-at| ![alphabet-yellow-at](/output/alphabet-yellow-at.png)|
-  |alphabet-yellow-b| ![alphabet-yellow-b](/output/alphabet-yellow-b.png)|
-  |alphabet-yellow-c| ![alphabet-yellow-c](/output/alphabet-yellow-c.png)|
-  |alphabet-yellow-d| ![alphabet-yellow-d](/output/alphabet-yellow-d.png)|
-  |alphabet-yellow-e| ![alphabet-yellow-e](/output/alphabet-yellow-e.png)|
-  |alphabet-yellow-exclamation| ![alphabet-yellow-exclamation](/output/alphabet-yellow-exclamation.png)|
-  |alphabet-yellow-f| ![alphabet-yellow-f](/output/alphabet-yellow-f.png)|
-  |alphabet-yellow-g| ![alphabet-yellow-g](/output/alphabet-yellow-g.png)|
-  |alphabet-yellow-h| ![alphabet-yellow-h](/output/alphabet-yellow-h.png)|
-  |alphabet-yellow-hash| ![alphabet-yellow-hash](/output/alphabet-yellow-hash.png)|
-  |alphabet-yellow-i| ![alphabet-yellow-i](/output/alphabet-yellow-i.png)|
-  |alphabet-yellow-j| ![alphabet-yellow-j](/output/alphabet-yellow-j.png)|
-  |alphabet-yellow-k| ![alphabet-yellow-k](/output/alphabet-yellow-k.png)|
-  |alphabet-yellow-l| ![alphabet-yellow-l](/output/alphabet-yellow-l.png)|
-  |alphabet-yellow-m| ![alphabet-yellow-m](/output/alphabet-yellow-m.png)|
-  |alphabet-yellow-n| ![alphabet-yellow-n](/output/alphabet-yellow-n.png)|
-  |alphabet-yellow-o| ![alphabet-yellow-o](/output/alphabet-yellow-o.png)|
-  |alphabet-yellow-p| ![alphabet-yellow-p](/output/alphabet-yellow-p.png)|
-  |alphabet-yellow-q| ![alphabet-yellow-q](/output/alphabet-yellow-q.png)|
-  |alphabet-yellow-question| ![alphabet-yellow-question](/output/alphabet-yellow-question.png)|
-  |alphabet-yellow-r| ![alphabet-yellow-r](/output/alphabet-yellow-r.png)|
-  |alphabet-yellow-s| ![alphabet-yellow-s](/output/alphabet-yellow-s.png)|
-  |alphabet-yellow-t| ![alphabet-yellow-t](/output/alphabet-yellow-t.png)|
-  |alphabet-yellow-u| ![alphabet-yellow-u](/output/alphabet-yellow-u.png)|
-  |alphabet-yellow-v| ![alphabet-yellow-v](/output/alphabet-yellow-v.png)|
-  |alphabet-yellow-w| ![alphabet-yellow-w](/output/alphabet-yellow-w.png)|
-  |alphabet-yellow-x| ![alphabet-yellow-x](/output/alphabet-yellow-x.png)|
-  |alphabet-yellow-y| ![alphabet-yellow-y](/output/alphabet-yellow-y.png)|
-  |alphabet-yellow-z| ![alphabet-yellow-z](/output/alphabet-yellow-z.png)|
-  |alpine-linux| ![alpine-linux](/output/alpine-linux.png)|
-  |alrightalrightalright| ![alrightalrightalright](/output/alrightalrightalright.png)|
-  |althea| ![althea](/output/althea.png)|
-  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
-  |alvaro| ![alvaro](/output/alvaro.jpg)|
   

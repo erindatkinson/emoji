@@ -2,6 +2,59 @@
   ## Emojis (Page 2)
   |Emoji Name|Image|
   | :-: | :-: |
+  |alphabet-white-k| ![alphabet-white-k](/output/alphabet-white-k.png)|
+  |alphabet-white-l| ![alphabet-white-l](/output/alphabet-white-l.png)|
+  |alphabet-white-m| ![alphabet-white-m](/output/alphabet-white-m.png)|
+  |alphabet-white-n| ![alphabet-white-n](/output/alphabet-white-n.png)|
+  |alphabet-white-o| ![alphabet-white-o](/output/alphabet-white-o.png)|
+  |alphabet-white-p| ![alphabet-white-p](/output/alphabet-white-p.png)|
+  |alphabet-white-q| ![alphabet-white-q](/output/alphabet-white-q.png)|
+  |alphabet-white-question| ![alphabet-white-question](/output/alphabet-white-question.png)|
+  |alphabet-white-r| ![alphabet-white-r](/output/alphabet-white-r.png)|
+  |alphabet-white-s| ![alphabet-white-s](/output/alphabet-white-s.png)|
+  |alphabet-white-t| ![alphabet-white-t](/output/alphabet-white-t.png)|
+  |alphabet-white-u| ![alphabet-white-u](/output/alphabet-white-u.png)|
+  |alphabet-white-v| ![alphabet-white-v](/output/alphabet-white-v.png)|
+  |alphabet-white-w| ![alphabet-white-w](/output/alphabet-white-w.png)|
+  |alphabet-white-x| ![alphabet-white-x](/output/alphabet-white-x.png)|
+  |alphabet-white-y| ![alphabet-white-y](/output/alphabet-white-y.png)|
+  |alphabet-white-z| ![alphabet-white-z](/output/alphabet-white-z.png)|
+  |alphabet-yellow-a| ![alphabet-yellow-a](/output/alphabet-yellow-a.png)|
+  |alphabet-yellow-at| ![alphabet-yellow-at](/output/alphabet-yellow-at.png)|
+  |alphabet-yellow-b| ![alphabet-yellow-b](/output/alphabet-yellow-b.png)|
+  |alphabet-yellow-c| ![alphabet-yellow-c](/output/alphabet-yellow-c.png)|
+  |alphabet-yellow-d| ![alphabet-yellow-d](/output/alphabet-yellow-d.png)|
+  |alphabet-yellow-e| ![alphabet-yellow-e](/output/alphabet-yellow-e.png)|
+  |alphabet-yellow-exclamation| ![alphabet-yellow-exclamation](/output/alphabet-yellow-exclamation.png)|
+  |alphabet-yellow-f| ![alphabet-yellow-f](/output/alphabet-yellow-f.png)|
+  |alphabet-yellow-g| ![alphabet-yellow-g](/output/alphabet-yellow-g.png)|
+  |alphabet-yellow-h| ![alphabet-yellow-h](/output/alphabet-yellow-h.png)|
+  |alphabet-yellow-hash| ![alphabet-yellow-hash](/output/alphabet-yellow-hash.png)|
+  |alphabet-yellow-i| ![alphabet-yellow-i](/output/alphabet-yellow-i.png)|
+  |alphabet-yellow-j| ![alphabet-yellow-j](/output/alphabet-yellow-j.png)|
+  |alphabet-yellow-k| ![alphabet-yellow-k](/output/alphabet-yellow-k.png)|
+  |alphabet-yellow-l| ![alphabet-yellow-l](/output/alphabet-yellow-l.png)|
+  |alphabet-yellow-m| ![alphabet-yellow-m](/output/alphabet-yellow-m.png)|
+  |alphabet-yellow-n| ![alphabet-yellow-n](/output/alphabet-yellow-n.png)|
+  |alphabet-yellow-o| ![alphabet-yellow-o](/output/alphabet-yellow-o.png)|
+  |alphabet-yellow-p| ![alphabet-yellow-p](/output/alphabet-yellow-p.png)|
+  |alphabet-yellow-q| ![alphabet-yellow-q](/output/alphabet-yellow-q.png)|
+  |alphabet-yellow-question| ![alphabet-yellow-question](/output/alphabet-yellow-question.png)|
+  |alphabet-yellow-r| ![alphabet-yellow-r](/output/alphabet-yellow-r.png)|
+  |alphabet-yellow-s| ![alphabet-yellow-s](/output/alphabet-yellow-s.png)|
+  |alphabet-yellow-t| ![alphabet-yellow-t](/output/alphabet-yellow-t.png)|
+  |alphabet-yellow-u| ![alphabet-yellow-u](/output/alphabet-yellow-u.png)|
+  |alphabet-yellow-v| ![alphabet-yellow-v](/output/alphabet-yellow-v.png)|
+  |alphabet-yellow-w| ![alphabet-yellow-w](/output/alphabet-yellow-w.png)|
+  |alphabet-yellow-x| ![alphabet-yellow-x](/output/alphabet-yellow-x.png)|
+  |alphabet-yellow-y| ![alphabet-yellow-y](/output/alphabet-yellow-y.png)|
+  |alphabet-yellow-z| ![alphabet-yellow-z](/output/alphabet-yellow-z.png)|
+  |alphatauri| ![alphatauri](/output/alphatauri.png)|
+  |alpine-linux| ![alpine-linux](/output/alpine-linux.png)|
+  |alpine| ![alpine](/output/alpine.png)|
+  |alrightalrightalright| ![alrightalrightalright](/output/alrightalrightalright.png)|
+  |althea| ![althea](/output/althea.png)|
+  |alto-clef| ![alto-clef](/output/alto-clef.jpg)|
   |alvaro-9008| ![alvaro-9008](/output/alvaro-9008.jpg)|
   |alvaro-beer| ![alvaro-beer](/output/alvaro-beer.png)|
   |alvaro-bicycle| ![alvaro-bicycle](/output/alvaro-bicycle.png)|
@@ -16,6 +69,7 @@
   |alvaro-r| ![alvaro-r](/output/alvaro-r.png)|
   |alvaro-toast| ![alvaro-toast](/output/alvaro-toast.png)|
   |alvaro-villain| ![alvaro-villain](/output/alvaro-villain.gif)|
+  |alvaro| ![alvaro](/output/alvaro.jpg)|
   |alvaroda| ![alvaroda](/output/alvaroda.png)|
   |alwayson| ![alwayson](/output/alwayson.png)|
   |am_ded| ![am_ded](/output/am_ded.png)|
@@ -23,83 +77,29 @@
   |amandaangry| ![amandaangry](/output/amandaangry.gif)|
   |amandaburn| ![amandaburn](/output/amandaburn.gif)|
   |amandaflip| ![amandaflip](/output/amandaflip.gif)|
-  |amaze| ![amaze](/output/amaze.gif)|
   |amaze-grey| ![amaze-grey](/output/amaze-grey.gif)|
+  |amaze| ![amaze](/output/amaze.gif)|
+  |amazed-pikachu| ![amazed-pikachu](/output/amazed-pikachu.gif)|
+  |amazing-2| ![amazing-2](/output/amazing-2.gif)|
   |amazing| ![amazing](/output/amazing.png)|
-  |amazing-2| ![amazing-2](/output/amazing-2)|
   |amelia-badelia| ![amelia-badelia](/output/amelia-badelia.png)|
   |america| ![america](/output/america.png)|
   |american-hero| ![american-hero](/output/american-hero.jpg)|
+  |americana-soaring-eagle| ![americana-soaring-eagle](/output/americana-soaring-eagle.jpg)|
   |americano| ![americano](/output/americano.png)|
   |americaseal| ![americaseal](/output/americaseal.png)|
-  |among-us-pink-dum| ![among-us-pink-dum](/output/among-us-pink-dum.png)|
+  |amit| ![amit](/output/amit.png)|
+  |among-us-party| ![among-us-party](/output/among-us-party.gif)|
   |among-us-pink-dum-extreme-intensifies| ![among-us-pink-dum-extreme-intensifies](/output/among-us-pink-dum-extreme-intensifies.gif)|
   |among-us-pink-dum-intensifies| ![among-us-pink-dum-intensifies](/output/among-us-pink-dum-intensifies.gif)|
+  |among-us-pink-dum| ![among-us-pink-dum](/output/among-us-pink-dum.png)|
+  |among_us-space_float| ![among_us-space_float](/output/among_us-space_float.gif)|
+  |among_us-venting| ![among_us-venting](/output/among_us-venting.gif)|
   |among_us_crewmate| ![among_us_crewmate](/output/among_us_crewmate.png)|
+  |among_us_dead| ![among_us_dead](/output/among_us_dead.png)|
+  |among_us_hammer| ![among_us_hammer](/output/among_us_hammer.gif)|
+  |among_us_killed| ![among_us_killed](/output/among_us_killed.gif)|
+  |among_us_pet| ![among_us_pet](/output/among_us_pet.gif)|
   |among_us_vibing| ![among_us_vibing](/output/among_us_vibing.gif)|
   |amsterdam| ![amsterdam](/output/amsterdam.png)|
-  |amsterdam1| ![amsterdam1](/output/amsterdam1.png)|
-  |amywong| ![amywong](/output/amywong.png)|
-  |ana-ow| ![ana-ow](/output/ana-ow.png)|
-  |analytics| ![analytics](/output/analytics.png)|
-  |anarchy| ![anarchy](/output/anarchy.png)|
-  |and| ![and](/output/and.png)|
-  |and-they-don't-stop-comin| ![and-they-don't-stop-comin](/output/and-they-don't-stop-comin.gif)|
-  |and-yet| ![and-yet](/output/and-yet.jpg)|
-  |andmyaxe| ![andmyaxe](/output/andmyaxe.jpg)|
-  |android| ![android](/output/android.png)|
-  |andy| ![andy](/output/andy.png)|
-  |andy-lunch| ![andy-lunch](/output/andy-lunch.gif)|
-  |andy_bot| ![andy_bot](/output/andy_bot.gif)|
-  |anger-io| ![anger-io](/output/anger-io.png)|
-  |angery-meow| ![angery-meow](/output/angery-meow.png)|
-  |angie_the_doggo| ![angie_the_doggo](/output/angie_the_doggo.png)|
-  |angry-cactus| ![angry-cactus](/output/angry-cactus.gif)|
-  |angry-partying| ![angry-partying](/output/angry-partying.png)|
-  |angry-penguin| ![angry-penguin](/output/angry-penguin.png)|
-  |angry-snarf| ![angry-snarf](/output/angry-snarf.png)|
-  |angry_red| ![angry_red](/output/angry_red.gif)|
-  |angry_scream| ![angry_scream](/output/angry_scream.png)|
-  |angry_spin| ![angry_spin](/output/angry_spin.gif)|
-  |angrycat| ![angrycat](/output/angrycat.gif)|
-  |angrydoge| ![angrydoge](/output/angrydoge.png)|
-  |angrysquid| ![angrysquid](/output/angrysquid.png)|
-  |animal-crossing| ![animal-crossing](/output/animal-crossing.png)|
-  |animal_crossing_oh_no| ![animal_crossing_oh_no](/output/animal_crossing_oh_no)|
-  |anjunabeats| ![anjunabeats](/output/anjunabeats.png)|
-  |annoying_dog| ![annoying_dog](/output/annoying_dog)|
-  |anonymous| ![anonymous](/output/anonymous.png)|
-  |ansible| ![ansible](/output/ansible.png)|
-  |anti-dolphin| ![anti-dolphin](/output/anti-dolphin.jpg)|
-  |antifa| ![antifa](/output/antifa.png)|
-  |anvil| ![anvil](/output/anvil.png)|
-  |anxiousaf| ![anxiousaf](/output/anxiousaf.png)|
-  |any-hoot| ![any-hoot](/output/any-hoot.png)|
-  |aol| ![aol](/output/aol.png)|
-  |aolserver| ![aolserver](/output/aolserver.png)|
-  |apache| ![apache](/output/apache.png)|
-  |apex_charts| ![apex_charts](/output/apex_charts.png)|
-  |apocalypsenow| ![apocalypsenow](/output/apocalypsenow.png)|
-  |appa| ![appa](/output/appa.png)|
-  |appear| ![appear](/output/appear.gif)|
-  |apple_pie| ![apple_pie](/output/apple_pie.png)|
-  |apple_rainbow| ![apple_rainbow](/output/apple_rainbow.jpg)|
-  |apple_silhouette| ![apple_silhouette](/output/apple_silhouette.jpg)|
-  |apples| ![apples](/output/apples.png)|
-  |approved| ![approved](/output/approved.png)|
-  |appveyor| ![appveyor](/output/appveyor.png)|
-  |aquaman| ![aquaman](/output/aquaman.png)|
-  |arbok| ![arbok](/output/arbok.png)|
-  |arbys| ![arbys](/output/arbys.png)|
-  |arcade_cabinet| ![arcade_cabinet](/output/arcade_cabinet.png)|
-  |arcand-intensifies| ![arcand-intensifies](/output/arcand-intensifies.gif)|
-  |arch_linux| ![arch_linux](/output/arch_linux.png)|
-  |archer| ![archer](/output/archer.png)|
-  |archivist| ![archivist](/output/archivist.png)|
-  |arendt| ![arendt](/output/arendt.png)|
-  |areyoukiddingme| ![areyoukiddingme](/output/areyoukiddingme.jpg)|
-  |argh| ![argh](/output/argh.gif)|
-  |arghfist| ![arghfist](/output/arghfist.gif)|
-  |arizona| ![arizona](/output/arizona.png)|
-  |arm_robin| ![arm_robin](/output/arm_robin.png)|
   
