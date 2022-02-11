@@ -14,7 +14,7 @@ from jinja2 import Template
 select_query = "SELECT count(*) FROM downloads WHERE emoji=?"
 insert_query = "INSERT INTO downloads VALUES (?)"
 
-def run(input_file, db="./downloads.db", outputDir="./output", listDir="./lists"):
+def get(input_file, db="./downloads.db", outputDir="./output", listDir="./lists"):
   makedirs(outputDir, exist_ok=True)
 
   with open(input_file) as fp:
@@ -108,6 +108,6 @@ def gen(outputDir="./output"):
 
 if __name__ == "__main__":
   Fire({
-    "run": run,
+    "get": get,
     "gen": gen
   })
