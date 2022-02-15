@@ -1,5 +1,11 @@
 
   ## Emojis (Page 5)
+
+  [Previous Page](/docs/hashicorp/page-a-0004.md)
+   | [Next Page](/docs/hashicorp/page-b-0006.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |axolotl| ![axolotl](/emojis/hashicorp/axolotl.png)|
@@ -102,4 +108,8 @@
   |baptiste-ow| ![baptiste-ow](/emojis/hashicorp/baptiste-ow.png)|
   |barbell| ![barbell](/emojis/hashicorp/barbell.png)|
   |barclays-intensifies| ![barclays-intensifies](/emojis/hashicorp/barclays-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-a-0004.md)
+   | [Next Page](/docs/hashicorp/page-b-0006.md)

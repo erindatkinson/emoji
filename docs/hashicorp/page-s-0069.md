@@ -1,5 +1,11 @@
 
   ## Emojis (Page 69)
+
+  [Previous Page](/docs/hashicorp/page-s-0068.md)
+   | [Next Page](/docs/hashicorp/page-s-0070.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sonic-waiting| ![sonic-waiting](/emojis/hashicorp/sonic-waiting.gif)|
@@ -102,4 +108,8 @@
   |spyvsspy| ![spyvsspy](/emojis/hashicorp/spyvsspy.png)|
   |squeeze-face| ![squeeze-face](/emojis/hashicorp/squeeze-face.png)|
   |squid-game-circle| ![squid-game-circle](/emojis/hashicorp/squid-game-circle.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0068.md)
+   | [Next Page](/docs/hashicorp/page-s-0070.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 30)
+
+  [Previous Page](/docs/hashicorp/page-g-0029.md)
+   | [Next Page](/docs/hashicorp/page-g-0031.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |google-wave| ![google-wave](/emojis/hashicorp/google-wave.png)|
@@ -102,4 +108,8 @@
   |gopher_laugh| ![gopher_laugh](/emojis/hashicorp/gopher_laugh.png)|
   |gopher_love| ![gopher_love](/emojis/hashicorp/gopher_love.png)|
   |gopher_mad| ![gopher_mad](/emojis/hashicorp/gopher_mad.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-g-0029.md)
+   | [Next Page](/docs/hashicorp/page-g-0031.md)

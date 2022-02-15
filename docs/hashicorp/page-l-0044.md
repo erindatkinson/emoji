@@ -1,5 +1,11 @@
 
   ## Emojis (Page 44)
+
+  [Previous Page](/docs/hashicorp/page-l-0043.md)
+   | [Next Page](/docs/hashicorp/page-m-0045.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |llama_dance| ![llama_dance](/emojis/hashicorp/llama_dance.gif)|
@@ -102,4 +108,8 @@
   |mac_watch| ![mac_watch](/emojis/hashicorp/mac_watch.png)|
   |macaron| ![macaron](/emojis/hashicorp/macaron.jpg)|
   |machevoui| ![machevoui](/emojis/hashicorp/machevoui.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-l-0043.md)
+   | [Next Page](/docs/hashicorp/page-m-0045.md)

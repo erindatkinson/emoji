@@ -1,5 +1,11 @@
 
   ## Emojis (Page 34)
+
+  [Previous Page](/docs/lgbtintech/page-t-0033.md)
+   | [Next Page](/docs/lgbtintech/page-x-0035.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |waffl| ![waffl](/emojis/lgbtintech/waffl.png)|
@@ -102,4 +108,8 @@
   |x_infinity| ![x_infinity](/emojis/lgbtintech/x_infinity.png)|
   |xenomorph| ![xenomorph](/emojis/lgbtintech/xenomorph.png)|
   |xkcd| ![xkcd](/emojis/lgbtintech/xkcd.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-t-0033.md)
+   | [Next Page](/docs/lgbtintech/page-x-0035.md)

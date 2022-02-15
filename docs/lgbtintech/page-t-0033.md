@@ -1,5 +1,11 @@
 
   ## Emojis (Page 33)
+
+  [Previous Page](/docs/lgbtintech/page-t-0032.md)
+   | [Next Page](/docs/lgbtintech/page-w-0034.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |trimet| ![trimet](/emojis/lgbtintech/trimet.png)|
@@ -102,4 +108,8 @@
   |vta-new| ![vta-new](/emojis/lgbtintech/vta-new.png)|
   |vta| ![vta](/emojis/lgbtintech/vta.png)|
   |waddledee| ![waddledee](/emojis/lgbtintech/waddledee.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-t-0032.md)
+   | [Next Page](/docs/lgbtintech/page-w-0034.md)

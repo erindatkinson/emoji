@@ -1,5 +1,11 @@
 
   ## Emojis (Page 36)
+
+  [Previous Page](/docs/hashicorp/page-h-0035.md)
+   | [Next Page](/docs/hashicorp/page-h-0037.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |hero-tool| ![hero-tool](/emojis/hashicorp/hero-tool.jpg)|
@@ -102,4 +108,8 @@
   |hotline_bling4| ![hotline_bling4](/emojis/hashicorp/hotline_bling4.jpg)|
   |hotline_bling5| ![hotline_bling5](/emojis/hashicorp/hotline_bling5.jpg)|
   |hotline_bling6| ![hotline_bling6](/emojis/hashicorp/hotline_bling6.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-h-0035.md)
+   | [Next Page](/docs/hashicorp/page-h-0037.md)

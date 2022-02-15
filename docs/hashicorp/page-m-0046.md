@@ -1,5 +1,11 @@
 
   ## Emojis (Page 46)
+
+  [Previous Page](/docs/hashicorp/page-m-0045.md)
+   | [Next Page](/docs/hashicorp/page-m-0047.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |matt-da| ![matt-da](/emojis/hashicorp/matt-da.png)|
@@ -102,4 +108,8 @@
   |meow_gamer| ![meow_gamer](/emojis/hashicorp/meow_gamer.png)|
   |meow_genderqueer| ![meow_genderqueer](/emojis/hashicorp/meow_genderqueer.png)|
   |meow_giggle| ![meow_giggle](/emojis/hashicorp/meow_giggle.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-m-0045.md)
+   | [Next Page](/docs/hashicorp/page-m-0047.md)

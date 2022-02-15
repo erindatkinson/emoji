@@ -1,5 +1,11 @@
 
   ## Emojis (Page 2)
+
+  [Previous Page](/docs/hashicorp/page-a-0001.md)
+   | [Next Page](/docs/hashicorp/page-a-0003.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |alphabet-white-u| ![alphabet-white-u](/emojis/hashicorp/alphabet-white-u.png)|
@@ -102,4 +108,8 @@
   |andreja| ![andreja](/emojis/hashicorp/andreja.png)|
   |android| ![android](/emojis/hashicorp/android.png)|
   |andy-lunch| ![andy-lunch](/emojis/hashicorp/andy-lunch.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-a-0001.md)
+   | [Next Page](/docs/hashicorp/page-a-0003.md)

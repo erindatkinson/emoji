@@ -1,5 +1,11 @@
 
   ## Emojis (Page 57)
+
+  [Previous Page](/docs/hashicorp/page-p-0056.md)
+   | [Next Page](/docs/hashicorp/page-p-0058.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pika_facepalm| ![pika_facepalm](/emojis/hashicorp/pika_facepalm.png)|
@@ -102,4 +108,8 @@
   |pokemon-snap| ![pokemon-snap](/emojis/hashicorp/pokemon-snap.png)|
   |pokemon| ![pokemon](/emojis/hashicorp/pokemon.png)|
   |pokemon_hatching| ![pokemon_hatching](/emojis/hashicorp/pokemon_hatching.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-p-0056.md)
+   | [Next Page](/docs/hashicorp/page-p-0058.md)

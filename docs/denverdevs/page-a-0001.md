@@ -1,5 +1,11 @@
 
   ## Emojis (Page 1)
+
+  [Previous Page](/docs/denverdevs/page-+-0000.md)
+   | [Next Page](/docs/denverdevs/page-b-0002.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |alphabet-yellow-t| ![alphabet-yellow-t](/emojis/denverdevs/alphabet-yellow-t.png)|
@@ -102,4 +108,8 @@
   |bae| ![bae](/emojis/denverdevs/bae.png)|
   |bahn-hammer| ![bahn-hammer](/emojis/denverdevs/bahn-hammer.png)|
   |bailando| ![bailando](/emojis/denverdevs/bailando.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-+-0000.md)
+   | [Next Page](/docs/denverdevs/page-b-0002.md)

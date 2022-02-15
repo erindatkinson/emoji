@@ -1,5 +1,11 @@
 
   ## Emojis (Page 8)
+
+  [Previous Page](/docs/denverdevs/page-d-0007.md)
+   | [Next Page](/docs/denverdevs/page-f-0009.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |elon_musk| ![elon_musk](/emojis/denverdevs/elon_musk.png)|
@@ -102,4 +108,8 @@
   |fish-yeah| ![fish-yeah](/emojis/denverdevs/fish-yeah.png)|
   |fist_bump| ![fist_bump](/emojis/denverdevs/fist_bump.gif)|
   |fivethirtyeight| ![fivethirtyeight](/emojis/denverdevs/fivethirtyeight.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-d-0007.md)
+   | [Next Page](/docs/denverdevs/page-f-0009.md)

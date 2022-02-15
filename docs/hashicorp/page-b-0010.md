@@ -1,5 +1,11 @@
 
   ## Emojis (Page 10)
+
+  [Previous Page](/docs/hashicorp/page-b-0009.md)
+   | [Next Page](/docs/hashicorp/page-b-0011.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |braves| ![braves](/emojis/hashicorp/braves.gif)|
@@ -102,4 +108,8 @@
   |busy-bees| ![busy-bees](/emojis/hashicorp/busy-bees.png)|
   |busy| ![busy](/emojis/hashicorp/busy.png)|
   |busy1| ![busy1](/emojis/hashicorp/busy1.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0009.md)
+   | [Next Page](/docs/hashicorp/page-b-0011.md)

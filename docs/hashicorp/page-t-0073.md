@@ -1,5 +1,11 @@
 
   ## Emojis (Page 73)
+
+  [Previous Page](/docs/hashicorp/page-s-0072.md)
+   | [Next Page](/docs/hashicorp/page-t-0074.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |teamcity| ![teamcity](/emojis/hashicorp/teamcity.png)|
@@ -102,4 +108,8 @@
   |tf-revolving-hearts| ![tf-revolving-hearts](/emojis/hashicorp/tf-revolving-hearts.png)|
   |tfe_heart_eyes| ![tfe_heart_eyes](/emojis/hashicorp/tfe_heart_eyes.png)|
   |tfebot| ![tfebot](/emojis/hashicorp/tfebot.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0072.md)
+   | [Next Page](/docs/hashicorp/page-t-0074.md)

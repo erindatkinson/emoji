@@ -1,5 +1,11 @@
 
   ## Emojis (Page 7)
+
+  [Previous Page](/docs/denverdevs/page-d-0006.md)
+   | [Next Page](/docs/denverdevs/page-e-0008.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |discord| ![discord](/emojis/denverdevs/discord.png)|
@@ -102,4 +108,8 @@
   |elle| ![elle](/emojis/denverdevs/elle.png)|
   |elm| ![elm](/emojis/denverdevs/elm.png)|
   |elmofire| ![elmofire](/emojis/denverdevs/elmofire.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-d-0006.md)
+   | [Next Page](/docs/denverdevs/page-e-0008.md)

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from re import L
 from sqlite3 import connect
 import sqlite3
 from fire import Fire
@@ -78,28 +79,74 @@ def download(input_file, db="./downloads.db", namespace="hashicorp", listDir="./
 def gen(namespace="hashicorp"):
   makedirs(f"docs/{namespace}", exist_ok=True)
   emoji = sorted(listdir(join(download_dir, namespace)))
-
   split = list(map(lambda x: splitext(x), emoji))
+  
 
   tpl_str ="""
-  ## Emojis (Page {{page}})
+  ## Emojis (Page {{count}})
+
+  {% if z_prev != "" -%}
+  [Previous Page](/docs/{{ns}}/page-{{f_prev}}-{{z_prev}}.md)  
+  {%- endif -%}
+
+  {% if z_next != "" %}
+   | [Next Page](/docs/{{ns}}/page-{{f_next}}-{{z_next}}.md)  
+  {%- endif %}
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   {%- for emoji in emojis %}
   |{{emoji[0]}}| ![{{emoji[0]}}]({{dir | replace('./', '/')}}/{{emoji[0]}}{{emoji[1]}})|
   {%- endfor %}
+
+  <hr/>
+  
+  {% if z_prev != "" -%}
+  [Previous Page](/docs/{{ns}}/page-{{f_prev}}-{{z_prev}}.md)  
+  {%- endif -%}
+
+  {% if z_next != "" %}
+   | [Next Page](/docs/{{ns}}/page-{{f_next}}-{{z_next}}.md)  
+  {%- endif -%}
   """
 
   template = Template(tpl_str)
   count = 0
-  for i in range(0, len(emoji), 100):
-    chunk = split[i:i + 100]
-    out = template.render(emojis=chunk, page=count, dir=join("/", download_dir, namespace))
-    first_letter = chunk[0][0][0]
+  pages_list = [(split[i:i + 100][0][0][0],int(i/100), split[i:i + 100]) for i in range(0, len(emoji), 100)]
 
-    with open(f"docs/{namespace}/page-{first_letter}-{count:04d}.md", 'w') as fp:
+  for i in range(len(pages_list)):
+    if i == len(pages_list)-1:
+      z_next = ""
+      f_next = ""
+      z_prev = f"{pages_list[i-1][1]:04d}"
+      f_prev = pages_list[i-1][0]
+
+    elif i == 0:
+      z_next = f"{pages_list[i+1][1]:04d}"
+      f_next = pages_list[i+1][0]
+      z_prev = ""
+      f_prev = ""
+    else:
+      z_next = f"{pages_list[i+1][1]:04d}"
+      f_next = pages_list[i+1][0]
+      z_prev = f"{pages_list[i-1][1]:04d}"
+      f_prev = pages_list[i-1][0]
+      
+    out = template.render(
+      count=pages_list[i][1], 
+      z_next=z_next,
+      z_prev=z_prev,
+      f_next=f_next,
+      f_prev=f_prev,
+      emojis=pages_list[i][2], 
+      dir=join("/", download_dir, namespace),
+      ns=namespace)
+
+
+    with open(f"docs/{namespace}/page-{pages_list[i][0]}-{pages_list[i][1]:04d}.md", 'w') as fp:
       fp.write(out)
-    count += 1
 
   readme_tpl_str = """
 
@@ -114,7 +161,7 @@ def gen(namespace="hashicorp"):
   with open(f"docs/{namespace}/index.md", 'w') as fp:
     files = sorted(listdir(f"docs/{namespace}"))
     pages = [file for file in files if "page" in file]
-    fp.write(Template(readme_tpl_str).render(pages=pages, total=count, ns=namespace))
+    fp.write(Template(readme_tpl_str).render(pages=pages, total=pages_list[-1][1], ns=namespace))
 
 
 

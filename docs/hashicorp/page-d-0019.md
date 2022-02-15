@@ -1,5 +1,11 @@
 
   ## Emojis (Page 19)
+
+  [Previous Page](/docs/hashicorp/page-c-0018.md)
+   | [Next Page](/docs/hashicorp/page-d-0020.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |d'aww| ![d'aww](/emojis/hashicorp/d'aww.png)|
@@ -102,4 +108,8 @@
   |dead| ![dead](/emojis/hashicorp/dead.png)|
   |dead_dove| ![dead_dove](/emojis/hashicorp/dead_dove.png)|
   |dead_mario| ![dead_mario](/emojis/hashicorp/dead_mario.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0018.md)
+   | [Next Page](/docs/hashicorp/page-d-0020.md)

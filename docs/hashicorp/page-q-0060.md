@@ -1,5 +1,11 @@
 
   ## Emojis (Page 60)
+
+  [Previous Page](/docs/hashicorp/page-p-0059.md)
+   | [Next Page](/docs/hashicorp/page-r-0061.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |questionnaire| ![questionnaire](/emojis/hashicorp/questionnaire.jpg)|
@@ -102,4 +108,8 @@
   |rainbow6_vigil| ![rainbow6_vigil](/emojis/hashicorp/rainbow6_vigil.png)|
   |rainbow6_warden| ![rainbow6_warden](/emojis/hashicorp/rainbow6_warden.png)|
   |rainbow6_ying| ![rainbow6_ying](/emojis/hashicorp/rainbow6_ying.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-p-0059.md)
+   | [Next Page](/docs/hashicorp/page-r-0061.md)

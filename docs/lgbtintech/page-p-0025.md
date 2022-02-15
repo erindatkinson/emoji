@@ -1,5 +1,11 @@
 
   ## Emojis (Page 25)
+
+  [Previous Page](/docs/lgbtintech/page-p-0024.md)
+   | [Next Page](/docs/lgbtintech/page-p-0026.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pleading_face_taco| ![pleading_face_taco](/emojis/lgbtintech/pleading_face_taco.png)|
@@ -102,4 +108,8 @@
   |pusheen_computer| ![pusheen_computer](/emojis/lgbtintech/pusheen_computer.png)|
   |pusheen_paw| ![pusheen_paw](/emojis/lgbtintech/pusheen_paw.png)|
   |pusheenburrito| ![pusheenburrito](/emojis/lgbtintech/pusheenburrito.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-p-0024.md)
+   | [Next Page](/docs/lgbtintech/page-p-0026.md)

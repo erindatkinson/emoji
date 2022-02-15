@@ -1,5 +1,11 @@
 
   ## Emojis (Page 18)
+
+  [Previous Page](/docs/lgbtintech/page-m-0017.md)
+   | [Next Page](/docs/lgbtintech/page-m-0019.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |madoka| ![madoka](/emojis/lgbtintech/madoka.png)|
@@ -102,4 +108,8 @@
   |meow-popcorn| ![meow-popcorn](/emojis/lgbtintech/meow-popcorn.gif)|
   |meow-popsicle| ![meow-popsicle](/emojis/lgbtintech/meow-popsicle.png)|
   |meow-shocked| ![meow-shocked](/emojis/lgbtintech/meow-shocked.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-m-0017.md)
+   | [Next Page](/docs/lgbtintech/page-m-0019.md)

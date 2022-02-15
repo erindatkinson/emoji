@@ -1,5 +1,11 @@
 
   ## Emojis (Page 3)
+
+  [Previous Page](/docs/lgbtintech/page-a-0002.md)
+   | [Next Page](/docs/lgbtintech/page-c-0004.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |big| ![big](/emojis/lgbtintech/big.png)|
@@ -102,4 +108,8 @@
   |c3po| ![c3po](/emojis/lgbtintech/c3po.png)|
   |c3poface| ![c3poface](/emojis/lgbtintech/c3poface.png)|
   |c64| ![c64](/emojis/lgbtintech/c64.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-a-0002.md)
+   | [Next Page](/docs/lgbtintech/page-c-0004.md)

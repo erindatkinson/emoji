@@ -1,5 +1,11 @@
 
   ## Emojis (Page 4)
+
+  [Previous Page](/docs/lgbtintech/page-b-0003.md)
+   | [Next Page](/docs/lgbtintech/page-c-0005.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |cabbage| ![cabbage](/emojis/lgbtintech/cabbage.jpg)|
@@ -102,4 +108,8 @@
   |child-medium-dark| ![child-medium-dark](/emojis/lgbtintech/child-medium-dark.png)|
   |child-medium-light| ![child-medium-light](/emojis/lgbtintech/child-medium-light.png)|
   |child-medium| ![child-medium](/emojis/lgbtintech/child-medium.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-b-0003.md)
+   | [Next Page](/docs/lgbtintech/page-c-0005.md)

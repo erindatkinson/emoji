@@ -1,5 +1,11 @@
 
   ## Emojis (Page 4)
+
+  [Previous Page](/docs/denverdevs/page-b-0003.md)
+   | [Next Page](/docs/denverdevs/page-c-0005.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |c| ![c](/emojis/denverdevs/c.jpg)|
@@ -102,4 +108,8 @@
   |commerce-sync| ![commerce-sync](/emojis/denverdevs/commerce-sync.png)|
   |communism| ![communism](/emojis/denverdevs/communism.png)|
   |commuting| ![commuting](/emojis/denverdevs/commuting.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-b-0003.md)
+   | [Next Page](/docs/denverdevs/page-c-0005.md)

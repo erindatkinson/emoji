@@ -1,5 +1,11 @@
 
   ## Emojis (Page 42)
+
+  [Previous Page](/docs/hashicorp/page-k-0041.md)
+   | [Next Page](/docs/hashicorp/page-l-0043.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |kitkat| ![kitkat](/emojis/hashicorp/kitkat.png)|
@@ -102,4 +108,8 @@
   |lean-coffee| ![lean-coffee](/emojis/hashicorp/lean-coffee.png)|
   |learn-c| ![learn-c](/emojis/hashicorp/learn-c.png)|
   |learn-d| ![learn-d](/emojis/hashicorp/learn-d.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-k-0041.md)
+   | [Next Page](/docs/hashicorp/page-l-0043.md)

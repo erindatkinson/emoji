@@ -1,5 +1,11 @@
 
   ## Emojis (Page 26)
+
+  [Previous Page](/docs/lgbtintech/page-p-0025.md)
+   | [Next Page](/docs/lgbtintech/page-r-0027.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pusheencomputer| ![pusheencomputer](/emojis/lgbtintech/pusheencomputer.gif)|
@@ -102,4 +108,8 @@
   |rip| ![rip](/emojis/lgbtintech/rip.png)|
   |ripta| ![ripta](/emojis/lgbtintech/ripta.gif)|
   |riptaylor_confetti| ![riptaylor_confetti](/emojis/lgbtintech/riptaylor_confetti.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-p-0025.md)
+   | [Next Page](/docs/lgbtintech/page-r-0027.md)

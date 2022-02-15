@@ -1,5 +1,11 @@
 
   ## Emojis (Page 5)
+
+  [Previous Page](/docs/lgbtintech/page-c-0004.md)
+   | [Next Page](/docs/lgbtintech/page-c-0006.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |child_2| ![child_2](/emojis/lgbtintech/child_2.png)|
@@ -102,4 +108,8 @@
   |coraline| ![coraline](/emojis/lgbtintech/coraline.jpg)|
   |core-space| ![core-space](/emojis/lgbtintech/core-space.jpg)|
   |corgi-butt| ![corgi-butt](/emojis/lgbtintech/corgi-butt.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-c-0004.md)
+   | [Next Page](/docs/lgbtintech/page-c-0006.md)

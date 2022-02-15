@@ -1,5 +1,11 @@
 
   ## Emojis (Page 35)
+
+  [Previous Page](/docs/hashicorp/page-h-0034.md)
+   | [Next Page](/docs/hashicorp/page-h-0036.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |head-scratch| ![head-scratch](/emojis/hashicorp/head-scratch.gif)|
@@ -102,4 +108,8 @@
   |here| ![here](/emojis/hashicorp/here.png)|
   |hermes| ![hermes](/emojis/hashicorp/hermes.png)|
   |hermit| ![hermit](/emojis/hashicorp/hermit.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-h-0034.md)
+   | [Next Page](/docs/hashicorp/page-h-0036.md)

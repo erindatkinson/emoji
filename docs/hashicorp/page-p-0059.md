@@ -1,5 +1,11 @@
 
   ## Emojis (Page 59)
+
+  [Previous Page](/docs/hashicorp/page-p-0058.md)
+   | [Next Page](/docs/hashicorp/page-q-0060.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pride-think| ![pride-think](/emojis/hashicorp/pride-think.png)|
@@ -102,4 +108,8 @@
   |question-bubble| ![question-bubble](/emojis/hashicorp/question-bubble.gif)|
   |question_block| ![question_block](/emojis/hashicorp/question_block.gif)|
   |questionmarkbox| ![questionmarkbox](/emojis/hashicorp/questionmarkbox.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-p-0058.md)
+   | [Next Page](/docs/hashicorp/page-q-0060.md)

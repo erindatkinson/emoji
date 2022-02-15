@@ -1,5 +1,11 @@
 
   ## Emojis (Page 27)
+
+  [Previous Page](/docs/hashicorp/page-f-0026.md)
+   | [Next Page](/docs/hashicorp/page-g-0028.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |france-intensifies| ![france-intensifies](/emojis/hashicorp/france-intensifies.gif)|
@@ -102,4 +108,8 @@
   |gambit-xmen| ![gambit-xmen](/emojis/hashicorp/gambit-xmen.gif)|
   |game-over| ![game-over](/emojis/hashicorp/game-over.png)|
   |game_on| ![game_on](/emojis/hashicorp/game_on.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-f-0026.md)
+   | [Next Page](/docs/hashicorp/page-g-0028.md)

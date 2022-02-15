@@ -1,5 +1,11 @@
 
   ## Emojis (Page 65)
+
+  [Previous Page](/docs/hashicorp/page-s-0064.md)
+   | [Next Page](/docs/hashicorp/page-s-0066.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |scotland-flag| ![scotland-flag](/emojis/hashicorp/scotland-flag.png)|
@@ -102,4 +108,8 @@
   |seymour| ![seymour](/emojis/hashicorp/seymour.png)|
   |sfbart| ![sfbart](/emojis/hashicorp/sfbart.png)|
   |sgfacepalm| ![sgfacepalm](/emojis/hashicorp/sgfacepalm.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0064.md)
+   | [Next Page](/docs/hashicorp/page-s-0066.md)

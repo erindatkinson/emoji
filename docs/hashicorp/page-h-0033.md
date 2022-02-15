@@ -1,5 +1,11 @@
 
   ## Emojis (Page 33)
+
+  [Previous Page](/docs/hashicorp/page-g-0032.md)
+   | [Next Page](/docs/hashicorp/page-h-0034.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |ham_artist| ![ham_artist](/emojis/hashicorp/ham_artist.png)|
@@ -102,4 +108,8 @@
   |hashi1200| ![hashi1200](/emojis/hashicorp/hashi1200.png)|
   |hashi500| ![hashi500](/emojis/hashicorp/hashi500.png)|
   |hashi_blue_circle| ![hashi_blue_circle](/emojis/hashicorp/hashi_blue_circle.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-g-0032.md)
+   | [Next Page](/docs/hashicorp/page-h-0034.md)

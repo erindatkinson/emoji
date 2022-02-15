@@ -1,5 +1,11 @@
 
   ## Emojis (Page 62)
+
+  [Previous Page](/docs/hashicorp/page-r-0061.md)
+   | [Next Page](/docs/hashicorp/page-r-0063.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |resist| ![resist](/emojis/hashicorp/resist.png)|
@@ -102,4 +108,8 @@
   |rollfabio| ![rollfabio](/emojis/hashicorp/rollfabio.gif)|
   |rolling-eyes-barfing| ![rolling-eyes-barfing](/emojis/hashicorp/rolling-eyes-barfing.png)|
   |rollnomad| ![rollnomad](/emojis/hashicorp/rollnomad.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-r-0061.md)
+   | [Next Page](/docs/hashicorp/page-r-0063.md)

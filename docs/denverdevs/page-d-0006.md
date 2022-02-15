@@ -1,5 +1,11 @@
 
   ## Emojis (Page 6)
+
+  [Previous Page](/docs/denverdevs/page-c-0005.md)
+   | [Next Page](/docs/denverdevs/page-d-0007.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |danlounge2| ![danlounge2](/emojis/denverdevs/danlounge2.jpg)|
@@ -102,4 +108,8 @@
   |dinosaur| ![dinosaur](/emojis/denverdevs/dinosaur.png)|
   |dinosaurs| ![dinosaurs](/emojis/denverdevs/dinosaurs.gif)|
   |disappear| ![disappear](/emojis/denverdevs/disappear.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-c-0005.md)
+   | [Next Page](/docs/denverdevs/page-d-0007.md)

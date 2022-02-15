@@ -1,5 +1,11 @@
 
   ## Emojis (Page 17)
+
+  [Previous Page](/docs/denverdevs/page-n-0016.md)
+   | [Next Page](/docs/denverdevs/page-p-0018.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |one_does_not_simply| ![one_does_not_simply](/emojis/denverdevs/one_does_not_simply.png)|
@@ -102,4 +108,8 @@
   |philosoraptor| ![philosoraptor](/emojis/denverdevs/philosoraptor.png)|
   |php| ![php](/emojis/denverdevs/php.png)|
   |php_ceo| ![php_ceo](/emojis/denverdevs/php_ceo.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-n-0016.md)
+   | [Next Page](/docs/denverdevs/page-p-0018.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 21)
+
+  [Previous Page](/docs/denverdevs/page-r-0020.md)
+   | [Next Page](/docs/denverdevs/page-s-0022.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sentry| ![sentry](/emojis/denverdevs/sentry.png)|
@@ -102,4 +108,8 @@
   |snowbro| ![snowbro](/emojis/denverdevs/snowbro.png)|
   |so-close| ![so-close](/emojis/denverdevs/so-close.png)|
   |so-excited| ![so-excited](/emojis/denverdevs/so-excited.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-r-0020.md)
+   | [Next Page](/docs/denverdevs/page-s-0022.md)

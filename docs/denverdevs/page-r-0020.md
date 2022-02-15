@@ -1,5 +1,11 @@
 
   ## Emojis (Page 20)
+
+  [Previous Page](/docs/denverdevs/page-q-0019.md)
+   | [Next Page](/docs/denverdevs/page-s-0021.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |roo-lick| ![roo-lick](/emojis/denverdevs/roo-lick.png)|
@@ -102,4 +108,8 @@
   |semicolon| ![semicolon](/emojis/denverdevs/semicolon.png)|
   |sendgrid| ![sendgrid](/emojis/denverdevs/sendgrid.png)|
   |sensible_chuckle| ![sensible_chuckle](/emojis/denverdevs/sensible_chuckle.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-q-0019.md)
+   | [Next Page](/docs/denverdevs/page-s-0021.md)

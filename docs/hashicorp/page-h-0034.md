@@ -1,5 +1,11 @@
 
   ## Emojis (Page 34)
+
+  [Previous Page](/docs/hashicorp/page-h-0033.md)
+   | [Next Page](/docs/hashicorp/page-h-0035.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |hashi_green_circle| ![hashi_green_circle](/emojis/hashicorp/hashi_green_circle.png)|
@@ -102,4 +108,8 @@
   |hcvault| ![hcvault](/emojis/hashicorp/hcvault.png)|
   |he-man| ![he-man](/emojis/hashicorp/he-man.png)|
   |he-pronoun| ![he-pronoun](/emojis/hashicorp/he-pronoun.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-h-0033.md)
+   | [Next Page](/docs/hashicorp/page-h-0035.md)

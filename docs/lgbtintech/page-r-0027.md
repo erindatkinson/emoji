@@ -1,5 +1,11 @@
 
   ## Emojis (Page 27)
+
+  [Previous Page](/docs/lgbtintech/page-p-0026.md)
+   | [Next Page](/docs/lgbtintech/page-s-0028.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |roberts| ![roberts](/emojis/lgbtintech/roberts.png)|
@@ -102,4 +108,8 @@
   |schwa| ![schwa](/emojis/lgbtintech/schwa.png)|
   |science| ![science](/emojis/lgbtintech/science.png)|
   |scouts_honor| ![scouts_honor](/emojis/lgbtintech/scouts_honor.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-p-0026.md)
+   | [Next Page](/docs/lgbtintech/page-s-0028.md)

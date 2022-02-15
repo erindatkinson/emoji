@@ -1,5 +1,11 @@
 
   ## Emojis (Page 68)
+
+  [Previous Page](/docs/hashicorp/page-s-0067.md)
+   | [Next Page](/docs/hashicorp/page-s-0069.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |slowpoke| ![slowpoke](/emojis/hashicorp/slowpoke.jpg)|
@@ -102,4 +108,8 @@
   |sonic-ok| ![sonic-ok](/emojis/hashicorp/sonic-ok.png)|
   |sonic-ring-spin| ![sonic-ring-spin](/emojis/hashicorp/sonic-ring-spin.gif)|
   |sonic-ring| ![sonic-ring](/emojis/hashicorp/sonic-ring.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0067.md)
+   | [Next Page](/docs/hashicorp/page-s-0069.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 39)
+
+  [Previous Page](/docs/hashicorp/page-i-0038.md)
+   | [Next Page](/docs/hashicorp/page-j-0040.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |istio| ![istio](/emojis/hashicorp/istio.png)|
@@ -102,4 +108,8 @@
   |jesschameleon| ![jesschameleon](/emojis/hashicorp/jesschameleon.png)|
   |jesse_no| ![jesse_no](/emojis/hashicorp/jesse_no.png)|
   |jessepinkman| ![jessepinkman](/emojis/hashicorp/jessepinkman.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-i-0038.md)
+   | [Next Page](/docs/hashicorp/page-j-0040.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 6)
+
+  [Previous Page](/docs/hashicorp/page-a-0005.md)
+   | [Next Page](/docs/hashicorp/page-b-0007.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |barclays-party| ![barclays-party](/emojis/hashicorp/barclays-party.gif)|
@@ -102,4 +108,8 @@
   |beholder| ![beholder](/emojis/hashicorp/beholder.png)|
   |beignets| ![beignets](/emojis/hashicorp/beignets.jpg)|
   |bel| ![bel](/emojis/hashicorp/bel.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-a-0005.md)
+   | [Next Page](/docs/hashicorp/page-b-0007.md)

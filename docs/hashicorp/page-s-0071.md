@@ -1,5 +1,11 @@
 
   ## Emojis (Page 71)
+
+  [Previous Page](/docs/hashicorp/page-s-0070.md)
+   | [Next Page](/docs/hashicorp/page-s-0072.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |stroopwafel| ![stroopwafel](/emojis/hashicorp/stroopwafel.png)|
@@ -102,4 +108,8 @@
   |switch| ![switch](/emojis/hashicorp/switch.png)|
   |switch_left| ![switch_left](/emojis/hashicorp/switch_left.png)|
   |switch_middle| ![switch_middle](/emojis/hashicorp/switch_middle.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0070.md)
+   | [Next Page](/docs/hashicorp/page-s-0072.md)

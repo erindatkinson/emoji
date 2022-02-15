@@ -1,5 +1,11 @@
 
   ## Emojis (Page 3)
+
+  [Previous Page](/docs/hashicorp/page-a-0002.md)
+   | [Next Page](/docs/hashicorp/page-a-0004.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |andy| ![andy](/emojis/hashicorp/andy.png)|
@@ -102,4 +108,8 @@
   |ask4friend| ![ask4friend](/emojis/hashicorp/ask4friend.jpg)|
   |asl-applause| ![asl-applause](/emojis/hashicorp/asl-applause.gif)|
   |asl-champ| ![asl-champ](/emojis/hashicorp/asl-champ.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-a-0002.md)
+   | [Next Page](/docs/hashicorp/page-a-0004.md)

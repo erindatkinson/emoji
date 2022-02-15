@@ -1,5 +1,11 @@
 
   ## Emojis (Page 10)
+
+  [Previous Page](/docs/lgbtintech/page-f-0009.md)
+   | [Next Page](/docs/lgbtintech/page-f-0011.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |foxcat-aromantic-heart| ![foxcat-aromantic-heart](/emojis/lgbtintech/foxcat-aromantic-heart.png)|
@@ -102,4 +108,8 @@
   |froge_sweat_gun| ![froge_sweat_gun](/emojis/lgbtintech/froge_sweat_gun.png)|
   |froge_sword| ![froge_sword](/emojis/lgbtintech/froge_sword.gif)|
   |froge_thanos| ![froge_thanos](/emojis/lgbtintech/froge_thanos.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-f-0009.md)
+   | [Next Page](/docs/lgbtintech/page-f-0011.md)

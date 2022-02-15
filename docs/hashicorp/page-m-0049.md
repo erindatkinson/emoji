@@ -1,5 +1,11 @@
 
   ## Emojis (Page 49)
+
+  [Previous Page](/docs/hashicorp/page-m-0048.md)
+   | [Next Page](/docs/hashicorp/page-n-0050.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |monday| ![monday](/emojis/hashicorp/monday.png)|
@@ -102,4 +108,8 @@
   |mysterymobile| ![mysterymobile](/emojis/hashicorp/mysterymobile.png)|
   |mythic| ![mythic](/emojis/hashicorp/mythic.png)|
   |n| ![n](/emojis/hashicorp/n.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-m-0048.md)
+   | [Next Page](/docs/hashicorp/page-n-0050.md)

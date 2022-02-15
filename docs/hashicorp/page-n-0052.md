@@ -1,5 +1,11 @@
 
   ## Emojis (Page 52)
+
+  [Previous Page](/docs/hashicorp/page-n-0051.md)
+   | [Next Page](/docs/hashicorp/page-n-0053.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |nono| ![nono](/emojis/hashicorp/nono.gif)|
@@ -102,4 +108,8 @@
   |nyan-rainbow| ![nyan-rainbow](/emojis/hashicorp/nyan-rainbow.gif)|
   |nyan-ruby| ![nyan-ruby](/emojis/hashicorp/nyan-ruby.gif)|
   |nyan-skull| ![nyan-skull](/emojis/hashicorp/nyan-skull.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-n-0051.md)
+   | [Next Page](/docs/hashicorp/page-n-0053.md)

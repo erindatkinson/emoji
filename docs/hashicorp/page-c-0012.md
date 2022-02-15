@@ -1,5 +1,11 @@
 
   ## Emojis (Page 12)
+
+  [Previous Page](/docs/hashicorp/page-b-0011.md)
+   | [Next Page](/docs/hashicorp/page-c-0013.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |candy_corn| ![candy_corn](/emojis/hashicorp/candy_corn.png)|
@@ -102,4 +108,8 @@
   |channinghamster| ![channinghamster](/emojis/hashicorp/channinghamster.png)|
   |channinghamsterface| ![channinghamsterface](/emojis/hashicorp/channinghamsterface.png)|
   |chaos-monkey| ![chaos-monkey](/emojis/hashicorp/chaos-monkey.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0011.md)
+   | [Next Page](/docs/hashicorp/page-c-0013.md)

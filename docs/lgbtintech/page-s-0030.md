@@ -1,5 +1,11 @@
 
   ## Emojis (Page 30)
+
+  [Previous Page](/docs/lgbtintech/page-s-0029.md)
+   | [Next Page](/docs/lgbtintech/page-s-0031.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sttngleforge| ![sttngleforge](/emojis/lgbtintech/sttngleforge.png)|
@@ -102,4 +108,8 @@
   |surprised_owl| ![surprised_owl](/emojis/lgbtintech/surprised_owl.gif)|
   |surprisedblinking| ![surprisedblinking](/emojis/lgbtintech/surprisedblinking.gif)|
   |sus| ![sus](/emojis/lgbtintech/sus.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-s-0029.md)
+   | [Next Page](/docs/lgbtintech/page-s-0031.md)

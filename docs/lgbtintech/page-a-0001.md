@@ -1,5 +1,11 @@
 
   ## Emojis (Page 1)
+
+  [Previous Page](/docs/lgbtintech/page-+-0000.md)
+   | [Next Page](/docs/lgbtintech/page-a-0002.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |alice-sleepy| ![alice-sleepy](/emojis/lgbtintech/alice-sleepy.png)|
@@ -102,4 +108,8 @@
   |avatar-appa| ![avatar-appa](/emojis/lgbtintech/avatar-appa.png)|
   |avocado_love| ![avocado_love](/emojis/lgbtintech/avocado_love.png)|
   |away| ![away](/emojis/lgbtintech/away.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-+-0000.md)
+   | [Next Page](/docs/lgbtintech/page-a-0002.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 61)
+
+  [Previous Page](/docs/hashicorp/page-q-0060.md)
+   | [Next Page](/docs/hashicorp/page-r-0062.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |rainbow6_zofia| ![rainbow6_zofia](/emojis/hashicorp/rainbow6_zofia.png)|
@@ -102,4 +108,8 @@
   |request-response| ![request-response](/emojis/hashicorp/request-response.gif)|
   |rescuer| ![rescuer](/emojis/hashicorp/rescuer.png)|
   |resetti| ![resetti](/emojis/hashicorp/resetti.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-q-0060.md)
+   | [Next Page](/docs/hashicorp/page-r-0062.md)

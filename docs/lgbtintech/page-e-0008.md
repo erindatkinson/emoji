@@ -1,5 +1,11 @@
 
   ## Emojis (Page 8)
+
+  [Previous Page](/docs/lgbtintech/page-d-0007.md)
+   | [Next Page](/docs/lgbtintech/page-f-0009.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |eggdog-t-down| ![eggdog-t-down](/emojis/lgbtintech/eggdog-t-down.png)|
@@ -102,4 +108,8 @@
   |fb| ![fb](/emojis/lgbtintech/fb.png)|
   |fbomb| ![fbomb](/emojis/lgbtintech/fbomb.jpg)|
   |feather-feather| ![feather-feather](/emojis/lgbtintech/feather-feather.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-d-0007.md)
+   | [Next Page](/docs/lgbtintech/page-f-0009.md)

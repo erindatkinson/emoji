@@ -1,5 +1,11 @@
 
   ## Emojis (Page 55)
+
+  [Previous Page](/docs/hashicorp/page-o-0054.md)
+   | [Next Page](/docs/hashicorp/page-p-0056.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |packer-intensifies| ![packer-intensifies](/emojis/hashicorp/packer-intensifies.gif)|
@@ -102,4 +108,8 @@
   |patrickdab| ![patrickdab](/emojis/hashicorp/patrickdab.png)|
   |patrickyoung| ![patrickyoung](/emojis/hashicorp/patrickyoung.png)|
   |pats| ![pats](/emojis/hashicorp/pats.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-o-0054.md)
+   | [Next Page](/docs/hashicorp/page-p-0056.md)

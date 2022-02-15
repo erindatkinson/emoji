@@ -1,5 +1,11 @@
 
   ## Emojis (Page 13)
+
+  [Previous Page](/docs/lgbtintech/page-g-0012.md)
+   | [Next Page](/docs/lgbtintech/page-i-0014.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |heads-down| ![heads-down](/emojis/lgbtintech/heads-down.png)|
@@ -102,4 +108,8 @@
   |ikea-shark_5| ![ikea-shark_5](/emojis/lgbtintech/ikea-shark_5.png)|
   |ikea-shark_6| ![ikea-shark_6](/emojis/lgbtintech/ikea-shark_6.png)|
   |ikr| ![ikr](/emojis/lgbtintech/ikr.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-g-0012.md)
+   | [Next Page](/docs/lgbtintech/page-i-0014.md)

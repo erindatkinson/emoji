@@ -1,5 +1,11 @@
 
   ## Emojis (Page 77)
+
+  [Previous Page](/docs/hashicorp/page-t-0076.md)
+   | [Next Page](/docs/hashicorp/page-u-0078.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |troy-mcclure| ![troy-mcclure](/emojis/hashicorp/troy-mcclure.png)|
@@ -102,4 +108,8 @@
   |uhh| ![uhh](/emojis/hashicorp/uhh.gif)|
   |uk-da| ![uk-da](/emojis/hashicorp/uk-da.png)|
   |uk-intensifies| ![uk-intensifies](/emojis/hashicorp/uk-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-t-0076.md)
+   | [Next Page](/docs/hashicorp/page-u-0078.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 16)
+
+  [Previous Page](/docs/lgbtintech/page-k-0015.md)
+   | [Next Page](/docs/lgbtintech/page-m-0017.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |lesbian-heart-alt| ![lesbian-heart-alt](/emojis/lgbtintech/lesbian-heart-alt.png)|
@@ -102,4 +108,8 @@
   |m-cake| ![m-cake](/emojis/lgbtintech/m-cake.png)|
   |m-cast-connected| ![m-cast-connected](/emojis/lgbtintech/m-cast-connected.png)|
   |m-cast| ![m-cast](/emojis/lgbtintech/m-cast.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-k-0015.md)
+   | [Next Page](/docs/lgbtintech/page-m-0017.md)

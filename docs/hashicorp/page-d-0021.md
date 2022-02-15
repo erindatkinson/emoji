@@ -1,5 +1,11 @@
 
   ## Emojis (Page 21)
+
+  [Previous Page](/docs/hashicorp/page-d-0020.md)
+   | [Next Page](/docs/hashicorp/page-d-0022.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |disapproval| ![disapproval](/emojis/hashicorp/disapproval.png)|
@@ -102,4 +108,8 @@
   |doom| ![doom](/emojis/hashicorp/doom.png)|
   |doom_bloody_angry| ![doom_bloody_angry](/emojis/hashicorp/doom_bloody_angry.png)|
   |doom_look| ![doom_look](/emojis/hashicorp/doom_look.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-d-0020.md)
+   | [Next Page](/docs/hashicorp/page-d-0022.md)

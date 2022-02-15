@@ -1,5 +1,11 @@
 
   ## Emojis (Page 2)
+
+  [Previous Page](/docs/lgbtintech/page-a-0001.md)
+   | [Next Page](/docs/lgbtintech/page-b-0003.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |awesome| ![awesome](/emojis/lgbtintech/awesome.png)|
@@ -102,4 +108,8 @@
   |bifi_owo| ![bifi_owo](/emojis/lgbtintech/bifi_owo.png)|
   |biflag| ![biflag](/emojis/lgbtintech/biflag.png)|
   |bifox| ![bifox](/emojis/lgbtintech/bifox.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-a-0001.md)
+   | [Next Page](/docs/lgbtintech/page-b-0003.md)

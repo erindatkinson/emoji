@@ -1,5 +1,11 @@
 
   ## Emojis (Page 32)
+
+  [Previous Page](/docs/lgbtintech/page-s-0031.md)
+   | [Next Page](/docs/lgbtintech/page-t-0033.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |thisstringisformattedasabluecircle| ![thisstringisformattedasabluecircle](/emojis/lgbtintech/thisstringisformattedasabluecircle.png)|
@@ -102,4 +108,8 @@
   |trebuchet| ![trebuchet](/emojis/lgbtintech/trebuchet.png)|
   |trello| ![trello](/emojis/lgbtintech/trello.png)|
   |triforce| ![triforce](/emojis/lgbtintech/triforce.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-s-0031.md)
+   | [Next Page](/docs/lgbtintech/page-t-0033.md)

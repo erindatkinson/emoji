@@ -1,5 +1,11 @@
 
   ## Emojis (Page 24)
+
+  [Previous Page](/docs/denverdevs/page-t-0023.md)
+   | [Next Page](/docs/denverdevs/page-v-0025.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |totes| ![totes](/emojis/denverdevs/totes.gif)|
@@ -102,4 +108,8 @@
   |visual_studio| ![visual_studio](/emojis/denverdevs/visual_studio.png)|
   |vivaldi| ![vivaldi](/emojis/denverdevs/vivaldi.png)|
   |vive| ![vive](/emojis/denverdevs/vive.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-t-0023.md)
+   | [Next Page](/docs/denverdevs/page-v-0025.md)

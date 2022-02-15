@@ -1,5 +1,11 @@
 
   ## Emojis (Page 1)
+
+  [Previous Page](/docs/hashicorp/page-+-0000.md)
+   | [Next Page](/docs/hashicorp/page-a-0002.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |advent_7| ![advent_7](/emojis/hashicorp/advent_7.png)|
@@ -102,4 +108,8 @@
   |alphabet-white-r| ![alphabet-white-r](/emojis/hashicorp/alphabet-white-r.png)|
   |alphabet-white-s| ![alphabet-white-s](/emojis/hashicorp/alphabet-white-s.png)|
   |alphabet-white-t| ![alphabet-white-t](/emojis/hashicorp/alphabet-white-t.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-+-0000.md)
+   | [Next Page](/docs/hashicorp/page-a-0002.md)

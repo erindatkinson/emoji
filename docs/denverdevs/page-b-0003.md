@@ -1,5 +1,11 @@
 
   ## Emojis (Page 3)
+
+  [Previous Page](/docs/denverdevs/page-b-0002.md)
+   | [Next Page](/docs/denverdevs/page-c-0004.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |boxcat| ![boxcat](/emojis/denverdevs/boxcat.gif)|
@@ -102,4 +108,8 @@
   |button-1| ![button-1](/emojis/denverdevs/button-1.png)|
   |button-2| ![button-2](/emojis/denverdevs/button-2.png)|
   |byte| ![byte](/emojis/denverdevs/byte.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-b-0002.md)
+   | [Next Page](/docs/denverdevs/page-c-0004.md)

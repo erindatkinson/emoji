@@ -1,5 +1,11 @@
 
   ## Emojis (Page 40)
+
+  [Previous Page](/docs/hashicorp/page-i-0039.md)
+   | [Next Page](/docs/hashicorp/page-k-0041.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |jessnaglecrash| ![jessnaglecrash](/emojis/hashicorp/jessnaglecrash.jpg)|
@@ -102,4 +108,8 @@
   |jwt-intensifies| ![jwt-intensifies](/emojis/hashicorp/jwt-intensifies.gif)|
   |jwt| ![jwt](/emojis/hashicorp/jwt.png)|
   |k| ![k](/emojis/hashicorp/k.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-i-0039.md)
+   | [Next Page](/docs/hashicorp/page-k-0041.md)

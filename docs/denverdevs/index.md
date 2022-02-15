@@ -29,6 +29,5 @@
   * [Page T 0023](/docs/denverdevs/page-t-0023.md)
   * [Page T 0024](/docs/denverdevs/page-t-0024.md)
   * [Page V 0025](/docs/denverdevs/page-v-0025.md)
-  * [Page W 0026](/docs/denverdevs/page-w-0026.md)
   
   

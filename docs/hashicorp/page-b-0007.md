@@ -1,5 +1,11 @@
 
   ## Emojis (Page 7)
+
+  [Previous Page](/docs/hashicorp/page-b-0006.md)
+   | [Next Page](/docs/hashicorp/page-b-0008.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |believe-in-yourself| ![believe-in-yourself](/emojis/hashicorp/believe-in-yourself.png)|
@@ -102,4 +108,8 @@
   |bjorkquiet| ![bjorkquiet](/emojis/hashicorp/bjorkquiet.png)|
   |bjorn| ![bjorn](/emojis/hashicorp/bjorn.png)|
   |björk| ![björk](/emojis/hashicorp/björk.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0006.md)
+   | [Next Page](/docs/hashicorp/page-b-0008.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 6)
+
+  [Previous Page](/docs/lgbtintech/page-c-0005.md)
+   | [Next Page](/docs/lgbtintech/page-d-0007.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |corgi-wave| ![corgi-wave](/emojis/lgbtintech/corgi-wave.gif)|
@@ -102,4 +108,8 @@
   |demisexual-by-kaenith| ![demisexual-by-kaenith](/emojis/lgbtintech/demisexual-by-kaenith.png)|
   |denied| ![denied](/emojis/lgbtintech/denied.png)|
   |deniedalt| ![deniedalt](/emojis/lgbtintech/deniedalt.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-c-0005.md)
+   | [Next Page](/docs/lgbtintech/page-d-0007.md)

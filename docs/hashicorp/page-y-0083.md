@@ -1,5 +1,11 @@
 
   ## Emojis (Page 83)
+
+  [Previous Page](/docs/hashicorp/page-w-0082.md)
+   | [Next Page](/docs/hashicorp/page-z-0084.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |yeeeeaaaahhhh3| ![yeeeeaaaahhhh3](/emojis/hashicorp/yeeeeaaaahhhh3.png)|
@@ -102,4 +108,8 @@
   |zapier| ![zapier](/emojis/hashicorp/zapier.png)|
   |zarya-ow| ![zarya-ow](/emojis/hashicorp/zarya-ow.png)|
   |ze-pronoun| ![ze-pronoun](/emojis/hashicorp/ze-pronoun.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-w-0082.md)
+   | [Next Page](/docs/hashicorp/page-z-0084.md)

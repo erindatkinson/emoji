@@ -1,5 +1,11 @@
 
   ## Emojis (Page 28)
+
+  [Previous Page](/docs/hashicorp/page-f-0027.md)
+   | [Next Page](/docs/hashicorp/page-g-0029.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |game_on2| ![game_on2](/emojis/hashicorp/game_on2.jpg)|
@@ -102,4 +108,8 @@
   |give| ![give](/emojis/hashicorp/give.gif)|
   |glass-of-water| ![glass-of-water](/emojis/hashicorp/glass-of-water.png)|
   |glenn-da-intensifies| ![glenn-da-intensifies](/emojis/hashicorp/glenn-da-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-f-0027.md)
+   | [Next Page](/docs/hashicorp/page-g-0029.md)

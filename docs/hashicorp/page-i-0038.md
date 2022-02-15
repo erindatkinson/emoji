@@ -1,5 +1,11 @@
 
   ## Emojis (Page 38)
+
+  [Previous Page](/docs/hashicorp/page-h-0037.md)
+   | [Next Page](/docs/hashicorp/page-i-0039.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |icq| ![icq](/emojis/hashicorp/icq.png)|
@@ -102,4 +108,8 @@
   |iseewhatyoudidthere| ![iseewhatyoudidthere](/emojis/hashicorp/iseewhatyoudidthere.png)|
   |islanders| ![islanders](/emojis/hashicorp/islanders.png)|
   |issue| ![issue](/emojis/hashicorp/issue.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-h-0037.md)
+   | [Next Page](/docs/hashicorp/page-i-0039.md)

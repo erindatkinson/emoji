@@ -1,5 +1,11 @@
 
   ## Emojis (Page 75)
+
+  [Previous Page](/docs/hashicorp/page-t-0074.md)
+   | [Next Page](/docs/hashicorp/page-t-0076.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |those_beans| ![those_beans](/emojis/hashicorp/those_beans.png)|
@@ -102,4 +108,8 @@
   |tomhanks| ![tomhanks](/emojis/hashicorp/tomhanks.png)|
   |tomharris| ![tomharris](/emojis/hashicorp/tomharris.png)|
   |tomnook| ![tomnook](/emojis/hashicorp/tomnook.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-t-0074.md)
+   | [Next Page](/docs/hashicorp/page-t-0076.md)

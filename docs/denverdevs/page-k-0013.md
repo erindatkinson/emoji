@@ -1,5 +1,11 @@
 
   ## Emojis (Page 13)
+
+  [Previous Page](/docs/denverdevs/page-i-0012.md)
+   | [Next Page](/docs/denverdevs/page-m-0014.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |kotlin| ![kotlin](/emojis/denverdevs/kotlin.png)|
@@ -102,4 +108,8 @@
   |mana-19| ![mana-19](/emojis/denverdevs/mana-19.png)|
   |mana-2| ![mana-2](/emojis/denverdevs/mana-2.png)|
   |mana-20| ![mana-20](/emojis/denverdevs/mana-20.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-i-0012.md)
+   | [Next Page](/docs/denverdevs/page-m-0014.md)

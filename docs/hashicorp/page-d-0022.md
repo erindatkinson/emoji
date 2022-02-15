@@ -1,5 +1,11 @@
 
   ## Emojis (Page 22)
+
+  [Previous Page](/docs/hashicorp/page-d-0021.md)
+   | [Next Page](/docs/hashicorp/page-e-0023.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |doom_mad| ![doom_mad](/emojis/hashicorp/doom_mad.gif)|
@@ -102,4 +108,8 @@
   |eek| ![eek](/emojis/hashicorp/eek.png)|
   |eevee| ![eevee](/emojis/hashicorp/eevee.png)|
   |eevee1| ![eevee1](/emojis/hashicorp/eevee1.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-d-0021.md)
+   | [Next Page](/docs/hashicorp/page-e-0023.md)

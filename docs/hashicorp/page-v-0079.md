@@ -1,5 +1,11 @@
 
   ## Emojis (Page 79)
+
+  [Previous Page](/docs/hashicorp/page-u-0078.md)
+   | [Next Page](/docs/hashicorp/page-w-0080.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |vcs-next-pipeline2| ![vcs-next-pipeline2](/emojis/hashicorp/vcs-next-pipeline2.gif)|
@@ -102,4 +108,8 @@
   |waiting-4773| ![waiting-4773](/emojis/hashicorp/waiting-4773.png)|
   |waiting-pigeon| ![waiting-pigeon](/emojis/hashicorp/waiting-pigeon.gif)|
   |waiting-spin| ![waiting-spin](/emojis/hashicorp/waiting-spin.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-u-0078.md)
+   | [Next Page](/docs/hashicorp/page-w-0080.md)

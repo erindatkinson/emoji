@@ -1,5 +1,11 @@
 
   ## Emojis (Page 25)
+
+  [Previous Page](/docs/hashicorp/page-e-0024.md)
+   | [Next Page](/docs/hashicorp/page-f-0026.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |fat_chance| ![fat_chance](/emojis/hashicorp/fat_chance.png)|
@@ -102,4 +108,8 @@
   |fireworm| ![fireworm](/emojis/hashicorp/fireworm.jpg)|
   |firstrule| ![firstrule](/emojis/hashicorp/firstrule.jpg)|
   |fish-and-chips| ![fish-and-chips](/emojis/hashicorp/fish-and-chips.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-e-0024.md)
+   | [Next Page](/docs/hashicorp/page-f-0026.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 31)
+
+  [Previous Page](/docs/lgbtintech/page-s-0030.md)
+   | [Next Page](/docs/lgbtintech/page-t-0032.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |suspect| ![suspect](/emojis/lgbtintech/suspect.png)|
@@ -102,4 +108,8 @@
   |this3| ![this3](/emojis/lgbtintech/this3.png)|
   |thisisfine-snow| ![thisisfine-snow](/emojis/lgbtintech/thisisfine-snow.jpg)|
   |thisisfine| ![thisisfine](/emojis/lgbtintech/thisisfine.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-s-0030.md)
+   | [Next Page](/docs/lgbtintech/page-t-0032.md)

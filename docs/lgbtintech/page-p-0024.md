@@ -1,5 +1,11 @@
 
   ## Emojis (Page 24)
+
+  [Previous Page](/docs/lgbtintech/page-p-0023.md)
+   | [Next Page](/docs/lgbtintech/page-p-0025.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pansexualheartcat| ![pansexualheartcat](/emojis/lgbtintech/pansexualheartcat.png)|
@@ -102,4 +108,8 @@
   |platypus| ![platypus](/emojis/lgbtintech/platypus.png)|
   |play_collar| ![play_collar](/emojis/lgbtintech/play_collar.png)|
   |pleading| ![pleading](/emojis/lgbtintech/pleading.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-p-0023.md)
+   | [Next Page](/docs/lgbtintech/page-p-0025.md)

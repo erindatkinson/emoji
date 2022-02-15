@@ -1,5 +1,11 @@
 
   ## Emojis (Page 9)
+
+  [Previous Page](/docs/hashicorp/page-b-0008.md)
+   | [Next Page](/docs/hashicorp/page-b-0010.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |bloodshot-look| ![bloodshot-look](/emojis/hashicorp/bloodshot-look.png)|
@@ -102,4 +108,8 @@
   |branch| ![branch](/emojis/hashicorp/branch.png)|
   |brandon| ![brandon](/emojis/hashicorp/brandon.png)|
   |brannigan| ![brannigan](/emojis/hashicorp/brannigan.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0008.md)
+   | [Next Page](/docs/hashicorp/page-b-0010.md)

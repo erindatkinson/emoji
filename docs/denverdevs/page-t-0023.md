@@ -1,5 +1,11 @@
 
   ## Emojis (Page 23)
+
+  [Previous Page](/docs/denverdevs/page-s-0022.md)
+   | [Next Page](/docs/denverdevs/page-t-0024.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |t-hanks| ![t-hanks](/emojis/denverdevs/t-hanks.png)|
@@ -102,4 +108,8 @@
   |toothless| ![toothless](/emojis/denverdevs/toothless.png)|
   |toothy| ![toothy](/emojis/denverdevs/toothy.png)|
   |torta| ![torta](/emojis/denverdevs/torta.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-s-0022.md)
+   | [Next Page](/docs/denverdevs/page-t-0024.md)

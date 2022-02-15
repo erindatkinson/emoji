@@ -1,5 +1,11 @@
 
   ## Emojis (Page 15)
+
+  [Previous Page](/docs/hashicorp/page-c-0014.md)
+   | [Next Page](/docs/hashicorp/page-c-0016.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |cloud-intensifies| ![cloud-intensifies](/emojis/hashicorp/cloud-intensifies.gif)|
@@ -102,4 +108,8 @@
   |commodore| ![commodore](/emojis/hashicorp/commodore.png)|
   |communist| ![communist](/emojis/hashicorp/communist.png)|
   |communist_parrot| ![communist_parrot](/emojis/hashicorp/communist_parrot.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0014.md)
+   | [Next Page](/docs/hashicorp/page-c-0016.md)

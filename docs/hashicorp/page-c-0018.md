@@ -1,5 +1,11 @@
 
   ## Emojis (Page 18)
+
+  [Previous Page](/docs/hashicorp/page-c-0017.md)
+   | [Next Page](/docs/hashicorp/page-d-0019.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |cruise-ship| ![cruise-ship](/emojis/hashicorp/cruise-ship.gif)|
@@ -102,4 +108,8 @@
   |cyclops| ![cyclops](/emojis/hashicorp/cyclops.png)|
   |cymbal| ![cymbal](/emojis/hashicorp/cymbal.png)|
   |cypress| ![cypress](/emojis/hashicorp/cypress.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0017.md)
+   | [Next Page](/docs/hashicorp/page-d-0019.md)

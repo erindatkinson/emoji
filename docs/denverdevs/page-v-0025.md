@@ -1,5 +1,11 @@
 
   ## Emojis (Page 25)
+
+  [Previous Page](/docs/denverdevs/page-t-0024.md)
+   | [Next Page](/docs/denverdevs/page-w-0026.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |vols| ![vols](/emojis/denverdevs/vols.png)|
@@ -102,4 +108,8 @@
   |wordpress| ![wordpress](/emojis/denverdevs/wordpress.jpg)|
   |worf| ![worf](/emojis/denverdevs/worf.png)|
   |working-from-coffee-shop| ![working-from-coffee-shop](/emojis/denverdevs/working-from-coffee-shop.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-t-0024.md)
+   | [Next Page](/docs/denverdevs/page-w-0026.md)

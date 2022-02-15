@@ -1,5 +1,11 @@
 
   ## Emojis (Page 14)
+
+  [Previous Page](/docs/denverdevs/page-k-0013.md)
+   | [Next Page](/docs/denverdevs/page-m-0015.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |mana-2b| ![mana-2b](/emojis/denverdevs/mana-2b.png)|
@@ -102,4 +108,8 @@
   |me_tali| ![me_tali](/emojis/denverdevs/me_tali.png)|
   |me_thane| ![me_thane](/emojis/denverdevs/me_thane.png)|
   |me_zaheed| ![me_zaheed](/emojis/denverdevs/me_zaheed.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-k-0013.md)
+   | [Next Page](/docs/denverdevs/page-m-0015.md)

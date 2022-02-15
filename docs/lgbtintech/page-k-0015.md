@@ -1,5 +1,11 @@
 
   ## Emojis (Page 15)
+
+  [Previous Page](/docs/lgbtintech/page-i-0014.md)
+   | [Next Page](/docs/lgbtintech/page-l-0016.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |katamari| ![katamari](/emojis/lgbtintech/katamari.png)|
@@ -102,4 +108,8 @@
   |lesbian-flag-wave| ![lesbian-flag-wave](/emojis/lgbtintech/lesbian-flag-wave.png)|
   |lesbian-flag| ![lesbian-flag](/emojis/lgbtintech/lesbian-flag.jpg)|
   |lesbian-fox| ![lesbian-fox](/emojis/lgbtintech/lesbian-fox.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-i-0014.md)
+   | [Next Page](/docs/lgbtintech/page-l-0016.md)

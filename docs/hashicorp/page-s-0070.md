@@ -1,5 +1,11 @@
 
   ## Emojis (Page 70)
+
+  [Previous Page](/docs/hashicorp/page-s-0069.md)
+   | [Next Page](/docs/hashicorp/page-s-0071.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |squid-game-square| ![squid-game-square](/emojis/hashicorp/squid-game-square.png)|
@@ -102,4 +108,8 @@
   |strong-flex| ![strong-flex](/emojis/hashicorp/strong-flex.png)|
   |strongbad| ![strongbad](/emojis/hashicorp/strongbad.png)|
   |stroopwafel-2| ![stroopwafel-2](/emojis/hashicorp/stroopwafel-2.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0069.md)
+   | [Next Page](/docs/hashicorp/page-s-0071.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 74)
+
+  [Previous Page](/docs/hashicorp/page-t-0073.md)
+   | [Next Page](/docs/hashicorp/page-t-0075.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |tgif| ![tgif](/emojis/hashicorp/tgif.jpg)|
@@ -102,4 +108,8 @@
   |thonking_face-sad| ![thonking_face-sad](/emojis/hashicorp/thonking_face-sad.png)|
   |thonking_face-sob| ![thonking_face-sob](/emojis/hashicorp/thonking_face-sob.png)|
   |thonking_face| ![thonking_face](/emojis/hashicorp/thonking_face.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-t-0073.md)
+   | [Next Page](/docs/hashicorp/page-t-0075.md)

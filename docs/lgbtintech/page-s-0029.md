@@ -1,5 +1,11 @@
 
   ## Emojis (Page 29)
+
+  [Previous Page](/docs/lgbtintech/page-s-0028.md)
+   | [Next Page](/docs/lgbtintech/page-s-0030.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |smileish| ![smileish](/emojis/lgbtintech/smileish.png)|
@@ -102,4 +108,8 @@
   |sttngborg| ![sttngborg](/emojis/lgbtintech/sttngborg.png)|
   |sttngcrusherb| ![sttngcrusherb](/emojis/lgbtintech/sttngcrusherb.png)|
   |sttngdata| ![sttngdata](/emojis/lgbtintech/sttngdata.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-s-0028.md)
+   | [Next Page](/docs/lgbtintech/page-s-0030.md)

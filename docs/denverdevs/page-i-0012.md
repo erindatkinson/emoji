@@ -1,5 +1,11 @@
 
   ## Emojis (Page 12)
+
+  [Previous Page](/docs/denverdevs/page-h-0011.md)
+   | [Next Page](/docs/denverdevs/page-k-0013.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |iron_giant| ![iron_giant](/emojis/denverdevs/iron_giant.png)|
@@ -102,4 +108,8 @@
   |kool-aid| ![kool-aid](/emojis/denverdevs/kool-aid.png)|
   |koolaid| ![koolaid](/emojis/denverdevs/koolaid.png)|
   |koopakart| ![koopakart](/emojis/denverdevs/koopakart.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-h-0011.md)
+   | [Next Page](/docs/denverdevs/page-k-0013.md)

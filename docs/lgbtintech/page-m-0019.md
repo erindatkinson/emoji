@@ -1,5 +1,11 @@
 
   ## Emojis (Page 19)
+
+  [Previous Page](/docs/lgbtintech/page-m-0018.md)
+   | [Next Page](/docs/lgbtintech/page-m-0020.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |meow-sip| ![meow-sip](/emojis/lgbtintech/meow-sip.png)|
@@ -102,4 +108,8 @@
   |mmz| ![mmz](/emojis/lgbtintech/mmz.png)|
   |mnwild| ![mnwild](/emojis/lgbtintech/mnwild.png)|
   |moa| ![moa](/emojis/lgbtintech/moa.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-m-0018.md)
+   | [Next Page](/docs/lgbtintech/page-m-0020.md)

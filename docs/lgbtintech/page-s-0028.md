@@ -1,5 +1,11 @@
 
   ## Emojis (Page 28)
+
+  [Previous Page](/docs/lgbtintech/page-r-0027.md)
+   | [Next Page](/docs/lgbtintech/page-s-0029.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |screaminmartin| ![screaminmartin](/emojis/lgbtintech/screaminmartin.gif)|
@@ -102,4 +108,8 @@
   |smac-sister-miriam-godwinson| ![smac-sister-miriam-godwinson](/emojis/lgbtintech/smac-sister-miriam-godwinson.jpg)|
   |small_brain| ![small_brain](/emojis/lgbtintech/small_brain.png)|
   |smartbus| ![smartbus](/emojis/lgbtintech/smartbus.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-r-0027.md)
+   | [Next Page](/docs/lgbtintech/page-s-0029.md)

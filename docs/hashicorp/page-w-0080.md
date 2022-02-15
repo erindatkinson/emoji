@@ -1,5 +1,11 @@
 
   ## Emojis (Page 80)
+
+  [Previous Page](/docs/hashicorp/page-v-0079.md)
+   | [Next Page](/docs/hashicorp/page-w-0081.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |waiting| ![waiting](/emojis/hashicorp/waiting.gif)|
@@ -102,4 +108,8 @@
   |wfh| ![wfh](/emojis/hashicorp/wfh.png)|
   |whaat| ![whaat](/emojis/hashicorp/whaat.png)|
   |whack-a-mole| ![whack-a-mole](/emojis/hashicorp/whack-a-mole.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-v-0079.md)
+   | [Next Page](/docs/hashicorp/page-w-0081.md)

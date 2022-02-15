@@ -1,5 +1,11 @@
 
   ## Emojis (Page 47)
+
+  [Previous Page](/docs/hashicorp/page-m-0046.md)
+   | [Next Page](/docs/hashicorp/page-m-0048.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |meow_glare| ![meow_glare](/emojis/hashicorp/meow_glare.png)|
@@ -102,4 +108,8 @@
   |mihi-intensifies| ![mihi-intensifies](/emojis/hashicorp/mihi-intensifies.gif)|
   |mihi| ![mihi](/emojis/hashicorp/mihi.png)|
   |mild-panic-intensifies| ![mild-panic-intensifies](/emojis/hashicorp/mild-panic-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-m-0046.md)
+   | [Next Page](/docs/hashicorp/page-m-0048.md)

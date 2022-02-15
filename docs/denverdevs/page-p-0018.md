@@ -1,5 +1,11 @@
 
   ## Emojis (Page 18)
+
+  [Previous Page](/docs/denverdevs/page-o-0017.md)
+   | [Next Page](/docs/denverdevs/page-q-0019.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |phpdoubleclaw| ![phpdoubleclaw](/emojis/denverdevs/phpdoubleclaw.jpg)|
@@ -102,4 +108,8 @@
   |quas| ![quas](/emojis/denverdevs/quas.png)|
   |question_block| ![question_block](/emojis/denverdevs/question_block.gif)|
   |quizlet-pride| ![quizlet-pride](/emojis/denverdevs/quizlet-pride.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-o-0017.md)
+   | [Next Page](/docs/denverdevs/page-q-0019.md)

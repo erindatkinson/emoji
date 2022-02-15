@@ -1,5 +1,11 @@
 
   ## Emojis (Page 41)
+
+  [Previous Page](/docs/hashicorp/page-j-0040.md)
+   | [Next Page](/docs/hashicorp/page-k-0042.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |k8ernetes-intensifies| ![k8ernetes-intensifies](/emojis/hashicorp/k8ernetes-intensifies.gif)|
@@ -102,4 +108,8 @@
   |kit-kat| ![kit-kat](/emojis/hashicorp/kit-kat.png)|
   |kitchen-sink| ![kitchen-sink](/emojis/hashicorp/kitchen-sink.png)|
   |kitchen| ![kitchen](/emojis/hashicorp/kitchen.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-j-0040.md)
+   | [Next Page](/docs/hashicorp/page-k-0042.md)

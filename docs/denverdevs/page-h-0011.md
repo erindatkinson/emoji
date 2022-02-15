@@ -1,5 +1,11 @@
 
   ## Emojis (Page 11)
+
+  [Previous Page](/docs/denverdevs/page-g-0010.md)
+   | [Next Page](/docs/denverdevs/page-i-0012.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |hedwig| ![hedwig](/emojis/denverdevs/hedwig.png)|
@@ -102,4 +108,8 @@
   |ios| ![ios](/emojis/denverdevs/ios.png)|
   |iron-throne| ![iron-throne](/emojis/denverdevs/iron-throne.png)|
   |iron| ![iron](/emojis/denverdevs/iron.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-g-0010.md)
+   | [Next Page](/docs/denverdevs/page-i-0012.md)

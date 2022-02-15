@@ -1,5 +1,11 @@
 
   ## Emojis (Page 72)
+
+  [Previous Page](/docs/hashicorp/page-s-0071.md)
+   | [Next Page](/docs/hashicorp/page-t-0073.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |switch_right| ![switch_right](/emojis/hashicorp/switch_right.png)|
@@ -102,4 +108,8 @@
   |team_work| ![team_work](/emojis/hashicorp/team_work.gif)|
   |teamcity-da| ![teamcity-da](/emojis/hashicorp/teamcity-da.png)|
   |teamcity-roll| ![teamcity-roll](/emojis/hashicorp/teamcity-roll.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0071.md)
+   | [Next Page](/docs/hashicorp/page-t-0073.md)

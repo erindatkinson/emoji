@@ -1,5 +1,11 @@
 
   ## Emojis (Page 63)
+
+  [Previous Page](/docs/hashicorp/page-r-0062.md)
+   | [Next Page](/docs/hashicorp/page-s-0064.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |rollvault| ![rollvault](/emojis/hashicorp/rollvault.gif)|
@@ -102,4 +108,8 @@
   |sad_death| ![sad_death](/emojis/hashicorp/sad_death.png)|
   |sad_mac| ![sad_mac](/emojis/hashicorp/sad_mac.png)|
   |sad_panda| ![sad_panda](/emojis/hashicorp/sad_panda.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-r-0062.md)
+   | [Next Page](/docs/hashicorp/page-s-0064.md)

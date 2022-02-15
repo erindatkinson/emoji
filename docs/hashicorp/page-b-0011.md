@@ -1,5 +1,11 @@
 
   ## Emojis (Page 11)
+
+  [Previous Page](/docs/hashicorp/page-b-0010.md)
+   | [Next Page](/docs/hashicorp/page-c-0012.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |butler-cat| ![butler-cat](/emojis/hashicorp/butler-cat.png)|
@@ -102,4 +108,8 @@
   |candy-cane| ![candy-cane](/emojis/hashicorp/candy-cane.png)|
   |candy_cane-intensifies| ![candy_cane-intensifies](/emojis/hashicorp/candy_cane-intensifies.gif)|
   |candy_cane| ![candy_cane](/emojis/hashicorp/candy_cane.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0010.md)
+   | [Next Page](/docs/hashicorp/page-c-0012.md)

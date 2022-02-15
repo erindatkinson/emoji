@@ -1,5 +1,11 @@
 
   ## Emojis (Page 48)
+
+  [Previous Page](/docs/hashicorp/page-m-0047.md)
+   | [Next Page](/docs/hashicorp/page-m-0049.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |mild_panic| ![mild_panic](/emojis/hashicorp/mild_panic.png)|
@@ -102,4 +108,8 @@
   |monarch-cringe| ![monarch-cringe](/emojis/hashicorp/monarch-cringe.png)|
   |monday-da| ![monday-da](/emojis/hashicorp/monday-da.png)|
   |monday-rb| ![monday-rb](/emojis/hashicorp/monday-rb.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-m-0047.md)
+   | [Next Page](/docs/hashicorp/page-m-0049.md)

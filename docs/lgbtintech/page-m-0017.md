@@ -1,5 +1,11 @@
 
   ## Emojis (Page 17)
+
+  [Previous Page](/docs/lgbtintech/page-l-0016.md)
+   | [Next Page](/docs/lgbtintech/page-m-0018.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |m-computer| ![m-computer](/emojis/lgbtintech/m-computer.png)|
@@ -102,4 +108,8 @@
   |m-whatshot| ![m-whatshot](/emojis/lgbtintech/m-whatshot.png)|
   |m-wifi-tethering| ![m-wifi-tethering](/emojis/lgbtintech/m-wifi-tethering.png)|
   |mabel_squee| ![mabel_squee](/emojis/lgbtintech/mabel_squee.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-l-0016.md)
+   | [Next Page](/docs/lgbtintech/page-m-0018.md)

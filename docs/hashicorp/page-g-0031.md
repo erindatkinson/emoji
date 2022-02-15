@@ -1,5 +1,11 @@
 
   ## Emojis (Page 31)
+
+  [Previous Page](/docs/hashicorp/page-g-0030.md)
+   | [Next Page](/docs/hashicorp/page-g-0032.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |gopher_mic_drop| ![gopher_mic_drop](/emojis/hashicorp/gopher_mic_drop.png)|
@@ -102,4 +108,8 @@
   |green_mana| ![green_mana](/emojis/hashicorp/green_mana.png)|
   |green_partyhat| ![green_partyhat](/emojis/hashicorp/green_partyhat.png)|
   |greenbaypackers| ![greenbaypackers](/emojis/hashicorp/greenbaypackers.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-g-0030.md)
+   | [Next Page](/docs/hashicorp/page-g-0032.md)

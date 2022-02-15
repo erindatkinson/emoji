@@ -1,5 +1,11 @@
 
   ## Emojis (Page 14)
+
+  [Previous Page](/docs/lgbtintech/page-h-0013.md)
+   | [Next Page](/docs/lgbtintech/page-k-0015.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |illuminati| ![illuminati](/emojis/lgbtintech/illuminati.png)|
@@ -102,4 +108,8 @@
   |kallisti| ![kallisti](/emojis/lgbtintech/kallisti.png)|
   |kappa| ![kappa](/emojis/lgbtintech/kappa.png)|
   |kat| ![kat](/emojis/lgbtintech/kat.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-h-0013.md)
+   | [Next Page](/docs/lgbtintech/page-k-0015.md)

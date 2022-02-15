@@ -1,5 +1,11 @@
 
   ## Emojis (Page 78)
+
+  [Previous Page](/docs/hashicorp/page-t-0077.md)
+   | [Next Page](/docs/hashicorp/page-v-0079.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |ukchameleon| ![ukchameleon](/emojis/hashicorp/ukchameleon.png)|
@@ -102,4 +108,8 @@
   |vcs-next-party| ![vcs-next-party](/emojis/hashicorp/vcs-next-party.gif)|
   |vcs-next-pipeline-intensifies| ![vcs-next-pipeline-intensifies](/emojis/hashicorp/vcs-next-pipeline-intensifies.gif)|
   |vcs-next-pipeline| ![vcs-next-pipeline](/emojis/hashicorp/vcs-next-pipeline.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-t-0077.md)
+   | [Next Page](/docs/hashicorp/page-v-0079.md)

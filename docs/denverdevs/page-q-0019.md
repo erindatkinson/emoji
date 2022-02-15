@@ -1,5 +1,11 @@
 
   ## Emojis (Page 19)
+
+  [Previous Page](/docs/denverdevs/page-p-0018.md)
+   | [Next Page](/docs/denverdevs/page-r-0020.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |quizlet| ![quizlet](/emojis/denverdevs/quizlet.png)|
@@ -102,4 +108,8 @@
   |roo-gift| ![roo-gift](/emojis/denverdevs/roo-gift.png)|
   |roo-happy| ![roo-happy](/emojis/denverdevs/roo-happy.png)|
   |roo-innocent| ![roo-innocent](/emojis/denverdevs/roo-innocent.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-p-0018.md)
+   | [Next Page](/docs/denverdevs/page-r-0020.md)

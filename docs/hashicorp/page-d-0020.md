@@ -1,5 +1,11 @@
 
   ## Emojis (Page 20)
+
+  [Previous Page](/docs/hashicorp/page-d-0019.md)
+   | [Next Page](/docs/hashicorp/page-d-0021.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |deadcomputer| ![deadcomputer](/emojis/hashicorp/deadcomputer.png)|
@@ -102,4 +108,8 @@
   |dirt_worshipper| ![dirt_worshipper](/emojis/hashicorp/dirt_worshipper.png)|
   |dirtybird| ![dirtybird](/emojis/hashicorp/dirtybird.png)|
   |disappointed-monocle| ![disappointed-monocle](/emojis/hashicorp/disappointed-monocle.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-d-0019.md)
+   | [Next Page](/docs/hashicorp/page-d-0021.md)

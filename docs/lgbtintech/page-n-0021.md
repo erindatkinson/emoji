@@ -1,5 +1,11 @@
 
   ## Emojis (Page 21)
+
+  [Previous Page](/docs/lgbtintech/page-m-0020.md)
+   | [Next Page](/docs/lgbtintech/page-o-0022.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |nap-time| ![nap-time](/emojis/lgbtintech/nap-time.png)|
@@ -102,4 +108,8 @@
   |oh-no| ![oh-no](/emojis/lgbtintech/oh-no.png)|
   |oh-yeah-intensifies| ![oh-yeah-intensifies](/emojis/lgbtintech/oh-yeah-intensifies.gif)|
   |oh_hai_mark| ![oh_hai_mark](/emojis/lgbtintech/oh_hai_mark.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-m-0020.md)
+   | [Next Page](/docs/lgbtintech/page-o-0022.md)

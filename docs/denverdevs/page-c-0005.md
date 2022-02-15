@@ -1,5 +1,11 @@
 
   ## Emojis (Page 5)
+
+  [Previous Page](/docs/denverdevs/page-c-0004.md)
+   | [Next Page](/docs/denverdevs/page-d-0006.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |computer-fire| ![computer-fire](/emojis/denverdevs/computer-fire.gif)|
@@ -102,4 +108,8 @@
   |danhammer| ![danhammer](/emojis/denverdevs/danhammer.png)|
   |danieltiger| ![danieltiger](/emojis/denverdevs/danieltiger.png)|
   |danlounge1| ![danlounge1](/emojis/denverdevs/danlounge1.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-c-0004.md)
+   | [Next Page](/docs/denverdevs/page-d-0006.md)

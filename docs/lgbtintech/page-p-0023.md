@@ -1,5 +1,11 @@
 
   ## Emojis (Page 23)
+
+  [Previous Page](/docs/lgbtintech/page-o-0022.md)
+   | [Next Page](/docs/lgbtintech/page-p-0024.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pacman| ![pacman](/emojis/lgbtintech/pacman.png)|
@@ -102,4 +108,8 @@
   |panic_button| ![panic_button](/emojis/lgbtintech/panic_button.png)|
   |pansexual-heart| ![pansexual-heart](/emojis/lgbtintech/pansexual-heart.png)|
   |pansexual| ![pansexual](/emojis/lgbtintech/pansexual.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-o-0022.md)
+   | [Next Page](/docs/lgbtintech/page-p-0024.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 16)
+
+  [Previous Page](/docs/denverdevs/page-m-0015.md)
+   | [Next Page](/docs/denverdevs/page-o-0017.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |nancy| ![nancy](/emojis/denverdevs/nancy.png)|
@@ -102,4 +108,8 @@
   |once_again_i_am_asking| ![once_again_i_am_asking](/emojis/denverdevs/once_again_i_am_asking.jpg)|
   |one-ring| ![one-ring](/emojis/denverdevs/one-ring.png)|
   |one-sec-cooking| ![one-sec-cooking](/emojis/denverdevs/one-sec-cooking.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-m-0015.md)
+   | [Next Page](/docs/denverdevs/page-o-0017.md)

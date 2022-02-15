@@ -1,5 +1,11 @@
 
   ## Emojis (Page 2)
+
+  [Previous Page](/docs/denverdevs/page-a-0001.md)
+   | [Next Page](/docs/denverdevs/page-b-0003.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |balance| ![balance](/emojis/denverdevs/balance.png)|
@@ -102,4 +108,8 @@
   |bouncing-cheering| ![bouncing-cheering](/emojis/denverdevs/bouncing-cheering.gif)|
   |bourgeoisie| ![bourgeoisie](/emojis/denverdevs/bourgeoisie.png)|
   |bowtie| ![bowtie](/emojis/denverdevs/bowtie.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-a-0001.md)
+   | [Next Page](/docs/denverdevs/page-b-0003.md)

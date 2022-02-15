@@ -1,5 +1,11 @@
 
   ## Emojis (Page 23)
+
+  [Previous Page](/docs/hashicorp/page-d-0022.md)
+   | [Next Page](/docs/hashicorp/page-e-0024.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |eevee2| ![eevee2](/emojis/hashicorp/eevee2.png)|
@@ -102,4 +108,8 @@
   |evan-ipo| ![evan-ipo](/emojis/hashicorp/evan-ipo.jpg)|
   |evan-moncuso-intensifies| ![evan-moncuso-intensifies](/emojis/hashicorp/evan-moncuso-intensifies.gif)|
   |evan-sun| ![evan-sun](/emojis/hashicorp/evan-sun.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-d-0022.md)
+   | [Next Page](/docs/hashicorp/page-e-0024.md)

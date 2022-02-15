@@ -1,5 +1,11 @@
 
   ## Emojis (Page 66)
+
+  [Previous Page](/docs/hashicorp/page-s-0065.md)
+   | [Next Page](/docs/hashicorp/page-s-0067.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sha-weet| ![sha-weet](/emojis/hashicorp/sha-weet.gif)|
@@ -102,4 +108,8 @@
   |sigh-bubble| ![sigh-bubble](/emojis/hashicorp/sigh-bubble.gif)|
   |sigh-tuzki| ![sigh-tuzki](/emojis/hashicorp/sigh-tuzki.gif)|
   |sigh| ![sigh](/emojis/hashicorp/sigh.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0065.md)
+   | [Next Page](/docs/hashicorp/page-s-0067.md)

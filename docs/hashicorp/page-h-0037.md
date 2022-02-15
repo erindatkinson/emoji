@@ -1,5 +1,11 @@
 
   ## Emojis (Page 37)
+
+  [Previous Page](/docs/hashicorp/page-h-0036.md)
+   | [Next Page](/docs/hashicorp/page-i-0038.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |hotline_bling7| ![hotline_bling7](/emojis/hashicorp/hotline_bling7.jpg)|
@@ -102,4 +108,8 @@
   |iced_coffee| ![iced_coffee](/emojis/hashicorp/iced_coffee.png)|
   |iced_tea| ![iced_tea](/emojis/hashicorp/iced_tea.png)|
   |iceland| ![iceland](/emojis/hashicorp/iceland.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-h-0036.md)
+   | [Next Page](/docs/hashicorp/page-i-0038.md)

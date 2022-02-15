@@ -1,5 +1,11 @@
 
   ## Emojis (Page 29)
+
+  [Previous Page](/docs/hashicorp/page-g-0028.md)
+   | [Next Page](/docs/hashicorp/page-g-0030.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |glenn-da| ![glenn-da](/emojis/hashicorp/glenn-da.png)|
@@ -102,4 +108,8 @@
   |google-calendar| ![google-calendar](/emojis/hashicorp/google-calendar.png)|
   |google-docs-intensifies| ![google-docs-intensifies](/emojis/hashicorp/google-docs-intensifies.gif)|
   |google-sheet-intensifies| ![google-sheet-intensifies](/emojis/hashicorp/google-sheet-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-g-0028.md)
+   | [Next Page](/docs/hashicorp/page-g-0030.md)

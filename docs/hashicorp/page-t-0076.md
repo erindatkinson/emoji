@@ -1,5 +1,11 @@
 
   ## Emojis (Page 76)
+
+  [Previous Page](/docs/hashicorp/page-t-0075.md)
+   | [Next Page](/docs/hashicorp/page-t-0077.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |tomorrow| ![tomorrow](/emojis/hashicorp/tomorrow.png)|
@@ -102,4 +108,8 @@
   |tron_no| ![tron_no](/emojis/hashicorp/tron_no.png)|
   |tron_yes| ![tron_yes](/emojis/hashicorp/tron_yes.png)|
   |trout-slap| ![trout-slap](/emojis/hashicorp/trout-slap.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-t-0075.md)
+   | [Next Page](/docs/hashicorp/page-t-0077.md)

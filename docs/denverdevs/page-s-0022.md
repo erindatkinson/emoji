@@ -1,5 +1,11 @@
 
   ## Emojis (Page 22)
+
+  [Previous Page](/docs/denverdevs/page-s-0021.md)
+   | [Next Page](/docs/denverdevs/page-t-0023.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |so-many-emotions| ![so-many-emotions](/emojis/denverdevs/so-many-emotions.gif)|
@@ -102,4 +108,8 @@
   |switch| ![switch](/emojis/denverdevs/switch.png)|
   |swole| ![swole](/emojis/denverdevs/swole.gif)|
   |sylveon| ![sylveon](/emojis/denverdevs/sylveon.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-s-0021.md)
+   | [Next Page](/docs/denverdevs/page-t-0023.md)

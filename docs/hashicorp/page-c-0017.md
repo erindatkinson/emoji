@@ -1,5 +1,11 @@
 
   ## Emojis (Page 17)
+
+  [Previous Page](/docs/hashicorp/page-c-0016.md)
+   | [Next Page](/docs/hashicorp/page-c-0018.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |cosmo-technologist-da| ![cosmo-technologist-da](/emojis/hashicorp/cosmo-technologist-da.png)|
@@ -102,4 +108,8 @@
   |crown-intensifies| ![crown-intensifies](/emojis/hashicorp/crown-intensifies.gif)|
   |crows| ![crows](/emojis/hashicorp/crows.png)|
   |crucible| ![crucible](/emojis/hashicorp/crucible.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0016.md)
+   | [Next Page](/docs/hashicorp/page-c-0018.md)

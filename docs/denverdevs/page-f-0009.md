@@ -1,5 +1,11 @@
 
   ## Emojis (Page 9)
+
+  [Previous Page](/docs/denverdevs/page-e-0008.md)
+   | [Next Page](/docs/denverdevs/page-g-0010.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |fix-it-felix| ![fix-it-felix](/emojis/denverdevs/fix-it-felix.gif)|
@@ -102,4 +108,8 @@
   |good-luck| ![good-luck](/emojis/denverdevs/good-luck.gif)|
   |good_news| ![good_news](/emojis/denverdevs/good_news.png)|
   |goodgood| ![goodgood](/emojis/denverdevs/goodgood.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-e-0008.md)
+   | [Next Page](/docs/denverdevs/page-g-0010.md)

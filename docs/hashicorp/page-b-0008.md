@@ -1,5 +1,11 @@
 
   ## Emojis (Page 8)
+
+  [Previous Page](/docs/hashicorp/page-b-0007.md)
+   | [Next Page](/docs/hashicorp/page-b-0009.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |black-lives-matter| ![black-lives-matter](/emojis/hashicorp/black-lives-matter.png)|
@@ -102,4 +108,8 @@
   |blood_party| ![blood_party](/emojis/hashicorp/blood_party.png)|
   |blood_sob| ![blood_sob](/emojis/hashicorp/blood_sob.png)|
   |blood_wave| ![blood_wave](/emojis/hashicorp/blood_wave.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-b-0007.md)
+   | [Next Page](/docs/hashicorp/page-b-0009.md)

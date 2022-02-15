@@ -1,5 +1,11 @@
 
   ## Emojis (Page 20)
+
+  [Previous Page](/docs/lgbtintech/page-m-0019.md)
+   | [Next Page](/docs/lgbtintech/page-n-0021.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |mocking-spongebob| ![mocking-spongebob](/emojis/lgbtintech/mocking-spongebob.png)|
@@ -102,4 +108,8 @@
   |nan| ![nan](/emojis/lgbtintech/nan.png)|
   |nandos| ![nandos](/emojis/lgbtintech/nandos.png)|
   |nano-eggplant| ![nano-eggplant](/emojis/lgbtintech/nano-eggplant.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-m-0019.md)
+   | [Next Page](/docs/lgbtintech/page-n-0021.md)

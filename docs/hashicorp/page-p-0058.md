@@ -1,5 +1,11 @@
 
   ## Emojis (Page 58)
+
+  [Previous Page](/docs/hashicorp/page-p-0057.md)
+   | [Next Page](/docs/hashicorp/page-p-0059.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |pokerface| ![pokerface](/emojis/hashicorp/pokerface.png)|
@@ -102,4 +108,8 @@
   |pride-intersex| ![pride-intersex](/emojis/hashicorp/pride-intersex.png)|
   |pride-pansexual| ![pride-pansexual](/emojis/hashicorp/pride-pansexual.png)|
   |pride-progress| ![pride-progress](/emojis/hashicorp/pride-progress.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-p-0057.md)
+   | [Next Page](/docs/hashicorp/page-p-0059.md)

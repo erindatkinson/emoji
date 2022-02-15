@@ -1,5 +1,11 @@
 
   ## Emojis (Page 43)
+
+  [Previous Page](/docs/hashicorp/page-k-0042.md)
+   | [Next Page](/docs/hashicorp/page-l-0044.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |learn| ![learn](/emojis/hashicorp/learn.png)|
@@ -102,4 +108,8 @@
   |llama-carl| ![llama-carl](/emojis/hashicorp/llama-carl.png)|
   |llama-paul| ![llama-paul](/emojis/hashicorp/llama-paul.png)|
   |llama1| ![llama1](/emojis/hashicorp/llama1.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-k-0042.md)
+   | [Next Page](/docs/hashicorp/page-l-0044.md)

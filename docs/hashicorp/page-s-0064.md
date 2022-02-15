@@ -1,5 +1,11 @@
 
   ## Emojis (Page 64)
+
+  [Previous Page](/docs/hashicorp/page-r-0063.md)
+   | [Next Page](/docs/hashicorp/page-s-0065.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sad_parrot| ![sad_parrot](/emojis/hashicorp/sad_parrot.gif)|
@@ -102,4 +108,8 @@
   |scorched-earth| ![scorched-earth](/emojis/hashicorp/scorched-earth.jpg)|
   |scorpions| ![scorpions](/emojis/hashicorp/scorpions.png)|
   |scotch| ![scotch](/emojis/hashicorp/scotch.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-r-0063.md)
+   | [Next Page](/docs/hashicorp/page-s-0065.md)

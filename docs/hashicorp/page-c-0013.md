@@ -1,5 +1,11 @@
 
   ## Emojis (Page 13)
+
+  [Previous Page](/docs/hashicorp/page-c-0012.md)
+   | [Next Page](/docs/hashicorp/page-c-0014.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |chaos| ![chaos](/emojis/hashicorp/chaos.png)|
@@ -102,4 +108,8 @@
   |chompy-santa| ![chompy-santa](/emojis/hashicorp/chompy-santa.gif)|
   |chompy-shake| ![chompy-shake](/emojis/hashicorp/chompy-shake.gif)|
   |chompy-sick| ![chompy-sick](/emojis/hashicorp/chompy-sick.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0012.md)
+   | [Next Page](/docs/hashicorp/page-c-0014.md)

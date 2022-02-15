@@ -1,5 +1,11 @@
 
   ## Emojis (Page 12)
+
+  [Previous Page](/docs/lgbtintech/page-f-0011.md)
+   | [Next Page](/docs/lgbtintech/page-h-0013.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |google_play| ![google_play](/emojis/lgbtintech/google_play.png)|
@@ -102,4 +108,8 @@
   |headcannon| ![headcannon](/emojis/lgbtintech/headcannon.png)|
   |headdesk| ![headdesk](/emojis/lgbtintech/headdesk.png)|
   |headpats| ![headpats](/emojis/lgbtintech/headpats.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-f-0011.md)
+   | [Next Page](/docs/lgbtintech/page-h-0013.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 45)
+
+  [Previous Page](/docs/hashicorp/page-l-0044.md)
+   | [Next Page](/docs/hashicorp/page-m-0046.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |machiavelli| ![machiavelli](/emojis/hashicorp/machiavelli.jpg)|
@@ -102,4 +108,8 @@
   |mateointensifies| ![mateointensifies](/emojis/hashicorp/mateointensifies.gif)|
   |math| ![math](/emojis/hashicorp/math.png)|
   |matrix| ![matrix](/emojis/hashicorp/matrix.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-l-0044.md)
+   | [Next Page](/docs/hashicorp/page-m-0046.md)

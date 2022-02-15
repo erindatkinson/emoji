@@ -1,5 +1,11 @@
 
   ## Emojis (Page 7)
+
+  [Previous Page](/docs/lgbtintech/page-c-0006.md)
+   | [Next Page](/docs/lgbtintech/page-e-0008.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |dentures| ![dentures](/emojis/lgbtintech/dentures.png)|
@@ -102,4 +108,8 @@
   |eggdog-legs-right| ![eggdog-legs-right](/emojis/lgbtintech/eggdog-legs-right.png)|
   |eggdog-legs-up| ![eggdog-legs-up](/emojis/lgbtintech/eggdog-legs-up.png)|
   |eggdog-legs| ![eggdog-legs](/emojis/lgbtintech/eggdog-legs.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-c-0006.md)
+   | [Next Page](/docs/lgbtintech/page-e-0008.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 67)
+
+  [Previous Page](/docs/hashicorp/page-s-0066.md)
+   | [Next Page](/docs/hashicorp/page-s-0068.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |sigh_qoobee| ![sigh_qoobee](/emojis/hashicorp/sigh_qoobee.gif)|
@@ -102,4 +108,8 @@
   |slowclap-smiley| ![slowclap-smiley](/emojis/hashicorp/slowclap-smiley.gif)|
   |slowclap-transparent| ![slowclap-transparent](/emojis/hashicorp/slowclap-transparent.gif)|
   |slowpoke-dance| ![slowpoke-dance](/emojis/hashicorp/slowpoke-dance.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-s-0066.md)
+   | [Next Page](/docs/hashicorp/page-s-0068.md)

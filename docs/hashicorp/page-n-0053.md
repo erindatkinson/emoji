@@ -1,5 +1,11 @@
 
   ## Emojis (Page 53)
+
+  [Previous Page](/docs/hashicorp/page-n-0052.md)
+   | [Next Page](/docs/hashicorp/page-o-0054.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |nyan-snarf| ![nyan-snarf](/emojis/hashicorp/nyan-snarf.png)|
@@ -102,4 +108,8 @@
   |old-republic| ![old-republic](/emojis/hashicorp/old-republic.png)|
   |old_man_cloud-right| ![old_man_cloud-right](/emojis/hashicorp/old_man_cloud-right.jpg)|
   |old_man_cloud| ![old_man_cloud](/emojis/hashicorp/old_man_cloud.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-n-0052.md)
+   | [Next Page](/docs/hashicorp/page-o-0054.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 54)
+
+  [Previous Page](/docs/hashicorp/page-n-0053.md)
+   | [Next Page](/docs/hashicorp/page-p-0055.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |old_man_yells_at_cloud| ![old_man_yells_at_cloud](/emojis/hashicorp/old_man_yells_at_cloud.jpg)|
@@ -102,4 +108,8 @@
   |pacesetter| ![pacesetter](/emojis/hashicorp/pacesetter.png)|
   |packer-3220| ![packer-3220](/emojis/hashicorp/packer-3220.png)|
   |packer-da| ![packer-da](/emojis/hashicorp/packer-da.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-n-0053.md)
+   | [Next Page](/docs/hashicorp/page-p-0055.md)

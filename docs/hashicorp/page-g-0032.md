@@ -1,5 +1,11 @@
 
   ## Emojis (Page 32)
+
+  [Previous Page](/docs/hashicorp/page-g-0031.md)
+   | [Next Page](/docs/hashicorp/page-h-0033.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |greenhappyok| ![greenhappyok](/emojis/hashicorp/greenhappyok.gif)|
@@ -102,4 +108,8 @@
   |hallmark| ![hallmark](/emojis/hashicorp/hallmark.png)|
   |hallo| ![hallo](/emojis/hashicorp/hallo.gif)|
   |ham| ![ham](/emojis/hashicorp/ham.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-g-0031.md)
+   | [Next Page](/docs/hashicorp/page-h-0033.md)

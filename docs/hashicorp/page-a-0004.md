@@ -1,5 +1,11 @@
 
   ## Emojis (Page 4)
+
+  [Previous Page](/docs/hashicorp/page-a-0003.md)
+   | [Next Page](/docs/hashicorp/page-a-0005.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |asl-no| ![asl-no](/emojis/hashicorp/asl-no.gif)|
@@ -102,4 +108,8 @@
   |axem_pink_mario_rpg| ![axem_pink_mario_rpg](/emojis/hashicorp/axem_pink_mario_rpg.png)|
   |axem_red_mario_rpg| ![axem_red_mario_rpg](/emojis/hashicorp/axem_red_mario_rpg.png)|
   |axem_yellow_mario_rpg| ![axem_yellow_mario_rpg](/emojis/hashicorp/axem_yellow_mario_rpg.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-a-0003.md)
+   | [Next Page](/docs/hashicorp/page-a-0005.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 51)
+
+  [Previous Page](/docs/hashicorp/page-n-0050.md)
+   | [Next Page](/docs/hashicorp/page-n-0052.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |nm_flag| ![nm_flag](/emojis/hashicorp/nm_flag.png)|
@@ -102,4 +108,8 @@
   |nomudka| ![nomudka](/emojis/hashicorp/nomudka.png)|
   |nonbinaryheart| ![nonbinaryheart](/emojis/hashicorp/nonbinaryheart.png)|
   |noni| ![noni](/emojis/hashicorp/noni.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-n-0050.md)
+   | [Next Page](/docs/hashicorp/page-n-0052.md)

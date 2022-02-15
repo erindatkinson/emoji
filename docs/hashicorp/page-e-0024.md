@@ -1,5 +1,11 @@
 
   ## Emojis (Page 24)
+
+  [Previous Page](/docs/hashicorp/page-e-0023.md)
+   | [Next Page](/docs/hashicorp/page-f-0025.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |evangelion_pooped| ![evangelion_pooped](/emojis/hashicorp/evangelion_pooped.png)|
@@ -102,4 +108,8 @@
   |fastclap| ![fastclap](/emojis/hashicorp/fastclap.gif)|
   |fastly| ![fastly](/emojis/hashicorp/fastly.png)|
   |fat-thor| ![fat-thor](/emojis/hashicorp/fat-thor.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-e-0023.md)
+   | [Next Page](/docs/hashicorp/page-f-0025.md)

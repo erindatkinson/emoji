@@ -1,5 +1,11 @@
 
   ## Emojis (Page 10)
+
+  [Previous Page](/docs/denverdevs/page-f-0009.md)
+   | [Next Page](/docs/denverdevs/page-h-0011.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |google| ![google](/emojis/denverdevs/google.png)|
@@ -102,4 +108,8 @@
   |heavy-sigh| ![heavy-sigh](/emojis/denverdevs/heavy-sigh.gif)|
   |heck| ![heck](/emojis/denverdevs/heck.png)|
   |heckler-dude| ![heckler-dude](/emojis/denverdevs/heckler-dude.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-f-0009.md)
+   | [Next Page](/docs/denverdevs/page-h-0011.md)

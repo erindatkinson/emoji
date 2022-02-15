@@ -1,5 +1,11 @@
 
   ## Emojis (Page 81)
+
+  [Previous Page](/docs/hashicorp/page-w-0080.md)
+   | [Next Page](/docs/hashicorp/page-w-0082.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |whaleshark| ![whaleshark](/emojis/hashicorp/whaleshark.png)|
@@ -102,4 +108,8 @@
   |woodstock| ![woodstock](/emojis/hashicorp/woodstock.png)|
   |woody| ![woody](/emojis/hashicorp/woody.png)|
   |woohoo| ![woohoo](/emojis/hashicorp/woohoo.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-w-0080.md)
+   | [Next Page](/docs/hashicorp/page-w-0082.md)

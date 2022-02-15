@@ -1,5 +1,11 @@
 
   ## Emojis (Page 22)
+
+  [Previous Page](/docs/lgbtintech/page-n-0021.md)
+   | [Next Page](/docs/lgbtintech/page-p-0023.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |oh_no| ![oh_no](/emojis/lgbtintech/oh_no.png)|
@@ -102,4 +108,8 @@
   |oyster_card| ![oyster_card](/emojis/lgbtintech/oyster_card.png)|
   |p-alt| ![p-alt](/emojis/lgbtintech/p-alt.png)|
   |p| ![p](/emojis/lgbtintech/p.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-n-0021.md)
+   | [Next Page](/docs/lgbtintech/page-p-0023.md)

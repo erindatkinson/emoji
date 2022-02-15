@@ -1,5 +1,11 @@
 
   ## Emojis (Page 16)
+
+  [Previous Page](/docs/hashicorp/page-c-0015.md)
+   | [Next Page](/docs/hashicorp/page-c-0017.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |communityicon_b37n2zfs8k861| ![communityicon_b37n2zfs8k861](/emojis/hashicorp/communityicon_b37n2zfs8k861.png)|
@@ -102,4 +108,8 @@
   |cortado| ![cortado](/emojis/hashicorp/cortado.png)|
   |cosmo-cool| ![cosmo-cool](/emojis/hashicorp/cosmo-cool.png)|
   |cosmo-santa| ![cosmo-santa](/emojis/hashicorp/cosmo-santa.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0015.md)
+   | [Next Page](/docs/hashicorp/page-c-0017.md)

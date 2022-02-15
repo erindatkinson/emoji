@@ -1,5 +1,11 @@
 
   ## Emojis (Page 82)
+
+  [Previous Page](/docs/hashicorp/page-w-0081.md)
+   | [Next Page](/docs/hashicorp/page-y-0083.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |woop| ![woop](/emojis/hashicorp/woop.gif)|
@@ -102,4 +108,8 @@
   |yebo| ![yebo](/emojis/hashicorp/yebo.png)|
   |yeeeeaaaahhhh1| ![yeeeeaaaahhhh1](/emojis/hashicorp/yeeeeaaaahhhh1.png)|
   |yeeeeaaaahhhh2| ![yeeeeaaaahhhh2](/emojis/hashicorp/yeeeeaaaahhhh2.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-w-0081.md)
+   | [Next Page](/docs/hashicorp/page-y-0083.md)

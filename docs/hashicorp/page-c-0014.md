@@ -1,5 +1,11 @@
 
   ## Emojis (Page 14)
+
+  [Previous Page](/docs/hashicorp/page-c-0013.md)
+   | [Next Page](/docs/hashicorp/page-c-0015.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |chompy-slow| ![chompy-slow](/emojis/hashicorp/chompy-slow.gif)|
@@ -102,4 +108,8 @@
   |cloud-dollar| ![cloud-dollar](/emojis/hashicorp/cloud-dollar.png)|
   |cloud-fitz| ![cloud-fitz](/emojis/hashicorp/cloud-fitz.png)|
   |cloud-graham| ![cloud-graham](/emojis/hashicorp/cloud-graham.jpg)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-c-0013.md)
+   | [Next Page](/docs/hashicorp/page-c-0015.md)

@@ -1,5 +1,11 @@
 
   ## Emojis (Page 11)
+
+  [Previous Page](/docs/lgbtintech/page-f-0010.md)
+   | [Next Page](/docs/lgbtintech/page-g-0012.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |froge_thicc| ![froge_thicc](/emojis/lgbtintech/froge_thicc.png)|
@@ -102,4 +108,8 @@
   |gooball| ![gooball](/emojis/lgbtintech/gooball.png)|
   |goodgirl| ![goodgirl](/emojis/lgbtintech/goodgirl.gif)|
   |google| ![google](/emojis/lgbtintech/google.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-f-0010.md)
+   | [Next Page](/docs/lgbtintech/page-g-0012.md)

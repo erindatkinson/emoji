@@ -1,5 +1,10 @@
 
   ## Emojis (Page 35)
+
+  [Previous Page](/docs/lgbtintech/page-w-0034.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |xp-error| ![xp-error](/emojis/lgbtintech/xp-error.png)|
@@ -57,4 +62,7 @@
   |zombie_face| ![zombie_face](/emojis/lgbtintech/zombie_face.png)|
   |zoom-cat-face| ![zoom-cat-face](/emojis/lgbtintech/zoom-cat-face.gif)|
   |zucchini| ![zucchini](/emojis/lgbtintech/zucchini.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/lgbtintech/page-w-0034.md)

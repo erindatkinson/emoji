@@ -1,5 +1,11 @@
 
   ## Emojis (Page 50)
+
+  [Previous Page](/docs/hashicorp/page-m-0049.md)
+   | [Next Page](/docs/hashicorp/page-n-0051.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |n64| ![n64](/emojis/hashicorp/n64.gif)|
@@ -102,4 +108,8 @@
   |nixonhead| ![nixonhead](/emojis/hashicorp/nixonhead.png)|
   |nj| ![nj](/emojis/hashicorp/nj.png)|
   |nl-intensifies| ![nl-intensifies](/emojis/hashicorp/nl-intensifies.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-m-0049.md)
+   | [Next Page](/docs/hashicorp/page-n-0051.md)

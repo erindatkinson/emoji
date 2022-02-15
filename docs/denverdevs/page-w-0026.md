@@ -1,5 +1,10 @@
 
   ## Emojis (Page 26)
+
+  [Previous Page](/docs/denverdevs/page-v-0025.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |working-from-home| ![working-from-home](/emojis/denverdevs/working-from-home.png)|
@@ -78,4 +83,7 @@
   |zombie-2| ![zombie-2](/emojis/denverdevs/zombie-2.gif)|
   |zoom| ![zoom](/emojis/denverdevs/zoom.png)|
   |zwift| ![zwift](/emojis/denverdevs/zwift.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-v-0025.md)

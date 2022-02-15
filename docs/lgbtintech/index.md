@@ -38,6 +38,5 @@
   * [Page T 0032](/docs/lgbtintech/page-t-0032.md)
   * [Page T 0033](/docs/lgbtintech/page-t-0033.md)
   * [Page W 0034](/docs/lgbtintech/page-w-0034.md)
-  * [Page X 0035](/docs/lgbtintech/page-x-0035.md)
   
   

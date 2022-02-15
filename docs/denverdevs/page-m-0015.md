@@ -1,5 +1,11 @@
 
   ## Emojis (Page 15)
+
+  [Previous Page](/docs/denverdevs/page-m-0014.md)
+   | [Next Page](/docs/denverdevs/page-n-0016.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |meditate| ![meditate](/emojis/denverdevs/meditate.png)|
@@ -102,4 +108,8 @@
   |nail| ![nail](/emojis/denverdevs/nail.png)|
   |nailed-it| ![nailed-it](/emojis/denverdevs/nailed-it.gif)|
   |nancy-mad| ![nancy-mad](/emojis/denverdevs/nancy-mad.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/denverdevs/page-m-0014.md)
+   | [Next Page](/docs/denverdevs/page-n-0016.md)

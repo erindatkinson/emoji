@@ -1,5 +1,11 @@
 
   ## Emojis (Page 26)
+
+  [Previous Page](/docs/hashicorp/page-f-0025.md)
+   | [Next Page](/docs/hashicorp/page-f-0027.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |fish-intensifies| ![fish-intensifies](/emojis/hashicorp/fish-intensifies.gif)|
@@ -102,4 +108,8 @@
   |fox_coffee| ![fox_coffee](/emojis/hashicorp/fox_coffee.png)|
   |fox_running| ![fox_running](/emojis/hashicorp/fox_running.gif)|
   |foxxo_nod| ![foxxo_nod](/emojis/hashicorp/foxxo_nod.gif)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-f-0025.md)
+   | [Next Page](/docs/hashicorp/page-f-0027.md)

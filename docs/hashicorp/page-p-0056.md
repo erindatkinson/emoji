@@ -1,5 +1,11 @@
 
   ## Emojis (Page 56)
+
+  [Previous Page](/docs/hashicorp/page-p-0055.md)
+   | [Next Page](/docs/hashicorp/page-p-0057.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |paul-rudd| ![paul-rudd](/emojis/hashicorp/paul-rudd.png)|
@@ -102,4 +108,8 @@
   |pigs-fly| ![pigs-fly](/emojis/hashicorp/pigs-fly.png)|
   |pigsfly| ![pigsfly](/emojis/hashicorp/pigsfly.jpg)|
   |pika_dismay| ![pika_dismay](/emojis/hashicorp/pika_dismay.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-p-0055.md)
+   | [Next Page](/docs/hashicorp/page-p-0057.md)

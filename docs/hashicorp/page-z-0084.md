@@ -1,5 +1,10 @@
 
   ## Emojis (Page 84)
+
+  [Previous Page](/docs/hashicorp/page-y-0083.md)
+
+  <hr />
+
   |Emoji Name|Image|
   | :-: | :-: |
   |zegoggles| ![zegoggles](/emojis/hashicorp/zegoggles.png)|
@@ -43,4 +48,7 @@
   |zuul| ![zuul](/emojis/hashicorp/zuul.png)|
   |zwift| ![zwift](/emojis/hashicorp/zwift.png)|
   |zz| ![zz](/emojis/hashicorp/zz.png)|
+
+  <hr/>
   
+  [Previous Page](/docs/hashicorp/page-y-0083.md)
