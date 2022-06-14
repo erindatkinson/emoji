@@ -1,184 +1,112 @@
 #!/usr/bin/env python3
-from re import L
 from sqlite3 import connect
-import sqlite3
 from fire import Fire
-from os.path import isdir, basename, splitext, join
+from os.path import splitext, join
 from os import listdir, makedirs
 from json import loads
-from pprint import pprint
-from urllib.parse import urlparse
 from requests import get
 from shutil import copyfile
 from jinja2 import Template
+from lib import templates, helpers
 
-select_query = "SELECT count(*) FROM downloads WHERE emoji=? and namespace=?"
-insert_query = "INSERT INTO downloads VALUES (?, ?)"
-download_dir = "emojis"
-debug = False
+class Downloader(object):
+  def __init__(self, db="./downloads.db", downloadDir="emojis", listDir="lists", namespace="hashicorp"):
+    self.db = db
+    self.ns = namespace
+    self.downloadDir = downloadDir
+    self.listDir = listDir
 
-def download(input_file, db="./downloads.db", namespace="hashicorp", listDir="./lists", ):
-  print("performing setup")
-  setup_db(db)
-  makedirs(join(download_dir, namespace), exist_ok=True)
+    self.nsDownload = join(downloadDir, namespace)
+    self.conn = connect(db)
+    helpers.setup_db(self.db)
 
-  print("getting new list")
-  with open(input_file) as fp:
-    raw = loads(fp.read())["emoji"]
-  
-  print("filtering emoji and aliases")
-  emoji = dict(filter(lambda elem: "https://emoji.slack-edge.com" in elem[1], raw.items()))
-  aliases = dict(filter(lambda elem: "alias:" in elem[1], raw.items()))
+  # download runs the logic to download any new emoji in the list given.
+  def download(self, input_file):
+    makedirs(self.nsDownload, exist_ok=True)
 
-  print("filtering emoji previously downloaded")
-  to_download = set([])
-  conn = connect(db)
-  with conn:
-    for e in emoji.keys():
-      for row in conn.execute(select_query, (e, namespace)):
-        if row[0] == 1:
-          continue
-        to_download.add(e)
-  
-  
-  print("downloading new emoji")
-  for d in to_download:
-    ext = splitext(emoji[d])
-    debug_print(f"Downloading emoji {d}{ext[1]}")
-    r = get(emoji[d])
-    debug_print("writing emoji")
-    with open(join(download_dir, namespace, f"{d}{ext[1]}"), 'wb') as fp:
-      for chunk in r.iter_content(chunk_size=128):
-        fp.write(chunk)
-    debug_print("adding emoji to db")
-    with conn:
-      if conn.execute(insert_query, (d, namespace)).rowcount != 1:
-        print(f"error adding {d} to downloads table")
+    print("getting new list")
+    with open(input_file) as fp:
+      raw = loads(fp.read())["emoji"]
+    
+    print("filtering previously downloaded emoji and aliases")
+    emoji = dict(filter(lambda elem: "https://emoji.slack-edge.com" in elem[1], raw.items()))
+    aliases = dict(filter(lambda elem: "alias:" in elem[1], raw.items()))
+    
+    to_download = set([])
+    with self.conn:
+      for e in emoji.keys():
+        for row in self.conn.execute(templates.select_query, (e, self.ns)):
+          if row[0] == 1:
+            continue
+          to_download.add(e)
+    
+    print("downloading new emoji")
+    for d in to_download:
+      ext = splitext(emoji[d])
+      helpers.debug_print(f"Downloading emoji {d}{ext[1]}")
+      r = get(emoji[d])
+      helpers.debug_print("writing emoji")
+      with open(join(self.nsDownload, f"{d}{ext[1]}"), 'wb') as fp:
+        for chunk in r.iter_content(chunk_size=128):
+          fp.write(chunk)
+      helpers.debug_print("adding emoji to db")
+      with self.conn:
+        if self.conn.execute(templates.insert_query, (d, self.ns)).rowcount != 1:
+          print(f"error adding {d} to downloads table")
 
-  to_copy = set([])
-  with conn:
-    for a in aliases.keys():
-      for row in conn.execute(select_query, (a, namespace)):
-        if row[0] == 1:
-          continue
-        to_copy.add(a)
-  for c in to_copy:
-    name = c.split(":")
-    downloaded = listdir(join(download_dir, namespace))
-    for d in downloaded:
-      ext = splitext(d)
-      if name == ext[0]:
-        print(f"Copying {d} to alias {c}")
-        copyfile(join(download_dir, namespace, d), join(download_dir, namespace, f"{c}{ext[1]}"))
-    with conn:
-      if conn.execute(insert_query, (c, namespace)).rowcount != 1:
-        print(f"error adding {c} to downloads table")
+    print("copying new aliases")
+    to_copy = set([])
+    with self.conn:
+      for a in aliases.keys():
+        for row in self.conn.execute(templates.select_query, (a, self.ns)):
+          if row[0] == 1:
+            continue
+          to_copy.add(a)
+    for c in to_copy:
+      name = c.split(":")
+      downloaded = listdir(self.nsDownload)
+      for d in downloaded:
+        ext = splitext(d)
+        if name == ext[0]:
+          helpers.debug_print(f"Copying {d} to alias {c}")
+          copyfile(join(self.nsDownload, d), join(self.nsDownload, f"{c}{ext[1]}"))
+      with self.conn:
+        if self.conn.execute(templates.insert_query, (c, self.ns)).rowcount != 1:
+          print(f"error adding {c} to downloads table")
 
-  conn.close()
-
-def gen(namespace="hashicorp"):
-  makedirs(f"docs/{namespace}", exist_ok=True)
-  emoji = sorted(listdir(join(download_dir, namespace)))
-  split = list(map(lambda x: splitext(x), emoji))
-  
-
-  tpl_str ="""
-  ## Emojis (Page {{count}})
-
-  {% if z_prev != "" -%}
-  [Previous Page](/docs/{{ns}}/page-{{f_prev}}-{{z_prev}}.md)  
-  {%- endif -%}
-
-  {% if z_next != "" %}
-   | [Next Page](/docs/{{ns}}/page-{{f_next}}-{{z_next}}.md)  
-  {%- endif %}
-
-  <hr />
-
-  |Emoji Name|Image|
-  | :-: | :-: |
-  {%- for emoji in emojis %}
-  |{{emoji[0]}}| ![{{emoji[0]}}]({{dir | replace('./', '/')}}/{{emoji[0]}}{{emoji[1]}})|
-  {%- endfor %}
-
-  <hr/>
-  
-  {% if z_prev != "" -%}
-  [Previous Page](/docs/{{ns}}/page-{{f_prev}}-{{z_prev}}.md)  
-  {%- endif -%}
-
-  {% if z_next != "" %}
-   | [Next Page](/docs/{{ns}}/page-{{f_next}}-{{z_next}}.md)  
-  {%- endif -%}
-  """
-
-  template = Template(tpl_str)
-  count = 0
-  pages_list = [(split[i:i + 100][0][0][0],int(i/100), split[i:i + 100]) for i in range(0, len(emoji), 100)]
-
-  for i in range(len(pages_list)):
-    if i == len(pages_list)-1:
-      z_next = ""
-      f_next = ""
-      z_prev = f"{pages_list[i-1][1]:04d}"
-      f_prev = pages_list[i-1][0]
-
-    elif i == 0:
-      z_next = f"{pages_list[i+1][1]:04d}"
-      f_next = pages_list[i+1][0]
-      z_prev = ""
-      f_prev = ""
-    else:
-      z_next = f"{pages_list[i+1][1]:04d}"
-      f_next = pages_list[i+1][0]
-      z_prev = f"{pages_list[i-1][1]:04d}"
-      f_prev = pages_list[i-1][0]
-      
-    out = template.render(
-      count=pages_list[i][1], 
-      z_next=z_next,
-      z_prev=z_prev,
-      f_next=f_next,
-      f_prev=f_prev,
-      emojis=pages_list[i][2], 
-      dir=join("/", download_dir, namespace),
-      ns=namespace)
-
-
-    with open(f"docs/{namespace}/page-{pages_list[i][0]}-{pages_list[i][1]:04d}.md", 'w') as fp:
-      fp.write(out)
-
-  readme_tpl_str = """
-
-  # Emojis
-
-
-  {% for count in range(total) -%}
-  * [{{pages[count] | replace('.md', '') | replace('-', ' ')|title}}](/docs/{{ns}}/{{pages[count]}})
-  {% endfor %}
-  """
-
-  with open(f"docs/{namespace}/index.md", 'w') as fp:
-    files = sorted(listdir(f"docs/{namespace}"))
-    pages = [file for file in files if "page" in file]
-    fp.write(Template(readme_tpl_str).render(pages=pages, total=pages_list[-1][1], ns=namespace))
+    self.conn.close()
 
 
 
-def setup_db(db):
-  conn = connect(db)
+  def gen(self):
+    makedirs(f"docs/{self.ns}", exist_ok=True)
+    emoji      = sorted(listdir(self.nsDownload))
+    split      = list(map(lambda x: splitext(x), emoji))
+    template   = Template(templates.tpl_str)
+    pages_list = [(split[i:i + 100][0][0][0],int(i/100), split[i:i + 100]) for i in range(0, len(emoji), 100)]
 
-  with conn:
-    conn.execute("CREATE TABLE IF NOT EXISTS downloads (emoji text, namespace text)")
-  
-  conn.close()
+    for i in range(len(pages_list)):
+      z_next, f_next, z_prev, f_prev = helpers.get_surrounding(pages_list, i)
+        
+      out = template.render(
+        count=pages_list[i][1], 
+        z_next=z_next,
+        z_prev=z_prev,
+        f_next=f_next,
+        f_prev=f_prev,
+        emojis=pages_list[i][2], 
+        dir=join("/", self.nsDownload),
+        ns=self.ns)
 
-def debug_print(msg):
-  if debug:
-    print(msg)
+
+      with open(f"docs/{self.ns}/page-{pages_list[i][0]}-{pages_list[i][1]:04d}.md", 'w') as fp:
+        fp.write(out)
+
+    
+    with open(f"docs/{self.ns}/index.md", 'w') as fp:
+      files = sorted(listdir(f"docs/{self.ns}"))
+      pages = [file for file in files if "page" in file]
+      fp.write(Template(templates.readme_tpl_str).render(pages=pages, total=pages_list[-1][1], ns=self.ns))
 
 if __name__ == "__main__":
-  Fire({
-    "get": download,
-    "gen": gen
-  })
+  Fire(Downloader)

@@ -4,7 +4,7 @@ ifndef JSON_PATH
 endif
 
 needs-namespace:
-ifndef NAMSPACE
+ifndef NAMESPACE
 	$(error NAMESPACE is not set)
 endif
 
@@ -12,7 +12,7 @@ install:
 	pipenv install
 
 get: needs-json-path needs-namespace
-	pipenv run ./scripts/download.py get $(JSON_PATH) --namespace $(NAMESPACE)
+	pipenv run ./scripts/download.py download $(JSON_PATH) --namespace $(NAMESPACE)
 
 gen: needs-namespace
 	pipenv run ./scripts/download.py gen --namespace $(NAMESPACE)
