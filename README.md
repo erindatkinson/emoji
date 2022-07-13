@@ -2,6 +2,9 @@
 
 This repo is a collection of emojis from various slack teams. Emoji images can be found in the `emojis` directory. Browsing in GitHub is difficult, so the `docs` dir has a series of pages with emoji tables on them.
 
+![An image of green yellow and red leaves and some small berries laying on the dirt](assets/autumn-g98ec0f698_1920.jpg)
+Image by [wal_172619](https://pixabay.com/users/wal_172619-12138562/)
+
 ## Installation
 
 ### Prerequisites
