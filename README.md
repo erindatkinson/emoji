@@ -1,6 +1,6 @@
 # Emoji
 
-This repo is a collection of emojis from slacks I've been in. Emoji images can be found in the `emojis` directory, and if you'd rather pull the list on your own, they are kept in the `lists` dir. Browsing in GitHub is difficult, so the `docs` dir has a series of pages with emoji tables on them.
+This repo is a collection of emojis from various slack teams. Emoji images can be found in the `emojis` directory. Browsing in GitHub is difficult, so the `docs` dir has a series of pages with emoji tables on them.
 
 ## Installation
 
@@ -9,11 +9,26 @@ This repo is a collection of emojis from slacks I've been in. Emoji images can b
 * Python3 installed
 * pipenv installed
 
+### Install
+
+`pipenv install`
+
 ## Usage
 
-This repo uses the download script from [gist:lmarkus/lmarkus](https://gist.github.com/lmarkus/8722f56baf8c47045621#file-download-sh) to download as the repo itself is more for collection purposes.
+This repo was originally based on the download script from [gist:lmarkus/lmarkus](https://gist.github.com/lmarkus/8722f56baf8c47045621#file-download-sh) to download but has migrated to a python script located in the `scripts/` dir.
 
-The current way that has been working is to go to the webapp of the slack team, and pull the token from one of the requests and using the [api test page](https://api.slack.com/methods/emoji.list/test) to download the emoji list directly.
+### Getting emoji json lists
+The current way that has been working is to go to the webapp of the slack team, and pull the token from one of the requests and using the [api test page](https://api.slack.com/methods/emoji.list/test) to download the emoji list directly
 
+### Make Commands
+
+* get
+  * run `JSON_PATH=/path/to/emoji.list.json NAMESPACE=<subdir in emojis/> make get`
+  * This will filter out all the emoji/aliases that aren't in your downloads.db and download the rest to the directory `emojis/${NAMESPACE}/` and add the downloaded data to the downloads.db for future filtering.
+
+* gen
+  * First run `rm docs/$NAMESPACE/*` for the namespace you're generating as the script doesn't currently do this
+  * run `NAMESPACE=<subdir in emojis/> make gen`
+  * This will generate an index and browse pages of markdown for all emoji in the `emojis/$NAMESPACE/` dir.
 
 :)
