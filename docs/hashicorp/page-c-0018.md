@@ -1,115 +1,115 @@
 
-  ## Emojis (Page 18)
+## Emojis (Page 18)
 
-  [Previous Page](/docs/hashicorp/page-c-0017.md)
-   | [Next Page](/docs/hashicorp/page-d-0019.md)
+[Previous Page](/docs/hashicorp/page-c-0017.md)
+  | [Next Page](/docs/hashicorp/page-c-0019.md)
 
-  <hr />
+<hr />
 
-  |Emoji Name|Image|
-  | :-: | :-: |
-  |cruise-ship| ![cruise-ship](/emojis/hashicorp/cruise-ship.gif)|
-  |crumpet| ![crumpet](/emojis/hashicorp/crumpet.png)|
-  |crunchie| ![crunchie](/emojis/hashicorp/crunchie.png)|
-  |crushinator| ![crushinator](/emojis/hashicorp/crushinator.png)|
-  |crutch| ![crutch](/emojis/hashicorp/crutch.png)|
-  |cry-proud| ![cry-proud](/emojis/hashicorp/cry-proud.png)|
-  |cry-think| ![cry-think](/emojis/hashicorp/cry-think.png)|
-  |cryalot| ![cryalot](/emojis/hashicorp/cryalot.png)|
-  |crying-peace| ![crying-peace](/emojis/hashicorp/crying-peace.png)|
-  |crywolf| ![crywolf](/emojis/hashicorp/crywolf.png)|
-  |cs-0| ![cs-0](/emojis/hashicorp/cs-0.png)|
-  |cs-1| ![cs-1](/emojis/hashicorp/cs-1.png)|
-  |cs-2| ![cs-2](/emojis/hashicorp/cs-2.png)|
-  |cs-3| ![cs-3](/emojis/hashicorp/cs-3.png)|
-  |cs-4| ![cs-4](/emojis/hashicorp/cs-4.png)|
-  |cs-5| ![cs-5](/emojis/hashicorp/cs-5.png)|
-  |cs-6| ![cs-6](/emojis/hashicorp/cs-6.png)|
-  |cs-7| ![cs-7](/emojis/hashicorp/cs-7.png)|
-  |cs-8| ![cs-8](/emojis/hashicorp/cs-8.png)|
-  |cs-9| ![cs-9](/emojis/hashicorp/cs-9.png)|
-  |cs-a| ![cs-a](/emojis/hashicorp/cs-a.png)|
-  |cs-b| ![cs-b](/emojis/hashicorp/cs-b.png)|
-  |cs-c| ![cs-c](/emojis/hashicorp/cs-c.png)|
-  |cs-d| ![cs-d](/emojis/hashicorp/cs-d.png)|
-  |cs-e| ![cs-e](/emojis/hashicorp/cs-e.png)|
-  |cs-f| ![cs-f](/emojis/hashicorp/cs-f.png)|
-  |cs-g-2| ![cs-g-2](/emojis/hashicorp/cs-g-2.png)|
-  |cs-g| ![cs-g](/emojis/hashicorp/cs-g.png)|
-  |cs-h-2| ![cs-h-2](/emojis/hashicorp/cs-h-2.png)|
-  |cs-h| ![cs-h](/emojis/hashicorp/cs-h.png)|
-  |cs-i-2| ![cs-i-2](/emojis/hashicorp/cs-i-2.png)|
-  |cs-i| ![cs-i](/emojis/hashicorp/cs-i.png)|
-  |cs-j| ![cs-j](/emojis/hashicorp/cs-j.png)|
-  |cs-k| ![cs-k](/emojis/hashicorp/cs-k.png)|
-  |cs-l| ![cs-l](/emojis/hashicorp/cs-l.png)|
-  |cs-m| ![cs-m](/emojis/hashicorp/cs-m.png)|
-  |cs-n-2| ![cs-n-2](/emojis/hashicorp/cs-n-2.png)|
-  |cs-n-3| ![cs-n-3](/emojis/hashicorp/cs-n-3.png)|
-  |cs-n| ![cs-n](/emojis/hashicorp/cs-n.png)|
-  |cs-o-2| ![cs-o-2](/emojis/hashicorp/cs-o-2.png)|
-  |cs-o-3| ![cs-o-3](/emojis/hashicorp/cs-o-3.png)|
-  |cs-o-4| ![cs-o-4](/emojis/hashicorp/cs-o-4.png)|
-  |cs-o| ![cs-o](/emojis/hashicorp/cs-o.png)|
-  |cs-p| ![cs-p](/emojis/hashicorp/cs-p.png)|
-  |cs-pou| ![cs-pou](/emojis/hashicorp/cs-pou.png)|
-  |cs-q| ![cs-q](/emojis/hashicorp/cs-q.png)|
-  |cs-r| ![cs-r](/emojis/hashicorp/cs-r.png)|
-  |cs-s-amp| ![cs-s-amp](/emojis/hashicorp/cs-s-amp.png)|
-  |cs-s-at| ![cs-s-at](/emojis/hashicorp/cs-s-at.png)|
-  |cs-s-com| ![cs-s-com](/emojis/hashicorp/cs-s-com.png)|
-  |cs-s-dol| ![cs-s-dol](/emojis/hashicorp/cs-s-dol.png)|
-  |cs-s-em| ![cs-s-em](/emojis/hashicorp/cs-s-em.png)|
-  |cs-s-fs| ![cs-s-fs](/emojis/hashicorp/cs-s-fs.png)|
-  |cs-s-hash| ![cs-s-hash](/emojis/hashicorp/cs-s-hash.png)|
-  |cs-s-pc| ![cs-s-pc](/emojis/hashicorp/cs-s-pc.png)|
-  |cs-s-qm| ![cs-s-qm](/emojis/hashicorp/cs-s-qm.png)|
-  |cs-s-sp| ![cs-s-sp](/emojis/hashicorp/cs-s-sp.png)|
-  |cs-s| ![cs-s](/emojis/hashicorp/cs-s.png)|
-  |cs-t| ![cs-t](/emojis/hashicorp/cs-t.png)|
-  |cs-u| ![cs-u](/emojis/hashicorp/cs-u.png)|
-  |cs-v| ![cs-v](/emojis/hashicorp/cs-v.png)|
-  |cs-w| ![cs-w](/emojis/hashicorp/cs-w.png)|
-  |cs-x| ![cs-x](/emojis/hashicorp/cs-x.png)|
-  |cs-y| ![cs-y](/emojis/hashicorp/cs-y.png)|
-  |cs-z| ![cs-z](/emojis/hashicorp/cs-z.png)|
-  |css| ![css](/emojis/hashicorp/css.gif)|
-  |css3| ![css3](/emojis/hashicorp/css3.png)|
-  |ctc| ![ctc](/emojis/hashicorp/ctc.jpg)|
-  |cthulhu| ![cthulhu](/emojis/hashicorp/cthulhu.png)|
-  |cthulu| ![cthulu](/emojis/hashicorp/cthulu.gif)|
-  |cts-channel-share| ![cts-channel-share](/emojis/hashicorp/cts-channel-share.png)|
-  |cts-link| ![cts-link](/emojis/hashicorp/cts-link.png)|
-  |cts| ![cts](/emojis/hashicorp/cts.png)|
-  |cts2| ![cts2](/emojis/hashicorp/cts2.png)|
-  |ctsda| ![ctsda](/emojis/hashicorp/ctsda.png)|
-  |cubert| ![cubert](/emojis/hashicorp/cubert.png)|
-  |cubimal_chick| ![cubimal_chick](/emojis/hashicorp/cubimal_chick.png)|
-  |cultureamp| ![cultureamp](/emojis/hashicorp/cultureamp.png)|
-  |cuphead| ![cuphead](/emojis/hashicorp/cuphead.gif)|
-  |curmudgeon| ![curmudgeon](/emojis/hashicorp/curmudgeon.jpg)|
-  |currywurst| ![currywurst](/emojis/hashicorp/currywurst.png)|
-  |cursed-bagel-intensifies| ![cursed-bagel-intensifies](/emojis/hashicorp/cursed-bagel-intensifies.gif)|
-  |cursed-bagel| ![cursed-bagel](/emojis/hashicorp/cursed-bagel.png)|
-  |curses| ![curses](/emojis/hashicorp/curses.png)|
-  |custardcream| ![custardcream](/emojis/hashicorp/custardcream.png)|
-  |customer_call| ![customer_call](/emojis/hashicorp/customer_call.png)|
-  |customer_meeting| ![customer_meeting](/emojis/hashicorp/customer_meeting.png)|
-  |cut-man| ![cut-man](/emojis/hashicorp/cut-man.png)|
-  |cute-pitbull-dog| ![cute-pitbull-dog](/emojis/hashicorp/cute-pitbull-dog.png)|
-  |cute-raccoon| ![cute-raccoon](/emojis/hashicorp/cute-raccoon.png)|
-  |cute_shrug| ![cute_shrug](/emojis/hashicorp/cute_shrug.png)|
-  |cutehamster| ![cutehamster](/emojis/hashicorp/cutehamster.png)|
-  |cuttlefish| ![cuttlefish](/emojis/hashicorp/cuttlefish.gif)|
-  |cve-da| ![cve-da](/emojis/hashicorp/cve-da.png)|
-  |cve| ![cve](/emojis/hashicorp/cve.png)|
-  |cyberpunk| ![cyberpunk](/emojis/hashicorp/cyberpunk.png)|
-  |cybertruck| ![cybertruck](/emojis/hashicorp/cybertruck.png)|
-  |cyclops| ![cyclops](/emojis/hashicorp/cyclops.png)|
-  |cymbal| ![cymbal](/emojis/hashicorp/cymbal.png)|
-  |cypress| ![cypress](/emojis/hashicorp/cypress.gif)|
+|Emoji Name|Image|
+| :-: | :-: |
+|clang-the-comet| ![clang-the-comet](/emojis/hashicorp/clang-the-comet.png)|
+|clang| ![clang](/emojis/hashicorp/clang.png)|
+|clang_in_disguise| ![clang_in_disguise](/emojis/hashicorp/clang_in_disguise.png)|
+|clapping| ![clapping](/emojis/hashicorp/clapping.gif)|
+|clapping_out_of_seat| ![clapping_out_of_seat](/emojis/hashicorp/clapping_out_of_seat.jpg)|
+|claritin| ![claritin](/emojis/hashicorp/claritin.jpg)|
+|clark| ![clark](/emojis/hashicorp/clark.png)|
+|claude-intensifies| ![claude-intensifies](/emojis/hashicorp/claude-intensifies.gif)|
+|claude| ![claude](/emojis/hashicorp/claude.png)|
+|claw-crab| ![claw-crab](/emojis/hashicorp/claw-crab.gif)|
+|clean| ![clean](/emojis/hashicorp/clean.gif)|
+|cleanshot-da| ![cleanshot-da](/emojis/hashicorp/cleanshot-da.png)|
+|cleanshot| ![cleanshot](/emojis/hashicorp/cleanshot.png)|
+|click| ![click](/emojis/hashicorp/click.gif)|
+|click_noice| ![click_noice](/emojis/hashicorp/click_noice.gif)|
+|click_noice_face| ![click_noice_face](/emojis/hashicorp/click_noice_face.gif)|
+|clint-face-intensifies| ![clint-face-intensifies](/emojis/hashicorp/clint-face-intensifies.gif)|
+|clint-face| ![clint-face](/emojis/hashicorp/clint-face.png)|
+|clint-intensifies| ![clint-intensifies](/emojis/hashicorp/clint-intensifies.gif)|
+|clint-party| ![clint-party](/emojis/hashicorp/clint-party.gif)|
+|clippy| ![clippy](/emojis/hashicorp/clippy.png)|
+|clippy_page| ![clippy_page](/emojis/hashicorp/clippy_page.png)|
+|clock420| ![clock420](/emojis/hashicorp/clock420.png)|
+|cloffice| ![cloffice](/emojis/hashicorp/cloffice.jpg)|
+|clojure| ![clojure](/emojis/hashicorp/clojure.png)|
+|closed| ![closed](/emojis/hashicorp/closed.png)|
+|closerandy| ![closerandy](/emojis/hashicorp/closerandy.png)|
+|cloud-acceleration-blood-sob| ![cloud-acceleration-blood-sob](/emojis/hashicorp/cloud-acceleration-blood-sob.png)|
+|cloud-acceleration-cool| ![cloud-acceleration-cool](/emojis/hashicorp/cloud-acceleration-cool.png)|
+|cloud-acceleration-da| ![cloud-acceleration-da](/emojis/hashicorp/cloud-acceleration-da.png)|
+|cloud-acceleration-globe| ![cloud-acceleration-globe](/emojis/hashicorp/cloud-acceleration-globe.gif)|
+|cloud-acceleration-intensifies| ![cloud-acceleration-intensifies](/emojis/hashicorp/cloud-acceleration-intensifies.gif)|
+|cloud-acceleration-on-fire| ![cloud-acceleration-on-fire](/emojis/hashicorp/cloud-acceleration-on-fire.gif)|
+|cloud-acceleration-sob| ![cloud-acceleration-sob](/emojis/hashicorp/cloud-acceleration-sob.png)|
+|cloud-acceleration-waves| ![cloud-acceleration-waves](/emojis/hashicorp/cloud-acceleration-waves.gif)|
+|cloud-acceleration| ![cloud-acceleration](/emojis/hashicorp/cloud-acceleration.png)|
+|cloud-adam-intensifies| ![cloud-adam-intensifies](/emojis/hashicorp/cloud-adam-intensifies.gif)|
+|cloud-adam| ![cloud-adam](/emojis/hashicorp/cloud-adam.png)|
+|cloud-alex| ![cloud-alex](/emojis/hashicorp/cloud-alex.png)|
+|cloud-alexj| ![cloud-alexj](/emojis/hashicorp/cloud-alexj.jpg)|
+|cloud-ali| ![cloud-ali](/emojis/hashicorp/cloud-ali.jpg)|
+|cloud-amy-infinite| ![cloud-amy-infinite](/emojis/hashicorp/cloud-amy-infinite.gif)|
+|cloud-amy-intensifies| ![cloud-amy-intensifies](/emojis/hashicorp/cloud-amy-intensifies.gif)|
+|cloud-amy| ![cloud-amy](/emojis/hashicorp/cloud-amy.png)|
+|cloud-ben| ![cloud-ben](/emojis/hashicorp/cloud-ben.jpg)|
+|cloud-byron-intensifies| ![cloud-byron-intensifies](/emojis/hashicorp/cloud-byron-intensifies.gif)|
+|cloud-byron| ![cloud-byron](/emojis/hashicorp/cloud-byron.png)|
+|cloud-chappie| ![cloud-chappie](/emojis/hashicorp/cloud-chappie.jpg)|
+|cloud-consul-chris| ![cloud-consul-chris](/emojis/hashicorp/cloud-consul-chris.jpg)|
+|cloud-cullen-burn| ![cloud-cullen-burn](/emojis/hashicorp/cloud-cullen-burn.gif)|
+|cloud-cullen-cat-jam| ![cloud-cullen-cat-jam](/emojis/hashicorp/cloud-cullen-cat-jam.gif)|
+|cloud-cullen-deal-with-it| ![cloud-cullen-deal-with-it](/emojis/hashicorp/cloud-cullen-deal-with-it.gif)|
+|cloud-cullen-ded| ![cloud-cullen-ded](/emojis/hashicorp/cloud-cullen-ded.png)|
+|cloud-cullen-excited| ![cloud-cullen-excited](/emojis/hashicorp/cloud-cullen-excited.gif)|
+|cloud-cullen-intensifies| ![cloud-cullen-intensifies](/emojis/hashicorp/cloud-cullen-intensifies.gif)|
+|cloud-cullen-jam| ![cloud-cullen-jam](/emojis/hashicorp/cloud-cullen-jam.gif)|
+|cloud-cullen-jammies| ![cloud-cullen-jammies](/emojis/hashicorp/cloud-cullen-jammies.gif)|
+|cloud-cullen-mosaic-1| ![cloud-cullen-mosaic-1](/emojis/hashicorp/cloud-cullen-mosaic-1.png)|
+|cloud-cullen-mosaic-10| ![cloud-cullen-mosaic-10](/emojis/hashicorp/cloud-cullen-mosaic-10.png)|
+|cloud-cullen-mosaic-11| ![cloud-cullen-mosaic-11](/emojis/hashicorp/cloud-cullen-mosaic-11.png)|
+|cloud-cullen-mosaic-12| ![cloud-cullen-mosaic-12](/emojis/hashicorp/cloud-cullen-mosaic-12.png)|
+|cloud-cullen-mosaic-13| ![cloud-cullen-mosaic-13](/emojis/hashicorp/cloud-cullen-mosaic-13.png)|
+|cloud-cullen-mosaic-14| ![cloud-cullen-mosaic-14](/emojis/hashicorp/cloud-cullen-mosaic-14.png)|
+|cloud-cullen-mosaic-15| ![cloud-cullen-mosaic-15](/emojis/hashicorp/cloud-cullen-mosaic-15.png)|
+|cloud-cullen-mosaic-16| ![cloud-cullen-mosaic-16](/emojis/hashicorp/cloud-cullen-mosaic-16.png)|
+|cloud-cullen-mosaic-17| ![cloud-cullen-mosaic-17](/emojis/hashicorp/cloud-cullen-mosaic-17.png)|
+|cloud-cullen-mosaic-18| ![cloud-cullen-mosaic-18](/emojis/hashicorp/cloud-cullen-mosaic-18.png)|
+|cloud-cullen-mosaic-19| ![cloud-cullen-mosaic-19](/emojis/hashicorp/cloud-cullen-mosaic-19.png)|
+|cloud-cullen-mosaic-2| ![cloud-cullen-mosaic-2](/emojis/hashicorp/cloud-cullen-mosaic-2.png)|
+|cloud-cullen-mosaic-20| ![cloud-cullen-mosaic-20](/emojis/hashicorp/cloud-cullen-mosaic-20.png)|
+|cloud-cullen-mosaic-21| ![cloud-cullen-mosaic-21](/emojis/hashicorp/cloud-cullen-mosaic-21.png)|
+|cloud-cullen-mosaic-22| ![cloud-cullen-mosaic-22](/emojis/hashicorp/cloud-cullen-mosaic-22.png)|
+|cloud-cullen-mosaic-23| ![cloud-cullen-mosaic-23](/emojis/hashicorp/cloud-cullen-mosaic-23.png)|
+|cloud-cullen-mosaic-24| ![cloud-cullen-mosaic-24](/emojis/hashicorp/cloud-cullen-mosaic-24.png)|
+|cloud-cullen-mosaic-25| ![cloud-cullen-mosaic-25](/emojis/hashicorp/cloud-cullen-mosaic-25.png)|
+|cloud-cullen-mosaic-26| ![cloud-cullen-mosaic-26](/emojis/hashicorp/cloud-cullen-mosaic-26.png)|
+|cloud-cullen-mosaic-27| ![cloud-cullen-mosaic-27](/emojis/hashicorp/cloud-cullen-mosaic-27.png)|
+|cloud-cullen-mosaic-28| ![cloud-cullen-mosaic-28](/emojis/hashicorp/cloud-cullen-mosaic-28.png)|
+|cloud-cullen-mosaic-29| ![cloud-cullen-mosaic-29](/emojis/hashicorp/cloud-cullen-mosaic-29.png)|
+|cloud-cullen-mosaic-3| ![cloud-cullen-mosaic-3](/emojis/hashicorp/cloud-cullen-mosaic-3.png)|
+|cloud-cullen-mosaic-30| ![cloud-cullen-mosaic-30](/emojis/hashicorp/cloud-cullen-mosaic-30.png)|
+|cloud-cullen-mosaic-31| ![cloud-cullen-mosaic-31](/emojis/hashicorp/cloud-cullen-mosaic-31.png)|
+|cloud-cullen-mosaic-32| ![cloud-cullen-mosaic-32](/emojis/hashicorp/cloud-cullen-mosaic-32.png)|
+|cloud-cullen-mosaic-33| ![cloud-cullen-mosaic-33](/emojis/hashicorp/cloud-cullen-mosaic-33.png)|
+|cloud-cullen-mosaic-34| ![cloud-cullen-mosaic-34](/emojis/hashicorp/cloud-cullen-mosaic-34.png)|
+|cloud-cullen-mosaic-35| ![cloud-cullen-mosaic-35](/emojis/hashicorp/cloud-cullen-mosaic-35.png)|
+|cloud-cullen-mosaic-36| ![cloud-cullen-mosaic-36](/emojis/hashicorp/cloud-cullen-mosaic-36.png)|
+|cloud-cullen-mosaic-37| ![cloud-cullen-mosaic-37](/emojis/hashicorp/cloud-cullen-mosaic-37.png)|
+|cloud-cullen-mosaic-38| ![cloud-cullen-mosaic-38](/emojis/hashicorp/cloud-cullen-mosaic-38.png)|
+|cloud-cullen-mosaic-39| ![cloud-cullen-mosaic-39](/emojis/hashicorp/cloud-cullen-mosaic-39.png)|
+|cloud-cullen-mosaic-4| ![cloud-cullen-mosaic-4](/emojis/hashicorp/cloud-cullen-mosaic-4.png)|
+|cloud-cullen-mosaic-40| ![cloud-cullen-mosaic-40](/emojis/hashicorp/cloud-cullen-mosaic-40.png)|
+|cloud-cullen-mosaic-41| ![cloud-cullen-mosaic-41](/emojis/hashicorp/cloud-cullen-mosaic-41.png)|
+|cloud-cullen-mosaic-42| ![cloud-cullen-mosaic-42](/emojis/hashicorp/cloud-cullen-mosaic-42.png)|
+|cloud-cullen-mosaic-43| ![cloud-cullen-mosaic-43](/emojis/hashicorp/cloud-cullen-mosaic-43.png)|
+|cloud-cullen-mosaic-44| ![cloud-cullen-mosaic-44](/emojis/hashicorp/cloud-cullen-mosaic-44.png)|
+|cloud-cullen-mosaic-45| ![cloud-cullen-mosaic-45](/emojis/hashicorp/cloud-cullen-mosaic-45.png)|
+|cloud-cullen-mosaic-46| ![cloud-cullen-mosaic-46](/emojis/hashicorp/cloud-cullen-mosaic-46.png)|
+|cloud-cullen-mosaic-47| ![cloud-cullen-mosaic-47](/emojis/hashicorp/cloud-cullen-mosaic-47.png)|
+|cloud-cullen-mosaic-48| ![cloud-cullen-mosaic-48](/emojis/hashicorp/cloud-cullen-mosaic-48.png)|
 
-  <hr/>
-  
-  [Previous Page](/docs/hashicorp/page-c-0017.md)
-   | [Next Page](/docs/hashicorp/page-d-0019.md)
+<hr/>
+
+[Previous Page](/docs/hashicorp/page-c-0017.md)
+  | [Next Page](/docs/hashicorp/page-c-0019.md)

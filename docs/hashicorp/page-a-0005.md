@@ -1,115 +1,115 @@
 
-  ## Emojis (Page 5)
+## Emojis (Page 5)
 
-  [Previous Page](/docs/hashicorp/page-a-0004.md)
-   | [Next Page](/docs/hashicorp/page-b-0006.md)
+[Previous Page](/docs/hashicorp/page-a-0004.md)
+  | [Next Page](/docs/hashicorp/page-a-0006.md)
 
-  <hr />
+<hr />
 
-  |Emoji Name|Image|
-  | :-: | :-: |
-  |axolotl| ![axolotl](/emojis/hashicorp/axolotl.png)|
-  |aye_aye_captain| ![aye_aye_captain](/emojis/hashicorp/aye_aye_captain.jpg)|
-  |azalea| ![azalea](/emojis/hashicorp/azalea.png)|
-  |azure-angry-new| ![azure-angry-new](/emojis/hashicorp/azure-angry-new.gif)|
-  |azure-blood-sob| ![azure-blood-sob](/emojis/hashicorp/azure-blood-sob.png)|
-  |azure-da| ![azure-da](/emojis/hashicorp/azure-da.png)|
-  |azure-dns| ![azure-dns](/emojis/hashicorp/azure-dns.png)|
-  |azure-headache| ![azure-headache](/emojis/hashicorp/azure-headache.png)|
-  |azure-intensifies-new| ![azure-intensifies-new](/emojis/hashicorp/azure-intensifies-new.gif)|
-  |azure-intensifies| ![azure-intensifies](/emojis/hashicorp/azure-intensifies.gif)|
-  |azure-on-fire-new| ![azure-on-fire-new](/emojis/hashicorp/azure-on-fire-new.gif)|
-  |azure-on-fire| ![azure-on-fire](/emojis/hashicorp/azure-on-fire.gif)|
-  |azure-party| ![azure-party](/emojis/hashicorp/azure-party.gif)|
-  |azure-royal| ![azure-royal](/emojis/hashicorp/azure-royal.png)|
-  |azure-sob| ![azure-sob](/emojis/hashicorp/azure-sob.png)|
-  |azure| ![azure](/emojis/hashicorp/azure.png)|
-  |b-r-popplepush| ![b-r-popplepush](/emojis/hashicorp/b-r-popplepush.png)|
-  |ba-andy-face| ![ba-andy-face](/emojis/hashicorp/ba-andy-face.png)|
-  |ba-andy| ![ba-andy](/emojis/hashicorp/ba-andy.png)|
-  |ba-brad-face| ![ba-brad-face](/emojis/hashicorp/ba-brad-face.png)|
-  |ba-brad| ![ba-brad](/emojis/hashicorp/ba-brad.png)|
-  |ba-carla-face| ![ba-carla-face](/emojis/hashicorp/ba-carla-face.png)|
-  |ba-carla| ![ba-carla](/emojis/hashicorp/ba-carla.png)|
-  |ba-chris-face| ![ba-chris-face](/emojis/hashicorp/ba-chris-face.png)|
-  |ba-chris| ![ba-chris](/emojis/hashicorp/ba-chris.png)|
-  |ba-christina-face| ![ba-christina-face](/emojis/hashicorp/ba-christina-face.png)|
-  |ba-christina| ![ba-christina](/emojis/hashicorp/ba-christina.png)|
-  |ba-claire-face| ![ba-claire-face](/emojis/hashicorp/ba-claire-face.png)|
-  |ba-claire| ![ba-claire](/emojis/hashicorp/ba-claire.png)|
-  |ba-delany-face| ![ba-delany-face](/emojis/hashicorp/ba-delany-face.png)|
-  |ba-delany| ![ba-delany](/emojis/hashicorp/ba-delany.png)|
-  |ba-gaby-face| ![ba-gaby-face](/emojis/hashicorp/ba-gaby-face.png)|
-  |ba-gaby| ![ba-gaby](/emojis/hashicorp/ba-gaby.png)|
-  |ba-molly-face| ![ba-molly-face](/emojis/hashicorp/ba-molly-face.png)|
-  |ba-molly| ![ba-molly](/emojis/hashicorp/ba-molly.png)|
-  |ba-rick-face| ![ba-rick-face](/emojis/hashicorp/ba-rick-face.png)|
-  |ba-rick| ![ba-rick](/emojis/hashicorp/ba-rick.png)|
-  |baba| ![baba](/emojis/hashicorp/baba.png)|
-  |baby-da| ![baby-da](/emojis/hashicorp/baby-da.png)|
-  |baby-dory| ![baby-dory](/emojis/hashicorp/baby-dory.png)|
-  |baby-shark| ![baby-shark](/emojis/hashicorp/baby-shark.png)|
-  |baby-yo-da| ![baby-yo-da](/emojis/hashicorp/baby-yo-da.png)|
-  |baby-yoda-tea| ![baby-yoda-tea](/emojis/hashicorp/baby-yoda-tea.png)|
-  |baby-yoda| ![baby-yoda](/emojis/hashicorp/baby-yoda.png)|
-  |baby_possum| ![baby_possum](/emojis/hashicorp/baby_possum.png)|
-  |baby_yoda_soup| ![baby_yoda_soup](/emojis/hashicorp/baby_yoda_soup.gif)|
-  |babyburrito| ![babyburrito](/emojis/hashicorp/babyburrito.jpg)|
-  |babyfeet| ![babyfeet](/emojis/hashicorp/babyfeet.png)|
-  |babyyoda| ![babyyoda](/emojis/hashicorp/babyyoda.png)|
-  |babyyoda2| ![babyyoda2](/emojis/hashicorp/babyyoda2.png)|
-  |babyyoda3| ![babyyoda3](/emojis/hashicorp/babyyoda3.jpg)|
-  |back-away-slowly| ![back-away-slowly](/emojis/hashicorp/back-away-slowly.gif)|
-  |back-pain| ![back-pain](/emojis/hashicorp/back-pain.png)|
-  |back-to-the-future| ![back-to-the-future](/emojis/hashicorp/back-to-the-future.png)|
-  |backlog| ![backlog](/emojis/hashicorp/backlog.png)|
-  |backlogda| ![backlogda](/emojis/hashicorp/backlogda.png)|
-  |bacon2| ![bacon2](/emojis/hashicorp/bacon2.png)|
-  |bad-boss| ![bad-boss](/emojis/hashicorp/bad-boss.png)|
-  |bad-data| ![bad-data](/emojis/hashicorp/bad-data.jpg)|
-  |bad-kerning| ![bad-kerning](/emojis/hashicorp/bad-kerning.png)|
-  |badge-intensifies| ![badge-intensifies](/emojis/hashicorp/badge-intensifies.gif)|
-  |badge-transparent| ![badge-transparent](/emojis/hashicorp/badge-transparent.png)|
-  |badge| ![badge](/emojis/hashicorp/badge.png)|
-  |badgerbadger| ![badgerbadger](/emojis/hashicorp/badgerbadger.gif)|
-  |badjokeeel| ![badjokeeel](/emojis/hashicorp/badjokeeel.png)|
-  |badpokerface| ![badpokerface](/emojis/hashicorp/badpokerface.png)|
-  |badtime| ![badtime](/emojis/hashicorp/badtime.png)|
-  |baduk| ![baduk](/emojis/hashicorp/baduk.png)|
-  |badumtss| ![badumtss](/emojis/hashicorp/badumtss.png)|
-  |bagel-intensifies| ![bagel-intensifies](/emojis/hashicorp/bagel-intensifies.gif)|
-  |bagels| ![bagels](/emojis/hashicorp/bagels.jpg)|
-  |bagels_and_lox| ![bagels_and_lox](/emojis/hashicorp/bagels_and_lox.jpg)|
-  |bagspacked| ![bagspacked](/emojis/hashicorp/bagspacked.png)|
-  |bahn_mi| ![bahn_mi](/emojis/hashicorp/bahn_mi.png)|
-  |bail| ![bail](/emojis/hashicorp/bail.png)|
-  |bailando| ![bailando](/emojis/hashicorp/bailando.gif)|
-  |baked_beans| ![baked_beans](/emojis/hashicorp/baked_beans.png)|
-  |balance| ![balance](/emojis/hashicorp/balance.png)|
-  |baleeted| ![baleeted](/emojis/hashicorp/baleeted.png)|
-  |ball| ![ball](/emojis/hashicorp/ball.png)|
-  |ballmer| ![ballmer](/emojis/hashicorp/ballmer.png)|
-  |balsamiq| ![balsamiq](/emojis/hashicorp/balsamiq.png)|
-  |ban-hammer| ![ban-hammer](/emojis/hashicorp/ban-hammer.png)|
-  |ban_hammer| ![ban_hammer](/emojis/hashicorp/ban_hammer.png)|
-  |banana_dance| ![banana_dance](/emojis/hashicorp/banana_dance.gif)|
-  |banana_parrot| ![banana_parrot](/emojis/hashicorp/banana_parrot.gif)|
-  |banana_suit| ![banana_suit](/emojis/hashicorp/banana_suit.png)|
-  |bandaid| ![bandaid](/emojis/hashicorp/bandaid.jpg)|
-  |bandcamp-friday-yes| ![bandcamp-friday-yes](/emojis/hashicorp/bandcamp-friday-yes.gif)|
-  |bandit| ![bandit](/emojis/hashicorp/bandit.gif)|
-  |bane| ![bane](/emojis/hashicorp/bane.png)|
-  |bang| ![bang](/emojis/hashicorp/bang.gif)|
-  |bangarang| ![bangarang](/emojis/hashicorp/bangarang.png)|
-  |banica| ![banica](/emojis/hashicorp/banica.jpg)|
-  |banjo2| ![banjo2](/emojis/hashicorp/banjo2.jpg)|
-  |banks| ![banks](/emojis/hashicorp/banks.png)|
-  |bao| ![bao](/emojis/hashicorp/bao.png)|
-  |baptiste-ow| ![baptiste-ow](/emojis/hashicorp/baptiste-ow.png)|
-  |barbell| ![barbell](/emojis/hashicorp/barbell.png)|
-  |barclays-intensifies| ![barclays-intensifies](/emojis/hashicorp/barclays-intensifies.gif)|
+|Emoji Name|Image|
+| :-: | :-: |
+|army| ![army](/emojis/hashicorp/army.png)|
+|arnie| ![arnie](/emojis/hashicorp/arnie.jpg)|
+|aromantic_pride| ![aromantic_pride](/emojis/hashicorp/aromantic_pride.png)|
+|arsenal| ![arsenal](/emojis/hashicorp/arsenal.png)|
+|arthur-fist| ![arthur-fist](/emojis/hashicorp/arthur-fist.png)|
+|arthur| ![arthur](/emojis/hashicorp/arthur.jpg)|
+|artifactory| ![artifactory](/emojis/hashicorp/artifactory.png)|
+|arya-thedog-vizsla| ![arya-thedog-vizsla](/emojis/hashicorp/arya-thedog-vizsla.jpg)|
+|asana-cool-blood-cry| ![asana-cool-blood-cry](/emojis/hashicorp/asana-cool-blood-cry.png)|
+|asana-intensifies| ![asana-intensifies](/emojis/hashicorp/asana-intensifies.gif)|
+|asana-sob| ![asana-sob](/emojis/hashicorp/asana-sob.png)|
+|asana| ![asana](/emojis/hashicorp/asana.png)|
+|asanada| ![asanada](/emojis/hashicorp/asanada.png)|
+|asda-logo| ![asda-logo](/emojis/hashicorp/asda-logo.png)|
+|asda| ![asda](/emojis/hashicorp/asda.png)|
+|asdf| ![asdf](/emojis/hashicorp/asdf.gif)|
+|asdfretr| ![asdfretr](/emojis/hashicorp/asdfretr.jpg)|
+|ash| ![ash](/emojis/hashicorp/ash.png)|
+|ash_evil_dead| ![ash_evil_dead](/emojis/hashicorp/ash_evil_dead.png)|
+|ash_evil_dead_cute| ![ash_evil_dead_cute](/emojis/hashicorp/ash_evil_dead_cute.png)|
+|asha| ![asha](/emojis/hashicorp/asha.png)|
+|ashe-ow| ![ashe-ow](/emojis/hashicorp/ashe-ow.png)|
+|ashley| ![ashley](/emojis/hashicorp/ashley.jpg)|
+|ask4friend| ![ask4friend](/emojis/hashicorp/ask4friend.jpg)|
+|asl-applause| ![asl-applause](/emojis/hashicorp/asl-applause.gif)|
+|asl-champ| ![asl-champ](/emojis/hashicorp/asl-champ.gif)|
+|asl-no| ![asl-no](/emojis/hashicorp/asl-no.gif)|
+|asl-oh-i-see| ![asl-oh-i-see](/emojis/hashicorp/asl-oh-i-see.gif)|
+|asl-thank-you| ![asl-thank-you](/emojis/hashicorp/asl-thank-you.gif)|
+|asl-yes| ![asl-yes](/emojis/hashicorp/asl-yes.gif)|
+|ass| ![ass](/emojis/hashicorp/ass.png)|
+|aston-martin| ![aston-martin](/emojis/hashicorp/aston-martin.jpg)|
+|astonished_blob| ![astonished_blob](/emojis/hashicorp/astonished_blob.png)|
+|astrazeneca| ![astrazeneca](/emojis/hashicorp/astrazeneca.png)|
+|astros_emoji| ![astros_emoji](/emojis/hashicorp/astros_emoji.png)|
+|astros_emoji_2| ![astros_emoji_2](/emojis/hashicorp/astros_emoji_2.png)|
+|asyouwish| ![asyouwish](/emojis/hashicorp/asyouwish.jpg)|
+|at-at| ![at-at](/emojis/hashicorp/at-at.png)|
+|at-here-intensifies| ![at-here-intensifies](/emojis/hashicorp/at-here-intensifies.gif)|
+|atari| ![atari](/emojis/hashicorp/atari.png)|
+|ateam| ![ateam](/emojis/hashicorp/ateam.jpg)|
+|athena| ![athena](/emojis/hashicorp/athena.png)|
+|atlantis| ![atlantis](/emojis/hashicorp/atlantis.png)|
+|atlas-spin| ![atlas-spin](/emojis/hashicorp/atlas-spin.gif)|
+|atlas| ![atlas](/emojis/hashicorp/atlas.png)|
+|atlasda| ![atlasda](/emojis/hashicorp/atlasda.png)|
+|atlassian| ![atlassian](/emojis/hashicorp/atlassian.png)|
+|atlutd| ![atlutd](/emojis/hashicorp/atlutd.jpg)|
+|atom| ![atom](/emojis/hashicorp/atom.png)|
+|atos| ![atos](/emojis/hashicorp/atos.png)|
+|atowndown| ![atowndown](/emojis/hashicorp/atowndown.gif)|
+|attention| ![attention](/emojis/hashicorp/attention.png)|
+|attorneygeneral| ![attorneygeneral](/emojis/hashicorp/attorneygeneral.jpg)|
+|auroraborealis| ![auroraborealis](/emojis/hashicorp/auroraborealis.jpg)|
+|aus-intensifies| ![aus-intensifies](/emojis/hashicorp/aus-intensifies.gif)|
+|aussie-glenn| ![aussie-glenn](/emojis/hashicorp/aussie-glenn.png)|
+|austin-da| ![austin-da](/emojis/hashicorp/austin-da.png)|
+|austin-fc| ![austin-fc](/emojis/hashicorp/austin-fc.png)|
+|austin| ![austin](/emojis/hashicorp/austin.jpg)|
+|australia| ![australia](/emojis/hashicorp/australia.gif)|
+|australian-hello| ![australian-hello](/emojis/hashicorp/australian-hello.png)|
+|australian-thumbsdown| ![australian-thumbsdown](/emojis/hashicorp/australian-thumbsdown.png)|
+|australian-thumbsup| ![australian-thumbsup](/emojis/hashicorp/australian-thumbsup.png)|
+|australian_ok| ![australian_ok](/emojis/hashicorp/australian_ok.png)|
+|australian_snake| ![australian_snake](/emojis/hashicorp/australian_snake.png)|
+|australian_sunrise| ![australian_sunrise](/emojis/hashicorp/australian_sunrise.png)|
+|authoritah| ![authoritah](/emojis/hashicorp/authoritah.jpg)|
+|auto-destroy| ![auto-destroy](/emojis/hashicorp/auto-destroy.png)|
+|autobot| ![autobot](/emojis/hashicorp/autobot.png)|
+|ava| ![ava](/emojis/hashicorp/ava.jpg)|
+|avalanche| ![avalanche](/emojis/hashicorp/avalanche.png)|
+|avengers| ![avengers](/emojis/hashicorp/avengers.jpg)|
+|avengers1| ![avengers1](/emojis/hashicorp/avengers1.gif)|
+|avicii| ![avicii](/emojis/hashicorp/avicii.png)|
+|avocada| ![avocada](/emojis/hashicorp/avocada.png)|
+|avocado2| ![avocado2](/emojis/hashicorp/avocado2.png)|
+|avocorn| ![avocorn](/emojis/hashicorp/avocorn.png)|
+|avoctopus| ![avoctopus](/emojis/hashicorp/avoctopus.png)|
+|avodance| ![avodance](/emojis/hashicorp/avodance.gif)|
+|avolove| ![avolove](/emojis/hashicorp/avolove.png)|
+|avril-burn| ![avril-burn](/emojis/hashicorp/avril-burn.gif)|
+|avril-emoji| ![avril-emoji](/emojis/hashicorp/avril-emoji.png)|
+|avrilintensifies| ![avrilintensifies](/emojis/hashicorp/avrilintensifies.gif)|
+|aw-cry-happycat| ![aw-cry-happycat](/emojis/hashicorp/aw-cry-happycat.png)|
+|aw| ![aw](/emojis/hashicorp/aw.png)|
+|aw_yeah| ![aw_yeah](/emojis/hashicorp/aw_yeah.gif)|
+|aw_yiss| ![aw_yiss](/emojis/hashicorp/aw_yiss.png)|
+|awake| ![awake](/emojis/hashicorp/awake.png)|
+|away| ![away](/emojis/hashicorp/away.png)|
+|awesome-spin| ![awesome-spin](/emojis/hashicorp/awesome-spin.gif)|
+|awesome-think| ![awesome-think](/emojis/hashicorp/awesome-think.png)|
+|awesome| ![awesome](/emojis/hashicorp/awesome.png)|
+|awesome1| ![awesome1](/emojis/hashicorp/awesome1.gif)|
+|awesome_cylon| ![awesome_cylon](/emojis/hashicorp/awesome_cylon.gif)|
+|awesome_dance| ![awesome_dance](/emojis/hashicorp/awesome_dance.gif)|
+|awesome_possum| ![awesome_possum](/emojis/hashicorp/awesome_possum.jpg)|
+|awesomecat| ![awesomecat](/emojis/hashicorp/awesomecat.png)|
+|awkward-monkey| ![awkward-monkey](/emojis/hashicorp/awkward-monkey.png)|
+|awkward-seal| ![awkward-seal](/emojis/hashicorp/awkward-seal.jpg)|
+|awkward_monkey_look| ![awkward_monkey_look](/emojis/hashicorp/awkward_monkey_look.gif)|
 
-  <hr/>
-  
-  [Previous Page](/docs/hashicorp/page-a-0004.md)
-   | [Next Page](/docs/hashicorp/page-b-0006.md)
+<hr/>
+
+[Previous Page](/docs/hashicorp/page-a-0004.md)
+  | [Next Page](/docs/hashicorp/page-a-0006.md)
