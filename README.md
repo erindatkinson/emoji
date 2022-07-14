@@ -30,7 +30,6 @@ The current way that has been working is to go to the webapp of the slack team, 
   * This will filter out all the emoji/aliases that aren't in your downloads.db and download the rest to the directory `emojis/${NAMESPACE}/` and add the downloaded data to the downloads.db for future filtering.
 
 * gen
-  * First run `rm docs/$NAMESPACE/*` for the namespace you're generating as the script doesn't currently do this
   * run `NAMESPACE=<subdir in emojis/> make gen`
   * This will generate an index and browse pages of markdown for all emoji in the `emojis/$NAMESPACE/` dir.
 
