@@ -5,7 +5,7 @@ from os.path import splitext, join
 from os import listdir, makedirs
 from json import loads
 from requests import get
-from shutil import copyfile
+from shutil import copyfile, rmtree
 from jinja2 import Template
 from lib import templates, helpers
 
@@ -79,6 +79,7 @@ class Downloader(object):
 
 
   def gen(self):
+    rmtree(f"docs/{self.ns}")
     makedirs(f"docs/{self.ns}", exist_ok=True)
     emoji      = sorted(listdir(self.nsDownload))
     split      = list(map(lambda x: splitext(x), emoji))
