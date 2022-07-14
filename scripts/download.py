@@ -10,11 +10,10 @@ from jinja2 import Template
 from lib import templates, helpers
 
 class Downloader(object):
-  def __init__(self, db="./downloads.db", downloadDir="emojis", listDir="lists", namespace="hashicorp"):
+  def __init__(self, db="./downloads.db", downloadDir="emojis", namespace="hc"):
     self.db = db
     self.ns = namespace
     self.downloadDir = downloadDir
-    self.listDir = listDir
 
     self.nsDownload = join(downloadDir, namespace)
     self.conn = connect(db)
