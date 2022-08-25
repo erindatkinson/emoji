@@ -8,6 +8,9 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|a_blob_hair_flip| ![a_blob_hair_flip](/emojis/hc/a_blob_hair_flip.gif)|
+|a_blob_happy| ![a_blob_happy](/emojis/hc/a_blob_happy.gif)|
+|a_blob_hungry| ![a_blob_hungry](/emojis/hc/a_blob_hungry.gif)|
 |a_blob_hyper_party| ![a_blob_hyper_party](/emojis/hc/a_blob_hyper_party.gif)|
 |a_blob_kiss| ![a_blob_kiss](/emojis/hc/a_blob_kiss.gif)|
 |a_blob_lamp| ![a_blob_lamp](/emojis/hc/a_blob_lamp.gif)|
@@ -43,12 +46,14 @@
 |abbie-intensifies| ![abbie-intensifies](/emojis/hc/abbie-intensifies.gif)|
 |abby| ![abby](/emojis/hc/abby.png)|
 |abbydog| ![abbydog](/emojis/hc/abbydog.png)|
+|abed_cool| ![abed_cool](/emojis/hc/abed_cool.gif)|
 |abigail| ![abigail](/emojis/hc/abigail.png)|
 |abouttocry| ![abouttocry](/emojis/hc/abouttocry.png)|
 |abra| ![abra](/emojis/hc/abra.gif)|
 |abstract-da| ![abstract-da](/emojis/hc/abstract-da.png)|
 |abstract| ![abstract](/emojis/hc/abstract.png)|
 |academy| ![academy](/emojis/hc/academy.png)|
+|acahill-intensifies| ![acahill-intensifies](/emojis/hc/acahill-intensifies.gif)|
 |acclaim| ![acclaim](/emojis/hc/acclaim.png)|
 |acdc| ![acdc](/emojis/hc/acdc.png)|
 |acedance| ![acedance](/emojis/hc/acedance.gif)|
@@ -96,18 +101,13 @@
 |aeris| ![aeris](/emojis/hc/aeris.png)|
 |aeropress| ![aeropress](/emojis/hc/aeropress.png)|
 |aesir| ![aesir](/emojis/hc/aesir.png)|
+|affirmative| ![affirmative](/emojis/hc/affirmative.png)|
 |affleck| ![affleck](/emojis/hc/affleck.jpg)|
 |afk| ![afk](/emojis/hc/afk.png)|
 |afk_1| ![afk_1](/emojis/hc/afk_1.png)|
 |afro_top| ![afro_top](/emojis/hc/afro_top.png)|
 |agatha-beautiful-face| ![agatha-beautiful-face](/emojis/hc/agatha-beautiful-face.png)|
 |agatha| ![agatha](/emojis/hc/agatha.png)|
-|agathafirefoxcat| ![agathafirefoxcat](/emojis/hc/agathafirefoxcat.png)|
-|agave| ![agave](/emojis/hc/agave.jpg)|
-|agent| ![agent](/emojis/hc/agent.png)|
-|agentless-intensifies| ![agentless-intensifies](/emojis/hc/agentless-intensifies.gif)|
-|agentless| ![agentless](/emojis/hc/agentless.png)|
-|agray-cool-intensifies| ![agray-cool-intensifies](/emojis/hc/agray-cool-intensifies.gif)|
 
 <hr/>
 

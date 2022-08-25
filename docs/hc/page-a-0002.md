@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|agathafirefoxcat| ![agathafirefoxcat](/emojis/hc/agathafirefoxcat.png)|
+|agave| ![agave](/emojis/hc/agave.jpg)|
+|agent| ![agent](/emojis/hc/agent.png)|
+|agentless-intensifies| ![agentless-intensifies](/emojis/hc/agentless-intensifies.gif)|
+|agentless| ![agentless](/emojis/hc/agentless.png)|
+|agray-cool-intensifies| ![agray-cool-intensifies](/emojis/hc/agray-cool-intensifies.gif)|
 |agray-cool| ![agray-cool](/emojis/hc/agray-cool.png)|
 |agray-intensifies| ![agray-intensifies](/emojis/hc/agray-intensifies.gif)|
 |agray-longing-intensifies| ![agray-longing-intensifies](/emojis/hc/agray-longing-intensifies.gif)|
@@ -19,6 +25,7 @@
 |agrayscowl| ![agrayscowl](/emojis/hc/agrayscowl.png)|
 |agree| ![agree](/emojis/hc/agree.png)|
 |agreed| ![agreed](/emojis/hc/agreed.jpg)|
+|ah| ![ah](/emojis/hc/ah.png)|
 |aha| ![aha](/emojis/hc/aha.png)|
 |ahaaa| ![ahaaa](/emojis/hc/ahaaa.jpg)|
 |ahh| ![ahh](/emojis/hc/ahh.png)|
@@ -32,6 +39,7 @@
 |ahsoka| ![ahsoka](/emojis/hc/ahsoka.png)|
 |aht_aht| ![aht_aht](/emojis/hc/aht_aht.jpg)|
 |aileen| ![aileen](/emojis/hc/aileen.png)|
+|ain't-no-laws-when-he's-drinkin-claws| ![ain't-no-laws-when-he's-drinkin-claws](/emojis/hc/ain't-no-laws-when-he's-drinkin-claws.png)|
 |air| ![air](/emojis/hc/air.png)|
 |air_quotes| ![air_quotes](/emojis/hc/air_quotes.gif)|
 |air_quotes_close| ![air_quotes_close](/emojis/hc/air_quotes_close.gif)|
@@ -44,11 +52,13 @@
 |aish| ![aish](/emojis/hc/aish.gif)|
 |aix| ![aix](/emojis/hc/aix.jpg)|
 |aj| ![aj](/emojis/hc/aj.png)|
+|ajit-cringe| ![ajit-cringe](/emojis/hc/ajit-cringe.png)|
 |akbar| ![akbar](/emojis/hc/akbar.jpg)|
 |aks| ![aks](/emojis/hc/aks.png)|
 |alam-intensifies| ![alam-intensifies](/emojis/hc/alam-intensifies.gif)|
 |alarm_clock-intensifies| ![alarm_clock-intensifies](/emojis/hc/alarm_clock-intensifies.gif)|
 |alberta| ![alberta](/emojis/hc/alberta.png)|
+|aleer| ![aleer](/emojis/hc/aleer.jpg)|
 |alert| ![alert](/emojis/hc/alert.gif)|
 |alexis-schitt| ![alexis-schitt](/emojis/hc/alexis-schitt.png)|
 |alexis| ![alexis](/emojis/hc/alexis.jpg)|
@@ -69,6 +79,10 @@
 |alisdair-waves| ![alisdair-waves](/emojis/hc/alisdair-waves.gif)|
 |alisdair| ![alisdair](/emojis/hc/alisdair.png)|
 |all-the-best| ![all-the-best](/emojis/hc/all-the-best.png)|
+|all-the-coffee| ![all-the-coffee](/emojis/hc/all-the-coffee.png)|
+|all-the-hes| ![all-the-hes](/emojis/hc/all-the-hes.png)|
+|all-these-flavors-and-you-choose-to-be-salty| ![all-these-flavors-and-you-choose-to-be-salty](/emojis/hc/all-these-flavors-and-you-choose-to-be-salty.png)|
+|all-your-base-are-belong-to-us| ![all-your-base-are-belong-to-us](/emojis/hc/all-your-base-are-belong-to-us.jpg)|
 |all_the_da| ![all_the_da](/emojis/hc/all_the_da.png)|
 |allears| ![allears](/emojis/hc/allears.gif)|
 |allen| ![allen](/emojis/hc/allen.jpg)|
@@ -94,20 +108,6 @@
 |alphabet-white-h| ![alphabet-white-h](/emojis/hc/alphabet-white-h.png)|
 |alphabet-white-hash| ![alphabet-white-hash](/emojis/hc/alphabet-white-hash.png)|
 |alphabet-white-i| ![alphabet-white-i](/emojis/hc/alphabet-white-i.png)|
-|alphabet-white-j| ![alphabet-white-j](/emojis/hc/alphabet-white-j.png)|
-|alphabet-white-k| ![alphabet-white-k](/emojis/hc/alphabet-white-k.png)|
-|alphabet-white-l| ![alphabet-white-l](/emojis/hc/alphabet-white-l.png)|
-|alphabet-white-m| ![alphabet-white-m](/emojis/hc/alphabet-white-m.png)|
-|alphabet-white-n| ![alphabet-white-n](/emojis/hc/alphabet-white-n.png)|
-|alphabet-white-o| ![alphabet-white-o](/emojis/hc/alphabet-white-o.png)|
-|alphabet-white-p| ![alphabet-white-p](/emojis/hc/alphabet-white-p.png)|
-|alphabet-white-q| ![alphabet-white-q](/emojis/hc/alphabet-white-q.png)|
-|alphabet-white-question| ![alphabet-white-question](/emojis/hc/alphabet-white-question.png)|
-|alphabet-white-r| ![alphabet-white-r](/emojis/hc/alphabet-white-r.png)|
-|alphabet-white-s| ![alphabet-white-s](/emojis/hc/alphabet-white-s.png)|
-|alphabet-white-t| ![alphabet-white-t](/emojis/hc/alphabet-white-t.png)|
-|alphabet-white-u| ![alphabet-white-u](/emojis/hc/alphabet-white-u.png)|
-|alphabet-white-v| ![alphabet-white-v](/emojis/hc/alphabet-white-v.png)|
 
 <hr/>
 
