@@ -24,7 +24,7 @@ This repo was originally based on the download script from [gist:lmarkus/lmarkus
 The current way that has been working is to go to the webapp of the slack team in your browser, opening a network inspector for the page and pulling your `token` from one of the requests there, and using the [api test page](https://api.slack.com/methods/emoji.list/test) to download the emoji.list json directly.
 
 ### Getting the slackbot response json lists.
-I've never been able to get curl to handle this well, so what has worked is navigating to the slackbot response list for the slack team in a browser, opening the network inspector for the page and getting the raw response json directly from the browser.
+I've never been able to get curl to handle this well, so what has worked is navigating to the slackbot response list for the slack team in a browser, opening the network inspector for the page and getting the raw response json directly from the browser's call to the `slackbot.responses.list` endpoint.
 
 ### Make Commands
 
