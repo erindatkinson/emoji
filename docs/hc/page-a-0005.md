@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|aminals-koala| ![aminals-koala](/emojis/hc/aminals-koala.png)|
+|aminals-ladybug-dontcare| ![aminals-ladybug-dontcare](/emojis/hc/aminals-ladybug-dontcare.gif)|
+|aminals-ladybug-hehe| ![aminals-ladybug-hehe](/emojis/hc/aminals-ladybug-hehe.gif)|
+|aminals-ladybug-yassss| ![aminals-ladybug-yassss](/emojis/hc/aminals-ladybug-yassss.gif)|
+|aminals-lion-doit| ![aminals-lion-doit](/emojis/hc/aminals-lion-doit.gif)|
+|aminals-lizard-tongue| ![aminals-lizard-tongue](/emojis/hc/aminals-lizard-tongue.gif)|
+|aminals-mouse-dance| ![aminals-mouse-dance](/emojis/hc/aminals-mouse-dance.gif)|
+|aminals-mouse-loser| ![aminals-mouse-loser](/emojis/hc/aminals-mouse-loser.gif)|
+|aminals-mouse-smh| ![aminals-mouse-smh](/emojis/hc/aminals-mouse-smh.gif)|
+|aminals-pig-shop| ![aminals-pig-shop](/emojis/hc/aminals-pig-shop.png)|
+|aminals-platypus-update| ![aminals-platypus-update](/emojis/hc/aminals-platypus-update.gif)|
+|aminals-pumpkin-happy| ![aminals-pumpkin-happy](/emojis/hc/aminals-pumpkin-happy.gif)|
+|aminals-puppy| ![aminals-puppy](/emojis/hc/aminals-puppy.gif)|
+|aminals-rabbit-fomo| ![aminals-rabbit-fomo](/emojis/hc/aminals-rabbit-fomo.gif)|
+|aminals-rabbit-heart| ![aminals-rabbit-heart](/emojis/hc/aminals-rabbit-heart.gif)|
 |aminals-rabbit-tired| ![aminals-rabbit-tired](/emojis/hc/aminals-rabbit-tired.gif)|
 |aminals-ray-thanks| ![aminals-ray-thanks](/emojis/hc/aminals-ray-thanks.gif)|
 |aminals-red-panda-awkward-smile| ![aminals-red-panda-awkward-smile](/emojis/hc/aminals-red-panda-awkward-smile.gif)|
@@ -77,6 +92,8 @@
 |angery-meow| ![angery-meow](/emojis/hc/angery-meow.png)|
 |angie_the_doggo| ![angie_the_doggo](/emojis/hc/angie_the_doggo.png)|
 |angry-cactus| ![angry-cactus](/emojis/hc/angry-cactus.gif)|
+|angry-curse-face| ![angry-curse-face](/emojis/hc/angry-curse-face.gif)|
+|angry-face| ![angry-face](/emojis/hc/angry-face.gif)|
 |angry-frog| ![angry-frog](/emojis/hc/angry-frog.gif)|
 |angry-jp-intensifies| ![angry-jp-intensifies](/emojis/hc/angry-jp-intensifies.gif)|
 |angry-jp| ![angry-jp](/emojis/hc/angry-jp.png)|
@@ -88,26 +105,9 @@
 |angry-sun| ![angry-sun](/emojis/hc/angry-sun.png)|
 |angry-throw-table| ![angry-throw-table](/emojis/hc/angry-throw-table.png)|
 |angry_blob| ![angry_blob](/emojis/hc/angry_blob.png)|
+|angry_cookie| ![angry_cookie](/emojis/hc/angry_cookie.png)|
+|angry_muffin| ![angry_muffin](/emojis/hc/angry_muffin.png)|
 |angry_red| ![angry_red](/emojis/hc/angry_red.gif)|
-|angry_scream| ![angry_scream](/emojis/hc/angry_scream.png)|
-|angry_spin| ![angry_spin](/emojis/hc/angry_spin.gif)|
-|angry_sun| ![angry_sun](/emojis/hc/angry_sun.png)|
-|angrycat| ![angrycat](/emojis/hc/angrycat.gif)|
-|angrydoge| ![angrydoge](/emojis/hc/angrydoge.png)|
-|angrysquid| ![angrysquid](/emojis/hc/angrysquid.png)|
-|angus| ![angus](/emojis/hc/angus.png)|
-|animal-crossing| ![animal-crossing](/emojis/hc/animal-crossing.png)|
-|anime-no| ![anime-no](/emojis/hc/anime-no.png)|
-|anime-yes| ![anime-yes](/emojis/hc/anime-yes.png)|
-|anjunabeats| ![anjunabeats](/emojis/hc/anjunabeats.png)|
-|announcement| ![announcement](/emojis/hc/announcement.png)|
-|anonymous| ![anonymous](/emojis/hc/anonymous.png)|
-|ansible| ![ansible](/emojis/hc/ansible.png)|
-|anti-bully| ![anti-bully](/emojis/hc/anti-bully.png)|
-|anti-dolphin| ![anti-dolphin](/emojis/hc/anti-dolphin.jpg)|
-|antifa| ![antifa](/emojis/hc/antifa.png)|
-|anton| ![anton](/emojis/hc/anton.jpg)|
-|anvil| ![anvil](/emojis/hc/anvil.png)|
 
 <hr/>
 

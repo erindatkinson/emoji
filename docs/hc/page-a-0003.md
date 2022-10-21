@@ -8,6 +8,20 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|alot| ![alot](/emojis/hc/alot.png)|
+|alpaca| ![alpaca](/emojis/hc/alpaca.png)|
+|alphabet-white-a| ![alphabet-white-a](/emojis/hc/alphabet-white-a.png)|
+|alphabet-white-at| ![alphabet-white-at](/emojis/hc/alphabet-white-at.png)|
+|alphabet-white-b| ![alphabet-white-b](/emojis/hc/alphabet-white-b.png)|
+|alphabet-white-c| ![alphabet-white-c](/emojis/hc/alphabet-white-c.png)|
+|alphabet-white-d| ![alphabet-white-d](/emojis/hc/alphabet-white-d.png)|
+|alphabet-white-e| ![alphabet-white-e](/emojis/hc/alphabet-white-e.png)|
+|alphabet-white-exclamation| ![alphabet-white-exclamation](/emojis/hc/alphabet-white-exclamation.png)|
+|alphabet-white-f| ![alphabet-white-f](/emojis/hc/alphabet-white-f.png)|
+|alphabet-white-g| ![alphabet-white-g](/emojis/hc/alphabet-white-g.png)|
+|alphabet-white-h| ![alphabet-white-h](/emojis/hc/alphabet-white-h.png)|
+|alphabet-white-hash| ![alphabet-white-hash](/emojis/hc/alphabet-white-hash.png)|
+|alphabet-white-i| ![alphabet-white-i](/emojis/hc/alphabet-white-i.png)|
 |alphabet-white-j| ![alphabet-white-j](/emojis/hc/alphabet-white-j.png)|
 |alphabet-white-k| ![alphabet-white-k](/emojis/hc/alphabet-white-k.png)|
 |alphabet-white-l| ![alphabet-white-l](/emojis/hc/alphabet-white-l.png)|
@@ -94,20 +108,6 @@
 |am_baby_3_1| ![am_baby_3_1](/emojis/hc/am_baby_3_1.png)|
 |am_baby_3_2| ![am_baby_3_2](/emojis/hc/am_baby_3_2.png)|
 |am_baby_3_3| ![am_baby_3_3](/emojis/hc/am_baby_3_3.png)|
-|am_baby_3_4| ![am_baby_3_4](/emojis/hc/am_baby_3_4.png)|
-|am_baby_3_5| ![am_baby_3_5](/emojis/hc/am_baby_3_5.png)|
-|am_baby_4_1| ![am_baby_4_1](/emojis/hc/am_baby_4_1.png)|
-|am_baby_4_2| ![am_baby_4_2](/emojis/hc/am_baby_4_2.png)|
-|am_baby_4_3| ![am_baby_4_3](/emojis/hc/am_baby_4_3.png)|
-|am_baby_4_4| ![am_baby_4_4](/emojis/hc/am_baby_4_4.png)|
-|am_baby_4_5| ![am_baby_4_5](/emojis/hc/am_baby_4_5.png)|
-|am_baby_5_1| ![am_baby_5_1](/emojis/hc/am_baby_5_1.png)|
-|am_baby_5_2| ![am_baby_5_2](/emojis/hc/am_baby_5_2.png)|
-|am_baby_5_3| ![am_baby_5_3](/emojis/hc/am_baby_5_3.png)|
-|am_baby_5_4| ![am_baby_5_4](/emojis/hc/am_baby_5_4.png)|
-|am_baby_5_5| ![am_baby_5_5](/emojis/hc/am_baby_5_5.png)|
-|am_ded| ![am_ded](/emojis/hc/am_ded.png)|
-|amanda-duck-intensifies| ![amanda-duck-intensifies](/emojis/hc/amanda-duck-intensifies.gif)|
 
 <hr/>
 

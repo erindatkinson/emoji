@@ -8,6 +8,20 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|am_baby_3_4| ![am_baby_3_4](/emojis/hc/am_baby_3_4.png)|
+|am_baby_3_5| ![am_baby_3_5](/emojis/hc/am_baby_3_5.png)|
+|am_baby_4_1| ![am_baby_4_1](/emojis/hc/am_baby_4_1.png)|
+|am_baby_4_2| ![am_baby_4_2](/emojis/hc/am_baby_4_2.png)|
+|am_baby_4_3| ![am_baby_4_3](/emojis/hc/am_baby_4_3.png)|
+|am_baby_4_4| ![am_baby_4_4](/emojis/hc/am_baby_4_4.png)|
+|am_baby_4_5| ![am_baby_4_5](/emojis/hc/am_baby_4_5.png)|
+|am_baby_5_1| ![am_baby_5_1](/emojis/hc/am_baby_5_1.png)|
+|am_baby_5_2| ![am_baby_5_2](/emojis/hc/am_baby_5_2.png)|
+|am_baby_5_3| ![am_baby_5_3](/emojis/hc/am_baby_5_3.png)|
+|am_baby_5_4| ![am_baby_5_4](/emojis/hc/am_baby_5_4.png)|
+|am_baby_5_5| ![am_baby_5_5](/emojis/hc/am_baby_5_5.png)|
+|am_ded| ![am_ded](/emojis/hc/am_ded.png)|
+|amanda-duck-intensifies| ![amanda-duck-intensifies](/emojis/hc/amanda-duck-intensifies.gif)|
 |amanda-intensifies| ![amanda-intensifies](/emojis/hc/amanda-intensifies.gif)|
 |amanda-thumbsup| ![amanda-thumbsup](/emojis/hc/amanda-thumbsup.gif)|
 |amandaangry-intensifies| ![amandaangry-intensifies](/emojis/hc/amandaangry-intensifies.gif)|
@@ -29,6 +43,7 @@
 |americana-soaring-eagle| ![americana-soaring-eagle](/emojis/hc/americana-soaring-eagle.jpg)|
 |americano| ![americano](/emojis/hc/americano.png)|
 |americaseal| ![americaseal](/emojis/hc/americaseal.png)|
+|amigopaine| ![amigopaine](/emojis/hc/amigopaine.png)|
 |aminals-axolotl-gimme| ![aminals-axolotl-gimme](/emojis/hc/aminals-axolotl-gimme.gif)|
 |aminals-bear-boo| ![aminals-bear-boo](/emojis/hc/aminals-bear-boo.png)|
 |aminals-bear-dance| ![aminals-bear-dance](/emojis/hc/aminals-bear-dance.gif)|
@@ -93,21 +108,6 @@
 |aminals-husky-heart| ![aminals-husky-heart](/emojis/hc/aminals-husky-heart.gif)|
 |aminals-husky-smirk| ![aminals-husky-smirk](/emojis/hc/aminals-husky-smirk.gif)|
 |aminals-judging-turtle-coffee| ![aminals-judging-turtle-coffee](/emojis/hc/aminals-judging-turtle-coffee.gif)|
-|aminals-koala| ![aminals-koala](/emojis/hc/aminals-koala.png)|
-|aminals-ladybug-dontcare| ![aminals-ladybug-dontcare](/emojis/hc/aminals-ladybug-dontcare.gif)|
-|aminals-ladybug-hehe| ![aminals-ladybug-hehe](/emojis/hc/aminals-ladybug-hehe.gif)|
-|aminals-ladybug-yassss| ![aminals-ladybug-yassss](/emojis/hc/aminals-ladybug-yassss.gif)|
-|aminals-lion-doit| ![aminals-lion-doit](/emojis/hc/aminals-lion-doit.gif)|
-|aminals-lizard-tongue| ![aminals-lizard-tongue](/emojis/hc/aminals-lizard-tongue.gif)|
-|aminals-mouse-dance| ![aminals-mouse-dance](/emojis/hc/aminals-mouse-dance.gif)|
-|aminals-mouse-loser| ![aminals-mouse-loser](/emojis/hc/aminals-mouse-loser.gif)|
-|aminals-mouse-smh| ![aminals-mouse-smh](/emojis/hc/aminals-mouse-smh.gif)|
-|aminals-pig-shop| ![aminals-pig-shop](/emojis/hc/aminals-pig-shop.png)|
-|aminals-platypus-update| ![aminals-platypus-update](/emojis/hc/aminals-platypus-update.gif)|
-|aminals-pumpkin-happy| ![aminals-pumpkin-happy](/emojis/hc/aminals-pumpkin-happy.gif)|
-|aminals-puppy| ![aminals-puppy](/emojis/hc/aminals-puppy.gif)|
-|aminals-rabbit-fomo| ![aminals-rabbit-fomo](/emojis/hc/aminals-rabbit-fomo.gif)|
-|aminals-rabbit-heart| ![aminals-rabbit-heart](/emojis/hc/aminals-rabbit-heart.gif)|
 
 <hr/>
 

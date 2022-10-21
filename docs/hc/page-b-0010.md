@@ -8,6 +8,38 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|barclays-party| ![barclays-party](/emojis/hc/barclays-party.gif)|
+|barclays| ![barclays](/emojis/hc/barclays.png)|
+|barf-partying| ![barf-partying](/emojis/hc/barf-partying.png)|
+|barf| ![barf](/emojis/hc/barf.png)|
+|barfception| ![barfception](/emojis/hc/barfception.png)|
+|barfernetes| ![barfernetes](/emojis/hc/barfernetes.png)|
+|barfing-barf| ![barfing-barf](/emojis/hc/barfing-barf.png)|
+|barfing-basket| ![barfing-basket](/emojis/hc/barfing-basket.png)|
+|barfing-blobfish| ![barfing-blobfish](/emojis/hc/barfing-blobfish.png)|
+|barfing-butterfly| ![barfing-butterfly](/emojis/hc/barfing-butterfly.png)|
+|barfing-d20| ![barfing-d20](/emojis/hc/barfing-d20.png)|
+|barfing-ferris| ![barfing-ferris](/emojis/hc/barfing-ferris.png)|
+|barfing-is-fine| ![barfing-is-fine](/emojis/hc/barfing-is-fine.png)|
+|barfing-lock| ![barfing-lock](/emojis/hc/barfing-lock.png)|
+|barfing-lol| ![barfing-lol](/emojis/hc/barfing-lol.png)|
+|barfing-money| ![barfing-money](/emojis/hc/barfing-money.png)|
+|barfing-nerd| ![barfing-nerd](/emojis/hc/barfing-nerd.png)|
+|barfing-pagerduty| ![barfing-pagerduty](/emojis/hc/barfing-pagerduty.png)|
+|barfing-pwsh| ![barfing-pwsh](/emojis/hc/barfing-pwsh.png)|
+|barfing-rage| ![barfing-rage](/emojis/hc/barfing-rage.png)|
+|barfing-rubberduck| ![barfing-rubberduck](/emojis/hc/barfing-rubberduck.png)|
+|barfing-santa| ![barfing-santa](/emojis/hc/barfing-santa.png)|
+|barfing-sleepy| ![barfing-sleepy](/emojis/hc/barfing-sleepy.png)|
+|barfing-sobbing| ![barfing-sobbing](/emojis/hc/barfing-sobbing.png)|
+|barfing-sudo| ![barfing-sudo](/emojis/hc/barfing-sudo.png)|
+|barfing-taco| ![barfing-taco](/emojis/hc/barfing-taco.png)|
+|barfing-waving| ![barfing-waving](/emojis/hc/barfing-waving.png)|
+|barfire| ![barfire](/emojis/hc/barfire.png)|
+|bart-simpson| ![bart-simpson](/emojis/hc/bart-simpson.png)|
+|bart| ![bart](/emojis/hc/bart.gif)|
+|baseball-bat-intensifies| ![baseball-bat-intensifies](/emojis/hc/baseball-bat-intensifies.gif)|
+|baseball-bat-tilt| ![baseball-bat-tilt](/emojis/hc/baseball-bat-tilt.gif)|
 |baseball-bat| ![baseball-bat](/emojis/hc/baseball-bat.png)|
 |baseball-bat2-intensifies| ![baseball-bat2-intensifies](/emojis/hc/baseball-bat2-intensifies.gif)|
 |baseball-bat2-tilt| ![baseball-bat2-tilt](/emojis/hc/baseball-bat2-tilt.gif)|
@@ -29,6 +61,7 @@
 |bat-finger-signal| ![bat-finger-signal](/emojis/hc/bat-finger-signal.png)|
 |batman-banana-dance| ![batman-banana-dance](/emojis/hc/batman-banana-dance.gif)|
 |batman-nolan| ![batman-nolan](/emojis/hc/batman-nolan.png)|
+|batman-running| ![batman-running](/emojis/hc/batman-running.gif)|
 |batman| ![batman](/emojis/hc/batman.png)|
 |baton| ![baton](/emojis/hc/baton.png)|
 |batsignal| ![batsignal](/emojis/hc/batsignal.jpg)|
@@ -57,6 +90,7 @@
 |beaker2| ![beaker2](/emojis/hc/beaker2.png)|
 |beaker3| ![beaker3](/emojis/hc/beaker3.png)|
 |beaker4| ![beaker4](/emojis/hc/beaker4.png)|
+|beaming-grin-smiling-face| ![beaming-grin-smiling-face](/emojis/hc/beaming-grin-smiling-face.gif)|
 |bean-chill| ![bean-chill](/emojis/hc/bean-chill.gif)|
 |bean-coffee| ![bean-coffee](/emojis/hc/bean-coffee.jpg)|
 |bean-cry| ![bean-cry](/emojis/hc/bean-cry.png)|
@@ -74,40 +108,6 @@
 |bean-working| ![bean-working](/emojis/hc/bean-working.gif)|
 |beancounter| ![beancounter](/emojis/hc/beancounter.png)|
 |beans_text| ![beans_text](/emojis/hc/beans_text.gif)|
-|bear-dog| ![bear-dog](/emojis/hc/bear-dog.png)|
-|beard| ![beard](/emojis/hc/beard.png)|
-|bearhunt1| ![bearhunt1](/emojis/hc/bearhunt1.png)|
-|bearhunt2| ![bearhunt2](/emojis/hc/bearhunt2.png)|
-|bearhunt3| ![bearhunt3](/emojis/hc/bearhunt3.png)|
-|bearhunt5| ![bearhunt5](/emojis/hc/bearhunt5.png)|
-|bearicon| ![bearicon](/emojis/hc/bearicon.png)|
-|bearmetal| ![bearmetal](/emojis/hc/bearmetal.png)|
-|bears| ![bears](/emojis/hc/bears.png)|
-|beart| ![beart](/emojis/hc/beart.png)|
-|beastieboys| ![beastieboys](/emojis/hc/beastieboys.jpg)|
-|beaten| ![beaten](/emojis/hc/beaten.gif)|
-|beatingheart| ![beatingheart](/emojis/hc/beatingheart.gif)|
-|beau-puppy| ![beau-puppy](/emojis/hc/beau-puppy.jpg)|
-|beau| ![beau](/emojis/hc/beau.jpg)|
-|beautiful| ![beautiful](/emojis/hc/beautiful.jpg)|
-|beaver2| ![beaver2](/emojis/hc/beaver2.png)|
-|beefcake| ![beefcake](/emojis/hc/beefcake.gif)|
-|beehaw-intensifies| ![beehaw-intensifies](/emojis/hc/beehaw-intensifies.gif)|
-|beehaw-upsidedown| ![beehaw-upsidedown](/emojis/hc/beehaw-upsidedown.png)|
-|beehaw| ![beehaw](/emojis/hc/beehaw.png)|
-|beekus| ![beekus](/emojis/hc/beekus.jpg)|
-|beer-da| ![beer-da](/emojis/hc/beer-da.png)|
-|beer-intensifies| ![beer-intensifies](/emojis/hc/beer-intensifies.gif)|
-|beer-right-intensifies| ![beer-right-intensifies](/emojis/hc/beer-right-intensifies.gif)|
-|beer-right| ![beer-right](/emojis/hc/beer-right.png)|
-|beer_parrot| ![beer_parrot](/emojis/hc/beer_parrot.gif)|
-|beer_wolf| ![beer_wolf](/emojis/hc/beer_wolf.png)|
-|beet| ![beet](/emojis/hc/beet.jpg)|
-|beetlejuice| ![beetlejuice](/emojis/hc/beetlejuice.png)|
-|behindu| ![behindu](/emojis/hc/behindu.png)|
-|beholder| ![beholder](/emojis/hc/beholder.png)|
-|beignets| ![beignets](/emojis/hc/beignets.jpg)|
-|bel| ![bel](/emojis/hc/bel.png)|
 
 <hr/>
 

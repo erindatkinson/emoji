@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|a_blob_eyes| ![a_blob_eyes](/emojis/hc/a_blob_eyes.gif)|
+|a_blob_fire| ![a_blob_fire](/emojis/hc/a_blob_fire.gif)|
+|a_blob_flushed| ![a_blob_flushed](/emojis/hc/a_blob_flushed.gif)|
+|a_blob_frown| ![a_blob_frown](/emojis/hc/a_blob_frown.gif)|
+|a_blob_gift| ![a_blob_gift](/emojis/hc/a_blob_gift.gif)|
+|a_blob_grimace| ![a_blob_grimace](/emojis/hc/a_blob_grimace.gif)|
 |a_blob_hair_flip| ![a_blob_hair_flip](/emojis/hc/a_blob_hair_flip.gif)|
 |a_blob_happy| ![a_blob_happy](/emojis/hc/a_blob_happy.gif)|
 |a_blob_hungry| ![a_blob_hungry](/emojis/hc/a_blob_hungry.gif)|
@@ -102,12 +108,6 @@
 |aeropress| ![aeropress](/emojis/hc/aeropress.png)|
 |aesir| ![aesir](/emojis/hc/aesir.png)|
 |affirmative| ![affirmative](/emojis/hc/affirmative.png)|
-|affleck| ![affleck](/emojis/hc/affleck.jpg)|
-|afk| ![afk](/emojis/hc/afk.png)|
-|afk_1| ![afk_1](/emojis/hc/afk_1.png)|
-|afro_top| ![afro_top](/emojis/hc/afro_top.png)|
-|agatha-beautiful-face| ![agatha-beautiful-face](/emojis/hc/agatha-beautiful-face.png)|
-|agatha| ![agatha](/emojis/hc/agatha.png)|
 
 <hr/>
 

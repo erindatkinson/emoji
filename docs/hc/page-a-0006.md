@@ -8,6 +8,26 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|angry_scream| ![angry_scream](/emojis/hc/angry_scream.png)|
+|angry_spin| ![angry_spin](/emojis/hc/angry_spin.gif)|
+|angry_sun| ![angry_sun](/emojis/hc/angry_sun.png)|
+|angrycat| ![angrycat](/emojis/hc/angrycat.gif)|
+|angrydoge| ![angrydoge](/emojis/hc/angrydoge.png)|
+|angrysquid| ![angrysquid](/emojis/hc/angrysquid.png)|
+|angus| ![angus](/emojis/hc/angus.png)|
+|animal-crossing| ![animal-crossing](/emojis/hc/animal-crossing.png)|
+|anime-no| ![anime-no](/emojis/hc/anime-no.png)|
+|anime-yes| ![anime-yes](/emojis/hc/anime-yes.png)|
+|anjunabeats| ![anjunabeats](/emojis/hc/anjunabeats.png)|
+|announcement| ![announcement](/emojis/hc/announcement.png)|
+|annoyedalli| ![annoyedalli](/emojis/hc/annoyedalli.png)|
+|anonymous| ![anonymous](/emojis/hc/anonymous.png)|
+|ansible| ![ansible](/emojis/hc/ansible.png)|
+|anti-bully| ![anti-bully](/emojis/hc/anti-bully.png)|
+|anti-dolphin| ![anti-dolphin](/emojis/hc/anti-dolphin.jpg)|
+|antifa| ![antifa](/emojis/hc/antifa.png)|
+|anton| ![anton](/emojis/hc/anton.jpg)|
+|anvil| ![anvil](/emojis/hc/anvil.png)|
 |anxiousaf| ![anxiousaf](/emojis/hc/anxiousaf.png)|
 |any-hoot| ![any-hoot](/emojis/hc/any-hoot.png)|
 |aol-aim| ![aol-aim](/emojis/hc/aol-aim.png)|
@@ -45,17 +65,20 @@
 |are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies| ![are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies](/emojis/hc/are-you-in-the-right-headspace-to-receive-information-that-could-possibly-hurt-you-intensifies.gif)|
 |are-you-kidding-me| ![are-you-kidding-me](/emojis/hc/are-you-kidding-me.png)|
 |arendt| ![arendt](/emojis/hc/arendt.png)|
+|arepa| ![arepa](/emojis/hc/arepa.png)|
 |areyoukiddingme| ![areyoukiddingme](/emojis/hc/areyoukiddingme.jpg)|
 |argh| ![argh](/emojis/hc/argh.gif)|
 |arghfist| ![arghfist](/emojis/hc/arghfist.gif)|
 |argmapper-intensifies| ![argmapper-intensifies](/emojis/hc/argmapper-intensifies.gif)|
 |argmapper| ![argmapper](/emojis/hc/argmapper.png)|
+|ariel| ![ariel](/emojis/hc/ariel.png)|
 |arizona| ![arizona](/emojis/hc/arizona.png)|
 |arm_robin| ![arm_robin](/emojis/hc/arm_robin.png)|
 |armadillo-bounce| ![armadillo-bounce](/emojis/hc/armadillo-bounce.gif)|
 |armadillo| ![armadillo](/emojis/hc/armadillo.png)|
 |armageddon| ![armageddon](/emojis/hc/armageddon.jpg)|
 |armanino| ![armanino](/emojis/hc/armanino.png)|
+|armflailingtubeman| ![armflailingtubeman](/emojis/hc/armflailingtubeman.gif)|
 |armins| ![armins](/emojis/hc/armins.png)|
 |armon-dance| ![armon-dance](/emojis/hc/armon-dance.gif)|
 |armon-halo-intensifies| ![armon-halo-intensifies](/emojis/hc/armon-halo-intensifies.gif)|
@@ -85,29 +108,6 @@
 |asana-intensifies| ![asana-intensifies](/emojis/hc/asana-intensifies.gif)|
 |asana-sob| ![asana-sob](/emojis/hc/asana-sob.png)|
 |asana| ![asana](/emojis/hc/asana.png)|
-|asanada| ![asanada](/emojis/hc/asanada.png)|
-|asda-logo| ![asda-logo](/emojis/hc/asda-logo.png)|
-|asda| ![asda](/emojis/hc/asda.png)|
-|asdf| ![asdf](/emojis/hc/asdf.gif)|
-|asdfretr| ![asdfretr](/emojis/hc/asdfretr.jpg)|
-|ash| ![ash](/emojis/hc/ash.png)|
-|ash_evil_dead| ![ash_evil_dead](/emojis/hc/ash_evil_dead.png)|
-|ash_evil_dead_cute| ![ash_evil_dead_cute](/emojis/hc/ash_evil_dead_cute.png)|
-|asha| ![asha](/emojis/hc/asha.png)|
-|ashe-ow| ![ashe-ow](/emojis/hc/ashe-ow.png)|
-|ashley| ![ashley](/emojis/hc/ashley.jpg)|
-|ask4friend| ![ask4friend](/emojis/hc/ask4friend.jpg)|
-|asl-applause| ![asl-applause](/emojis/hc/asl-applause.gif)|
-|asl-champ| ![asl-champ](/emojis/hc/asl-champ.gif)|
-|asl-no| ![asl-no](/emojis/hc/asl-no.gif)|
-|asl-oh-i-see| ![asl-oh-i-see](/emojis/hc/asl-oh-i-see.gif)|
-|asl-thank-you| ![asl-thank-you](/emojis/hc/asl-thank-you.gif)|
-|asl-yes| ![asl-yes](/emojis/hc/asl-yes.gif)|
-|ass| ![ass](/emojis/hc/ass.png)|
-|aston-martin| ![aston-martin](/emojis/hc/aston-martin.jpg)|
-|astonished_blob| ![astonished_blob](/emojis/hc/astonished_blob.png)|
-|astrazeneca| ![astrazeneca](/emojis/hc/astrazeneca.png)|
-|astros_emoji| ![astros_emoji](/emojis/hc/astros_emoji.png)|
 
 <hr/>
 

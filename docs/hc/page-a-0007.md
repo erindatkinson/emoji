@@ -8,6 +8,30 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|asanada| ![asanada](/emojis/hc/asanada.png)|
+|asda-logo| ![asda-logo](/emojis/hc/asda-logo.png)|
+|asda| ![asda](/emojis/hc/asda.png)|
+|asdf| ![asdf](/emojis/hc/asdf.gif)|
+|asdfretr| ![asdfretr](/emojis/hc/asdfretr.jpg)|
+|ash| ![ash](/emojis/hc/ash.png)|
+|ash_evil_dead| ![ash_evil_dead](/emojis/hc/ash_evil_dead.png)|
+|ash_evil_dead_cute| ![ash_evil_dead_cute](/emojis/hc/ash_evil_dead_cute.png)|
+|asha| ![asha](/emojis/hc/asha.png)|
+|ashe-ow| ![ashe-ow](/emojis/hc/ashe-ow.png)|
+|ashley| ![ashley](/emojis/hc/ashley.jpg)|
+|ask4friend| ![ask4friend](/emojis/hc/ask4friend.jpg)|
+|asl-applause| ![asl-applause](/emojis/hc/asl-applause.gif)|
+|asl-champ| ![asl-champ](/emojis/hc/asl-champ.gif)|
+|asl-no| ![asl-no](/emojis/hc/asl-no.gif)|
+|asl-oh-i-see| ![asl-oh-i-see](/emojis/hc/asl-oh-i-see.gif)|
+|asl-thank-you| ![asl-thank-you](/emojis/hc/asl-thank-you.gif)|
+|asl-yes| ![asl-yes](/emojis/hc/asl-yes.gif)|
+|ass| ![ass](/emojis/hc/ass.png)|
+|aston-martin| ![aston-martin](/emojis/hc/aston-martin.jpg)|
+|astonished_blob| ![astonished_blob](/emojis/hc/astonished_blob.png)|
+|astrazeneca| ![astrazeneca](/emojis/hc/astrazeneca.png)|
+|astroneer| ![astroneer](/emojis/hc/astroneer.png)|
+|astros_emoji| ![astros_emoji](/emojis/hc/astros_emoji.png)|
 |astros_emoji_2| ![astros_emoji_2](/emojis/hc/astros_emoji_2.png)|
 |asyouwish| ![asyouwish](/emojis/hc/asyouwish.jpg)|
 |at-at| ![at-at](/emojis/hc/at-at.png)|
@@ -24,6 +48,7 @@
 |atom| ![atom](/emojis/hc/atom.png)|
 |atos| ![atos](/emojis/hc/atos.png)|
 |atowndown| ![atowndown](/emojis/hc/atowndown.gif)|
+|atta| ![atta](/emojis/hc/atta.png)|
 |attention| ![attention](/emojis/hc/attention.png)|
 |attorneygeneral| ![attorneygeneral](/emojis/hc/attorneygeneral.jpg)|
 |auroraborealis| ![auroraborealis](/emojis/hc/auroraborealis.jpg)|
@@ -55,6 +80,9 @@
 |authoritah| ![authoritah](/emojis/hc/authoritah.jpg)|
 |auto-destroy| ![auto-destroy](/emojis/hc/auto-destroy.png)|
 |autobot| ![autobot](/emojis/hc/autobot.png)|
+|autumn_leaf| ![autumn_leaf](/emojis/hc/autumn_leaf.gif)|
+|autumn_leaves| ![autumn_leaves](/emojis/hc/autumn_leaves.png)|
+|autumn_tree| ![autumn_tree](/emojis/hc/autumn_tree.gif)|
 |ava| ![ava](/emojis/hc/ava.jpg)|
 |avalanche| ![avalanche](/emojis/hc/avalanche.png)|
 |avengers| ![avengers](/emojis/hc/avengers.jpg)|
@@ -80,34 +108,6 @@
 |awesome-think| ![awesome-think](/emojis/hc/awesome-think.png)|
 |awesome| ![awesome](/emojis/hc/awesome.png)|
 |awesome1| ![awesome1](/emojis/hc/awesome1.gif)|
-|awesome_cylon| ![awesome_cylon](/emojis/hc/awesome_cylon.gif)|
-|awesome_dance| ![awesome_dance](/emojis/hc/awesome_dance.gif)|
-|awesome_possum| ![awesome_possum](/emojis/hc/awesome_possum.jpg)|
-|awesomecat| ![awesomecat](/emojis/hc/awesomecat.png)|
-|awkward-monkey| ![awkward-monkey](/emojis/hc/awkward-monkey.png)|
-|awkward-seal| ![awkward-seal](/emojis/hc/awkward-seal.jpg)|
-|awkward_monkey_look| ![awkward_monkey_look](/emojis/hc/awkward_monkey_look.gif)|
-|awkward_turtle| ![awkward_turtle](/emojis/hc/awkward_turtle.gif)|
-|aws-blood-sob| ![aws-blood-sob](/emojis/hc/aws-blood-sob.png)|
-|aws-cool| ![aws-cool](/emojis/hc/aws-cool.png)|
-|aws-cry| ![aws-cry](/emojis/hc/aws-cry.png)|
-|aws-da| ![aws-da](/emojis/hc/aws-da.png)|
-|aws-ecs| ![aws-ecs](/emojis/hc/aws-ecs.png)|
-|aws-fine-da| ![aws-fine-da](/emojis/hc/aws-fine-da.png)|
-|aws-happy| ![aws-happy](/emojis/hc/aws-happy.png)|
-|aws-intensifies| ![aws-intensifies](/emojis/hc/aws-intensifies.gif)|
-|aws-lambda-intensifies| ![aws-lambda-intensifies](/emojis/hc/aws-lambda-intensifies.gif)|
-|aws-lambda| ![aws-lambda](/emojis/hc/aws-lambda.png)|
-|aws-on-fire| ![aws-on-fire](/emojis/hc/aws-on-fire.gif)|
-|aws-sad| ![aws-sad](/emojis/hc/aws-sad.png)|
-|aws-smile| ![aws-smile](/emojis/hc/aws-smile.png)|
-|aws-sob| ![aws-sob](/emojis/hc/aws-sob.png)|
-|aws-tada| ![aws-tada](/emojis/hc/aws-tada.png)|
-|aws-technologist| ![aws-technologist](/emojis/hc/aws-technologist.png)|
-|aws-waves| ![aws-waves](/emojis/hc/aws-waves.gif)|
-|aws| ![aws](/emojis/hc/aws.png)|
-|awthanks| ![awthanks](/emojis/hc/awthanks.png)|
-|aww-yeah| ![aww-yeah](/emojis/hc/aww-yeah.gif)|
 
 <hr/>
 

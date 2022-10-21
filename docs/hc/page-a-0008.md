@@ -8,6 +8,34 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|awesome_cylon| ![awesome_cylon](/emojis/hc/awesome_cylon.gif)|
+|awesome_dance| ![awesome_dance](/emojis/hc/awesome_dance.gif)|
+|awesome_possum| ![awesome_possum](/emojis/hc/awesome_possum.jpg)|
+|awesomecat| ![awesomecat](/emojis/hc/awesomecat.png)|
+|awkward-monkey| ![awkward-monkey](/emojis/hc/awkward-monkey.png)|
+|awkward-seal| ![awkward-seal](/emojis/hc/awkward-seal.jpg)|
+|awkward_monkey_look| ![awkward_monkey_look](/emojis/hc/awkward_monkey_look.gif)|
+|awkward_turtle| ![awkward_turtle](/emojis/hc/awkward_turtle.gif)|
+|aws-blood-sob| ![aws-blood-sob](/emojis/hc/aws-blood-sob.png)|
+|aws-cool| ![aws-cool](/emojis/hc/aws-cool.png)|
+|aws-cry| ![aws-cry](/emojis/hc/aws-cry.png)|
+|aws-da| ![aws-da](/emojis/hc/aws-da.png)|
+|aws-ecs| ![aws-ecs](/emojis/hc/aws-ecs.png)|
+|aws-fine-da| ![aws-fine-da](/emojis/hc/aws-fine-da.png)|
+|aws-happy| ![aws-happy](/emojis/hc/aws-happy.png)|
+|aws-intensifies| ![aws-intensifies](/emojis/hc/aws-intensifies.gif)|
+|aws-lambda-intensifies| ![aws-lambda-intensifies](/emojis/hc/aws-lambda-intensifies.gif)|
+|aws-lambda| ![aws-lambda](/emojis/hc/aws-lambda.png)|
+|aws-on-fire| ![aws-on-fire](/emojis/hc/aws-on-fire.gif)|
+|aws-sad| ![aws-sad](/emojis/hc/aws-sad.png)|
+|aws-smile| ![aws-smile](/emojis/hc/aws-smile.png)|
+|aws-sob| ![aws-sob](/emojis/hc/aws-sob.png)|
+|aws-tada| ![aws-tada](/emojis/hc/aws-tada.png)|
+|aws-technologist| ![aws-technologist](/emojis/hc/aws-technologist.png)|
+|aws-waves| ![aws-waves](/emojis/hc/aws-waves.gif)|
+|aws| ![aws](/emojis/hc/aws.png)|
+|awthanks| ![awthanks](/emojis/hc/awthanks.png)|
+|aww-yeah| ![aww-yeah](/emojis/hc/aww-yeah.gif)|
 |aww| ![aww](/emojis/hc/aww.png)|
 |aww_blob| ![aww_blob](/emojis/hc/aww_blob.png)|
 |aww_yeah| ![aww_yeah](/emojis/hc/aww_yeah.gif)|
@@ -62,6 +90,7 @@
 |ba_dum_tsss| ![ba_dum_tsss](/emojis/hc/ba_dum_tsss.gif)|
 |baba-marta| ![baba-marta](/emojis/hc/baba-marta.png)|
 |baba| ![baba](/emojis/hc/baba.png)|
+|babelfish| ![babelfish](/emojis/hc/babelfish.gif)|
 |baby's-first-initiative-brief| ![baby's-first-initiative-brief](/emojis/hc/baby's-first-initiative-brief.png)|
 |baby-carcand| ![baby-carcand](/emojis/hc/baby-carcand.png)|
 |baby-da| ![baby-da](/emojis/hc/baby-da.png)|
@@ -79,35 +108,6 @@
 |babyyoda| ![babyyoda](/emojis/hc/babyyoda.png)|
 |babyyoda2| ![babyyoda2](/emojis/hc/babyyoda2.png)|
 |babyyoda3| ![babyyoda3](/emojis/hc/babyyoda3.jpg)|
-|bac-bac-blush| ![bac-bac-blush](/emojis/hc/bac-bac-blush.png)|
-|bac-bac-broke| ![bac-bac-broke](/emojis/hc/bac-bac-broke.png)|
-|bac-bac-bye| ![bac-bac-bye](/emojis/hc/bac-bac-bye.png)|
-|bac-bac-celebrate| ![bac-bac-celebrate](/emojis/hc/bac-bac-celebrate.png)|
-|bac-bac-cheek-pinch| ![bac-bac-cheek-pinch](/emojis/hc/bac-bac-cheek-pinch.png)|
-|bac-bac-cheers| ![bac-bac-cheers](/emojis/hc/bac-bac-cheers.png)|
-|bac-bac-conspire| ![bac-bac-conspire](/emojis/hc/bac-bac-conspire.png)|
-|bac-bac-cookie| ![bac-bac-cookie](/emojis/hc/bac-bac-cookie.png)|
-|bac-bac-fighting| ![bac-bac-fighting](/emojis/hc/bac-bac-fighting.png)|
-|bac-bac-fingerguns-left| ![bac-bac-fingerguns-left](/emojis/hc/bac-bac-fingerguns-left.png)|
-|bac-bac-fingerguns-right| ![bac-bac-fingerguns-right](/emojis/hc/bac-bac-fingerguns-right.png)|
-|bac-bac-hug-left| ![bac-bac-hug-left](/emojis/hc/bac-bac-hug-left.png)|
-|bac-bac-hug-right| ![bac-bac-hug-right](/emojis/hc/bac-bac-hug-right.png)|
-|bac-bac-laugh| ![bac-bac-laugh](/emojis/hc/bac-bac-laugh.png)|
-|bac-bac-laughier| ![bac-bac-laughier](/emojis/hc/bac-bac-laughier.png)|
-|bac-bac-laughiest| ![bac-bac-laughiest](/emojis/hc/bac-bac-laughiest.png)|
-|bac-bac-lounge| ![bac-bac-lounge](/emojis/hc/bac-bac-lounge.png)|
-|bac-bac-ok| ![bac-bac-ok](/emojis/hc/bac-bac-ok.png)|
-|bac-bac-pout| ![bac-bac-pout](/emojis/hc/bac-bac-pout.png)|
-|bac-bac-poutier| ![bac-bac-poutier](/emojis/hc/bac-bac-poutier.png)|
-|bac-bac-poutiest| ![bac-bac-poutiest](/emojis/hc/bac-bac-poutiest.png)|
-|bac-bac-question| ![bac-bac-question](/emojis/hc/bac-bac-question.png)|
-|bac-bac-read| ![bac-bac-read](/emojis/hc/bac-bac-read.png)|
-|bac-bac-stare-1| ![bac-bac-stare-1](/emojis/hc/bac-bac-stare-1.png)|
-|bac-bac-stare-2| ![bac-bac-stare-2](/emojis/hc/bac-bac-stare-2.png)|
-|bac-bac-stare-3| ![bac-bac-stare-3](/emojis/hc/bac-bac-stare-3.png)|
-|bac-bac-still-waiting| ![bac-bac-still-waiting](/emojis/hc/bac-bac-still-waiting.png)|
-|bac-bac-try-not-to-laugh| ![bac-bac-try-not-to-laugh](/emojis/hc/bac-bac-try-not-to-laugh.png)|
-|bac-bac-waiting| ![bac-bac-waiting](/emojis/hc/bac-bac-waiting.png)|
 
 <hr/>
 
