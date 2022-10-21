@@ -23,6 +23,6 @@ gen: needs-namespace
 	pipenv run ./scripts/download.py gen --namespace $(NAMESPACE)
 
 slackbot: needs-json-path needs-match
-	pipenv run ./scripts/slackbot.py $(JSON_PATH) --match $(MATCH)
+	pipenv run ./scripts/slackbot.py gen $(JSON_PATH) --match $(MATCH)
 
 .PHONY: needs-namespace needs-json-path get gen slackbot install

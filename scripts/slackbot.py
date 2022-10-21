@@ -16,7 +16,7 @@ def listGen(file_path, match="party"):
             if match in trigger:
                 parties.append(trigger)
 
-    print(parties)
+    print(sorted(parties))
 
 
 if __name__ == "__main__":
