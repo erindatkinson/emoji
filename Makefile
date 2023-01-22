@@ -12,9 +12,9 @@ install:
 	pipenv install
 
 get: needs-json-path needs-namespace
-	pipenv run ./scripts/download.py download $(JSON_PATH) --namespace $(NAMESPACE)
+	pipenv run ./scripts/downloader/download.py download $(JSON_PATH) --namespace $(NAMESPACE)
 
 gen: needs-namespace
-	pipenv run ./scripts/download.py gen --namespace $(NAMESPACE)
+	pipenv run ./scripts/downloader/download.py gen --namespace $(NAMESPACE)
 
 .PHONY: needs-namespace needs-json-path get gen install
