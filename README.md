@@ -38,4 +38,8 @@ I've never been able to get curl to handle this well, so what has worked is navi
   * run `JSON_PATH=/path/to/slackbot.responses.list.json MATCH=<substring for matching> make slackbot`
   * This will generate a list of triggers for slackbot responses that include your match substring.
 
+## Building new emoji
+
+Many people have been keen on building new emoji, and have made templates and scripts to help aid in making new emoji permutations, to see those, please see [assets/templates/](assets/templates/) and [scripts](scripts/).
+
 :)
