@@ -2,12 +2,68 @@
 ## Emojis (Page 8)
 
 [Previous Page](/docs/hc/page-a-0007.md)
-  | [Next Page](/docs/hc/page-b-0009.md)
+  | [Next Page](/docs/hc/page-a-0009.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|aussie-shep-bark| ![aussie-shep-bark](/emojis/hc/aussie-shep-bark.png)|
+|aussie-shep-confused| ![aussie-shep-confused](/emojis/hc/aussie-shep-confused.png)|
+|aussie-shep-derp| ![aussie-shep-derp](/emojis/hc/aussie-shep-derp.png)|
+|aussie-shep-ear-flop1| ![aussie-shep-ear-flop1](/emojis/hc/aussie-shep-ear-flop1.png)|
+|aussie-shep-ear-flop2| ![aussie-shep-ear-flop2](/emojis/hc/aussie-shep-ear-flop2.png)|
+|aussie-shep-happy| ![aussie-shep-happy](/emojis/hc/aussie-shep-happy.png)|
+|aussie-shep-held| ![aussie-shep-held](/emojis/hc/aussie-shep-held.png)|
+|aussie-shep-hug| ![aussie-shep-hug](/emojis/hc/aussie-shep-hug.png)|
+|aussie-shep-sleep| ![aussie-shep-sleep](/emojis/hc/aussie-shep-sleep.png)|
+|aussie-shep-upside-down| ![aussie-shep-upside-down](/emojis/hc/aussie-shep-upside-down.png)|
+|austin-da| ![austin-da](/emojis/hc/austin-da.png)|
+|austin-fc| ![austin-fc](/emojis/hc/austin-fc.png)|
+|austin| ![austin](/emojis/hc/austin.jpg)|
+|austinaguinaldo| ![austinaguinaldo](/emojis/hc/austinaguinaldo.png)|
+|australia| ![australia](/emojis/hc/australia.gif)|
+|australian-hello| ![australian-hello](/emojis/hc/australian-hello.png)|
+|australian-thumbsdown| ![australian-thumbsdown](/emojis/hc/australian-thumbsdown.png)|
+|australian-thumbsup| ![australian-thumbsup](/emojis/hc/australian-thumbsup.png)|
+|australian_ok| ![australian_ok](/emojis/hc/australian_ok.png)|
+|australian_snake| ![australian_snake](/emojis/hc/australian_snake.png)|
+|australian_sunrise| ![australian_sunrise](/emojis/hc/australian_sunrise.png)|
+|authoritah| ![authoritah](/emojis/hc/authoritah.jpg)|
+|auto-destroy| ![auto-destroy](/emojis/hc/auto-destroy.png)|
+|autobot| ![autobot](/emojis/hc/autobot.png)|
+|autumn_leaf| ![autumn_leaf](/emojis/hc/autumn_leaf.gif)|
+|autumn_leaves| ![autumn_leaves](/emojis/hc/autumn_leaves.png)|
+|autumn_tree| ![autumn_tree](/emojis/hc/autumn_tree.gif)|
+|ava| ![ava](/emojis/hc/ava.jpg)|
+|avalanche| ![avalanche](/emojis/hc/avalanche.png)|
+|avengers| ![avengers](/emojis/hc/avengers.jpg)|
+|avengers1| ![avengers1](/emojis/hc/avengers1.gif)|
+|avicii| ![avicii](/emojis/hc/avicii.png)|
+|avlins_watching| ![avlins_watching](/emojis/hc/avlins_watching.jpg)|
+|avocada| ![avocada](/emojis/hc/avocada.png)|
+|avocado-blob| ![avocado-blob](/emojis/hc/avocado-blob.png)|
+|avocado-cry-sadcado| ![avocado-cry-sadcado](/emojis/hc/avocado-cry-sadcado.png)|
+|avocado-toast| ![avocado-toast](/emojis/hc/avocado-toast.png)|
+|avocado2| ![avocado2](/emojis/hc/avocado2.png)|
+|avocorn| ![avocorn](/emojis/hc/avocorn.png)|
+|avoctopus| ![avoctopus](/emojis/hc/avoctopus.png)|
+|avodance| ![avodance](/emojis/hc/avodance.gif)|
+|avolove| ![avolove](/emojis/hc/avolove.png)|
+|avril-burn| ![avril-burn](/emojis/hc/avril-burn.gif)|
+|avril-emoji| ![avril-emoji](/emojis/hc/avril-emoji.png)|
+|avrilintensifies| ![avrilintensifies](/emojis/hc/avrilintensifies.gif)|
+|aw-cry-happycat| ![aw-cry-happycat](/emojis/hc/aw-cry-happycat.png)|
+|aw| ![aw](/emojis/hc/aw.png)|
+|aw_yeah| ![aw_yeah](/emojis/hc/aw_yeah.gif)|
+|aw_yiss| ![aw_yiss](/emojis/hc/aw_yiss.png)|
+|awake-but-at-what-cost| ![awake-but-at-what-cost](/emojis/hc/awake-but-at-what-cost.jpg)|
+|awake| ![awake](/emojis/hc/awake.png)|
+|away| ![away](/emojis/hc/away.png)|
+|awesome-spin| ![awesome-spin](/emojis/hc/awesome-spin.gif)|
+|awesome-think| ![awesome-think](/emojis/hc/awesome-think.png)|
+|awesome| ![awesome](/emojis/hc/awesome.png)|
+|awesome1| ![awesome1](/emojis/hc/awesome1.gif)|
 |awesome_cylon| ![awesome_cylon](/emojis/hc/awesome_cylon.gif)|
 |awesome_dance| ![awesome_dance](/emojis/hc/awesome_dance.gif)|
 |awesome_possum| ![awesome_possum](/emojis/hc/awesome_possum.jpg)|
@@ -52,64 +108,8 @@
 |ayomi| ![ayomi](/emojis/hc/ayomi.jpg)|
 |azalea| ![azalea](/emojis/hc/azalea.png)|
 |azamasu| ![azamasu](/emojis/hc/azamasu.png)|
-|azure-angry-new| ![azure-angry-new](/emojis/hc/azure-angry-new.gif)|
-|azure-blood-sob| ![azure-blood-sob](/emojis/hc/azure-blood-sob.png)|
-|azure-da| ![azure-da](/emojis/hc/azure-da.png)|
-|azure-dns| ![azure-dns](/emojis/hc/azure-dns.png)|
-|azure-headache| ![azure-headache](/emojis/hc/azure-headache.png)|
-|azure-intensifies-new| ![azure-intensifies-new](/emojis/hc/azure-intensifies-new.gif)|
-|azure-intensifies| ![azure-intensifies](/emojis/hc/azure-intensifies.gif)|
-|azure-on-fire-new| ![azure-on-fire-new](/emojis/hc/azure-on-fire-new.gif)|
-|azure-on-fire| ![azure-on-fire](/emojis/hc/azure-on-fire.gif)|
-|azure-party| ![azure-party](/emojis/hc/azure-party.gif)|
-|azure-royal| ![azure-royal](/emojis/hc/azure-royal.png)|
-|azure-sob| ![azure-sob](/emojis/hc/azure-sob.png)|
-|azure| ![azure](/emojis/hc/azure.png)|
-|b-r-popplepush| ![b-r-popplepush](/emojis/hc/b-r-popplepush.png)|
-|b2f| ![b2f](/emojis/hc/b2f.jpg)|
-|ba-andy-face| ![ba-andy-face](/emojis/hc/ba-andy-face.png)|
-|ba-andy| ![ba-andy](/emojis/hc/ba-andy.png)|
-|ba-brad-face| ![ba-brad-face](/emojis/hc/ba-brad-face.png)|
-|ba-brad| ![ba-brad](/emojis/hc/ba-brad.png)|
-|ba-carla-face| ![ba-carla-face](/emojis/hc/ba-carla-face.png)|
-|ba-carla| ![ba-carla](/emojis/hc/ba-carla.png)|
-|ba-chris-face| ![ba-chris-face](/emojis/hc/ba-chris-face.png)|
-|ba-chris| ![ba-chris](/emojis/hc/ba-chris.png)|
-|ba-christina-face| ![ba-christina-face](/emojis/hc/ba-christina-face.png)|
-|ba-christina| ![ba-christina](/emojis/hc/ba-christina.png)|
-|ba-claire-face| ![ba-claire-face](/emojis/hc/ba-claire-face.png)|
-|ba-claire| ![ba-claire](/emojis/hc/ba-claire.png)|
-|ba-delany-face| ![ba-delany-face](/emojis/hc/ba-delany-face.png)|
-|ba-delany| ![ba-delany](/emojis/hc/ba-delany.png)|
-|ba-gaby-face| ![ba-gaby-face](/emojis/hc/ba-gaby-face.png)|
-|ba-gaby| ![ba-gaby](/emojis/hc/ba-gaby.png)|
-|ba-molly-face| ![ba-molly-face](/emojis/hc/ba-molly-face.png)|
-|ba-molly| ![ba-molly](/emojis/hc/ba-molly.png)|
-|ba-rick-face| ![ba-rick-face](/emojis/hc/ba-rick-face.png)|
-|ba-rick| ![ba-rick](/emojis/hc/ba-rick.png)|
-|ba_dum_tsss| ![ba_dum_tsss](/emojis/hc/ba_dum_tsss.gif)|
-|baba-marta| ![baba-marta](/emojis/hc/baba-marta.png)|
-|baba| ![baba](/emojis/hc/baba.png)|
-|babelfish| ![babelfish](/emojis/hc/babelfish.gif)|
-|baby's-first-initiative-brief| ![baby's-first-initiative-brief](/emojis/hc/baby's-first-initiative-brief.png)|
-|baby-carcand| ![baby-carcand](/emojis/hc/baby-carcand.png)|
-|baby-da| ![baby-da](/emojis/hc/baby-da.png)|
-|baby-dory| ![baby-dory](/emojis/hc/baby-dory.png)|
-|baby-pumpkin| ![baby-pumpkin](/emojis/hc/baby-pumpkin.png)|
-|baby-shark| ![baby-shark](/emojis/hc/baby-shark.png)|
-|baby-yo-da| ![baby-yo-da](/emojis/hc/baby-yo-da.png)|
-|baby-yoda-tea| ![baby-yoda-tea](/emojis/hc/baby-yoda-tea.png)|
-|baby-yoda| ![baby-yoda](/emojis/hc/baby-yoda.png)|
-|baby-yoshi| ![baby-yoshi](/emojis/hc/baby-yoshi.png)|
-|baby_possum| ![baby_possum](/emojis/hc/baby_possum.png)|
-|baby_yoda_soup| ![baby_yoda_soup](/emojis/hc/baby_yoda_soup.gif)|
-|babyburrito| ![babyburrito](/emojis/hc/babyburrito.jpg)|
-|babyfeet| ![babyfeet](/emojis/hc/babyfeet.png)|
-|babyyoda| ![babyyoda](/emojis/hc/babyyoda.png)|
-|babyyoda2| ![babyyoda2](/emojis/hc/babyyoda2.png)|
-|babyyoda3| ![babyyoda3](/emojis/hc/babyyoda3.jpg)|
 
 <hr/>
 
 [Previous Page](/docs/hc/page-a-0007.md)
-  | [Next Page](/docs/hc/page-b-0009.md)
+  | [Next Page](/docs/hc/page-a-0009.md)

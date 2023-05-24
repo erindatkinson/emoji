@@ -8,6 +8,18 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|a11y-da| ![a11y-da](/emojis/hc/a11y-da.png)|
+|a11y-zoey| ![a11y-zoey](/emojis/hc/a11y-zoey.png)|
+|a11y| ![a11y](/emojis/hc/a11y.png)|
+|a_blob_bounce| ![a_blob_bounce](/emojis/hc/a_blob_bounce.gif)|
+|a_blob_brainwash| ![a_blob_brainwash](/emojis/hc/a_blob_brainwash.gif)|
+|a_blob_cheer| ![a_blob_cheer](/emojis/hc/a_blob_cheer.gif)|
+|a_blob_confused| ![a_blob_confused](/emojis/hc/a_blob_confused.gif)|
+|a_blob_cozy| ![a_blob_cozy](/emojis/hc/a_blob_cozy.png)|
+|a_blob_crying| ![a_blob_crying](/emojis/hc/a_blob_crying.gif)|
+|a_blob_devil| ![a_blob_devil](/emojis/hc/a_blob_devil.gif)|
+|a_blob_discombobulated| ![a_blob_discombobulated](/emojis/hc/a_blob_discombobulated.gif)|
+|a_blob_excited| ![a_blob_excited](/emojis/hc/a_blob_excited.gif)|
 |a_blob_eyes| ![a_blob_eyes](/emojis/hc/a_blob_eyes.gif)|
 |a_blob_fire| ![a_blob_fire](/emojis/hc/a_blob_fire.gif)|
 |a_blob_flushed| ![a_blob_flushed](/emojis/hc/a_blob_flushed.gif)|
@@ -46,6 +58,7 @@
 |a_train| ![a_train](/emojis/hc/a_train.jpg)|
 |aaa| ![aaa](/emojis/hc/aaa.gif)|
 |aaaa| ![aaaa](/emojis/hc/aaaa.gif)|
+|aaron-marshmello| ![aaron-marshmello](/emojis/hc/aaron-marshmello.png)|
 |aaron| ![aaron](/emojis/hc/aaron.gif)|
 |aashrita| ![aashrita](/emojis/hc/aashrita.png)|
 |abalone| ![abalone](/emojis/hc/abalone.png)|
@@ -64,10 +77,14 @@
 |acdc| ![acdc](/emojis/hc/acdc.png)|
 |acedance| ![acedance](/emojis/hc/acedance.gif)|
 |achievement-unlocked| ![achievement-unlocked](/emojis/hc/achievement-unlocked.png)|
+|ack-287| ![ack-287](/emojis/hc/ack-287.gif)|
 |ack-purple| ![ack-purple](/emojis/hc/ack-purple.png)|
 |ack| ![ack](/emojis/hc/ack.png)|
 |ackbar| ![ackbar](/emojis/hc/ackbar.png)|
 |acknowledge| ![acknowledge](/emojis/hc/acknowledge.png)|
+|acknowledged| ![acknowledged](/emojis/hc/acknowledged.png)|
+|active_on_turntable| ![active_on_turntable](/emojis/hc/active_on_turntable.jpg)|
+|adam-approved| ![adam-approved](/emojis/hc/adam-approved.png)|
 |adam-stare| ![adam-stare](/emojis/hc/adam-stare.png)|
 |adamwest| ![adamwest](/emojis/hc/adamwest.jpg)|
 |added-and-removed| ![added-and-removed](/emojis/hc/added-and-removed.png)|
@@ -79,6 +96,8 @@
 |adidas-red| ![adidas-red](/emojis/hc/adidas-red.png)|
 |adidas-stripes| ![adidas-stripes](/emojis/hc/adidas-stripes.png)|
 |adios_amigos| ![adios_amigos](/emojis/hc/adios_amigos.png)|
+|adrian-dubai| ![adrian-dubai](/emojis/hc/adrian-dubai.png)|
+|adrian| ![adrian](/emojis/hc/adrian.png)|
 |adulting| ![adulting](/emojis/hc/adulting.png)|
 |advent_1| ![advent_1](/emojis/hc/advent_1.png)|
 |advent_10| ![advent_10](/emojis/hc/advent_10.png)|
@@ -89,25 +108,6 @@
 |advent_15| ![advent_15](/emojis/hc/advent_15.png)|
 |advent_16| ![advent_16](/emojis/hc/advent_16.png)|
 |advent_17| ![advent_17](/emojis/hc/advent_17.png)|
-|advent_18| ![advent_18](/emojis/hc/advent_18.png)|
-|advent_19| ![advent_19](/emojis/hc/advent_19.png)|
-|advent_2| ![advent_2](/emojis/hc/advent_2.png)|
-|advent_20| ![advent_20](/emojis/hc/advent_20.png)|
-|advent_21| ![advent_21](/emojis/hc/advent_21.png)|
-|advent_22| ![advent_22](/emojis/hc/advent_22.png)|
-|advent_23| ![advent_23](/emojis/hc/advent_23.png)|
-|advent_24| ![advent_24](/emojis/hc/advent_24.png)|
-|advent_3| ![advent_3](/emojis/hc/advent_3.png)|
-|advent_4| ![advent_4](/emojis/hc/advent_4.png)|
-|advent_5| ![advent_5](/emojis/hc/advent_5.png)|
-|advent_6| ![advent_6](/emojis/hc/advent_6.png)|
-|advent_7| ![advent_7](/emojis/hc/advent_7.png)|
-|advent_8| ![advent_8](/emojis/hc/advent_8.png)|
-|advent_9| ![advent_9](/emojis/hc/advent_9.png)|
-|aeris| ![aeris](/emojis/hc/aeris.png)|
-|aeropress| ![aeropress](/emojis/hc/aeropress.png)|
-|aesir| ![aesir](/emojis/hc/aesir.png)|
-|affirmative| ![affirmative](/emojis/hc/affirmative.png)|
 
 <hr/>
 
