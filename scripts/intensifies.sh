@@ -2,8 +2,9 @@
 
 # This script was pulled from https://gist.github.com/alisdair/ffc7c884ee36ac132131f37e3803a1fe and
 # is shared here as a convenience.
+#!/bin/bash
 
-# Generate a `:something-intensifies:` Slack emoji, given a reasonable image
+# Generate a `:*-intensifies:` Slack emoji, given a reasonable image
 # input. I recommend grabbing an emoji from https://emojipedia.org/
 
 set -euo pipefail
@@ -57,7 +58,7 @@ done
 
 # Combine the frames into a GIF
 gif="${filename%.*}-intensifies.gif"
-convert -background none -dispose Background -delay 1x30 -loop 0 "${frame}"-*.gif "$gif"
+convert -background none -set dispose Background -delay 1x30 -loop 0 "${frame}"-*.gif "$gif"
 
 # Clean up
 rm "$extended" "${frame}"-*.gif

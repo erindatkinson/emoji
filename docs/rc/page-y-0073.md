@@ -1,0 +1,104 @@
+
+## Emojis (Page 73)
+
+[Previous Page](/docs/rc/page-w-0072.md)
+
+<hr />
+
+|Emoji Name|Image|
+| :-: | :-: |
+|yes_we_can| ![yes_we_can](/emojis/rc/yes_we_can.png)|
+|yeschef| ![yeschef](/emojis/rc/yeschef.gif)|
+|yet| ![yet](/emojis/rc/yet.png)|
+|yeti| ![yeti](/emojis/rc/yeti.jpg)|
+|yikes-3d-spin| ![yikes-3d-spin](/emojis/rc/yikes-3d-spin.gif)|
+|yikes| ![yikes](/emojis/rc/yikes.png)|
+|yikes_guy| ![yikes_guy](/emojis/rc/yikes_guy.jpg)|
+|yo-quiero-taco-bell| ![yo-quiero-taco-bell](/emojis/rc/yo-quiero-taco-bell.png)|
+|yoda| ![yoda](/emojis/rc/yoda.gif)|
+|yogafire| ![yogafire](/emojis/rc/yogafire.gif)|
+|yoink| ![yoink](/emojis/rc/yoink.gif)|
+|yolo-merge| ![yolo-merge](/emojis/rc/yolo-merge.png)|
+|yolo| ![yolo](/emojis/rc/yolo.png)|
+|yoshi_walk| ![yoshi_walk](/emojis/rc/yoshi_walk.gif)|
+|you've_been_schooled| ![you've_been_schooled](/emojis/rc/you've_been_schooled.jpg)|
+|you-actually| ![you-actually](/emojis/rc/you-actually.png)|
+|you-bet| ![you-bet](/emojis/rc/you-bet.png)|
+|you-call-this-a-storm| ![you-call-this-a-storm](/emojis/rc/you-call-this-a-storm.png)|
+|you-da-bes| ![you-da-bes](/emojis/rc/you-da-bes.jpg)|
+|you-got-it-| ![you-got-it-](/emojis/rc/you-got-it-.png)|
+|you-got-it-dude| ![you-got-it-dude](/emojis/rc/you-got-it-dude.png)|
+|you-got-it| ![you-got-it](/emojis/rc/you-got-it.png)|
+|you-got-this| ![you-got-this](/emojis/rc/you-got-this.png)|
+|you-looked| ![you-looked](/emojis/rc/you-looked.jpg)|
+|you-rock| ![you-rock](/emojis/rc/you-rock.png)|
+|you-sure-about-that| ![you-sure-about-that](/emojis/rc/you-sure-about-that.gif)|
+|you_are_welcome| ![you_are_welcome](/emojis/rc/you_are_welcome.gif)|
+|you_dont_even_go_here| ![you_dont_even_go_here](/emojis/rc/you_dont_even_go_here.jpg)|
+|you_dont_say| ![you_dont_say](/emojis/rc/you_dont_say.png)|
+|you_get_an_x| ![you_get_an_x](/emojis/rc/you_get_an_x.png)|
+|you_keep_saying_that_word| ![you_keep_saying_that_word](/emojis/rc/you_keep_saying_that_word.jpg)|
+|you_legend| ![you_legend](/emojis/rc/you_legend.png)|
+|youdoyou| ![youdoyou](/emojis/rc/youdoyou.gif)|
+|yougotit| ![yougotit](/emojis/rc/yougotit.png)|
+|your-mom| ![your-mom](/emojis/rc/your-mom.jpg)|
+|youre-joking| ![youre-joking](/emojis/rc/youre-joking.jpg)|
+|youre_the_best| ![youre_the_best](/emojis/rc/youre_the_best.gif)|
+|youre_welcome| ![youre_welcome](/emojis/rc/youre_welcome.jpg)|
+|yourewelcome| ![yourewelcome](/emojis/rc/yourewelcome.png)|
+|youtoo| ![youtoo](/emojis/rc/youtoo.png)|
+|youtried| ![youtried](/emojis/rc/youtried.png)|
+|yubicat| ![yubicat](/emojis/rc/yubicat.gif)|
+|yuck| ![yuck](/emojis/rc/yuck.gif)|
+|yuck_sticker| ![yuck_sticker](/emojis/rc/yuck_sticker.png)|
+|yuckers| ![yuckers](/emojis/rc/yuckers.gif)|
+|yugi_puzzle| ![yugi_puzzle](/emojis/rc/yugi_puzzle.png)|
+|yuki-approved| ![yuki-approved](/emojis/rc/yuki-approved.png)|
+|yuki-spin| ![yuki-spin](/emojis/rc/yuki-spin.gif)|
+|yuki| ![yuki](/emojis/rc/yuki.png)|
+|yukke| ![yukke](/emojis/rc/yukke.png)|
+|yup| ![yup](/emojis/rc/yup.gif)|
+|yw| ![yw](/emojis/rc/yw.png)|
+|z-cup| ![z-cup](/emojis/rc/z-cup.png)|
+|z-for-zorro| ![z-for-zorro](/emojis/rc/z-for-zorro.png)|
+|z-pain| ![z-pain](/emojis/rc/z-pain.png)|
+|z| ![z](/emojis/rc/z.png)|
+|zachspersonalzoomroom| ![zachspersonalzoomroom](/emojis/rc/zachspersonalzoomroom.png)|
+|zachtotherescue| ![zachtotherescue](/emojis/rc/zachtotherescue.jpg)|
+|zadam| ![zadam](/emojis/rc/zadam.png)|
+|zamo| ![zamo](/emojis/rc/zamo.png)|
+|zamo2| ![zamo2](/emojis/rc/zamo2.png)|
+|zebra-party| ![zebra-party](/emojis/rc/zebra-party.gif)|
+|zeek| ![zeek](/emojis/rc/zeek.png)|
+|zelda| ![zelda](/emojis/rc/zelda.png)|
+|zen_kevin| ![zen_kevin](/emojis/rc/zen_kevin.png)|
+|zendesk-da| ![zendesk-da](/emojis/rc/zendesk-da.png)|
+|zendesk-heart| ![zendesk-heart](/emojis/rc/zendesk-heart.png)|
+|zendesk| ![zendesk](/emojis/rc/zendesk.jpg)|
+|zepf-calm-down| ![zepf-calm-down](/emojis/rc/zepf-calm-down.png)|
+|zero_dog| ![zero_dog](/emojis/rc/zero_dog.png)|
+|zero_queue| ![zero_queue](/emojis/rc/zero_queue.png)|
+|zerodog| ![zerodog](/emojis/rc/zerodog.png)|
+|zim| ![zim](/emojis/rc/zim.png)|
+|zoid| ![zoid](/emojis/rc/zoid.png)|
+|zoidberg-escape| ![zoidberg-escape](/emojis/rc/zoidberg-escape.gif)|
+|zoinks| ![zoinks](/emojis/rc/zoinks.png)|
+|zoltar_fortune| ![zoltar_fortune](/emojis/rc/zoltar_fortune.jpg)|
+|zombie-2| ![zombie-2](/emojis/rc/zombie-2.png)|
+|zombiewalk| ![zombiewalk](/emojis/rc/zombiewalk.gif)|
+|zoom-all-the-way-down| ![zoom-all-the-way-down](/emojis/rc/zoom-all-the-way-down.gif)|
+|zoom-zoom| ![zoom-zoom](/emojis/rc/zoom-zoom.gif)|
+|zoom| ![zoom](/emojis/rc/zoom.png)|
+|zoomercrew| ![zoomercrew](/emojis/rc/zoomercrew.png)|
+|zoomzoom| ![zoomzoom](/emojis/rc/zoomzoom.png)|
+|zooted| ![zooted](/emojis/rc/zooted.png)|
+|zscaler| ![zscaler](/emojis/rc/zscaler.png)|
+|zsh| ![zsh](/emojis/rc/zsh.png)|
+|zubat| ![zubat](/emojis/rc/zubat.gif)|
+|zuck-dawg| ![zuck-dawg](/emojis/rc/zuck-dawg.png)|
+|zune| ![zune](/emojis/rc/zune.png)|
+|zuture| ![zuture](/emojis/rc/zuture.png)|
+
+<hr/>
+
+[Previous Page](/docs/rc/page-w-0072.md)
