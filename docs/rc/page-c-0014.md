@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|clippy| ![clippy](/emojis/rc/clippy.jpg)|
+|clood| ![clood](/emojis/rc/clood.png)|
+|close_air_quote| ![close_air_quote](/emojis/rc/close_air_quote.gif)|
+|close_enough| ![close_enough](/emojis/rc/close_enough.png)|
+|closeairquotes| ![closeairquotes](/emojis/rc/closeairquotes.gif)|
+|closed| ![closed](/emojis/rc/closed.png)|
 |closed1| ![closed1](/emojis/rc/closed1.png)|
 |closing_time| ![closing_time](/emojis/rc/closing_time.jpg)|
 |cloud-dollar| ![cloud-dollar](/emojis/rc/cloud-dollar.png)|
@@ -102,12 +108,6 @@
 |confused_parrot| ![confused_parrot](/emojis/rc/confused_parrot.gif)|
 |confused_rothe| ![confused_rothe](/emojis/rc/confused_rothe.png)|
 |congrats| ![congrats](/emojis/rc/congrats.jpg)|
-|conspiracy| ![conspiracy](/emojis/rc/conspiracy.gif)|
-|construction-matt| ![construction-matt](/emojis/rc/construction-matt.png)|
-|construction_canary| ![construction_canary](/emojis/rc/construction_canary.gif)|
-|context_magnified| ![context_magnified](/emojis/rc/context_magnified.jpg)|
-|coo-coo-coo| ![coo-coo-coo](/emojis/rc/coo-coo-coo.png)|
-|coo| ![coo](/emojis/rc/coo.gif)|
 
 <hr/>
 

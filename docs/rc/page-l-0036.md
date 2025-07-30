@@ -8,6 +8,25 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|laugh-cry| ![laugh-cry](/emojis/rc/laugh-cry.png)|
+|laugh| ![laugh](/emojis/rc/laugh.gif)|
+|launchpad_mcquack| ![launchpad_mcquack](/emojis/rc/launchpad_mcquack.png)|
+|laura| ![laura](/emojis/rc/laura.jpg)|
+|laurab| ![laurab](/emojis/rc/laurab.png)|
+|laurentotherescue| ![laurentotherescue](/emojis/rc/laurentotherescue.png)|
+|lawd| ![lawd](/emojis/rc/lawd.png)|
+|lawyer-cat| ![lawyer-cat](/emojis/rc/lawyer-cat.jpg)|
+|layerx| ![layerx](/emojis/rc/layerx.png)|
+|lazy-susie| ![lazy-susie](/emojis/rc/lazy-susie.png)|
+|lazymode| ![lazymode](/emojis/rc/lazymode.gif)|
+|le-poisson-steve-dance| ![le-poisson-steve-dance](/emojis/rc/le-poisson-steve-dance.gif)|
+|le-poisson-steve-stand| ![le-poisson-steve-stand](/emojis/rc/le-poisson-steve-stand.gif)|
+|leafeon| ![leafeon](/emojis/rc/leafeon.png)|
+|lebowski-car-jam| ![lebowski-car-jam](/emojis/rc/lebowski-car-jam.gif)|
+|ledr-infra-sme| ![ledr-infra-sme](/emojis/rc/ledr-infra-sme.jpg)|
+|ledr| ![ledr](/emojis/rc/ledr.jpg)|
+|leeroy-jenkins| ![leeroy-jenkins](/emojis/rc/leeroy-jenkins.jpg)|
+|left_shark| ![left_shark](/emojis/rc/left_shark.gif)|
 |leftovers_pokemon| ![leftovers_pokemon](/emojis/rc/leftovers_pokemon.png)|
 |leftshark| ![leftshark](/emojis/rc/leftshark.gif)|
 |legend-dairy| ![legend-dairy](/emojis/rc/legend-dairy.jpg)|
@@ -89,25 +108,6 @@
 |llama_paul| ![llama_paul](/emojis/rc/llama_paul.png)|
 |lmao| ![lmao](/emojis/rc/lmao.jpg)|
 |lmgtfy| ![lmgtfy](/emojis/rc/lmgtfy.png)|
-|loadbearing-skeleton| ![loadbearing-skeleton](/emojis/rc/loadbearing-skeleton.png)|
-|loading-bars| ![loading-bars](/emojis/rc/loading-bars.gif)|
-|loading-dots| ![loading-dots](/emojis/rc/loading-dots.gif)|
-|loading| ![loading](/emojis/rc/loading.gif)|
-|loading_alex| ![loading_alex](/emojis/rc/loading_alex.gif)|
-|loading_circle| ![loading_circle](/emojis/rc/loading_circle.gif)|
-|loading_circle_grey| ![loading_circle_grey](/emojis/rc/loading_circle_grey.gif)|
-|loading_matt| ![loading_matt](/emojis/rc/loading_matt.gif)|
-|loading_pizza| ![loading_pizza](/emojis/rc/loading_pizza.gif)|
-|loadingblue| ![loadingblue](/emojis/rc/loadingblue.gif)|
-|lobster-dance| ![lobster-dance](/emojis/rc/lobster-dance.gif)|
-|lock-blood-sob| ![lock-blood-sob](/emojis/rc/lock-blood-sob.png)|
-|lock-da| ![lock-da](/emojis/rc/lock-da.png)|
-|lock-sob| ![lock-sob](/emojis/rc/lock-sob.png)|
-|locked| ![locked](/emojis/rc/locked.png)|
-|locust-swarm| ![locust-swarm](/emojis/rc/locust-swarm.gif)|
-|lofi| ![lofi](/emojis/rc/lofi.jpg)|
-|lofi_canary| ![lofi_canary](/emojis/rc/lofi_canary.png)|
-|loft-it| ![loft-it](/emojis/rc/loft-it.jpg)|
 
 <hr/>
 

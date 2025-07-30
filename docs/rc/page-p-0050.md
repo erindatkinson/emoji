@@ -8,6 +8,30 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|portal-parrot-blue| ![portal-parrot-blue](/emojis/rc/portal-parrot-blue.gif)|
+|portal-parrot-orange| ![portal-parrot-orange](/emojis/rc/portal-parrot-orange.gif)|
+|portal-think| ![portal-think](/emojis/rc/portal-think.gif)|
+|portal_parrot| ![portal_parrot](/emojis/rc/portal_parrot.gif)|
+|positive-pat| ![positive-pat](/emojis/rc/positive-pat.png)|
+|possum| ![possum](/emojis/rc/possum.png)|
+|possum_dance| ![possum_dance](/emojis/rc/possum_dance.gif)|
+|postgres-da| ![postgres-da](/emojis/rc/postgres-da.png)|
+|postgres-intensifies| ![postgres-intensifies](/emojis/rc/postgres-intensifies.gif)|
+|postgres-sob| ![postgres-sob](/emojis/rc/postgres-sob.png)|
+|postgres| ![postgres](/emojis/rc/postgres.png)|
+|postgres_intensifies| ![postgres_intensifies](/emojis/rc/postgres_intensifies.gif)|
+|postgresql| ![postgresql](/emojis/rc/postgresql.png)|
+|pot_of_gold| ![pot_of_gold](/emojis/rc/pot_of_gold.png)|
+|potato-intensifies| ![potato-intensifies](/emojis/rc/potato-intensifies.gif)|
+|potato-knishes| ![potato-knishes](/emojis/rc/potato-knishes.png)|
+|potato-on-fire| ![potato-on-fire](/emojis/rc/potato-on-fire.gif)|
+|potato_intensifies| ![potato_intensifies](/emojis/rc/potato_intensifies.gif)|
+|potential_risk| ![potential_risk](/emojis/rc/potential_risk.png)|
+|potion| ![potion](/emojis/rc/potion.gif)|
+|pour_one_out| ![pour_one_out](/emojis/rc/pour_one_out.gif)|
+|pow| ![pow](/emojis/rc/pow.png)|
+|powerball| ![powerball](/emojis/rc/powerball.png)|
+|powerbi| ![powerbi](/emojis/rc/powerbi.png)|
 |powerbutton| ![powerbutton](/emojis/rc/powerbutton.png)|
 |powered-by-blockchain| ![powered-by-blockchain](/emojis/rc/powered-by-blockchain.png)|
 |powerline| ![powerline](/emojis/rc/powerline.gif)|
@@ -31,6 +55,7 @@
 |pride-rc| ![pride-rc](/emojis/rc/pride-rc.png)|
 |pride-trans-flag| ![pride-trans-flag](/emojis/rc/pride-trans-flag.png)|
 |pride-trans| ![pride-trans](/emojis/rc/pride-trans.png)|
+|pride| ![pride](/emojis/rc/pride.png)|
 |pridecat| ![pridecat](/emojis/rc/pridecat.png)|
 |pridecat_ace| ![pridecat_ace](/emojis/rc/pridecat_ace.png)|
 |pridecat_agender| ![pridecat_agender](/emojis/rc/pridecat_agender.png)|
@@ -83,31 +108,6 @@
 |pumpkin_cat| ![pumpkin_cat](/emojis/rc/pumpkin_cat.png)|
 |pumpkin_parrot| ![pumpkin_parrot](/emojis/rc/pumpkin_parrot.gif)|
 |pumpkin_spice| ![pumpkin_spice](/emojis/rc/pumpkin_spice.png)|
-|pumpkin_spice_latay| ![pumpkin_spice_latay](/emojis/rc/pumpkin_spice_latay.png)|
-|punisher| ![punisher](/emojis/rc/punisher.png)|
-|punk| ![punk](/emojis/rc/punk.gif)|
-|punt| ![punt](/emojis/rc/punt.jpg)|
-|pup| ![pup](/emojis/rc/pup.jpg)|
-|pupcup| ![pupcup](/emojis/rc/pupcup.png)|
-|puppers| ![puppers](/emojis/rc/puppers.png)|
-|puppetlabs| ![puppetlabs](/emojis/rc/puppetlabs.png)|
-|puppylove| ![puppylove](/emojis/rc/puppylove.png)|
-|pupwut| ![pupwut](/emojis/rc/pupwut.gif)|
-|purdue| ![purdue](/emojis/rc/purdue.png)|
-|purduepete| ![purduepete](/emojis/rc/purduepete.jpg)|
-|pure_terror| ![pure_terror](/emojis/rc/pure_terror.png)|
-|purell| ![purell](/emojis/rc/purell.jpg)|
-|purple-rain| ![purple-rain](/emojis/rc/purple-rain.jpg)|
-|purple-squirrel| ![purple-squirrel](/emojis/rc/purple-squirrel.jpg)|
-|purple| ![purple](/emojis/rc/purple.png)|
-|purple_logo| ![purple_logo](/emojis/rc/purple_logo.png)|
-|purplefox| ![purplefox](/emojis/rc/purplefox.png)|
-|purplerain| ![purplerain](/emojis/rc/purplerain.gif)|
-|pusheen-angry| ![pusheen-angry](/emojis/rc/pusheen-angry.png)|
-|pusheen-aw| ![pusheen-aw](/emojis/rc/pusheen-aw.png)|
-|pusheen-cat-beans-intensifies| ![pusheen-cat-beans-intensifies](/emojis/rc/pusheen-cat-beans-intensifies.gif)|
-|pusheen-cat-beans| ![pusheen-cat-beans](/emojis/rc/pusheen-cat-beans.gif)|
-|pusheen-cat-computer| ![pusheen-cat-computer](/emojis/rc/pusheen-cat-computer.gif)|
 
 <hr/>
 

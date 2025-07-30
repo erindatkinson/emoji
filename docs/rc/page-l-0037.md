@@ -8,6 +8,25 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|loadbearing-skeleton| ![loadbearing-skeleton](/emojis/rc/loadbearing-skeleton.png)|
+|loading-bars| ![loading-bars](/emojis/rc/loading-bars.gif)|
+|loading-dots| ![loading-dots](/emojis/rc/loading-dots.gif)|
+|loading| ![loading](/emojis/rc/loading.gif)|
+|loading_alex| ![loading_alex](/emojis/rc/loading_alex.gif)|
+|loading_circle| ![loading_circle](/emojis/rc/loading_circle.gif)|
+|loading_circle_grey| ![loading_circle_grey](/emojis/rc/loading_circle_grey.gif)|
+|loading_matt| ![loading_matt](/emojis/rc/loading_matt.gif)|
+|loading_pizza| ![loading_pizza](/emojis/rc/loading_pizza.gif)|
+|loadingblue| ![loadingblue](/emojis/rc/loadingblue.gif)|
+|lobster-dance| ![lobster-dance](/emojis/rc/lobster-dance.gif)|
+|lock-blood-sob| ![lock-blood-sob](/emojis/rc/lock-blood-sob.png)|
+|lock-da| ![lock-da](/emojis/rc/lock-da.png)|
+|lock-sob| ![lock-sob](/emojis/rc/lock-sob.png)|
+|locked| ![locked](/emojis/rc/locked.png)|
+|locust-swarm| ![locust-swarm](/emojis/rc/locust-swarm.gif)|
+|lofi| ![lofi](/emojis/rc/lofi.jpg)|
+|lofi_canary| ![lofi_canary](/emojis/rc/lofi_canary.png)|
+|loft-it| ![loft-it](/emojis/rc/loft-it.jpg)|
 |log-technologist| ![log-technologist](/emojis/rc/log-technologist.png)|
 |log| ![log](/emojis/rc/log.jpg)|
 |log_| ![log_](/emojis/rc/log_.png)|
@@ -67,6 +86,7 @@
 |lurk| ![lurk](/emojis/rc/lurk.jpg)|
 |lwyrup| ![lwyrup](/emojis/rc/lwyrup.jpg)|
 |lynntotherescue| ![lynntotherescue](/emojis/rc/lynntotherescue.png)|
+|m-zh| ![m-zh](/emojis/rc/m-zh.png)|
 |m1| ![m1](/emojis/rc/m1.png)|
 |m_a_s_h| ![m_a_s_h](/emojis/rc/m_a_s_h.jpg)|
 |m_and_m| ![m_and_m](/emojis/rc/m_and_m.png)|
@@ -88,26 +108,6 @@
 |magenta| ![magenta](/emojis/rc/magenta.png)|
 |magic-8-ball| ![magic-8-ball](/emojis/rc/magic-8-ball.png)|
 |magic-wand| ![magic-wand](/emojis/rc/magic-wand.png)|
-|magic| ![magic](/emojis/rc/magic.gif)|
-|magic_carpet| ![magic_carpet](/emojis/rc/magic_carpet.jpg)|
-|magicjoe| ![magicjoe](/emojis/rc/magicjoe.jpg)|
-|magicjulie| ![magicjulie](/emojis/rc/magicjulie.png)|
-|magikarp| ![magikarp](/emojis/rc/magikarp.gif)|
-|magpul| ![magpul](/emojis/rc/magpul.png)|
-|mahogany-megalodons| ![mahogany-megalodons](/emojis/rc/mahogany-megalodons.jpg)|
-|mahogany| ![mahogany](/emojis/rc/mahogany.jpg)|
-|major_award| ![major_award](/emojis/rc/major_award.jpg)|
-|mak_foss_the_boss| ![mak_foss_the_boss](/emojis/rc/mak_foss_the_boss.png)|
-|make-it-pop| ![make-it-pop](/emojis/rc/make-it-pop.png)|
-|make_it_so| ![make_it_so](/emojis/rc/make_it_so.png)|
-|makessense| ![makessense](/emojis/rc/makessense.jpg)|
-|making| ![making](/emojis/rc/making.jpg)|
-|maleficent| ![maleficent](/emojis/rc/maleficent.png)|
-|malk| ![malk](/emojis/rc/malk.jpg)|
-|malort| ![malort](/emojis/rc/malort.jpg)|
-|malort_face| ![malort_face](/emojis/rc/malort_face.png)|
-|malware| ![malware](/emojis/rc/malware.png)|
-|malware_dont_need_coffee| ![malware_dont_need_coffee](/emojis/rc/malware_dont_need_coffee.png)|
 
 <hr/>
 

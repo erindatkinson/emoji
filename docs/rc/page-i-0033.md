@@ -8,6 +8,22 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|itcrowd| ![itcrowd](/emojis/rc/itcrowd.gif)|
+|its-a-present-just-kidding-its-a-sev1| ![its-a-present-just-kidding-its-a-sev1](/emojis/rc/its-a-present-just-kidding-its-a-sev1.png)|
+|its-a-present-just-kidding-its-a-thread-in-a-box| ![its-a-present-just-kidding-its-a-thread-in-a-box](/emojis/rc/its-a-present-just-kidding-its-a-thread-in-a-box.png)|
+|its-about-time| ![its-about-time](/emojis/rc/its-about-time.jpg)|
+|its-alive| ![its-alive](/emojis/rc/its-alive.gif)|
+|its-always-dns| ![its-always-dns](/emojis/rc/its-always-dns.jpg)|
+|its-done| ![its-done](/emojis/rc/its-done.gif)|
+|its-friday-catjam| ![its-friday-catjam](/emojis/rc/its-friday-catjam.gif)|
+|its-gonna-be-may| ![its-gonna-be-may](/emojis/rc/its-gonna-be-may.png)|
+|its-happening| ![its-happening](/emojis/rc/its-happening.gif)|
+|its-not-your-fault| ![its-not-your-fault](/emojis/rc/its-not-your-fault.gif)|
+|its-true| ![its-true](/emojis/rc/its-true.gif)|
+|its-working-anakin| ![its-working-anakin](/emojis/rc/its-working-anakin.gif)|
+|its_dangerous_to_go_alone_take_this| ![its_dangerous_to_go_alone_take_this](/emojis/rc/its_dangerous_to_go_alone_take_this.png)|
+|its_lit_fam| ![its_lit_fam](/emojis/rc/its_lit_fam.png)|
+|its_only_a_model| ![its_only_a_model](/emojis/rc/its_only_a_model.jpg)|
 |its_so_beautiful| ![its_so_beautiful](/emojis/rc/its_so_beautiful.png)|
 |itslaps| ![itslaps](/emojis/rc/itslaps.png)|
 |iu| ![iu](/emojis/rc/iu.png)|
@@ -92,22 +108,6 @@
 |joe_dirt| ![joe_dirt](/emojis/rc/joe_dirt.png)|
 |joe_exotic| ![joe_exotic](/emojis/rc/joe_exotic.png)|
 |joe_glee| ![joe_glee](/emojis/rc/joe_glee.png)|
-|joe_smiling_eyes| ![joe_smiling_eyes](/emojis/rc/joe_smiling_eyes.png)|
-|joe_vogue| ![joe_vogue](/emojis/rc/joe_vogue.jpg)|
-|joebot| ![joebot](/emojis/rc/joebot.jpg)|
-|joejoe| ![joejoe](/emojis/rc/joejoe.png)|
-|joemontana| ![joemontana](/emojis/rc/joemontana.png)|
-|joey| ![joey](/emojis/rc/joey.png)|
-|johnwickpuppy| ![johnwickpuppy](/emojis/rc/johnwickpuppy.png)|
-|joining_queue| ![joining_queue](/emojis/rc/joining_queue.png)|
-|joinus| ![joinus](/emojis/rc/joinus.gif)|
-|jolly_roger| ![jolly_roger](/emojis/rc/jolly_roger.png)|
-|jolteon| ![jolteon](/emojis/rc/jolteon.png)|
-|joseph-smile| ![joseph-smile](/emojis/rc/joseph-smile.png)|
-|joy_cat_blob| ![joy_cat_blob](/emojis/rc/joy_cat_blob.png)|
-|joye-crunchy-mad| ![joye-crunchy-mad](/emojis/rc/joye-crunchy-mad.png)|
-|joye-intensifies| ![joye-intensifies](/emojis/rc/joye-intensifies.gif)|
-|joye| ![joye](/emojis/rc/joye.png)|
 
 <hr/>
 

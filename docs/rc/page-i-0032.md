@@ -8,6 +8,22 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|iced_latte| ![iced_latte](/emojis/rc/iced_latte.png)|
+|iced_tea| ![iced_tea](/emojis/rc/iced_tea.png)|
+|icedcoffee| ![icedcoffee](/emojis/rc/icedcoffee.png)|
+|icehouse| ![icehouse](/emojis/rc/icehouse.png)|
+|icp| ![icp](/emojis/rc/icp.png)|
+|icq| ![icq](/emojis/rc/icq.gif)|
+|ida| ![ida](/emojis/rc/ida.png)|
+|idea| ![idea](/emojis/rc/idea.png)|
+|idea_blob| ![idea_blob](/emojis/rc/idea_blob.png)|
+|ididit| ![ididit](/emojis/rc/ididit.gif)|
+|idk-bubble| ![idk-bubble](/emojis/rc/idk-bubble.gif)|
+|idk-panda| ![idk-panda](/emojis/rc/idk-panda.gif)|
+|idk-tuzki| ![idk-tuzki](/emojis/rc/idk-tuzki.gif)|
+|idk| ![idk](/emojis/rc/idk.png)|
+|idontbelieveyou| ![idontbelieveyou](/emojis/rc/idontbelieveyou.gif)|
+|if-it-were-only-so-simple| ![if-it-were-only-so-simple](/emojis/rc/if-it-were-only-so-simple.png)|
 |ight_imma_head_out| ![ight_imma_head_out](/emojis/rc/ight_imma_head_out.png)|
 |ignore-all-previous-instructions| ![ignore-all-previous-instructions](/emojis/rc/ignore-all-previous-instructions.png)|
 |ikea| ![ikea](/emojis/rc/ikea.png)|
@@ -92,22 +108,6 @@
 |it-you| ![it-you](/emojis/rc/it-you.png)|
 |it_depends| ![it_depends](/emojis/rc/it_depends.png)|
 |it_me| ![it_me](/emojis/rc/it_me.gif)|
-|itcrowd| ![itcrowd](/emojis/rc/itcrowd.gif)|
-|its-a-present-just-kidding-its-a-sev1| ![its-a-present-just-kidding-its-a-sev1](/emojis/rc/its-a-present-just-kidding-its-a-sev1.png)|
-|its-a-present-just-kidding-its-a-thread-in-a-box| ![its-a-present-just-kidding-its-a-thread-in-a-box](/emojis/rc/its-a-present-just-kidding-its-a-thread-in-a-box.png)|
-|its-about-time| ![its-about-time](/emojis/rc/its-about-time.jpg)|
-|its-alive| ![its-alive](/emojis/rc/its-alive.gif)|
-|its-always-dns| ![its-always-dns](/emojis/rc/its-always-dns.jpg)|
-|its-done| ![its-done](/emojis/rc/its-done.gif)|
-|its-friday-catjam| ![its-friday-catjam](/emojis/rc/its-friday-catjam.gif)|
-|its-gonna-be-may| ![its-gonna-be-may](/emojis/rc/its-gonna-be-may.png)|
-|its-happening| ![its-happening](/emojis/rc/its-happening.gif)|
-|its-not-your-fault| ![its-not-your-fault](/emojis/rc/its-not-your-fault.gif)|
-|its-true| ![its-true](/emojis/rc/its-true.gif)|
-|its-working-anakin| ![its-working-anakin](/emojis/rc/its-working-anakin.gif)|
-|its_dangerous_to_go_alone_take_this| ![its_dangerous_to_go_alone_take_this](/emojis/rc/its_dangerous_to_go_alone_take_this.png)|
-|its_lit_fam| ![its_lit_fam](/emojis/rc/its_lit_fam.png)|
-|its_only_a_model| ![its_only_a_model](/emojis/rc/its_only_a_model.jpg)|
 
 <hr/>
 

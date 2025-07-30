@@ -95,6 +95,7 @@
 |andre3000| ![andre3000](/emojis/rc/andre3000.gif)|
 |andrew-garfield| ![andrew-garfield](/emojis/rc/andrew-garfield.png)|
 |android| ![android](/emojis/rc/android.png)|
+|angry-cry| ![angry-cry](/emojis/rc/angry-cry.jpg)|
 |angry-cry| ![angry-cry](/emojis/rc/angry-cry.png)|
 |angry-jimmy| ![angry-jimmy](/emojis/rc/angry-jimmy.png)|
 |angry-linux| ![angry-linux](/emojis/rc/angry-linux.png)|
@@ -107,7 +108,6 @@
 |angry_egg| ![angry_egg](/emojis/rc/angry_egg.gif)|
 |angry_eyes| ![angry_eyes](/emojis/rc/angry_eyes.png)|
 |angry_kermit| ![angry_kermit](/emojis/rc/angry_kermit.gif)|
-|angry_kirby| ![angry_kirby](/emojis/rc/angry_kirby.png)|
 
 <hr/>
 

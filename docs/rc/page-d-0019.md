@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|dontknowhowusecomputer| ![dontknowhowusecomputer](/emojis/rc/dontknowhowusecomputer.png)|
+|dontmakemecutyou| ![dontmakemecutyou](/emojis/rc/dontmakemecutyou.jpg)|
+|donut-chocolate| ![donut-chocolate](/emojis/rc/donut-chocolate.png)|
+|donut-cruller| ![donut-cruller](/emojis/rc/donut-cruller.png)|
+|donut-cute| ![donut-cute](/emojis/rc/donut-cute.png)|
+|donut-glazed| ![donut-glazed](/emojis/rc/donut-glazed.png)|
+|donut-jelly| ![donut-jelly](/emojis/rc/donut-jelly.png)|
 |donut-party| ![donut-party](/emojis/rc/donut-party.gif)|
 |donut-pink| ![donut-pink](/emojis/rc/donut-pink.png)|
 |donutboi| ![donutboi](/emojis/rc/donutboi.png)|
@@ -83,6 +90,7 @@
 |dunno| ![dunno](/emojis/rc/dunno.jpg)|
 |duo| ![duo](/emojis/rc/duo.png)|
 |dust_bunny| ![dust_bunny](/emojis/rc/dust_bunny.gif)|
+|dusty_stick| ![dusty_stick](/emojis/rc/dusty_stick.png)|
 |dwight_schrute| ![dwight_schrute](/emojis/rc/dwight_schrute.png)|
 |dwightidiot| ![dwightidiot](/emojis/rc/dwightidiot.jpg)|
 |dyinginside| ![dyinginside](/emojis/rc/dyinginside.png)|
@@ -100,14 +108,6 @@
 |eclipse| ![eclipse](/emojis/rc/eclipse.png)|
 |ecstatic_tony| ![ecstatic_tony](/emojis/rc/ecstatic_tony.png)|
 |educational-purpose-only| ![educational-purpose-only](/emojis/rc/educational-purpose-only.png)|
-|educational| ![educational](/emojis/rc/educational.png)|
-|eel-pie| ![eel-pie](/emojis/rc/eel-pie.png)|
-|eevee-coffee| ![eevee-coffee](/emojis/rc/eevee-coffee.png)|
-|eevee| ![eevee](/emojis/rc/eevee.png)|
-|eeyore| ![eeyore](/emojis/rc/eeyore.gif)|
-|egg_chill| ![egg_chill](/emojis/rc/egg_chill.png)|
-|eggnog| ![eggnog](/emojis/rc/eggnog.png)|
-|eggo| ![eggo](/emojis/rc/eggo.png)|
 
 <hr/>
 

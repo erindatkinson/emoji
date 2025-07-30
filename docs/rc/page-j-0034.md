@@ -8,6 +8,22 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|joe_smiling_eyes| ![joe_smiling_eyes](/emojis/rc/joe_smiling_eyes.png)|
+|joe_vogue| ![joe_vogue](/emojis/rc/joe_vogue.jpg)|
+|joebot| ![joebot](/emojis/rc/joebot.jpg)|
+|joejoe| ![joejoe](/emojis/rc/joejoe.png)|
+|joemontana| ![joemontana](/emojis/rc/joemontana.png)|
+|joey| ![joey](/emojis/rc/joey.png)|
+|johnwickpuppy| ![johnwickpuppy](/emojis/rc/johnwickpuppy.png)|
+|joining_queue| ![joining_queue](/emojis/rc/joining_queue.png)|
+|joinus| ![joinus](/emojis/rc/joinus.gif)|
+|jolly_roger| ![jolly_roger](/emojis/rc/jolly_roger.png)|
+|jolteon| ![jolteon](/emojis/rc/jolteon.png)|
+|joseph-smile| ![joseph-smile](/emojis/rc/joseph-smile.png)|
+|joy_cat_blob| ![joy_cat_blob](/emojis/rc/joy_cat_blob.png)|
+|joye-crunchy-mad| ![joye-crunchy-mad](/emojis/rc/joye-crunchy-mad.png)|
+|joye-intensifies| ![joye-intensifies](/emojis/rc/joye-intensifies.gif)|
+|joye| ![joye](/emojis/rc/joye.png)|
 |joye_crunchy| ![joye_crunchy](/emojis/rc/joye_crunchy.png)|
 |jquery| ![jquery](/emojis/rc/jquery.png)|
 |jruby| ![jruby](/emojis/rc/jruby.png)|
@@ -66,6 +82,7 @@
 |keks| ![keks](/emojis/rc/keks.png)|
 |kekw| ![kekw](/emojis/rc/kekw.png)|
 |kellons_bucket| ![kellons_bucket](/emojis/rc/kellons_bucket.png)|
+|kellons_bucket_new| ![kellons_bucket_new](/emojis/rc/kellons_bucket_new.png)|
 |kellonxfrank| ![kellonxfrank](/emojis/rc/kellonxfrank.png)|
 |kellytotherescue| ![kellytotherescue](/emojis/rc/kellytotherescue.jpg)|
 |ken| ![ken](/emojis/rc/ken.png)|
@@ -91,23 +108,6 @@
 |keychain| ![keychain](/emojis/rc/keychain.png)|
 |keywork| ![keywork](/emojis/rc/keywork.png)|
 |khan| ![khan](/emojis/rc/khan.gif)|
-|kholio| ![kholio](/emojis/rc/kholio.jpg)|
-|kick-me_sign| ![kick-me_sign](/emojis/rc/kick-me_sign.gif)|
-|kick| ![kick](/emojis/rc/kick.png)|
-|kickcomputerq| ![kickcomputerq](/emojis/rc/kickcomputerq.gif)|
-|kid-canary| ![kid-canary](/emojis/rc/kid-canary.png)|
-|kid-drop-off| ![kid-drop-off](/emojis/rc/kid-drop-off.png)|
-|kidcanary| ![kidcanary](/emojis/rc/kidcanary.jpg)|
-|kids| ![kids](/emojis/rc/kids.png)|
-|kier-eagan| ![kier-eagan](/emojis/rc/kier-eagan.png)|
-|kiki| ![kiki](/emojis/rc/kiki.gif)|
-|killitwithfire| ![killitwithfire](/emojis/rc/killitwithfire.gif)|
-|kimjongun| ![kimjongun](/emojis/rc/kimjongun.jpg)|
-|kindasus| ![kindasus](/emojis/rc/kindasus.png)|
-|king| ![king](/emojis/rc/king.png)|
-|king_robbie| ![king_robbie](/emojis/rc/king_robbie.png)|
-|kingsumo| ![kingsumo](/emojis/rc/kingsumo.jpg)|
-|kirby-sweat| ![kirby-sweat](/emojis/rc/kirby-sweat.png)|
 
 <hr/>
 

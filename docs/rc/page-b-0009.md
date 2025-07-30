@@ -8,6 +8,11 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|blobcry| ![blobcry](/emojis/rc/blobcry.gif)|
+|blobhaj| ![blobhaj](/emojis/rc/blobhaj.png)|
+|blobhajheart| ![blobhajheart](/emojis/rc/blobhajheart.png)|
+|blobhajmeowhug| ![blobhajmeowhug](/emojis/rc/blobhajmeowhug.png)|
+|blobhajmlem| ![blobhajmlem](/emojis/rc/blobhajmlem.png)|
 |blobhajprideheart| ![blobhajprideheart](/emojis/rc/blobhajprideheart.png)|
 |blobhajreach| ![blobhajreach](/emojis/rc/blobhajreach.png)|
 |blobhajsadreach| ![blobhajsadreach](/emojis/rc/blobhajsadreach.png)|
@@ -87,6 +92,7 @@
 |bouncing_dvd| ![bouncing_dvd](/emojis/rc/bouncing_dvd.gif)|
 |bow_down| ![bow_down](/emojis/rc/bow_down.gif)|
 |bowlkutkeith| ![bowlkutkeith](/emojis/rc/bowlkutkeith.png)|
+|bowtie| ![bowtie](/emojis/rc/bowtie.png)|
 |boybye| ![boybye](/emojis/rc/boybye.png)|
 |brace_yourself| ![brace_yourself](/emojis/rc/brace_yourself.png)|
 |bracket| ![bracket](/emojis/rc/bracket.jpg)|
@@ -102,12 +108,6 @@
 |brant| ![brant](/emojis/rc/brant.png)|
 |brawndo| ![brawndo](/emojis/rc/brawndo.jpg)|
 |brb| ![brb](/emojis/rc/brb.gif)|
-|brb_1| ![brb_1](/emojis/rc/brb_1.png)|
-|breadbook| ![breadbook](/emojis/rc/breadbook.png)|
-|break| ![break](/emojis/rc/break.png)|
-|breathing_intensifies_cat| ![breathing_intensifies_cat](/emojis/rc/breathing_intensifies_cat.gif)|
-|brian-bear| ![brian-bear](/emojis/rc/brian-bear.png)|
-|brian-pointing| ![brian-pointing](/emojis/rc/brian-pointing.png)|
 
 <hr/>
 

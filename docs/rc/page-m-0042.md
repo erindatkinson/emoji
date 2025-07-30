@@ -8,6 +8,27 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|moveit| ![moveit](/emojis/rc/moveit.png)|
+|mower| ![mower](/emojis/rc/mower.png)|
+|mr-t| ![mr-t](/emojis/rc/mr-t.gif)|
+|mr_jackson| ![mr_jackson](/emojis/rc/mr_jackson.jpg)|
+|mr_netes| ![mr_netes](/emojis/rc/mr_netes.png)|
+|mr_worldwide| ![mr_worldwide](/emojis/rc/mr_worldwide.jpg)|
+|mrbill| ![mrbill](/emojis/rc/mrbill.jpg)|
+|mrburns| ![mrburns](/emojis/rc/mrburns.png)|
+|mrburns2| ![mrburns2](/emojis/rc/mrburns2.png)|
+|mrclean| ![mrclean](/emojis/rc/mrclean.png)|
+|mrhollandsopus| ![mrhollandsopus](/emojis/rc/mrhollandsopus.jpg)|
+|mryuck| ![mryuck](/emojis/rc/mryuck.jpg)|
+|ms-word| ![ms-word](/emojis/rc/ms-word.png)|
+|msft-slay-2| ![msft-slay-2](/emojis/rc/msft-slay-2.jpg)|
+|msft-slay| ![msft-slay](/emojis/rc/msft-slay.jpg)|
+|msft| ![msft](/emojis/rc/msft.png)|
+|msiexec| ![msiexec](/emojis/rc/msiexec.png)|
+|muffin| ![muffin](/emojis/rc/muffin.gif)|
+|multicloud| ![multicloud](/emojis/rc/multicloud.gif)|
+|multiracial-heart| ![multiracial-heart](/emojis/rc/multiracial-heart.png)|
+|mummy| ![mummy](/emojis/rc/mummy.png)|
 |muppet| ![muppet](/emojis/rc/muppet.jpg)|
 |murder_hornet| ![murder_hornet](/emojis/rc/murder_hornet.png)|
 |murica| ![murica](/emojis/rc/murica.jpg)|
@@ -47,6 +68,7 @@
 |nda| ![nda](/emojis/rc/nda.png)|
 |neat-pink| ![neat-pink](/emojis/rc/neat-pink.png)|
 |neat| ![neat](/emojis/rc/neat.gif)|
+|neckbeard| ![neckbeard](/emojis/rc/neckbeard.png)|
 |nedry-no| ![nedry-no](/emojis/rc/nedry-no.gif)|
 |negative| ![negative](/emojis/rc/negative.png)|
 |neko_music| ![neko_music](/emojis/rc/neko_music.gif)|
@@ -86,28 +108,6 @@
 |nhl_capitals| ![nhl_capitals](/emojis/rc/nhl_capitals.png)|
 |nhl_devils| ![nhl_devils](/emojis/rc/nhl_devils.png)|
 |nhl_ducks| ![nhl_ducks](/emojis/rc/nhl_ducks.png)|
-|nhl_flames| ![nhl_flames](/emojis/rc/nhl_flames.png)|
-|nhl_flyers| ![nhl_flyers](/emojis/rc/nhl_flyers.gif)|
-|nhl_hurricanes| ![nhl_hurricanes](/emojis/rc/nhl_hurricanes.png)|
-|nhl_islanders| ![nhl_islanders](/emojis/rc/nhl_islanders.png)|
-|nhl_jets| ![nhl_jets](/emojis/rc/nhl_jets.png)|
-|nhl_kings| ![nhl_kings](/emojis/rc/nhl_kings.png)|
-|nhl_knights| ![nhl_knights](/emojis/rc/nhl_knights.png)|
-|nhl_kraken| ![nhl_kraken](/emojis/rc/nhl_kraken.png)|
-|nhl_lightning| ![nhl_lightning](/emojis/rc/nhl_lightning.png)|
-|nhl_maple_leafs| ![nhl_maple_leafs](/emojis/rc/nhl_maple_leafs.png)|
-|nhl_oilers| ![nhl_oilers](/emojis/rc/nhl_oilers.png)|
-|nhl_panthers| ![nhl_panthers](/emojis/rc/nhl_panthers.png)|
-|nhl_penguins| ![nhl_penguins](/emojis/rc/nhl_penguins.png)|
-|nhl_predators| ![nhl_predators](/emojis/rc/nhl_predators.png)|
-|nhl_rangers| ![nhl_rangers](/emojis/rc/nhl_rangers.png)|
-|nhl_red_wings| ![nhl_red_wings](/emojis/rc/nhl_red_wings.png)|
-|nhl_sabres| ![nhl_sabres](/emojis/rc/nhl_sabres.png)|
-|nhl_senators| ![nhl_senators](/emojis/rc/nhl_senators.png)|
-|nhl_sharks| ![nhl_sharks](/emojis/rc/nhl_sharks.png)|
-|nhl_stars| ![nhl_stars](/emojis/rc/nhl_stars.png)|
-|nhl_utah-hockey-club| ![nhl_utah-hockey-club](/emojis/rc/nhl_utah-hockey-club.png)|
-|nhl_wild| ![nhl_wild](/emojis/rc/nhl_wild.png)|
 
 <hr/>
 

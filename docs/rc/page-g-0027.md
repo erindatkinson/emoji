@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|goth-morning| ![goth-morning](/emojis/rc/goth-morning.png)|
+|goth-regex| ![goth-regex](/emojis/rc/goth-regex.png)|
+|goth-sob| ![goth-sob](/emojis/rc/goth-sob.png)|
+|goth-thinkies| ![goth-thinkies](/emojis/rc/goth-thinkies.png)|
+|goth-thonking_face| ![goth-thonking_face](/emojis/rc/goth-thonking_face.png)|
+|goth-wave| ![goth-wave](/emojis/rc/goth-wave.png)|
+|goth_nail_care| ![goth_nail_care](/emojis/rc/goth_nail_care.jpg)|
+|goth_nails| ![goth_nails](/emojis/rc/goth_nails.png)|
+|goth_parrot| ![goth_parrot](/emojis/rc/goth_parrot.gif)|
+|goth_smile| ![goth_smile](/emojis/rc/goth_smile.png)|
+|goth_sob| ![goth_sob](/emojis/rc/goth_sob.jpg)|
+|gotta-blast| ![gotta-blast](/emojis/rc/gotta-blast.jpg)|
+|gotta-run| ![gotta-run](/emojis/rc/gotta-run.gif)|
+|gotta_catch_em_all| ![gotta_catch_em_all](/emojis/rc/gotta_catch_em_all.jpg)|
+|gotta_go_slow| ![gotta_go_slow](/emojis/rc/gotta_go_slow.gif)|
 |gottagofast| ![gottagofast](/emojis/rc/gottagofast.gif)|
 |gotticket| ![gotticket](/emojis/rc/gotticket.gif)|
 |gouda| ![gouda](/emojis/rc/gouda.jpg)|
@@ -93,21 +108,6 @@
 |gryffindor| ![gryffindor](/emojis/rc/gryffindor.png)|
 |gsheets| ![gsheets](/emojis/rc/gsheets.png)|
 |gtfo-youre-on-pto| ![gtfo-youre-on-pto](/emojis/rc/gtfo-youre-on-pto.gif)|
-|gtg| ![gtg](/emojis/rc/gtg.png)|
-|guacamole| ![guacamole](/emojis/rc/guacamole.png)|
-|guardians| ![guardians](/emojis/rc/guardians.png)|
-|gucci-sandals| ![gucci-sandals](/emojis/rc/gucci-sandals.jpg)|
-|gucci| ![gucci](/emojis/rc/gucci.png)|
-|gucci2| ![gucci2](/emojis/rc/gucci2.png)|
-|gucci_gang| ![gucci_gang](/emojis/rc/gucci_gang.png)|
-|guid| ![guid](/emojis/rc/guid.gif)|
-|guidepoint| ![guidepoint](/emojis/rc/guidepoint.png)|
-|guillotine| ![guillotine](/emojis/rc/guillotine.png)|
-|guilty| ![guilty](/emojis/rc/guilty.gif)|
-|guineapig| ![guineapig](/emojis/rc/guineapig.png)|
-|guinness| ![guinness](/emojis/rc/guinness.png)|
-|guitar-intensifies| ![guitar-intensifies](/emojis/rc/guitar-intensifies.gif)|
-|guitar_acoustic| ![guitar_acoustic](/emojis/rc/guitar_acoustic.png)|
 
 <hr/>
 

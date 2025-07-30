@@ -8,6 +8,31 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|pumpkin_spice_latay| ![pumpkin_spice_latay](/emojis/rc/pumpkin_spice_latay.png)|
+|punisher| ![punisher](/emojis/rc/punisher.png)|
+|punk| ![punk](/emojis/rc/punk.gif)|
+|punt| ![punt](/emojis/rc/punt.jpg)|
+|pup| ![pup](/emojis/rc/pup.jpg)|
+|pupcup| ![pupcup](/emojis/rc/pupcup.png)|
+|puppers| ![puppers](/emojis/rc/puppers.png)|
+|puppetlabs| ![puppetlabs](/emojis/rc/puppetlabs.png)|
+|puppylove| ![puppylove](/emojis/rc/puppylove.png)|
+|pupwut| ![pupwut](/emojis/rc/pupwut.gif)|
+|purdue| ![purdue](/emojis/rc/purdue.png)|
+|purduepete| ![purduepete](/emojis/rc/purduepete.jpg)|
+|pure_terror| ![pure_terror](/emojis/rc/pure_terror.png)|
+|purell| ![purell](/emojis/rc/purell.jpg)|
+|purple-rain| ![purple-rain](/emojis/rc/purple-rain.jpg)|
+|purple-squirrel| ![purple-squirrel](/emojis/rc/purple-squirrel.jpg)|
+|purple| ![purple](/emojis/rc/purple.png)|
+|purple_logo| ![purple_logo](/emojis/rc/purple_logo.png)|
+|purplefox| ![purplefox](/emojis/rc/purplefox.png)|
+|purplerain| ![purplerain](/emojis/rc/purplerain.gif)|
+|pusheen-angry| ![pusheen-angry](/emojis/rc/pusheen-angry.png)|
+|pusheen-aw| ![pusheen-aw](/emojis/rc/pusheen-aw.png)|
+|pusheen-cat-beans-intensifies| ![pusheen-cat-beans-intensifies](/emojis/rc/pusheen-cat-beans-intensifies.gif)|
+|pusheen-cat-beans| ![pusheen-cat-beans](/emojis/rc/pusheen-cat-beans.gif)|
+|pusheen-cat-computer| ![pusheen-cat-computer](/emojis/rc/pusheen-cat-computer.gif)|
 |pusheen-cat-cupcake| ![pusheen-cat-cupcake](/emojis/rc/pusheen-cat-cupcake.gif)|
 |pusheen-cat-pizza| ![pusheen-cat-pizza](/emojis/rc/pusheen-cat-pizza.gif)|
 |pusheen-cat-unicorn| ![pusheen-cat-unicorn](/emojis/rc/pusheen-cat-unicorn.gif)|
@@ -82,32 +107,7 @@
 |radish_shrug| ![radish_shrug](/emojis/rc/radish_shrug.gif)|
 |radish_sneeze| ![radish_sneeze](/emojis/rc/radish_sneeze.gif)|
 |radish_wave| ![radish_wave](/emojis/rc/radish_wave.gif)|
-|rage_face| ![rage_face](/emojis/rc/rage_face.png)|
-|rage_muffin| ![rage_muffin](/emojis/rc/rage_muffin.gif)|
-|raid| ![raid](/emojis/rc/raid.png)|
-|raiders| ![raiders](/emojis/rc/raiders.png)|
-|rails-all-the-way-down| ![rails-all-the-way-down](/emojis/rc/rails-all-the-way-down.gif)|
-|rails-intensifies| ![rails-intensifies](/emojis/rc/rails-intensifies.gif)|
-|rails-logo| ![rails-logo](/emojis/rc/rails-logo.png)|
-|rails-party| ![rails-party](/emojis/rc/rails-party.gif)|
-|rails-sob| ![rails-sob](/emojis/rc/rails-sob.png)|
-|rain-bow| ![rain-bow](/emojis/rc/rain-bow.png)|
-|rainbow-ac-leaf| ![rainbow-ac-leaf](/emojis/rc/rainbow-ac-leaf.png)|
-|rainbow-robot-vom| ![rainbow-robot-vom](/emojis/rc/rainbow-robot-vom.png)|
-|rainbow-this| ![rainbow-this](/emojis/rc/rainbow-this.gif)|
-|rainbow_100| ![rainbow_100](/emojis/rc/rainbow_100.gif)|
-|rainbow_bounce| ![rainbow_bounce](/emojis/rc/rainbow_bounce.gif)|
-|rainbow_dash| ![rainbow_dash](/emojis/rc/rainbow_dash.png)|
-|rainbow_shrug| ![rainbow_shrug](/emojis/rc/rainbow_shrug.gif)|
-|rainbow_star| ![rainbow_star](/emojis/rc/rainbow_star.png)|
-|rainbowblob_stop| ![rainbowblob_stop](/emojis/rc/rainbowblob_stop.gif)|
-|raindrops_cloud| ![raindrops_cloud](/emojis/rc/raindrops_cloud.gif)|
-|raining-garbage-trash| ![raining-garbage-trash](/emojis/rc/raining-garbage-trash.png)|
-|raining| ![raining](/emojis/rc/raining.gif)|
-|raise-pride| ![raise-pride](/emojis/rc/raise-pride.png)|
-|raise_the_roof| ![raise_the_roof](/emojis/rc/raise_the_roof.gif)|
-|raised_pinky| ![raised_pinky](/emojis/rc/raised_pinky.png)|
-|ralph| ![ralph](/emojis/rc/ralph.png)|
+|rage1| ![rage1](/emojis/rc/rage1.png)|
 
 <hr/>
 

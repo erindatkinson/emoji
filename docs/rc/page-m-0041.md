@@ -8,6 +8,27 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|mikeduh| ![mikeduh](/emojis/rc/mikeduh.png)|
+|milan-goofy| ![milan-goofy](/emojis/rc/milan-goofy.png)|
+|mild-brandon-intensifies| ![mild-brandon-intensifies](/emojis/rc/mild-brandon-intensifies.gif)|
+|mild-jonny-intensifies| ![mild-jonny-intensifies](/emojis/rc/mild-jonny-intensifies.gif)|
+|mild-panic-intensifies| ![mild-panic-intensifies](/emojis/rc/mild-panic-intensifies.gif)|
+|mild| ![mild](/emojis/rc/mild.png)|
+|mild_apnic_intensifies| ![mild_apnic_intensifies](/emojis/rc/mild_apnic_intensifies.gif)|
+|mild_panic| ![mild_panic](/emojis/rc/mild_panic.png)|
+|mild_panic_cowboy| ![mild_panic_cowboy](/emojis/rc/mild_panic_cowboy.png)|
+|mildpanicpup| ![mildpanicpup](/emojis/rc/mildpanicpup.gif)|
+|milhouse-eyebrows| ![milhouse-eyebrows](/emojis/rc/milhouse-eyebrows.gif)|
+|milhouse| ![milhouse](/emojis/rc/milhouse.gif)|
+|milk| ![milk](/emojis/rc/milk.png)|
+|milkshakes| ![milkshakes](/emojis/rc/milkshakes.jpg)|
+|millenium-falcon| ![millenium-falcon](/emojis/rc/millenium-falcon.png)|
+|millennial| ![millennial](/emojis/rc/millennial.png)|
+|million| ![million](/emojis/rc/million.png)|
+|mime| ![mime](/emojis/rc/mime.jpg)|
+|mimikatz| ![mimikatz](/emojis/rc/mimikatz.png)|
+|mind_blown_molly| ![mind_blown_molly](/emojis/rc/mind_blown_molly.png)|
+|mindblown| ![mindblown](/emojis/rc/mindblown.gif)|
 |mine| ![mine](/emojis/rc/mine.gif)|
 |minecraft| ![minecraft](/emojis/rc/minecraft.png)|
 |minerals| ![minerals](/emojis/rc/minerals.png)|
@@ -87,27 +108,6 @@
 |mothra| ![mothra](/emojis/rc/mothra.png)|
 |mountaindew| ![mountaindew](/emojis/rc/mountaindew.png)|
 |move-along| ![move-along](/emojis/rc/move-along.gif)|
-|moveit| ![moveit](/emojis/rc/moveit.png)|
-|mower| ![mower](/emojis/rc/mower.png)|
-|mr-t| ![mr-t](/emojis/rc/mr-t.gif)|
-|mr_jackson| ![mr_jackson](/emojis/rc/mr_jackson.jpg)|
-|mr_netes| ![mr_netes](/emojis/rc/mr_netes.png)|
-|mr_worldwide| ![mr_worldwide](/emojis/rc/mr_worldwide.jpg)|
-|mrbill| ![mrbill](/emojis/rc/mrbill.jpg)|
-|mrburns| ![mrburns](/emojis/rc/mrburns.png)|
-|mrburns2| ![mrburns2](/emojis/rc/mrburns2.png)|
-|mrclean| ![mrclean](/emojis/rc/mrclean.png)|
-|mrhollandsopus| ![mrhollandsopus](/emojis/rc/mrhollandsopus.jpg)|
-|mryuck| ![mryuck](/emojis/rc/mryuck.jpg)|
-|ms-word| ![ms-word](/emojis/rc/ms-word.png)|
-|msft-slay-2| ![msft-slay-2](/emojis/rc/msft-slay-2.jpg)|
-|msft-slay| ![msft-slay](/emojis/rc/msft-slay.jpg)|
-|msft| ![msft](/emojis/rc/msft.png)|
-|msiexec| ![msiexec](/emojis/rc/msiexec.png)|
-|muffin| ![muffin](/emojis/rc/muffin.gif)|
-|multicloud| ![multicloud](/emojis/rc/multicloud.gif)|
-|multiracial-heart| ![multiracial-heart](/emojis/rc/multiracial-heart.png)|
-|mummy| ![mummy](/emojis/rc/mummy.png)|
 
 <hr/>
 

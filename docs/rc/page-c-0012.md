@@ -1,13 +1,19 @@
 
 ## Emojis (Page 12)
 
-[Previous Page](/docs/rc/page-c-0011.md)
+[Previous Page](/docs/rc/page-b-0011.md)
   | [Next Page](/docs/rc/page-c-0013.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|cat-jump-rainbow| ![cat-jump-rainbow](/emojis/rc/cat-jump-rainbow.gif)|
+|cat-money| ![cat-money](/emojis/rc/cat-money.gif)|
+|cat-on-keyboard| ![cat-on-keyboard](/emojis/rc/cat-on-keyboard.png)|
+|cat-roll| ![cat-roll](/emojis/rc/cat-roll.gif)|
+|cat-roomba-exceptionally-fast| ![cat-roomba-exceptionally-fast](/emojis/rc/cat-roomba-exceptionally-fast.gif)|
+|cat-roomba-slow| ![cat-roomba-slow](/emojis/rc/cat-roomba-slow.gif)|
 |cat-roomba| ![cat-roomba](/emojis/rc/cat-roomba.gif)|
 |cat-sob| ![cat-sob](/emojis/rc/cat-sob.png)|
 |cat-superhero| ![cat-superhero](/emojis/rc/cat-superhero.png)|
@@ -102,14 +108,8 @@
 |cheese-heart-love| ![cheese-heart-love](/emojis/rc/cheese-heart-love.png)|
 |cheese-manchego| ![cheese-manchego](/emojis/rc/cheese-manchego.png)|
 |cheese-melting| ![cheese-melting](/emojis/rc/cheese-melting.png)|
-|cheese-mozzarella| ![cheese-mozzarella](/emojis/rc/cheese-mozzarella.png)|
-|cheese-paneer| ![cheese-paneer](/emojis/rc/cheese-paneer.png)|
-|cheese-parmesan| ![cheese-parmesan](/emojis/rc/cheese-parmesan.png)|
-|cheese-present| ![cheese-present](/emojis/rc/cheese-present.png)|
-|cheese-provalone| ![cheese-provalone](/emojis/rc/cheese-provalone.png)|
-|cheese-rainbow| ![cheese-rainbow](/emojis/rc/cheese-rainbow.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-c-0011.md)
+[Previous Page](/docs/rc/page-b-0011.md)
   | [Next Page](/docs/rc/page-c-0013.md)

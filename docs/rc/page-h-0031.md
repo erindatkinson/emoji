@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|hot_garbage| ![hot_garbage](/emojis/rc/hot_garbage.png)|
+|hot_take| ![hot_take](/emojis/rc/hot_take.png)|
+|hot_tea| ![hot_tea](/emojis/rc/hot_tea.png)|
+|hot_topics| ![hot_topics](/emojis/rc/hot_topics.png)|
+|hot_tub| ![hot_tub](/emojis/rc/hot_tub.png)|
+|hotcocoa_dance| ![hotcocoa_dance](/emojis/rc/hotcocoa_dance.gif)|
+|hotdog-cat| ![hotdog-cat](/emojis/rc/hotdog-cat.png)|
+|hotdog-sloth| ![hotdog-sloth](/emojis/rc/hotdog-sloth.png)|
+|hotleafjuice| ![hotleafjuice](/emojis/rc/hotleafjuice.png)|
+|hotter-take| ![hotter-take](/emojis/rc/hotter-take.png)|
+|hotwire| ![hotwire](/emojis/rc/hotwire.jpg)|
+|hourglass-2| ![hourglass-2](/emojis/rc/hourglass-2.png)|
+|hourglass-flip| ![hourglass-flip](/emojis/rc/hourglass-flip.gif)|
+|hourglass-tick-tock| ![hourglass-tick-tock](/emojis/rc/hourglass-tick-tock.gif)|
+|hover_cat| ![hover_cat](/emojis/rc/hover_cat.gif)|
 |how_dare_you| ![how_dare_you](/emojis/rc/how_dare_you.jpg)|
 |how_rude| ![how_rude](/emojis/rc/how_rude.jpg)|
 |howdy| ![howdy](/emojis/rc/howdy.png)|
@@ -42,6 +57,7 @@
 |hunting_wabbits| ![hunting_wabbits](/emojis/rc/hunting_wabbits.jpg)|
 |hurray| ![hurray](/emojis/rc/hurray.gif)|
 |hurry-up-and-stop-hogging-staging| ![hurry-up-and-stop-hogging-staging](/emojis/rc/hurry-up-and-stop-hogging-staging.gif)|
+|hurtrealbad| ![hurtrealbad](/emojis/rc/hurtrealbad.png)|
 |huzzah| ![huzzah](/emojis/rc/huzzah.gif)|
 |hype-cat| ![hype-cat](/emojis/rc/hype-cat.gif)|
 |hype-elmo| ![hype-elmo](/emojis/rc/hype-elmo.gif)|
@@ -92,22 +108,6 @@
 |iced-latte| ![iced-latte](/emojis/rc/iced-latte.png)|
 |iced-tea| ![iced-tea](/emojis/rc/iced-tea.png)|
 |iced_coffee| ![iced_coffee](/emojis/rc/iced_coffee.png)|
-|iced_latte| ![iced_latte](/emojis/rc/iced_latte.png)|
-|iced_tea| ![iced_tea](/emojis/rc/iced_tea.png)|
-|icedcoffee| ![icedcoffee](/emojis/rc/icedcoffee.png)|
-|icehouse| ![icehouse](/emojis/rc/icehouse.png)|
-|icp| ![icp](/emojis/rc/icp.png)|
-|icq| ![icq](/emojis/rc/icq.gif)|
-|ida| ![ida](/emojis/rc/ida.png)|
-|idea| ![idea](/emojis/rc/idea.png)|
-|idea_blob| ![idea_blob](/emojis/rc/idea_blob.png)|
-|ididit| ![ididit](/emojis/rc/ididit.gif)|
-|idk-bubble| ![idk-bubble](/emojis/rc/idk-bubble.gif)|
-|idk-panda| ![idk-panda](/emojis/rc/idk-panda.gif)|
-|idk-tuzki| ![idk-tuzki](/emojis/rc/idk-tuzki.gif)|
-|idk| ![idk](/emojis/rc/idk.png)|
-|idontbelieveyou| ![idontbelieveyou](/emojis/rc/idontbelieveyou.gif)|
-|if-it-were-only-so-simple| ![if-it-were-only-so-simple](/emojis/rc/if-it-were-only-so-simple.png)|
 
 <hr/>
 

@@ -8,6 +8,11 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|beret_parrot| ![beret_parrot](/emojis/rc/beret_parrot.gif)|
+|bernstein-bears| ![bernstein-bears](/emojis/rc/bernstein-bears.png)|
+|beryl| ![beryl](/emojis/rc/beryl.png)|
+|besafe| ![besafe](/emojis/rc/besafe.png)|
+|bestfriends| ![bestfriends](/emojis/rc/bestfriends.gif)|
 |bestie_please_let_me_merge| ![bestie_please_let_me_merge](/emojis/rc/bestie_please_let_me_merge.jpg)|
 |besties| ![besties](/emojis/rc/besties.png)|
 |bet-aight-grey| ![bet-aight-grey](/emojis/rc/bet-aight-grey.png)|
@@ -103,11 +108,6 @@
 |blob-cat-just-right| ![blob-cat-just-right](/emojis/rc/blob-cat-just-right.png)|
 |blob-cat-party| ![blob-cat-party](/emojis/rc/blob-cat-party.gif)|
 |blob-cloud| ![blob-cloud](/emojis/rc/blob-cloud.png)|
-|blob-code-review| ![blob-code-review](/emojis/rc/blob-code-review.png)|
-|blob-coffee| ![blob-coffee](/emojis/rc/blob-coffee.png)|
-|blob-cookie| ![blob-cookie](/emojis/rc/blob-cookie.png)|
-|blob-cool-sad| ![blob-cool-sad](/emojis/rc/blob-cool-sad.png)|
-|blob-council| ![blob-council](/emojis/rc/blob-council.png)|
 
 <hr/>
 

@@ -8,6 +8,7 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|angry_kirby| ![angry_kirby](/emojis/rc/angry_kirby.png)|
 |angry_muffin| ![angry_muffin](/emojis/rc/angry_muffin.png)|
 |angry_spin| ![angry_spin](/emojis/rc/angry_spin.gif)|
 |angry_trump| ![angry_trump](/emojis/rc/angry_trump.jpg)|
@@ -19,6 +20,7 @@
 |anothaone| ![anothaone](/emojis/rc/anothaone.png)|
 |another-one| ![another-one](/emojis/rc/another-one.jpg)|
 |ansible-intensifies| ![ansible-intensifies](/emojis/rc/ansible-intensifies.gif)|
+|ansible-party| ![ansible-party](/emojis/rc/ansible-party.gif)|
 |ansible| ![ansible](/emojis/rc/ansible.png)|
 |anti-symantec| ![anti-symantec](/emojis/rc/anti-symantec.jpg)|
 |anubis| ![anubis](/emojis/rc/anubis.png)|
@@ -28,6 +30,7 @@
 |any-time| ![any-time](/emojis/rc/any-time.png)|
 |anymorequestions| ![anymorequestions](/emojis/rc/anymorequestions.png)|
 |anytime| ![anytime](/emojis/rc/anytime.gif)|
+|anzac_poppy| ![anzac_poppy](/emojis/rc/anzac_poppy.png)|
 |aol| ![aol](/emojis/rc/aol.png)|
 |apartments| ![apartments](/emojis/rc/apartments.png)|
 |apathy_party| ![apathy_party](/emojis/rc/apathy_party.gif)|
@@ -105,9 +108,6 @@
 |autumn-leaf| ![autumn-leaf](/emojis/rc/autumn-leaf.gif)|
 |autumn-tree| ![autumn-tree](/emojis/rc/autumn-tree.gif)|
 |avatar| ![avatar](/emojis/rc/avatar.jpg)|
-|avoca-da| ![avoca-da](/emojis/rc/avoca-da.png)|
-|avocado-cry-sadcado| ![avocado-cry-sadcado](/emojis/rc/avocado-cry-sadcado.png)|
-|avocado-toast| ![avocado-toast](/emojis/rc/avocado-toast.png)|
 
 <hr/>
 

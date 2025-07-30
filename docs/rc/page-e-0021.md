@@ -8,6 +8,14 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|excellent| ![excellent](/emojis/rc/excellent.png)|
+|excitebike| ![excitebike](/emojis/rc/excitebike.png)|
+|excited| ![excited](/emojis/rc/excited.gif)|
+|excited_tony| ![excited_tony](/emojis/rc/excited_tony.png)|
+|excuse_me| ![excuse_me](/emojis/rc/excuse_me.gif)|
+|excuseme| ![excuseme](/emojis/rc/excuseme.gif)|
+|existential-canary| ![existential-canary](/emojis/rc/existential-canary.jpg)|
+|exit| ![exit](/emojis/rc/exit.png)|
 |expensilluminati| ![expensilluminati](/emojis/rc/expensilluminati.png)|
 |explicit| ![explicit](/emojis/rc/explicit.png)|
 |explodyparrot| ![explodyparrot](/emojis/rc/explodyparrot.gif)|
@@ -100,14 +108,6 @@
 |fc| ![fc](/emojis/rc/fc.png)|
 |fck_yeah| ![fck_yeah](/emojis/rc/fck_yeah.jpg)|
 |fearful_keith| ![fearful_keith](/emojis/rc/fearful_keith.png)|
-|feathers| ![feathers](/emojis/rc/feathers.png)|
-|fedcanary| ![fedcanary](/emojis/rc/fedcanary.png)|
-|feedback-loop| ![feedback-loop](/emojis/rc/feedback-loop.png)|
-|feedly| ![feedly](/emojis/rc/feedly.png)|
-|feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work| ![feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work](/emojis/rc/feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work.jpg)|
-|feel_bad| ![feel_bad](/emojis/rc/feel_bad.png)|
-|feel_better| ![feel_better](/emojis/rc/feel_better.gif)|
-|feel_the_bass| ![feel_the_bass](/emojis/rc/feel_the_bass.png)|
 
 <hr/>
 

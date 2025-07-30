@@ -8,6 +8,26 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|meow_headphones_right| ![meow_headphones_right](/emojis/rc/meow_headphones_right.png)|
+|meow_heart| ![meow_heart](/emojis/rc/meow_heart.png)|
+|meow_heart_bongo| ![meow_heart_bongo](/emojis/rc/meow_heart_bongo.gif)|
+|meow_heart_rainbow| ![meow_heart_rainbow](/emojis/rc/meow_heart_rainbow.gif)|
+|meow_heartbreak| ![meow_heartbreak](/emojis/rc/meow_heartbreak.gif)|
+|meow_help| ![meow_help](/emojis/rc/meow_help.png)|
+|meow_highfive| ![meow_highfive](/emojis/rc/meow_highfive.png)|
+|meow_idea| ![meow_idea](/emojis/rc/meow_idea.png)|
+|meow_java| ![meow_java](/emojis/rc/meow_java.png)|
+|meow_keyboard_bang| ![meow_keyboard_bang](/emojis/rc/meow_keyboard_bang.gif)|
+|meow_knife-intensifies| ![meow_knife-intensifies](/emojis/rc/meow_knife-intensifies.gif)|
+|meow_knife| ![meow_knife](/emojis/rc/meow_knife.png)|
+|meow_knife_heart_eyes-intensifies| ![meow_knife_heart_eyes-intensifies](/emojis/rc/meow_knife_heart_eyes-intensifies.gif)|
+|meow_knife_heart_eyes| ![meow_knife_heart_eyes](/emojis/rc/meow_knife_heart_eyes.png)|
+|meow_lightsaber| ![meow_lightsaber](/emojis/rc/meow_lightsaber.png)|
+|meow_lolsob| ![meow_lolsob](/emojis/rc/meow_lolsob.png)|
+|meow_love| ![meow_love](/emojis/rc/meow_love.png)|
+|meow_lurk| ![meow_lurk](/emojis/rc/meow_lurk.gif)|
+|meow_mac| ![meow_mac](/emojis/rc/meow_mac.png)|
+|meow_mage| ![meow_mage](/emojis/rc/meow_mage.png)|
 |meow_merged| ![meow_merged](/emojis/rc/meow_merged.png)|
 |meow_morning_coffee| ![meow_morning_coffee](/emojis/rc/meow_morning_coffee.png)|
 |meow_no| ![meow_no](/emojis/rc/meow_no.png)|
@@ -66,6 +86,7 @@
 |meta-thinkies| ![meta-thinkies](/emojis/rc/meta-thinkies.png)|
 |meta-thonk| ![meta-thonk](/emojis/rc/meta-thonk.png)|
 |meta| ![meta](/emojis/rc/meta.png)|
+|metal| ![metal](/emojis/rc/metal.png)|
 |metal2| ![metal2](/emojis/rc/metal2.gif)|
 |metapod| ![metapod](/emojis/rc/metapod.png)|
 |metasploit| ![metasploit](/emojis/rc/metasploit.png)|
@@ -87,27 +108,6 @@
 |midnight-oil| ![midnight-oil](/emojis/rc/midnight-oil.jpg)|
 |midwest| ![midwest](/emojis/rc/midwest.png)|
 |midwest_flag| ![midwest_flag](/emojis/rc/midwest_flag.jpg)|
-|mikeduh| ![mikeduh](/emojis/rc/mikeduh.png)|
-|milan-goofy| ![milan-goofy](/emojis/rc/milan-goofy.png)|
-|mild-brandon-intensifies| ![mild-brandon-intensifies](/emojis/rc/mild-brandon-intensifies.gif)|
-|mild-jonny-intensifies| ![mild-jonny-intensifies](/emojis/rc/mild-jonny-intensifies.gif)|
-|mild-panic-intensifies| ![mild-panic-intensifies](/emojis/rc/mild-panic-intensifies.gif)|
-|mild| ![mild](/emojis/rc/mild.png)|
-|mild_apnic_intensifies| ![mild_apnic_intensifies](/emojis/rc/mild_apnic_intensifies.gif)|
-|mild_panic| ![mild_panic](/emojis/rc/mild_panic.png)|
-|mild_panic_cowboy| ![mild_panic_cowboy](/emojis/rc/mild_panic_cowboy.png)|
-|mildpanicpup| ![mildpanicpup](/emojis/rc/mildpanicpup.gif)|
-|milhouse-eyebrows| ![milhouse-eyebrows](/emojis/rc/milhouse-eyebrows.gif)|
-|milhouse| ![milhouse](/emojis/rc/milhouse.gif)|
-|milk| ![milk](/emojis/rc/milk.png)|
-|milkshakes| ![milkshakes](/emojis/rc/milkshakes.jpg)|
-|millenium-falcon| ![millenium-falcon](/emojis/rc/millenium-falcon.png)|
-|millennial| ![millennial](/emojis/rc/millennial.png)|
-|million| ![million](/emojis/rc/million.png)|
-|mime| ![mime](/emojis/rc/mime.jpg)|
-|mimikatz| ![mimikatz](/emojis/rc/mimikatz.png)|
-|mind_blown_molly| ![mind_blown_molly](/emojis/rc/mind_blown_molly.png)|
-|mindblown| ![mindblown](/emojis/rc/mindblown.gif)|
 
 <hr/>
 

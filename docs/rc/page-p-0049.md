@@ -8,6 +8,30 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|piedpiper| ![piedpiper](/emojis/rc/piedpiper.png)|
+|pig-gong| ![pig-gong](/emojis/rc/pig-gong.gif)|
+|pig-wave| ![pig-wave](/emojis/rc/pig-wave.gif)|
+|pigeon| ![pigeon](/emojis/rc/pigeon.png)|
+|pigeon_dance| ![pigeon_dance](/emojis/rc/pigeon_dance.gif)|
+|piggy| ![piggy](/emojis/rc/piggy.png)|
+|piglet-approved| ![piglet-approved](/emojis/rc/piglet-approved.png)|
+|piglet| ![piglet](/emojis/rc/piglet.png)|
+|pikachu| ![pikachu](/emojis/rc/pikachu.png)|
+|pikachu_bounce| ![pikachu_bounce](/emojis/rc/pikachu_bounce.gif)|
+|pikachu_fight| ![pikachu_fight](/emojis/rc/pikachu_fight.gif)|
+|pikachu_wave| ![pikachu_wave](/emojis/rc/pikachu_wave.gif)|
+|pikachu_yeesh| ![pikachu_yeesh](/emojis/rc/pikachu_yeesh.jpg)|
+|pikacool| ![pikacool](/emojis/rc/pikacool.png)|
+|pikahuff| ![pikahuff](/emojis/rc/pikahuff.png)|
+|pikasweat| ![pikasweat](/emojis/rc/pikasweat.gif)|
+|pim| ![pim](/emojis/rc/pim.png)|
+|pinball| ![pinball](/emojis/rc/pinball.gif)|
+|pinball_ball| ![pinball_ball](/emojis/rc/pinball_ball.png)|
+|pinball_left| ![pinball_left](/emojis/rc/pinball_left.gif)|
+|pinball_right| ![pinball_right](/emojis/rc/pinball_right.gif)|
+|pinecone| ![pinecone](/emojis/rc/pinecone.png)|
+|ping-pong| ![ping-pong](/emojis/rc/ping-pong.gif)|
+|pink-goes-with-green| ![pink-goes-with-green](/emojis/rc/pink-goes-with-green.png)|
 |pink-no| ![pink-no](/emojis/rc/pink-no.png)|
 |pink_ribbon| ![pink_ribbon](/emojis/rc/pink_ribbon.png)|
 |pinkie_pie| ![pinkie_pie](/emojis/rc/pinkie_pie.png)|
@@ -84,30 +108,6 @@
 |poptart| ![poptart](/emojis/rc/poptart.png)|
 |por-que-no-los-dos| ![por-que-no-los-dos](/emojis/rc/por-que-no-los-dos.png)|
 |porgdance| ![porgdance](/emojis/rc/porgdance.gif)|
-|portal-parrot-blue| ![portal-parrot-blue](/emojis/rc/portal-parrot-blue.gif)|
-|portal-parrot-orange| ![portal-parrot-orange](/emojis/rc/portal-parrot-orange.gif)|
-|portal-think| ![portal-think](/emojis/rc/portal-think.gif)|
-|portal_parrot| ![portal_parrot](/emojis/rc/portal_parrot.gif)|
-|positive-pat| ![positive-pat](/emojis/rc/positive-pat.png)|
-|possum| ![possum](/emojis/rc/possum.png)|
-|possum_dance| ![possum_dance](/emojis/rc/possum_dance.gif)|
-|postgres-da| ![postgres-da](/emojis/rc/postgres-da.png)|
-|postgres-intensifies| ![postgres-intensifies](/emojis/rc/postgres-intensifies.gif)|
-|postgres-sob| ![postgres-sob](/emojis/rc/postgres-sob.png)|
-|postgres| ![postgres](/emojis/rc/postgres.png)|
-|postgres_intensifies| ![postgres_intensifies](/emojis/rc/postgres_intensifies.gif)|
-|postgresql| ![postgresql](/emojis/rc/postgresql.png)|
-|pot_of_gold| ![pot_of_gold](/emojis/rc/pot_of_gold.png)|
-|potato-intensifies| ![potato-intensifies](/emojis/rc/potato-intensifies.gif)|
-|potato-knishes| ![potato-knishes](/emojis/rc/potato-knishes.png)|
-|potato-on-fire| ![potato-on-fire](/emojis/rc/potato-on-fire.gif)|
-|potato_intensifies| ![potato_intensifies](/emojis/rc/potato_intensifies.gif)|
-|potential_risk| ![potential_risk](/emojis/rc/potential_risk.png)|
-|potion| ![potion](/emojis/rc/potion.gif)|
-|pour_one_out| ![pour_one_out](/emojis/rc/pour_one_out.gif)|
-|pow| ![pow](/emojis/rc/pow.png)|
-|powerball| ![powerball](/emojis/rc/powerball.png)|
-|powerbi| ![powerbi](/emojis/rc/powerbi.png)|
 
 <hr/>
 

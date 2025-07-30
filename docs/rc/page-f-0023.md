@@ -8,6 +8,16 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|flama| ![flama](/emojis/rc/flama.png)|
+|flame_thrower| ![flame_thrower](/emojis/rc/flame_thrower.png)|
+|flame_thumb| ![flame_thumb](/emojis/rc/flame_thumb.png)|
+|flamebreath| ![flamebreath](/emojis/rc/flamebreath.jpg)|
+|flames| ![flames](/emojis/rc/flames.gif)|
+|flaming_toilet| ![flaming_toilet](/emojis/rc/flaming_toilet.png)|
+|flamingleonov| ![flamingleonov](/emojis/rc/flamingleonov.jpg)|
+|flamingparrot| ![flamingparrot](/emojis/rc/flamingparrot.gif)|
+|flanders-smile| ![flanders-smile](/emojis/rc/flanders-smile.gif)|
+|flannel| ![flannel](/emojis/rc/flannel.png)|
 |flareon| ![flareon](/emojis/rc/flareon.png)|
 |flash| ![flash](/emojis/rc/flash.png)|
 |flat_earth| ![flat_earth](/emojis/rc/flat_earth.png)|
@@ -87,6 +97,7 @@
 |frenchpress_coffee| ![frenchpress_coffee](/emojis/rc/frenchpress_coffee.png)|
 |friday-rb-intensifies| ![friday-rb-intensifies](/emojis/rc/friday-rb-intensifies.gif)|
 |friday| ![friday](/emojis/rc/friday.gif)|
+|friday_fellow_kid| ![friday_fellow_kid](/emojis/rc/friday_fellow_kid.jpg)|
 |friday_kyle| ![friday_kyle](/emojis/rc/friday_kyle.png)|
 |friday_yayday| ![friday_yayday](/emojis/rc/friday_yayday.gif)|
 |fridayfriday| ![fridayfriday](/emojis/rc/fridayfriday.png)|
@@ -97,17 +108,6 @@
 |frosty-the-snowman| ![frosty-the-snowman](/emojis/rc/frosty-the-snowman.png)|
 |frosty| ![frosty](/emojis/rc/frosty.png)|
 |frozen_mango_lesser| ![frozen_mango_lesser](/emojis/rc/frozen_mango_lesser.png)|
-|frozen_tony| ![frozen_tony](/emojis/rc/frozen_tony.png)|
-|frozone| ![frozone](/emojis/rc/frozone.png)|
-|fry-squint| ![fry-squint](/emojis/rc/fry-squint.jpg)|
-|fry| ![fry](/emojis/rc/fry.png)|
-|fsjal-link| ![fsjal-link](/emojis/rc/fsjal-link.png)|
-|fsm| ![fsm](/emojis/rc/fsm.jpg)|
-|ftp| ![ftp](/emojis/rc/ftp.png)|
-|fuchsia_honeybadger| ![fuchsia_honeybadger](/emojis/rc/fuchsia_honeybadger.jpg)|
-|fud| ![fud](/emojis/rc/fud.gif)|
-|full-garfield| ![full-garfield](/emojis/rc/full-garfield.png)|
-|full_speed_ahead| ![full_speed_ahead](/emojis/rc/full_speed_ahead.png)|
 
 <hr/>
 

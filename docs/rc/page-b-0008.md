@@ -8,6 +8,11 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|blob-code-review| ![blob-code-review](/emojis/rc/blob-code-review.png)|
+|blob-coffee| ![blob-coffee](/emojis/rc/blob-coffee.png)|
+|blob-cookie| ![blob-cookie](/emojis/rc/blob-cookie.png)|
+|blob-cool-sad| ![blob-cool-sad](/emojis/rc/blob-cool-sad.png)|
+|blob-council| ![blob-council](/emojis/rc/blob-council.png)|
 |blob-disapproves| ![blob-disapproves](/emojis/rc/blob-disapproves.png)|
 |blob-dizzy| ![blob-dizzy](/emojis/rc/blob-dizzy.png)|
 |blob-dj| ![blob-dj](/emojis/rc/blob-dj.gif)|
@@ -103,11 +108,6 @@
 |blobblackcat| ![blobblackcat](/emojis/rc/blobblackcat.png)|
 |blobception| ![blobception](/emojis/rc/blobception.png)|
 |blobcouple-rainbow| ![blobcouple-rainbow](/emojis/rc/blobcouple-rainbow.gif)|
-|blobcry| ![blobcry](/emojis/rc/blobcry.gif)|
-|blobhaj| ![blobhaj](/emojis/rc/blobhaj.png)|
-|blobhajheart| ![blobhajheart](/emojis/rc/blobhajheart.png)|
-|blobhajmeowhug| ![blobhajmeowhug](/emojis/rc/blobhajmeowhug.png)|
-|blobhajmlem| ![blobhajmlem](/emojis/rc/blobhajmlem.png)|
 
 <hr/>
 

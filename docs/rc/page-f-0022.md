@@ -8,11 +8,20 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|feathers| ![feathers](/emojis/rc/feathers.png)|
+|fedcanary| ![fedcanary](/emojis/rc/fedcanary.png)|
+|feedback-loop| ![feedback-loop](/emojis/rc/feedback-loop.png)|
+|feedly| ![feedly](/emojis/rc/feedly.png)|
+|feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work| ![feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work](/emojis/rc/feel-better-soon-because-we-like-you-and-take-the-time-you-need-to-be-whole-before-returning-to-work.jpg)|
+|feel_bad| ![feel_bad](/emojis/rc/feel_bad.png)|
+|feel_better| ![feel_better](/emojis/rc/feel_better.gif)|
+|feel_the_bass| ![feel_the_bass](/emojis/rc/feel_the_bass.png)|
 |feelbetter| ![feelbetter](/emojis/rc/feelbetter.gif)|
 |feelbettersoon| ![feelbettersoon](/emojis/rc/feelbettersoon.jpg)|
 |feels-good-man| ![feels-good-man](/emojis/rc/feels-good-man.png)|
 |feels_batman| ![feels_batman](/emojis/rc/feels_batman.png)|
 |feelsbirthdayman| ![feelsbirthdayman](/emojis/rc/feelsbirthdayman.gif)|
+|feelsgood| ![feelsgood](/emojis/rc/feelsgood.png)|
 |feelslagman| ![feelslagman](/emojis/rc/feelslagman.png)|
 |fence| ![fence](/emojis/rc/fence.jpg)|
 |fern| ![fern](/emojis/rc/fern.png)|
@@ -47,6 +56,7 @@
 |fingers_crossed| ![fingers_crossed](/emojis/rc/fingers_crossed.png)|
 |finishhim| ![finishhim](/emojis/rc/finishhim.gif)|
 |finn_dance| ![finn_dance](/emojis/rc/finn_dance.gif)|
+|finnadie| ![finnadie](/emojis/rc/finnadie.png)|
 |fire-eyes| ![fire-eyes](/emojis/rc/fire-eyes.png)|
 |fire-flower| ![fire-flower](/emojis/rc/fire-flower.png)|
 |fire-intensifies-2| ![fire-intensifies-2](/emojis/rc/fire-intensifies-2.gif)|
@@ -98,16 +108,6 @@
 |fixed| ![fixed](/emojis/rc/fixed.png)|
 |flag-aromantic| ![flag-aromantic](/emojis/rc/flag-aromantic.png)|
 |flag-us-de| ![flag-us-de](/emojis/rc/flag-us-de.png)|
-|flama| ![flama](/emojis/rc/flama.png)|
-|flame_thrower| ![flame_thrower](/emojis/rc/flame_thrower.png)|
-|flame_thumb| ![flame_thumb](/emojis/rc/flame_thumb.png)|
-|flamebreath| ![flamebreath](/emojis/rc/flamebreath.jpg)|
-|flames| ![flames](/emojis/rc/flames.gif)|
-|flaming_toilet| ![flaming_toilet](/emojis/rc/flaming_toilet.png)|
-|flamingleonov| ![flamingleonov](/emojis/rc/flamingleonov.jpg)|
-|flamingparrot| ![flamingparrot](/emojis/rc/flamingparrot.gif)|
-|flanders-smile| ![flanders-smile](/emojis/rc/flanders-smile.gif)|
-|flannel| ![flannel](/emojis/rc/flannel.png)|
 
 <hr/>
 

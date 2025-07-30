@@ -8,6 +8,29 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|oh-no-chris| ![oh-no-chris](/emojis/rc/oh-no-chris.png)|
+|oh-no-its-all-coming-apart| ![oh-no-its-all-coming-apart](/emojis/rc/oh-no-its-all-coming-apart.png)|
+|oh-no-shes-not-aligned| ![oh-no-shes-not-aligned](/emojis/rc/oh-no-shes-not-aligned.png)|
+|oh-ok| ![oh-ok](/emojis/rc/oh-ok.png)|
+|oh-snap| ![oh-snap](/emojis/rc/oh-snap.png)|
+|oh-yeaaa| ![oh-yeaaa](/emojis/rc/oh-yeaaa.gif)|
+|oh-yeah-its-all-coming-together| ![oh-yeah-its-all-coming-together](/emojis/rc/oh-yeah-its-all-coming-together.png)|
+|oh-you| ![oh-you](/emojis/rc/oh-you.png)|
+|oh_damn| ![oh_damn](/emojis/rc/oh_damn.png)|
+|oh_look_another_stealer| ![oh_look_another_stealer](/emojis/rc/oh_look_another_stealer.png)|
+|oh_look_more_qbot| ![oh_look_more_qbot](/emojis/rc/oh_look_more_qbot.png)|
+|oh_noes| ![oh_noes](/emojis/rc/oh_noes.png)|
+|oh_stop| ![oh_stop](/emojis/rc/oh_stop.png)|
+|oh_whale| ![oh_whale](/emojis/rc/oh_whale.jpg)|
+|ohcanada| ![ohcanada](/emojis/rc/ohcanada.png)|
+|ohhh| ![ohhh](/emojis/rc/ohhh.gif)|
+|ohio| ![ohio](/emojis/rc/ohio.png)|
+|ohno| ![ohno](/emojis/rc/ohno.png)|
+|ohnoes| ![ohnoes](/emojis/rc/ohnoes.gif)|
+|ohtani-wave| ![ohtani-wave](/emojis/rc/ohtani-wave.gif)|
+|ohyeah| ![ohyeah](/emojis/rc/ohyeah.gif)|
+|oic| ![oic](/emojis/rc/oic.jpg)|
+|ok_2| ![ok_2](/emojis/rc/ok_2.png)|
 |ok_tonton| ![ok_tonton](/emojis/rc/ok_tonton.gif)|
 |okay| ![okay](/emojis/rc/okay.jpg)|
 |okie-dokie-artichokie| ![okie-dokie-artichokie](/emojis/rc/okie-dokie-artichokie.jpg)|
@@ -85,29 +108,6 @@
 |oneil| ![oneil](/emojis/rc/oneil.png)|
 |oneilsmoke| ![oneilsmoke](/emojis/rc/oneilsmoke.png)|
 |onemilliondollars| ![onemilliondollars](/emojis/rc/onemilliondollars.gif)|
-|onestripe| ![onestripe](/emojis/rc/onestripe.jpg)|
-|onthestrugglebus| ![onthestrugglebus](/emojis/rc/onthestrugglebus.png)|
-|onyx-swan| ![onyx-swan](/emojis/rc/onyx-swan.png)|
-|oof-100-intensifies| ![oof-100-intensifies](/emojis/rc/oof-100-intensifies.gif)|
-|oof-100| ![oof-100](/emojis/rc/oof-100.png)|
-|oof-large| ![oof-large](/emojis/rc/oof-large.jpg)|
-|oof| ![oof](/emojis/rc/oof.png)|
-|oof2| ![oof2](/emojis/rc/oof2.gif)|
-|ooo| ![ooo](/emojis/rc/ooo.png)|
-|oooh| ![oooh](/emojis/rc/oooh.gif)|
-|oooo| ![oooo](/emojis/rc/oooo.gif)|
-|ooooh-toy-story| ![ooooh-toy-story](/emojis/rc/ooooh-toy-story.gif)|
-|oops| ![oops](/emojis/rc/oops.png)|
-|ope| ![ope](/emojis/rc/ope.png)|
-|open_air_quote| ![open_air_quote](/emojis/rc/open_air_quote.gif)|
-|open_eye_crying| ![open_eye_crying](/emojis/rc/open_eye_crying.png)|
-|open_eye_crying_laughing| ![open_eye_crying_laughing](/emojis/rc/open_eye_crying_laughing.png)|
-|open_late| ![open_late](/emojis/rc/open_late.jpg)|
-|openai| ![openai](/emojis/rc/openai.png)|
-|openairquotes| ![openairquotes](/emojis/rc/openairquotes.gif)|
-|opensearch| ![opensearch](/emojis/rc/opensearch.png)|
-|opensearch_burn| ![opensearch_burn](/emojis/rc/opensearch_burn.gif)|
-|opossum| ![opossum](/emojis/rc/opossum.png)|
 
 <hr/>
 

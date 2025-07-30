@@ -8,6 +8,14 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|educational| ![educational](/emojis/rc/educational.png)|
+|eel-pie| ![eel-pie](/emojis/rc/eel-pie.png)|
+|eevee-coffee| ![eevee-coffee](/emojis/rc/eevee-coffee.png)|
+|eevee| ![eevee](/emojis/rc/eevee.png)|
+|eeyore| ![eeyore](/emojis/rc/eeyore.gif)|
+|egg_chill| ![egg_chill](/emojis/rc/egg_chill.png)|
+|eggnog| ![eggnog](/emojis/rc/eggnog.png)|
+|eggo| ![eggo](/emojis/rc/eggo.png)|
 |eggs_and_bacon| ![eggs_and_bacon](/emojis/rc/eggs_and_bacon.png)|
 |eicarqr| ![eicarqr](/emojis/rc/eicarqr.png)|
 |einstein| ![einstein](/emojis/rc/einstein.png)|
@@ -100,14 +108,6 @@
 |exactamundo| ![exactamundo](/emojis/rc/exactamundo.jpg)|
 |excel| ![excel](/emojis/rc/excel.png)|
 |excellent-mrburns| ![excellent-mrburns](/emojis/rc/excellent-mrburns.gif)|
-|excellent| ![excellent](/emojis/rc/excellent.png)|
-|excitebike| ![excitebike](/emojis/rc/excitebike.png)|
-|excited| ![excited](/emojis/rc/excited.gif)|
-|excited_tony| ![excited_tony](/emojis/rc/excited_tony.png)|
-|excuse_me| ![excuse_me](/emojis/rc/excuse_me.gif)|
-|excuseme| ![excuseme](/emojis/rc/excuseme.gif)|
-|existential-canary| ![existential-canary](/emojis/rc/existential-canary.jpg)|
-|exit| ![exit](/emojis/rc/exit.png)|
 
 <hr/>
 

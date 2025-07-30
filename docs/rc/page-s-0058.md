@@ -8,6 +8,38 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|she-distributes-the-means-of-production| ![she-distributes-the-means-of-production](/emojis/rc/she-distributes-the-means-of-production.gif)|
+|she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times| ![she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times](/emojis/rc/she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times.png)|
+|she-exits-awkwardly| ![she-exits-awkwardly](/emojis/rc/she-exits-awkwardly.gif)|
+|she-eyes| ![she-eyes](/emojis/rc/she-eyes.png)|
+|she-fits-so-she-sits| ![she-fits-so-she-sits](/emojis/rc/she-fits-so-she-sits.png)|
+|she-freeze| ![she-freeze](/emojis/rc/she-freeze.png)|
+|she-gonna-get-you| ![she-gonna-get-you](/emojis/rc/she-gonna-get-you.png)|
+|she-has-a-question| ![she-has-a-question](/emojis/rc/she-has-a-question.png)|
+|she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh| ![she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh](/emojis/rc/she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh.png)|
+|she-hat| ![she-hat](/emojis/rc/she-hat.png)|
+|she-haw| ![she-haw](/emojis/rc/she-haw.png)|
+|she-is-berry-proud-of-you| ![she-is-berry-proud-of-you](/emojis/rc/she-is-berry-proud-of-you.png)|
+|she-is-in-a-bowl-because-she-is-souper| ![she-is-in-a-bowl-because-she-is-souper](/emojis/rc/she-is-in-a-bowl-because-she-is-souper.png)|
+|she-listens| ![she-listens](/emojis/rc/she-listens.png)|
+|she-loves-it| ![she-loves-it](/emojis/rc/she-loves-it.png)|
+|she-needs-your-help| ![she-needs-your-help](/emojis/rc/she-needs-your-help.png)|
+|she-nerd| ![she-nerd](/emojis/rc/she-nerd.png)|
+|she-nods| ![she-nods](/emojis/rc/she-nods.gif)|
+|she-out| ![she-out](/emojis/rc/she-out.gif)|
+|she-party-to-the-left| ![she-party-to-the-left](/emojis/rc/she-party-to-the-left.gif)|
+|she-recognizes-you-because-you-are-awesome| ![she-recognizes-you-because-you-are-awesome](/emojis/rc/she-recognizes-you-because-you-are-awesome.png)|
+|she-reigns| ![she-reigns](/emojis/rc/she-reigns.png)|
+|she-schemes| ![she-schemes](/emojis/rc/she-schemes.png)|
+|she-scoots| ![she-scoots](/emojis/rc/she-scoots.png)|
+|she-teaches| ![she-teaches](/emojis/rc/she-teaches.png)|
+|she-thinks| ![she-thinks](/emojis/rc/she-thinks.png)|
+|she-wants-to-look-but-not-really-but-will-look-anyways| ![she-wants-to-look-but-not-really-but-will-look-anyways](/emojis/rc/she-wants-to-look-but-not-really-but-will-look-anyways.png)|
+|she-works-from-home| ![she-works-from-home](/emojis/rc/she-works-from-home.png)|
+|she| ![she](/emojis/rc/she.png)|
+|she_brings_you_knife| ![she_brings_you_knife](/emojis/rc/she_brings_you_knife.png)|
+|she_doesnt_even_go_here| ![she_doesnt_even_go_here](/emojis/rc/she_doesnt_even_go_here.jpg)|
+|sheeeesh| ![sheeeesh](/emojis/rc/sheeeesh.png)|
 |sheeesh| ![sheeesh](/emojis/rc/sheeesh.jpg)|
 |shelley-problem| ![shelley-problem](/emojis/rc/shelley-problem.png)|
 |sheriff| ![sheriff](/emojis/rc/sheriff.png)|
@@ -76,38 +108,6 @@
 |side-eye| ![side-eye](/emojis/rc/side-eye.gif)|
 |sideeye| ![sideeye](/emojis/rc/sideeye.gif)|
 |sidekiq| ![sidekiq](/emojis/rc/sidekiq.png)|
-|sideways_ryan| ![sideways_ryan](/emojis/rc/sideways_ryan.png)|
-|sidewinder| ![sidewinder](/emojis/rc/sidewinder.png)|
-|sierra| ![sierra](/emojis/rc/sierra.png)|
-|sigh-bubble| ![sigh-bubble](/emojis/rc/sigh-bubble.gif)|
-|sigh-square| ![sigh-square](/emojis/rc/sigh-square.png)|
-|sigh-tuzki| ![sigh-tuzki](/emojis/rc/sigh-tuzki.gif)|
-|sigh| ![sigh](/emojis/rc/sigh.gif)|
-|sigh_qoobee| ![sigh_qoobee](/emojis/rc/sigh_qoobee.gif)|
-|sigma| ![sigma](/emojis/rc/sigma.png)|
-|signal| ![signal](/emojis/rc/signal.png)|
-|silenceisgolden| ![silenceisgolden](/emojis/rc/silenceisgolden.jpg)|
-|silly-goose| ![silly-goose](/emojis/rc/silly-goose.png)|
-|silly-hat-clown| ![silly-hat-clown](/emojis/rc/silly-hat-clown.png)|
-|silly-hat-propeller| ![silly-hat-propeller](/emojis/rc/silly-hat-propeller.png)|
-|silly-hat-viking| ![silly-hat-viking](/emojis/rc/silly-hat-viking.png)|
-|sillyhatsonly| ![sillyhatsonly](/emojis/rc/sillyhatsonly.jpg)|
-|silo| ![silo](/emojis/rc/silo.png)|
-|silver-lining| ![silver-lining](/emojis/rc/silver-lining.jpg)|
-|silver-sparrow| ![silver-sparrow](/emojis/rc/silver-sparrow.png)|
-|silver_burrowing_owl| ![silver_burrowing_owl](/emojis/rc/silver_burrowing_owl.png)|
-|silver_lining| ![silver_lining](/emojis/rc/silver_lining.png)|
-|silver_toucan| ![silver_toucan](/emojis/rc/silver_toucan.jpg)|
-|simba_rafiki| ![simba_rafiki](/emojis/rc/simba_rafiki.png)|
-|simple_finder| ![simple_finder](/emojis/rc/simple_finder.png)|
-|simple_smile_intensifies| ![simple_smile_intensifies](/emojis/rc/simple_smile_intensifies.gif)|
-|sims| ![sims](/emojis/rc/sims.png)|
-|sinbad| ![sinbad](/emojis/rc/sinbad.jpg)|
-|sine| ![sine](/emojis/rc/sine.png)|
-|sink| ![sink](/emojis/rc/sink.png)|
-|sinking-ship| ![sinking-ship](/emojis/rc/sinking-ship.png)|
-|siren-flashing| ![siren-flashing](/emojis/rc/siren-flashing.gif)|
-|sisyphus| ![sisyphus](/emojis/rc/sisyphus.gif)|
 
 <hr/>
 

@@ -8,6 +8,18 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|git-gud| ![git-gud](/emojis/rc/git-gud.jpg)|
+|git-lfs| ![git-lfs](/emojis/rc/git-lfs.png)|
+|git-merge| ![git-merge](/emojis/rc/git-merge.png)|
+|git-merged| ![git-merged](/emojis/rc/git-merged.png)|
+|gitche-gumee| ![gitche-gumee](/emojis/rc/gitche-gumee.png)|
+|github-actions-intensifies| ![github-actions-intensifies](/emojis/rc/github-actions-intensifies.gif)|
+|github-actions-party| ![github-actions-party](/emojis/rc/github-actions-party.gif)|
+|github-blood-sob| ![github-blood-sob](/emojis/rc/github-blood-sob.png)|
+|github-da| ![github-da](/emojis/rc/github-da.png)|
+|github-intensifies| ![github-intensifies](/emojis/rc/github-intensifies.gif)|
+|github-loading| ![github-loading](/emojis/rc/github-loading.gif)|
+|github-party| ![github-party](/emojis/rc/github-party.gif)|
 |github-sad| ![github-sad](/emojis/rc/github-sad.png)|
 |github| ![github](/emojis/rc/github.png)|
 |github_actions| ![github_actions](/emojis/rc/github_actions.png)|
@@ -18,6 +30,7 @@
 |glaceon| ![glaceon](/emojis/rc/glaceon.png)|
 |glad_you_like_it| ![glad_you_like_it](/emojis/rc/glad_you_like_it.gif)|
 |glinda| ![glinda](/emojis/rc/glinda.jpg)|
+|glitch_crab| ![glitch_crab](/emojis/rc/glitch_crab.png)|
 |glitchcat| ![glitchcat](/emojis/rc/glitchcat.gif)|
 |globo-gym| ![globo-gym](/emojis/rc/globo-gym.jpg)|
 |glockazine| ![glockazine](/emojis/rc/glockazine.png)|
@@ -39,8 +52,10 @@
 |goat_jams| ![goat_jams](/emojis/rc/goat_jams.gif)|
 |goat_president| ![goat_president](/emojis/rc/goat_president.jpg)|
 |goat_tony| ![goat_tony](/emojis/rc/goat_tony.png)|
+|goberserk| ![goberserk](/emojis/rc/goberserk.png)|
 |goblin_peggle| ![goblin_peggle](/emojis/rc/goblin_peggle.png)|
 |gocrazykermit| ![gocrazykermit](/emojis/rc/gocrazykermit.gif)|
+|godmode| ![godmode](/emojis/rc/godmode.png)|
 |godzilla| ![godzilla](/emojis/rc/godzilla.jpg)|
 |gojo_dancing| ![gojo_dancing](/emojis/rc/gojo_dancing.gif)|
 |gojo_eye| ![gojo_eye](/emojis/rc/gojo_eye.gif)|
@@ -93,21 +108,6 @@
 |good2go| ![good2go](/emojis/rc/good2go.png)|
 |good_afternoon_hat_tip| ![good_afternoon_hat_tip](/emojis/rc/good_afternoon_hat_tip.gif)|
 |good_boy| ![good_boy](/emojis/rc/good_boy.png)|
-|good_boy2| ![good_boy2](/emojis/rc/good_boy2.png)|
-|good_egg| ![good_egg](/emojis/rc/good_egg.png)|
-|good_engineering_practices| ![good_engineering_practices](/emojis/rc/good_engineering_practices.png)|
-|good_grief| ![good_grief](/emojis/rc/good_grief.png)|
-|good_idea_fairy| ![good_idea_fairy](/emojis/rc/good_idea_fairy.png)|
-|good_meowning| ![good_meowning](/emojis/rc/good_meowning.png)|
-|good_morning_hat_tip| ![good_morning_hat_tip](/emojis/rc/good_morning_hat_tip.gif)|
-|good_news| ![good_news](/emojis/rc/good_news.png)|
-|good_news_everyone_hubert| ![good_news_everyone_hubert](/emojis/rc/good_news_everyone_hubert.gif)|
-|good_thinking_intensifies| ![good_thinking_intensifies](/emojis/rc/good_thinking_intensifies.gif)|
-|good_to_know| ![good_to_know](/emojis/rc/good_to_know.png)|
-|good_work| ![good_work](/emojis/rc/good_work.gif)|
-|goodam| ![goodam](/emojis/rc/goodam.png)|
-|goodanswer| ![goodanswer](/emojis/rc/goodanswer.jpg)|
-|goodboi| ![goodboi](/emojis/rc/goodboi.gif)|
 
 <hr/>
 

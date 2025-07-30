@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|danielle-wut| ![danielle-wut](/emojis/rc/danielle-wut.png)|
+|danke| ![danke](/emojis/rc/danke.jpg)|
+|danny-kirbito| ![danny-kirbito](/emojis/rc/danny-kirbito.png)|
+|dapper-keith| ![dapper-keith](/emojis/rc/dapper-keith.png)|
+|daria| ![daria](/emojis/rc/daria.png)|
+|dark_erlang| ![dark_erlang](/emojis/rc/dark_erlang.jpg)|
+|dark_fire| ![dark_fire](/emojis/rc/dark_fire.gif)|
 |dark_helmet| ![dark_helmet](/emojis/rc/dark_helmet.png)|
 |dark_mode_parrot| ![dark_mode_parrot](/emojis/rc/dark_mode_parrot.gif)|
 |darmok| ![darmok](/emojis/rc/darmok.png)|
@@ -101,13 +108,6 @@
 |devens| ![devens](/emojis/rc/devens.png)|
 |devil-joe| ![devil-joe](/emojis/rc/devil-joe.png)|
 |devil| ![devil](/emojis/rc/devil.png)|
-|devin-approves| ![devin-approves](/emojis/rc/devin-approves.png)|
-|devo| ![devo](/emojis/rc/devo.png)|
-|dexter_mom_gloves| ![dexter_mom_gloves](/emojis/rc/dexter_mom_gloves.png)|
-|deznutz| ![deznutz](/emojis/rc/deznutz.png)|
-|dfegang| ![dfegang](/emojis/rc/dfegang.png)|
-|dia| ![dia](/emojis/rc/dia.png)|
-|diablo| ![diablo](/emojis/rc/diablo.png)|
 
 <hr/>
 

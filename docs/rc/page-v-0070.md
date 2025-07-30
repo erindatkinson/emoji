@@ -1,16 +1,56 @@
 
 ## Emojis (Page 70)
 
-[Previous Page](/docs/rc/page-u-0069.md)
+[Previous Page](/docs/rc/page-t-0069.md)
   | [Next Page](/docs/rc/page-w-0071.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|vaya-con-dios| ![vaya-con-dios](/emojis/rc/vaya-con-dios.png)|
+|vcd| ![vcd](/emojis/rc/vcd.png)|
+|vectr| ![vectr](/emojis/rc/vectr.png)|
+|veg_heart| ![veg_heart](/emojis/rc/veg_heart.png)|
+|vega-lite-intensifies| ![vega-lite-intensifies](/emojis/rc/vega-lite-intensifies.gif)|
+|vega-lite| ![vega-lite](/emojis/rc/vega-lite.png)|
+|vegemite| ![vegemite](/emojis/rc/vegemite.png)|
+|venting| ![venting](/emojis/rc/venting.gif)|
+|venus| ![venus](/emojis/rc/venus.png)|
+|venusaur| ![venusaur](/emojis/rc/venusaur.png)|
+|vera-smoll| ![vera-smoll](/emojis/rc/vera-smoll.jpg)|
+|verified| ![verified](/emojis/rc/verified.png)|
+|vermont| ![vermont](/emojis/rc/vermont.png)|
+|verodin| ![verodin](/emojis/rc/verodin.png)|
+|vertex| ![vertex](/emojis/rc/vertex.png)|
+|very_nice| ![very_nice](/emojis/rc/very_nice.jpg)|
+|vespa-og| ![vespa-og](/emojis/rc/vespa-og.jpg)|
+|vespeon| ![vespeon](/emojis/rc/vespeon.png)|
+|veto| ![veto](/emojis/rc/veto.png)|
+|vibe_parrot| ![vibe_parrot](/emojis/rc/vibe_parrot.gif)|
+|vibes| ![vibes](/emojis/rc/vibes.png)|
+|vibing-canary-ani| ![vibing-canary-ani](/emojis/rc/vibing-canary-ani.gif)|
+|vibing-canary| ![vibing-canary](/emojis/rc/vibing-canary.png)|
+|victory_ben| ![victory_ben](/emojis/rc/victory_ben.png)|
+|view-component-excited| ![view-component-excited](/emojis/rc/view-component-excited.gif)|
+|view-component-jammies| ![view-component-jammies](/emojis/rc/view-component-jammies.gif)|
+|viewcomponent| ![viewcomponent](/emojis/rc/viewcomponent.png)|
+|vigilant-canary-ani| ![vigilant-canary-ani](/emojis/rc/vigilant-canary-ani.gif)|
+|vigilant-canary| ![vigilant-canary](/emojis/rc/vigilant-canary.png)|
+|viking_parrot| ![viking_parrot](/emojis/rc/viking_parrot.gif)|
+|village_people| ![village_people](/emojis/rc/village_people.jpg)|
+|vim| ![vim](/emojis/rc/vim.png)|
+|vince-mcmahon-entrance| ![vince-mcmahon-entrance](/emojis/rc/vince-mcmahon-entrance.gif)|
+|vip4r| ![vip4r](/emojis/rc/vip4r.jpg)|
+|virginia| ![virginia](/emojis/rc/virginia.png)|
+|virtual-meeting| ![virtual-meeting](/emojis/rc/virtual-meeting.png)|
+|virustotal| ![virustotal](/emojis/rc/virustotal.png)|
+|vlc| ![vlc](/emojis/rc/vlc.png)|
+|vmray| ![vmray](/emojis/rc/vmray.png)|
 |vmware| ![vmware](/emojis/rc/vmware.png)|
 |vodka| ![vodka](/emojis/rc/vodka.gif)|
 |voldemort| ![voldemort](/emojis/rc/voldemort.png)|
+|volkswagon| ![volkswagon](/emojis/rc/volkswagon.png)|
 |vols| ![vols](/emojis/rc/vols.jpg)|
 |voltron| ![voltron](/emojis/rc/voltron.jpg)|
 |volunteer| ![volunteer](/emojis/rc/volunteer.png)|
@@ -68,48 +108,8 @@
 |waving-from-afar-left| ![waving-from-afar-left](/emojis/rc/waving-from-afar-left.png)|
 |waving-from-afar-right| ![waving-from-afar-right](/emojis/rc/waving-from-afar-right.png)|
 |waving_hamster| ![waving_hamster](/emojis/rc/waving_hamster.gif)|
-|way-too-dank| ![way-too-dank](/emojis/rc/way-too-dank.gif)|
-|wayback_machine| ![wayback_machine](/emojis/rc/wayback_machine.png)|
-|wazzup| ![wazzup](/emojis/rc/wazzup.jpg)|
-|wcgw| ![wcgw](/emojis/rc/wcgw.gif)|
-|we-bring-you-love| ![we-bring-you-love](/emojis/rc/we-bring-you-love.png)|
-|we-cozy| ![we-cozy](/emojis/rc/we-cozy.png)|
-|we-fits-so-we-sits| ![we-fits-so-we-sits](/emojis/rc/we-fits-so-we-sits.png)|
-|we-hate-it| ![we-hate-it](/emojis/rc/we-hate-it.png)|
-|we-love-it-more| ![we-love-it-more](/emojis/rc/we-love-it-more.png)|
-|we-love-it| ![we-love-it](/emojis/rc/we-love-it.png)|
-|we-want-you| ![we-want-you](/emojis/rc/we-want-you.png)|
-|we_blocked| ![we_blocked](/emojis/rc/we_blocked.jpg)|
-|we_want_you| ![we_want_you](/emojis/rc/we_want_you.png)|
-|weak_knees| ![weak_knees](/emojis/rc/weak_knees.jpg)|
-|weaksauce| ![weaksauce](/emojis/rc/weaksauce.png)|
-|weasel| ![weasel](/emojis/rc/weasel.png)|
-|web-design| ![web-design](/emojis/rc/web-design.gif)|
-|webex| ![webex](/emojis/rc/webex.png)|
-|webhook| ![webhook](/emojis/rc/webhook.png)|
-|webpack| ![webpack](/emojis/rc/webpack.png)|
-|webscale| ![webscale](/emojis/rc/webscale.png)|
-|wed| ![wed](/emojis/rc/wed.png)|
-|wednesday-addams| ![wednesday-addams](/emojis/rc/wednesday-addams.jpg)|
-|wednesday| ![wednesday](/emojis/rc/wednesday.png)|
-|weeee| ![weeee](/emojis/rc/weeee.gif)|
-|weekend-update| ![weekend-update](/emojis/rc/weekend-update.png)|
-|weekend| ![weekend](/emojis/rc/weekend.gif)|
-|wegotsued| ![wegotsued](/emojis/rc/wegotsued.png)|
-|wegotyou| ![wegotyou](/emojis/rc/wegotyou.png)|
-|weird-science| ![weird-science](/emojis/rc/weird-science.png)|
-|weird_flex_but_ok| ![weird_flex_but_ok](/emojis/rc/weird_flex_but_ok.gif)|
-|welcome-| ![welcome-](/emojis/rc/welcome-.png)|
-|welcome-back| ![welcome-back](/emojis/rc/welcome-back.gif)|
-|welcome-mailman| ![welcome-mailman](/emojis/rc/welcome-mailman.png)|
-|welcome-to-the-party| ![welcome-to-the-party](/emojis/rc/welcome-to-the-party.gif)|
-|welcome| ![welcome](/emojis/rc/welcome.jpg)|
-|welcome2| ![welcome2](/emojis/rc/welcome2.png)|
-|welcome_to_the_dark_side| ![welcome_to_the_dark_side](/emojis/rc/welcome_to_the_dark_side.jpg)|
-|well-played| ![well-played](/emojis/rc/well-played.png)|
-|well-theres-your-problem| ![well-theres-your-problem](/emojis/rc/well-theres-your-problem.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-u-0069.md)
+[Previous Page](/docs/rc/page-t-0069.md)
   | [Next Page](/docs/rc/page-w-0071.md)

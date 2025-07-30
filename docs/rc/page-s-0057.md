@@ -8,6 +8,38 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|service-now-intensifies| ![service-now-intensifies](/emojis/rc/service-now-intensifies.gif)|
+|service-now| ![service-now](/emojis/rc/service-now.png)|
+|servicenow-intensify| ![servicenow-intensify](/emojis/rc/servicenow-intensify.gif)|
+|servicenow| ![servicenow](/emojis/rc/servicenow.png)|
+|several-people-are-typing| ![several-people-are-typing](/emojis/rc/several-people-are-typing.gif)|
+|sh_full| ![sh_full](/emojis/rc/sh_full.png)|
+|sha1| ![sha1](/emojis/rc/sha1.jpg)|
+|shadow| ![shadow](/emojis/rc/shadow.jpg)|
+|shady-zach| ![shady-zach](/emojis/rc/shady-zach.png)|
+|shady| ![shady](/emojis/rc/shady.jpg)|
+|shai_hulud| ![shai_hulud](/emojis/rc/shai_hulud.png)|
+|shaka1| ![shaka1](/emojis/rc/shaka1.png)|
+|shake| ![shake](/emojis/rc/shake.gif)|
+|shakecat| ![shakecat](/emojis/rc/shakecat.gif)|
+|shakeee| ![shakeee](/emojis/rc/shakeee.jpg)|
+|shakes-fist-at-apple| ![shakes-fist-at-apple](/emojis/rc/shakes-fist-at-apple.png)|
+|shakes-fist-at-vscode| ![shakes-fist-at-vscode](/emojis/rc/shakes-fist-at-vscode.png)|
+|shakes_fist| ![shakes_fist](/emojis/rc/shakes_fist.gif)|
+|shall-not-pass| ![shall-not-pass](/emojis/rc/shall-not-pass.png)|
+|shame| ![shame](/emojis/rc/shame.png)|
+|shame_wizard| ![shame_wizard](/emojis/rc/shame_wizard.png)|
+|shamwow-approved| ![shamwow-approved](/emojis/rc/shamwow-approved.png)|
+|shamwow-fluffy| ![shamwow-fluffy](/emojis/rc/shamwow-fluffy.png)|
+|shamwow| ![shamwow](/emojis/rc/shamwow.jpg)|
+|shane| ![shane](/emojis/rc/shane.jpg)|
+|sharebear| ![sharebear](/emojis/rc/sharebear.jpg)|
+|sharkbait_brewhaha| ![sharkbait_brewhaha](/emojis/rc/sharkbait_brewhaha.gif)|
+|sharknado| ![sharknado](/emojis/rc/sharknado.png)|
+|shaynelaugh| ![shaynelaugh](/emojis/rc/shaynelaugh.png)|
+|she-bring-you-a-sad| ![she-bring-you-a-sad](/emojis/rc/she-bring-you-a-sad.png)|
+|she-bring-you-happy-goat| ![she-bring-you-happy-goat](/emojis/rc/she-bring-you-happy-goat.gif)|
+|she-bring-you-js-request| ![she-bring-you-js-request](/emojis/rc/she-bring-you-js-request.png)|
 |she-bring-you-smol-js-request| ![she-bring-you-smol-js-request](/emojis/rc/she-bring-you-smol-js-request.png)|
 |she-brings-ewe| ![she-brings-ewe](/emojis/rc/she-brings-ewe.png)|
 |she-brings-her-otter-because-shes-not-bother| ![she-brings-her-otter-because-shes-not-bother](/emojis/rc/she-brings-her-otter-because-shes-not-bother.png)|
@@ -76,38 +108,6 @@
 |she-brings-you-tunes| ![she-brings-you-tunes](/emojis/rc/she-brings-you-tunes.png)|
 |she-clappy-but-very-reserved-about-it-blink-and-you'll-miss-it| ![she-clappy-but-very-reserved-about-it-blink-and-you'll-miss-it](/emojis/rc/she-clappy-but-very-reserved-about-it-blink-and-you'll-miss-it.gif)|
 |she-deals-with-it| ![she-deals-with-it](/emojis/rc/she-deals-with-it.gif)|
-|she-distributes-the-means-of-production| ![she-distributes-the-means-of-production](/emojis/rc/she-distributes-the-means-of-production.gif)|
-|she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times| ![she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times](/emojis/rc/she-doesn't-know-the-answer-but-brings-you-moral-support-in-these-trying-times.png)|
-|she-exits-awkwardly| ![she-exits-awkwardly](/emojis/rc/she-exits-awkwardly.gif)|
-|she-eyes| ![she-eyes](/emojis/rc/she-eyes.png)|
-|she-fits-so-she-sits| ![she-fits-so-she-sits](/emojis/rc/she-fits-so-she-sits.png)|
-|she-freeze| ![she-freeze](/emojis/rc/she-freeze.png)|
-|she-gonna-get-you| ![she-gonna-get-you](/emojis/rc/she-gonna-get-you.png)|
-|she-has-a-question| ![she-has-a-question](/emojis/rc/she-has-a-question.png)|
-|she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh| ![she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh](/emojis/rc/she-has-brought-you-so-much-that-she-needs-a-smol-nap-pls-shhhh.png)|
-|she-hat| ![she-hat](/emojis/rc/she-hat.png)|
-|she-haw| ![she-haw](/emojis/rc/she-haw.png)|
-|she-is-berry-proud-of-you| ![she-is-berry-proud-of-you](/emojis/rc/she-is-berry-proud-of-you.png)|
-|she-is-in-a-bowl-because-she-is-souper| ![she-is-in-a-bowl-because-she-is-souper](/emojis/rc/she-is-in-a-bowl-because-she-is-souper.png)|
-|she-listens| ![she-listens](/emojis/rc/she-listens.png)|
-|she-loves-it| ![she-loves-it](/emojis/rc/she-loves-it.png)|
-|she-needs-your-help| ![she-needs-your-help](/emojis/rc/she-needs-your-help.png)|
-|she-nerd| ![she-nerd](/emojis/rc/she-nerd.png)|
-|she-nods| ![she-nods](/emojis/rc/she-nods.gif)|
-|she-out| ![she-out](/emojis/rc/she-out.gif)|
-|she-party-to-the-left| ![she-party-to-the-left](/emojis/rc/she-party-to-the-left.gif)|
-|she-recognizes-you-because-you-are-awesome| ![she-recognizes-you-because-you-are-awesome](/emojis/rc/she-recognizes-you-because-you-are-awesome.png)|
-|she-reigns| ![she-reigns](/emojis/rc/she-reigns.png)|
-|she-schemes| ![she-schemes](/emojis/rc/she-schemes.png)|
-|she-scoots| ![she-scoots](/emojis/rc/she-scoots.png)|
-|she-teaches| ![she-teaches](/emojis/rc/she-teaches.png)|
-|she-thinks| ![she-thinks](/emojis/rc/she-thinks.png)|
-|she-wants-to-look-but-not-really-but-will-look-anyways| ![she-wants-to-look-but-not-really-but-will-look-anyways](/emojis/rc/she-wants-to-look-but-not-really-but-will-look-anyways.png)|
-|she-works-from-home| ![she-works-from-home](/emojis/rc/she-works-from-home.png)|
-|she| ![she](/emojis/rc/she.png)|
-|she_brings_you_knife| ![she_brings_you_knife](/emojis/rc/she_brings_you_knife.png)|
-|she_doesnt_even_go_here| ![she_doesnt_even_go_here](/emojis/rc/she_doesnt_even_go_here.jpg)|
-|sheeeesh| ![sheeeesh](/emojis/rc/sheeeesh.png)|
 
 <hr/>
 

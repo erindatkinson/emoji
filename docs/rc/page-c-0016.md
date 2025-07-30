@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|cringe| ![cringe](/emojis/rc/cringe.png)|
+|crisp| ![crisp](/emojis/rc/crisp.gif)|
+|critical-failure| ![critical-failure](/emojis/rc/critical-failure.png)|
+|critical-success| ![critical-success](/emojis/rc/critical-success.png)|
+|crocs| ![crocs](/emojis/rc/crocs.png)|
+|crosshair| ![crosshair](/emojis/rc/crosshair.png)|
 |crossword| ![crossword](/emojis/rc/crossword.png)|
 |crow| ![crow](/emojis/rc/crow.gif)|
 |crowbar-halflife| ![crowbar-halflife](/emojis/rc/crowbar-halflife.gif)|
@@ -24,6 +30,7 @@
 |css3| ![css3](/emojis/rc/css3.png)|
 |cthulhu| ![cthulhu](/emojis/rc/cthulhu.gif)|
 |cuban_cigar| ![cuban_cigar](/emojis/rc/cuban_cigar.png)|
+|cubimal_chick| ![cubimal_chick](/emojis/rc/cubimal_chick.png)|
 |cubs| ![cubs](/emojis/rc/cubs.png)|
 |cuddly-cat| ![cuddly-cat](/emojis/rc/cuddly-cat.png)|
 |cuddlycat| ![cuddlycat](/emojis/rc/cuddlycat.png)|
@@ -101,13 +108,6 @@
 |danielknowsall| ![danielknowsall](/emojis/rc/danielknowsall.png)|
 |daniella-thumbs-up| ![daniella-thumbs-up](/emojis/rc/daniella-thumbs-up.png)|
 |danielle-mug| ![danielle-mug](/emojis/rc/danielle-mug.png)|
-|danielle-wut| ![danielle-wut](/emojis/rc/danielle-wut.png)|
-|danke| ![danke](/emojis/rc/danke.jpg)|
-|danny-kirbito| ![danny-kirbito](/emojis/rc/danny-kirbito.png)|
-|dapper-keith| ![dapper-keith](/emojis/rc/dapper-keith.png)|
-|daria| ![daria](/emojis/rc/daria.png)|
-|dark_erlang| ![dark_erlang](/emojis/rc/dark_erlang.jpg)|
-|dark_fire| ![dark_fire](/emojis/rc/dark_fire.gif)|
 
 <hr/>
 

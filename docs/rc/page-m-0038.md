@@ -8,6 +8,26 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|magic| ![magic](/emojis/rc/magic.gif)|
+|magic_carpet| ![magic_carpet](/emojis/rc/magic_carpet.jpg)|
+|magicjoe| ![magicjoe](/emojis/rc/magicjoe.jpg)|
+|magicjulie| ![magicjulie](/emojis/rc/magicjulie.png)|
+|magikarp| ![magikarp](/emojis/rc/magikarp.gif)|
+|magpul| ![magpul](/emojis/rc/magpul.png)|
+|mahogany-megalodons| ![mahogany-megalodons](/emojis/rc/mahogany-megalodons.jpg)|
+|mahogany| ![mahogany](/emojis/rc/mahogany.jpg)|
+|major_award| ![major_award](/emojis/rc/major_award.jpg)|
+|mak_foss_the_boss| ![mak_foss_the_boss](/emojis/rc/mak_foss_the_boss.png)|
+|make-it-pop| ![make-it-pop](/emojis/rc/make-it-pop.png)|
+|make_it_so| ![make_it_so](/emojis/rc/make_it_so.png)|
+|makessense| ![makessense](/emojis/rc/makessense.jpg)|
+|making| ![making](/emojis/rc/making.jpg)|
+|maleficent| ![maleficent](/emojis/rc/maleficent.png)|
+|malk| ![malk](/emojis/rc/malk.jpg)|
+|malort| ![malort](/emojis/rc/malort.jpg)|
+|malort_face| ![malort_face](/emojis/rc/malort_face.png)|
+|malware| ![malware](/emojis/rc/malware.png)|
+|malware_dont_need_coffee| ![malware_dont_need_coffee](/emojis/rc/malware_dont_need_coffee.png)|
 |mamasaidknockyouout| ![mamasaidknockyouout](/emojis/rc/mamasaidknockyouout.jpg)|
 |mammothkiller| ![mammothkiller](/emojis/rc/mammothkiller.jpg)|
 |man-msft-technologist| ![man-msft-technologist](/emojis/rc/man-msft-technologist.png)|
@@ -88,26 +108,6 @@
 |meatwad| ![meatwad](/emojis/rc/meatwad.gif)|
 |medieval| ![medieval](/emojis/rc/medieval.jpg)|
 |medusa-| ![medusa-](/emojis/rc/medusa-.jpg)|
-|meerkat| ![meerkat](/emojis/rc/meerkat.png)|
-|meeseeks| ![meeseeks](/emojis/rc/meeseeks.png)|
-|mega-approved| ![mega-approved](/emojis/rc/mega-approved.gif)|
-|mega_hammer| ![mega_hammer](/emojis/rc/mega_hammer.jpg)|
-|megacone_of_silence| ![megacone_of_silence](/emojis/rc/megacone_of_silence.jpg)|
-|megaman| ![megaman](/emojis/rc/megaman.gif)|
-|megusta| ![megusta](/emojis/rc/megusta.jpg)|
-|meh| ![meh](/emojis/rc/meh.gif)|
-|mejacket| ![mejacket](/emojis/rc/mejacket.png)|
-|melting-face| ![melting-face](/emojis/rc/melting-face.png)|
-|melty-brain| ![melty-brain](/emojis/rc/melty-brain.png)|
-|melty-ice-cube| ![melty-ice-cube](/emojis/rc/melty-ice-cube.jpg)|
-|member| ![member](/emojis/rc/member.png)|
-|meme-queen| ![meme-queen](/emojis/rc/meme-queen.png)|
-|memedaddy| ![memedaddy](/emojis/rc/memedaddy.png)|
-|memory| ![memory](/emojis/rc/memory.png)|
-|memow-approved| ![memow-approved](/emojis/rc/memow-approved.png)|
-|memow| ![memow](/emojis/rc/memow.png)|
-|menards| ![menards](/emojis/rc/menards.jpg)|
-|mentalhealthawareness| ![mentalhealthawareness](/emojis/rc/mentalhealthawareness.png)|
 
 <hr/>
 

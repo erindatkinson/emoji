@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|cheese-mozzarella| ![cheese-mozzarella](/emojis/rc/cheese-mozzarella.png)|
+|cheese-paneer| ![cheese-paneer](/emojis/rc/cheese-paneer.png)|
+|cheese-parmesan| ![cheese-parmesan](/emojis/rc/cheese-parmesan.png)|
+|cheese-present| ![cheese-present](/emojis/rc/cheese-present.png)|
+|cheese-provalone| ![cheese-provalone](/emojis/rc/cheese-provalone.png)|
+|cheese-rainbow| ![cheese-rainbow](/emojis/rc/cheese-rainbow.png)|
 |cheesesteak| ![cheesesteak](/emojis/rc/cheesesteak.png)|
 |cheez-it| ![cheez-it](/emojis/rc/cheez-it.png)|
 |chef-brb| ![chef-brb](/emojis/rc/chef-brb.png)|
@@ -102,12 +108,6 @@
 |clewell| ![clewell](/emojis/rc/clewell.png)|
 |cliff| ![cliff](/emojis/rc/cliff.png)|
 |cline| ![cline](/emojis/rc/cline.jpg)|
-|clippy| ![clippy](/emojis/rc/clippy.jpg)|
-|clood| ![clood](/emojis/rc/clood.png)|
-|close_air_quote| ![close_air_quote](/emojis/rc/close_air_quote.gif)|
-|close_enough| ![close_enough](/emojis/rc/close_enough.png)|
-|closeairquotes| ![closeairquotes](/emojis/rc/closeairquotes.gif)|
-|closed| ![closed](/emojis/rc/closed.png)|
 
 <hr/>
 

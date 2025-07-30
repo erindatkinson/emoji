@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|good_boy2| ![good_boy2](/emojis/rc/good_boy2.png)|
+|good_egg| ![good_egg](/emojis/rc/good_egg.png)|
+|good_engineering_practices| ![good_engineering_practices](/emojis/rc/good_engineering_practices.png)|
+|good_grief| ![good_grief](/emojis/rc/good_grief.png)|
+|good_idea_fairy| ![good_idea_fairy](/emojis/rc/good_idea_fairy.png)|
+|good_meowning| ![good_meowning](/emojis/rc/good_meowning.png)|
+|good_morning_hat_tip| ![good_morning_hat_tip](/emojis/rc/good_morning_hat_tip.gif)|
+|good_news| ![good_news](/emojis/rc/good_news.png)|
+|good_news_everyone_hubert| ![good_news_everyone_hubert](/emojis/rc/good_news_everyone_hubert.gif)|
+|good_thinking_intensifies| ![good_thinking_intensifies](/emojis/rc/good_thinking_intensifies.gif)|
+|good_to_know| ![good_to_know](/emojis/rc/good_to_know.png)|
+|good_work| ![good_work](/emojis/rc/good_work.gif)|
+|goodam| ![goodam](/emojis/rc/goodam.png)|
+|goodanswer| ![goodanswer](/emojis/rc/goodanswer.jpg)|
+|goodboi| ![goodboi](/emojis/rc/goodboi.gif)|
 |goodbot| ![goodbot](/emojis/rc/goodbot.gif)|
 |goodbye_there| ![goodbye_there](/emojis/rc/goodbye_there.gif)|
 |goodcatch| ![goodcatch](/emojis/rc/goodcatch.jpg)|
@@ -93,21 +108,6 @@
 |goth-clap| ![goth-clap](/emojis/rc/goth-clap.gif)|
 |goth-eyes-wide-thonk| ![goth-eyes-wide-thonk](/emojis/rc/goth-eyes-wide-thonk.png)|
 |goth-lunch| ![goth-lunch](/emojis/rc/goth-lunch.png)|
-|goth-morning| ![goth-morning](/emojis/rc/goth-morning.png)|
-|goth-regex| ![goth-regex](/emojis/rc/goth-regex.png)|
-|goth-sob| ![goth-sob](/emojis/rc/goth-sob.png)|
-|goth-thinkies| ![goth-thinkies](/emojis/rc/goth-thinkies.png)|
-|goth-thonking_face| ![goth-thonking_face](/emojis/rc/goth-thonking_face.png)|
-|goth-wave| ![goth-wave](/emojis/rc/goth-wave.png)|
-|goth_nail_care| ![goth_nail_care](/emojis/rc/goth_nail_care.jpg)|
-|goth_nails| ![goth_nails](/emojis/rc/goth_nails.png)|
-|goth_parrot| ![goth_parrot](/emojis/rc/goth_parrot.gif)|
-|goth_smile| ![goth_smile](/emojis/rc/goth_smile.png)|
-|goth_sob| ![goth_sob](/emojis/rc/goth_sob.jpg)|
-|gotta-blast| ![gotta-blast](/emojis/rc/gotta-blast.jpg)|
-|gotta-run| ![gotta-run](/emojis/rc/gotta-run.gif)|
-|gotta_catch_em_all| ![gotta_catch_em_all](/emojis/rc/gotta_catch_em_all.jpg)|
-|gotta_go_slow| ![gotta_go_slow](/emojis/rc/gotta_go_slow.gif)|
 
 <hr/>
 

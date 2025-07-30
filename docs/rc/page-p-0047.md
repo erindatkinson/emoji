@@ -8,6 +8,29 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|paperboy| ![paperboy](/emojis/rc/paperboy.jpg)|
+|papi| ![papi](/emojis/rc/papi.jpg)|
+|paranoid| ![paranoid](/emojis/rc/paranoid.jpg)|
+|paren-excited| ![paren-excited](/emojis/rc/paren-excited.gif)|
+|paren-scroll| ![paren-scroll](/emojis/rc/paren-scroll.gif)|
+|paren| ![paren](/emojis/rc/paren.png)|
+|parental-advisory| ![parental-advisory](/emojis/rc/parental-advisory.png)|
+|parrot_beer| ![parrot_beer](/emojis/rc/parrot_beer.gif)|
+|parrot_burger| ![parrot_burger](/emojis/rc/parrot_burger.gif)|
+|parrot_coffee| ![parrot_coffee](/emojis/rc/parrot_coffee.gif)|
+|parrot_cop| ![parrot_cop](/emojis/rc/parrot_cop.gif)|
+|parrot_darkbeer| ![parrot_darkbeer](/emojis/rc/parrot_darkbeer.gif)|
+|parrot_gentleman| ![parrot_gentleman](/emojis/rc/parrot_gentleman.gif)|
+|parrot_icecream| ![parrot_icecream](/emojis/rc/parrot_icecream.gif)|
+|parrot_pizza| ![parrot_pizza](/emojis/rc/parrot_pizza.gif)|
+|parrot_sad| ![parrot_sad](/emojis/rc/parrot_sad.gif)|
+|parrot_tp| ![parrot_tp](/emojis/rc/parrot_tp.gif)|
+|parrotdad| ![parrotdad](/emojis/rc/parrotdad.gif)|
+|parrott_mustache| ![parrott_mustache](/emojis/rc/parrott_mustache.gif)|
+|parrotwave1| ![parrotwave1](/emojis/rc/parrotwave1.gif)|
+|parrotwave2| ![parrotwave2](/emojis/rc/parrotwave2.gif)|
+|parrotwave3| ![parrotwave3](/emojis/rc/parrotwave3.gif)|
+|parrotwave4| ![parrotwave4](/emojis/rc/parrotwave4.gif)|
 |parrotwave5| ![parrotwave5](/emojis/rc/parrotwave5.gif)|
 |parrotwave6| ![parrotwave6](/emojis/rc/parrotwave6.gif)|
 |parrotwave7| ![parrotwave7](/emojis/rc/parrotwave7.gif)|
@@ -85,29 +108,6 @@
 |peace-disappear| ![peace-disappear](/emojis/rc/peace-disappear.gif)|
 |peace-out| ![peace-out](/emojis/rc/peace-out.gif)|
 |peace| ![peace](/emojis/rc/peace.gif)|
-|peace_was_never_an_option| ![peace_was_never_an_option](/emojis/rc/peace_was_never_an_option.png)|
-|peach-intensifies| ![peach-intensifies](/emojis/rc/peach-intensifies.gif)|
-|pear-intensifies| ![pear-intensifies](/emojis/rc/pear-intensifies.gif)|
-|pebkac| ![pebkac](/emojis/rc/pebkac.png)|
-|pecan-pie| ![pecan-pie](/emojis/rc/pecan-pie.jpg)|
-|pee| ![pee](/emojis/rc/pee.png)|
-|peek-a-boo-girvin| ![peek-a-boo-girvin](/emojis/rc/peek-a-boo-girvin.png)|
-|peepo_coffeeq| ![peepo_coffeeq](/emojis/rc/peepo_coffeeq.png)|
-|peepoarrive| ![peepoarrive](/emojis/rc/peepoarrive.png)|
-|peepoclap| ![peepoclap](/emojis/rc/peepoclap.gif)|
-|peepoleave| ![peepoleave](/emojis/rc/peepoleave.gif)|
-|peepolove| ![peepolove](/emojis/rc/peepolove.gif)|
-|peeponotes| ![peeponotes](/emojis/rc/peeponotes.png)|
-|peeporiot| ![peeporiot](/emojis/rc/peeporiot.gif)|
-|peeposhy| ![peeposhy](/emojis/rc/peeposhy.gif)|
-|peeps| ![peeps](/emojis/rc/peeps.png)|
-|peewee-approved| ![peewee-approved](/emojis/rc/peewee-approved.png)|
-|peewee| ![peewee](/emojis/rc/peewee.png)|
-|pegasus| ![pegasus](/emojis/rc/pegasus.gif)|
-|pelican| ![pelican](/emojis/rc/pelican.png)|
-|peloton| ![peloton](/emojis/rc/peloton.png)|
-|pen-vs-sword| ![pen-vs-sword](/emojis/rc/pen-vs-sword.png)|
-|penguin-wave| ![penguin-wave](/emojis/rc/penguin-wave.gif)|
 
 <hr/>
 

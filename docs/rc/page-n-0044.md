@@ -8,6 +8,28 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|noproblemur| ![noproblemur](/emojis/rc/noproblemur.png)|
+|noprobllama-intensifies| ![noprobllama-intensifies](/emojis/rc/noprobllama-intensifies.gif)|
+|noprobllama| ![noprobllama](/emojis/rc/noprobllama.jpg)|
+|normal_tony| ![normal_tony](/emojis/rc/normal_tony.png)|
+|normtotherescue| ![normtotherescue](/emojis/rc/normtotherescue.jpg)|
+|nosferatu| ![nosferatu](/emojis/rc/nosferatu.png)|
+|nostalgia| ![nostalgia](/emojis/rc/nostalgia.gif)|
+|not-a-crab| ![not-a-crab](/emojis/rc/not-a-crab.png)|
+|not-amused-ian| ![not-amused-ian](/emojis/rc/not-amused-ian.png)|
+|not-amused-todd| ![not-amused-todd](/emojis/rc/not-amused-todd.png)|
+|not-fire| ![not-fire](/emojis/rc/not-fire.png)|
+|not-happy-just-relieved-the-task-is-done| ![not-happy-just-relieved-the-task-is-done](/emojis/rc/not-happy-just-relieved-the-task-is-done.png)|
+|not-i| ![not-i](/emojis/rc/not-i.png)|
+|not-it| ![not-it](/emojis/rc/not-it.png)|
+|not-me| ![not-me](/emojis/rc/not-me.png)|
+|not-shelley| ![not-shelley](/emojis/rc/not-shelley.png)|
+|not-this| ![not-this](/emojis/rc/not-this.gif)|
+|not| ![not](/emojis/rc/not.png)|
+|not_crying| ![not_crying](/emojis/rc/not_crying.jpg)|
+|not_fire| ![not_fire](/emojis/rc/not_fire.jpg)|
+|not_happy_bobby| ![not_happy_bobby](/emojis/rc/not_happy_bobby.png)|
+|not_my_business| ![not_my_business](/emojis/rc/not_my_business.jpg)|
 |not_onboarded| ![not_onboarded](/emojis/rc/not_onboarded.png)|
 |not_really_maybe_its_classified| ![not_really_maybe_its_classified](/emojis/rc/not_really_maybe_its_classified.gif)|
 |not_sure| ![not_sure](/emojis/rc/not_sure.jpg)|
@@ -79,35 +101,13 @@
 |octo-lantern| ![octo-lantern](/emojis/rc/octo-lantern.png)|
 |octo-lunch| ![octo-lunch](/emojis/rc/octo-lunch.png)|
 |octo-wave| ![octo-wave](/emojis/rc/octo-wave.gif)|
+|octocat| ![octocat](/emojis/rc/octocat.png)|
 |octopus-cowboy| ![octopus-cowboy](/emojis/rc/octopus-cowboy.png)|
 |odb| ![odb](/emojis/rc/odb.png)|
 |odinforce| ![odinforce](/emojis/rc/odinforce.png)|
 |official| ![official](/emojis/rc/official.png)|
 |oh-indeed| ![oh-indeed](/emojis/rc/oh-indeed.gif)|
 |oh-my| ![oh-my](/emojis/rc/oh-my.gif)|
-|oh-no-chris| ![oh-no-chris](/emojis/rc/oh-no-chris.png)|
-|oh-no-its-all-coming-apart| ![oh-no-its-all-coming-apart](/emojis/rc/oh-no-its-all-coming-apart.png)|
-|oh-no-shes-not-aligned| ![oh-no-shes-not-aligned](/emojis/rc/oh-no-shes-not-aligned.png)|
-|oh-ok| ![oh-ok](/emojis/rc/oh-ok.png)|
-|oh-snap| ![oh-snap](/emojis/rc/oh-snap.png)|
-|oh-yeaaa| ![oh-yeaaa](/emojis/rc/oh-yeaaa.gif)|
-|oh-yeah-its-all-coming-together| ![oh-yeah-its-all-coming-together](/emojis/rc/oh-yeah-its-all-coming-together.png)|
-|oh-you| ![oh-you](/emojis/rc/oh-you.png)|
-|oh_damn| ![oh_damn](/emojis/rc/oh_damn.png)|
-|oh_look_another_stealer| ![oh_look_another_stealer](/emojis/rc/oh_look_another_stealer.png)|
-|oh_look_more_qbot| ![oh_look_more_qbot](/emojis/rc/oh_look_more_qbot.png)|
-|oh_noes| ![oh_noes](/emojis/rc/oh_noes.png)|
-|oh_stop| ![oh_stop](/emojis/rc/oh_stop.png)|
-|oh_whale| ![oh_whale](/emojis/rc/oh_whale.jpg)|
-|ohcanada| ![ohcanada](/emojis/rc/ohcanada.png)|
-|ohhh| ![ohhh](/emojis/rc/ohhh.gif)|
-|ohio| ![ohio](/emojis/rc/ohio.png)|
-|ohno| ![ohno](/emojis/rc/ohno.png)|
-|ohnoes| ![ohnoes](/emojis/rc/ohnoes.gif)|
-|ohtani-wave| ![ohtani-wave](/emojis/rc/ohtani-wave.gif)|
-|ohyeah| ![ohyeah](/emojis/rc/ohyeah.gif)|
-|oic| ![oic](/emojis/rc/oic.jpg)|
-|ok_2| ![ok_2](/emojis/rc/ok_2.png)|
 
 <hr/>
 

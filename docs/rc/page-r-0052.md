@@ -8,6 +8,35 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|rage2| ![rage2](/emojis/rc/rage2.png)|
+|rage3| ![rage3](/emojis/rc/rage3.png)|
+|rage4| ![rage4](/emojis/rc/rage4.png)|
+|rage_face| ![rage_face](/emojis/rc/rage_face.png)|
+|rage_muffin| ![rage_muffin](/emojis/rc/rage_muffin.gif)|
+|raid| ![raid](/emojis/rc/raid.png)|
+|raiders| ![raiders](/emojis/rc/raiders.png)|
+|rails-all-the-way-down| ![rails-all-the-way-down](/emojis/rc/rails-all-the-way-down.gif)|
+|rails-intensifies| ![rails-intensifies](/emojis/rc/rails-intensifies.gif)|
+|rails-logo| ![rails-logo](/emojis/rc/rails-logo.png)|
+|rails-party| ![rails-party](/emojis/rc/rails-party.gif)|
+|rails-sob| ![rails-sob](/emojis/rc/rails-sob.png)|
+|rain-bow| ![rain-bow](/emojis/rc/rain-bow.png)|
+|rainbow-ac-leaf| ![rainbow-ac-leaf](/emojis/rc/rainbow-ac-leaf.png)|
+|rainbow-robot-vom| ![rainbow-robot-vom](/emojis/rc/rainbow-robot-vom.png)|
+|rainbow-this| ![rainbow-this](/emojis/rc/rainbow-this.gif)|
+|rainbow_100| ![rainbow_100](/emojis/rc/rainbow_100.gif)|
+|rainbow_bounce| ![rainbow_bounce](/emojis/rc/rainbow_bounce.gif)|
+|rainbow_dash| ![rainbow_dash](/emojis/rc/rainbow_dash.png)|
+|rainbow_shrug| ![rainbow_shrug](/emojis/rc/rainbow_shrug.gif)|
+|rainbow_star| ![rainbow_star](/emojis/rc/rainbow_star.png)|
+|rainbowblob_stop| ![rainbowblob_stop](/emojis/rc/rainbowblob_stop.gif)|
+|raindrops_cloud| ![raindrops_cloud](/emojis/rc/raindrops_cloud.gif)|
+|raining-garbage-trash| ![raining-garbage-trash](/emojis/rc/raining-garbage-trash.png)|
+|raining| ![raining](/emojis/rc/raining.gif)|
+|raise-pride| ![raise-pride](/emojis/rc/raise-pride.png)|
+|raise_the_roof| ![raise_the_roof](/emojis/rc/raise_the_roof.gif)|
+|raised_pinky| ![raised_pinky](/emojis/rc/raised_pinky.png)|
+|ralph| ![ralph](/emojis/rc/ralph.png)|
 |rammingspeed| ![rammingspeed](/emojis/rc/rammingspeed.png)|
 |random| ![random](/emojis/rc/random.png)|
 |rarity| ![rarity](/emojis/rc/rarity.png)|
@@ -29,6 +58,7 @@
 |rc_cola| ![rc_cola](/emojis/rc/rc_cola.jpg)|
 |rc_heart| ![rc_heart](/emojis/rc/rc_heart.png)|
 |rca| ![rca](/emojis/rc/rca.png)|
+|react-intensifies| ![react-intensifies](/emojis/rc/react-intensifies.gif)|
 |react| ![react](/emojis/rc/react.png)|
 |reaction| ![reaction](/emojis/rc/reaction.png)|
 |read-the-manual| ![read-the-manual](/emojis/rc/read-the-manual.gif)|
@@ -78,36 +108,6 @@
 |redcanary-d20| ![redcanary-d20](/emojis/rc/redcanary-d20.png)|
 |redcanary| ![redcanary](/emojis/rc/redcanary.jpg)|
 |redcanary_super_intensifies| ![redcanary_super_intensifies](/emojis/rc/redcanary_super_intensifies.gif)|
-|reddit| ![reddit](/emojis/rc/reddit.png)|
-|redflag| ![redflag](/emojis/rc/redflag.png)|
-|redis| ![redis](/emojis/rc/redis.gif)|
-|redo| ![redo](/emojis/rc/redo.png)|
-|redpanda-wave| ![redpanda-wave](/emojis/rc/redpanda-wave.gif)|
-|reds| ![reds](/emojis/rc/reds.png)|
-|redwings| ![redwings](/emojis/rc/redwings.png)|
-|reel| ![reel](/emojis/rc/reel.jpg)|
-|refactored-taco| ![refactored-taco](/emojis/rc/refactored-taco.png)|
-|regex-blood-sob| ![regex-blood-sob](/emojis/rc/regex-blood-sob.png)|
-|regex-ghost| ![regex-ghost](/emojis/rc/regex-ghost.png)|
-|regex-party| ![regex-party](/emojis/rc/regex-party.gif)|
-|regex-sob| ![regex-sob](/emojis/rc/regex-sob.png)|
-|regex-technologist| ![regex-technologist](/emojis/rc/regex-technologist.png)|
-|regex| ![regex](/emojis/rc/regex.png)|
-|reggie| ![reggie](/emojis/rc/reggie.jpg)|
-|reggiemiller| ![reggiemiller](/emojis/rc/reggiemiller.jpg)|
-|regina| ![regina](/emojis/rc/regina.jpg)|
-|reimage| ![reimage](/emojis/rc/reimage.png)|
-|reject_taylor| ![reject_taylor](/emojis/rc/reject_taylor.png)|
-|rekt| ![rekt](/emojis/rc/rekt.gif)|
-|relatable| ![relatable](/emojis/rc/relatable.png)|
-|relentless| ![relentless](/emojis/rc/relentless.gif)|
-|relevant| ![relevant](/emojis/rc/relevant.png)|
-|reliant_robin| ![reliant_robin](/emojis/rc/reliant_robin.png)|
-|reload| ![reload](/emojis/rc/reload.jpg)|
-|relocating| ![relocating](/emojis/rc/relocating.png)|
-|remediated-by-customer| ![remediated-by-customer](/emojis/rc/remediated-by-customer.png)|
-|reminder-bubble| ![reminder-bubble](/emojis/rc/reminder-bubble.gif)|
-|reminder| ![reminder](/emojis/rc/reminder.png)|
 
 <hr/>
 

@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|devin-approves| ![devin-approves](/emojis/rc/devin-approves.png)|
+|devo| ![devo](/emojis/rc/devo.png)|
+|dexter_mom_gloves| ![dexter_mom_gloves](/emojis/rc/dexter_mom_gloves.png)|
+|deznutz| ![deznutz](/emojis/rc/deznutz.png)|
+|dfegang| ![dfegang](/emojis/rc/dfegang.png)|
+|dia| ![dia](/emojis/rc/dia.png)|
+|diablo| ![diablo](/emojis/rc/diablo.png)|
 |diablo_ii| ![diablo_ii](/emojis/rc/diablo_ii.png)|
 |diagram| ![diagram](/emojis/rc/diagram.png)|
 |diamond| ![diamond](/emojis/rc/diamond.gif)|
@@ -101,13 +108,6 @@
 |dont_dead_open_inside| ![dont_dead_open_inside](/emojis/rc/dont_dead_open_inside.jpg)|
 |dont_know| ![dont_know](/emojis/rc/dont_know.gif)|
 |dont_panic| ![dont_panic](/emojis/rc/dont_panic.png)|
-|dontknowhowusecomputer| ![dontknowhowusecomputer](/emojis/rc/dontknowhowusecomputer.png)|
-|dontmakemecutyou| ![dontmakemecutyou](/emojis/rc/dontmakemecutyou.jpg)|
-|donut-chocolate| ![donut-chocolate](/emojis/rc/donut-chocolate.png)|
-|donut-cruller| ![donut-cruller](/emojis/rc/donut-cruller.png)|
-|donut-cute| ![donut-cute](/emojis/rc/donut-cute.png)|
-|donut-glazed| ![donut-glazed](/emojis/rc/donut-glazed.png)|
-|donut-jelly| ![donut-jelly](/emojis/rc/donut-jelly.png)|
 
 <hr/>
 

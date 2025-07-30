@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|hello-sprout| ![hello-sprout](/emojis/rc/hello-sprout.gif)|
+|hello-there| ![hello-there](/emojis/rc/hello-there.gif)|
+|hello| ![hello](/emojis/rc/hello.png)|
+|hello_dave| ![hello_dave](/emojis/rc/hello_dave.png)|
+|hellokitty| ![hellokitty](/emojis/rc/hellokitty.jpg)|
+|hellur| ![hellur](/emojis/rc/hellur.png)|
+|helm-da| ![helm-da](/emojis/rc/helm-da.png)|
+|helm| ![helm](/emojis/rc/helm.png)|
+|help-me_turtle| ![help-me_turtle](/emojis/rc/help-me_turtle.gif)|
+|helpful-link| ![helpful-link](/emojis/rc/helpful-link.png)|
+|helping-each-other-succeed| ![helping-each-other-succeed](/emojis/rc/helping-each-other-succeed.gif)|
+|her_squirm| ![her_squirm](/emojis/rc/her_squirm.png)|
+|here-we-go| ![here-we-go](/emojis/rc/here-we-go.jpg)|
+|here| ![here](/emojis/rc/here.png)|
+|herecomesjimmycottontail| ![herecomesjimmycottontail](/emojis/rc/herecomesjimmycottontail.png)|
 |herman_miller| ![herman_miller](/emojis/rc/herman_miller.png)|
 |hero| ![hero](/emojis/rc/hero.gif)|
 |heroku| ![heroku](/emojis/rc/heroku.png)|
@@ -93,21 +108,6 @@
 |hot-take| ![hot-take](/emojis/rc/hot-take.gif)|
 |hot| ![hot](/emojis/rc/hot.png)|
 |hot_cocoa| ![hot_cocoa](/emojis/rc/hot_cocoa.gif)|
-|hot_garbage| ![hot_garbage](/emojis/rc/hot_garbage.png)|
-|hot_take| ![hot_take](/emojis/rc/hot_take.png)|
-|hot_tea| ![hot_tea](/emojis/rc/hot_tea.png)|
-|hot_topics| ![hot_topics](/emojis/rc/hot_topics.png)|
-|hot_tub| ![hot_tub](/emojis/rc/hot_tub.png)|
-|hotcocoa_dance| ![hotcocoa_dance](/emojis/rc/hotcocoa_dance.gif)|
-|hotdog-cat| ![hotdog-cat](/emojis/rc/hotdog-cat.png)|
-|hotdog-sloth| ![hotdog-sloth](/emojis/rc/hotdog-sloth.png)|
-|hotleafjuice| ![hotleafjuice](/emojis/rc/hotleafjuice.png)|
-|hotter-take| ![hotter-take](/emojis/rc/hotter-take.png)|
-|hotwire| ![hotwire](/emojis/rc/hotwire.jpg)|
-|hourglass-2| ![hourglass-2](/emojis/rc/hourglass-2.png)|
-|hourglass-flip| ![hourglass-flip](/emojis/rc/hourglass-flip.gif)|
-|hourglass-tick-tock| ![hourglass-tick-tock](/emojis/rc/hourglass-tick-tock.gif)|
-|hover_cat| ![hover_cat](/emojis/rc/hover_cat.gif)|
 
 <hr/>
 

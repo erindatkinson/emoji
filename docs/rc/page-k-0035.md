@@ -8,6 +8,23 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|kholio| ![kholio](/emojis/rc/kholio.jpg)|
+|kick-me_sign| ![kick-me_sign](/emojis/rc/kick-me_sign.gif)|
+|kick| ![kick](/emojis/rc/kick.png)|
+|kickcomputerq| ![kickcomputerq](/emojis/rc/kickcomputerq.gif)|
+|kid-canary| ![kid-canary](/emojis/rc/kid-canary.png)|
+|kid-drop-off| ![kid-drop-off](/emojis/rc/kid-drop-off.png)|
+|kidcanary| ![kidcanary](/emojis/rc/kidcanary.jpg)|
+|kids| ![kids](/emojis/rc/kids.png)|
+|kier-eagan| ![kier-eagan](/emojis/rc/kier-eagan.png)|
+|kiki| ![kiki](/emojis/rc/kiki.gif)|
+|killitwithfire| ![killitwithfire](/emojis/rc/killitwithfire.gif)|
+|kimjongun| ![kimjongun](/emojis/rc/kimjongun.jpg)|
+|kindasus| ![kindasus](/emojis/rc/kindasus.png)|
+|king| ![king](/emojis/rc/king.png)|
+|king_robbie| ![king_robbie](/emojis/rc/king_robbie.png)|
+|kingsumo| ![kingsumo](/emojis/rc/kingsumo.jpg)|
+|kirby-sweat| ![kirby-sweat](/emojis/rc/kirby-sweat.png)|
 |kirby| ![kirby](/emojis/rc/kirby.gif)|
 |kirby_agree| ![kirby_agree](/emojis/rc/kirby_agree.png)|
 |kirby_angy_sit| ![kirby_angy_sit](/emojis/rc/kirby_angy_sit.png)|
@@ -57,6 +74,7 @@
 |kotor| ![kotor](/emojis/rc/kotor.png)|
 |kraken| ![kraken](/emojis/rc/kraken.png)|
 |kritten| ![kritten](/emojis/rc/kritten.png)|
+|kroll-sucks| ![kroll-sucks](/emojis/rc/kroll-sucks.jpg)|
 |kronk| ![kronk](/emojis/rc/kronk.png)|
 |kropotkin| ![kropotkin](/emojis/rc/kropotkin.jpg)|
 |krusty-laugh| ![krusty-laugh](/emojis/rc/krusty-laugh.gif)|
@@ -90,24 +108,6 @@
 |late| ![late](/emojis/rc/late.gif)|
 |latte_heart| ![latte_heart](/emojis/rc/latte_heart.png)|
 |lattice| ![lattice](/emojis/rc/lattice.png)|
-|laugh-cry| ![laugh-cry](/emojis/rc/laugh-cry.png)|
-|laugh| ![laugh](/emojis/rc/laugh.gif)|
-|launchpad_mcquack| ![launchpad_mcquack](/emojis/rc/launchpad_mcquack.png)|
-|laurab| ![laurab](/emojis/rc/laurab.png)|
-|laurentotherescue| ![laurentotherescue](/emojis/rc/laurentotherescue.png)|
-|lawd| ![lawd](/emojis/rc/lawd.png)|
-|lawyer-cat| ![lawyer-cat](/emojis/rc/lawyer-cat.jpg)|
-|layerx| ![layerx](/emojis/rc/layerx.png)|
-|lazy-susie| ![lazy-susie](/emojis/rc/lazy-susie.png)|
-|lazymode| ![lazymode](/emojis/rc/lazymode.gif)|
-|le-poisson-steve-dance| ![le-poisson-steve-dance](/emojis/rc/le-poisson-steve-dance.gif)|
-|le-poisson-steve-stand| ![le-poisson-steve-stand](/emojis/rc/le-poisson-steve-stand.gif)|
-|leafeon| ![leafeon](/emojis/rc/leafeon.png)|
-|lebowski-car-jam| ![lebowski-car-jam](/emojis/rc/lebowski-car-jam.gif)|
-|ledr-infra-sme| ![ledr-infra-sme](/emojis/rc/ledr-infra-sme.jpg)|
-|ledr| ![ledr](/emojis/rc/ledr.jpg)|
-|leeroy-jenkins| ![leeroy-jenkins](/emojis/rc/leeroy-jenkins.jpg)|
-|left_shark| ![left_shark](/emojis/rc/left_shark.gif)|
 
 <hr/>
 

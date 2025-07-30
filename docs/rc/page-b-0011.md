@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|byefelisha| ![byefelisha](/emojis/rc/byefelisha.jpg)|
+|c3po| ![c3po](/emojis/rc/c3po.png)|
+|cafe-bustelo| ![cafe-bustelo](/emojis/rc/cafe-bustelo.png)|
+|cafesito| ![cafesito](/emojis/rc/cafesito.png)|
+|caffeine| ![caffeine](/emojis/rc/caffeine.png)|
+|cairn| ![cairn](/emojis/rc/cairn.png)|
 |calc| ![calc](/emojis/rc/calc.png)|
 |calcifer| ![calcifer](/emojis/rc/calcifer.gif)|
 |calculated-decision-to-make-tech-debt-and-fix-it-later| ![calculated-decision-to-make-tech-debt-and-fix-it-later](/emojis/rc/calculated-decision-to-make-tech-debt-and-fix-it-later.png)|
@@ -102,12 +108,6 @@
 |cat-five| ![cat-five](/emojis/rc/cat-five.gif)|
 |cat-good| ![cat-good](/emojis/rc/cat-good.gif)|
 |cat-herding| ![cat-herding](/emojis/rc/cat-herding.jpg)|
-|cat-jump-rainbow| ![cat-jump-rainbow](/emojis/rc/cat-jump-rainbow.gif)|
-|cat-money| ![cat-money](/emojis/rc/cat-money.gif)|
-|cat-on-keyboard| ![cat-on-keyboard](/emojis/rc/cat-on-keyboard.png)|
-|cat-roll| ![cat-roll](/emojis/rc/cat-roll.gif)|
-|cat-roomba-exceptionally-fast| ![cat-roomba-exceptionally-fast](/emojis/rc/cat-roomba-exceptionally-fast.gif)|
-|cat-roomba-slow| ![cat-roomba-slow](/emojis/rc/cat-roomba-slow.gif)|
 
 <hr/>
 

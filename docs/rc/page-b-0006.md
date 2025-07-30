@@ -8,6 +8,9 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bambam| ![bambam](/emojis/rc/bambam.png)|
+|banana-burn| ![banana-burn](/emojis/rc/banana-burn.gif)|
+|banana-dance| ![banana-dance](/emojis/rc/banana-dance.gif)|
 |bananadance| ![bananadance](/emojis/rc/bananadance.gif)|
 |bandcamp-friday-yes| ![bandcamp-friday-yes](/emojis/rc/bandcamp-friday-yes.gif)|
 |bandit-gotta-be-done| ![bandit-gotta-be-done](/emojis/rc/bandit-gotta-be-done.png)|
@@ -47,6 +50,7 @@
 |basset-hound| ![basset-hound](/emojis/rc/basset-hound.png)|
 |bassface| ![bassface](/emojis/rc/bassface.png)|
 |bassface_party| ![bassface_party](/emojis/rc/bassface_party.gif)|
+|bastard| ![bastard](/emojis/rc/bastard.png)|
 |bat-signal| ![bat-signal](/emojis/rc/bat-signal.png)|
 |bat_signal| ![bat_signal](/emojis/rc/bat_signal.gif)|
 |batman-tattoo| ![batman-tattoo](/emojis/rc/batman-tattoo.png)|
@@ -104,10 +108,6 @@
 |benji| ![benji](/emojis/rc/benji.png)|
 |bent| ![bent](/emojis/rc/bent.png)|
 |bequiet| ![bequiet](/emojis/rc/bequiet.gif)|
-|beret_parrot| ![beret_parrot](/emojis/rc/beret_parrot.gif)|
-|bernstein-bears| ![bernstein-bears](/emojis/rc/bernstein-bears.png)|
-|besafe| ![besafe](/emojis/rc/besafe.png)|
-|bestfriends| ![bestfriends](/emojis/rc/bestfriends.gif)|
 
 <hr/>
 

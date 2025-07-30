@@ -8,6 +8,36 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|reddit| ![reddit](/emojis/rc/reddit.png)|
+|redflag| ![redflag](/emojis/rc/redflag.png)|
+|redis| ![redis](/emojis/rc/redis.gif)|
+|redo| ![redo](/emojis/rc/redo.png)|
+|redpanda-wave| ![redpanda-wave](/emojis/rc/redpanda-wave.gif)|
+|reds| ![reds](/emojis/rc/reds.png)|
+|redwings| ![redwings](/emojis/rc/redwings.png)|
+|reel| ![reel](/emojis/rc/reel.jpg)|
+|refactored-taco| ![refactored-taco](/emojis/rc/refactored-taco.png)|
+|regex-blood-sob| ![regex-blood-sob](/emojis/rc/regex-blood-sob.png)|
+|regex-ghost| ![regex-ghost](/emojis/rc/regex-ghost.png)|
+|regex-party| ![regex-party](/emojis/rc/regex-party.gif)|
+|regex-sob| ![regex-sob](/emojis/rc/regex-sob.png)|
+|regex-technologist| ![regex-technologist](/emojis/rc/regex-technologist.png)|
+|regex| ![regex](/emojis/rc/regex.png)|
+|reggie| ![reggie](/emojis/rc/reggie.jpg)|
+|reggiemiller| ![reggiemiller](/emojis/rc/reggiemiller.jpg)|
+|regina| ![regina](/emojis/rc/regina.jpg)|
+|reimage| ![reimage](/emojis/rc/reimage.png)|
+|reject_taylor| ![reject_taylor](/emojis/rc/reject_taylor.png)|
+|rekt| ![rekt](/emojis/rc/rekt.gif)|
+|relatable| ![relatable](/emojis/rc/relatable.png)|
+|relentless| ![relentless](/emojis/rc/relentless.gif)|
+|relevant| ![relevant](/emojis/rc/relevant.png)|
+|reliant_robin| ![reliant_robin](/emojis/rc/reliant_robin.png)|
+|reload| ![reload](/emojis/rc/reload.jpg)|
+|relocating| ![relocating](/emojis/rc/relocating.png)|
+|remediated-by-customer| ![remediated-by-customer](/emojis/rc/remediated-by-customer.png)|
+|reminder-bubble| ![reminder-bubble](/emojis/rc/reminder-bubble.gif)|
+|reminder| ![reminder](/emojis/rc/reminder.png)|
 |remote| ![remote](/emojis/rc/remote.png)|
 |report| ![report](/emojis/rc/report.png)|
 |reported| ![reported](/emojis/rc/reported.png)|
@@ -78,36 +108,6 @@
 |rockybalboa| ![rockybalboa](/emojis/rc/rockybalboa.jpg)|
 |roflcopter| ![roflcopter](/emojis/rc/roflcopter.gif)|
 |roger-roger| ![roger-roger](/emojis/rc/roger-roger.png)|
-|roger| ![roger](/emojis/rc/roger.png)|
-|roger_roger| ![roger_roger](/emojis/rc/roger_roger.jpg)|
-|rogue| ![rogue](/emojis/rc/rogue.gif)|
-|roll-for-initiative| ![roll-for-initiative](/emojis/rc/roll-for-initiative.gif)|
-|roll-tide| ![roll-tide](/emojis/rc/roll-tide.png)|
-|roller-coaster| ![roller-coaster](/emojis/rc/roller-coaster.gif)|
-|roller_coaster_down| ![roller_coaster_down](/emojis/rc/roller_coaster_down.png)|
-|rollerblade| ![rollerblade](/emojis/rc/rollerblade.png)|
-|rolling-ball| ![rolling-ball](/emojis/rc/rolling-ball.gif)|
-|rolling-bb8| ![rolling-bb8](/emojis/rc/rolling-bb8.gif)|
-|rondayne| ![rondayne](/emojis/rc/rondayne.jpg)|
-|roo-coffee| ![roo-coffee](/emojis/rc/roo-coffee.gif)|
-|roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up| ![roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up](/emojis/rc/roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up.png)|
-|rooaww| ![rooaww](/emojis/rc/rooaww.png)|
-|roomba-fast| ![roomba-fast](/emojis/rc/roomba-fast.gif)|
-|roomba-too-fast| ![roomba-too-fast](/emojis/rc/roomba-too-fast.gif)|
-|roomba| ![roomba](/emojis/rc/roomba.png)|
-|rooredbutton| ![rooredbutton](/emojis/rc/rooredbutton.gif)|
-|roosad| ![roosad](/emojis/rc/roosad.png)|
-|roscoe| ![roscoe](/emojis/rc/roscoe.png)|
-|rose-wine| ![rose-wine](/emojis/rc/rose-wine.png)|
-|rose_flamingo| ![rose_flamingo](/emojis/rc/rose_flamingo.png)|
-|rosebud| ![rosebud](/emojis/rc/rosebud.png)|
-|rosietheriveter| ![rosietheriveter](/emojis/rc/rosietheriveter.jpg)|
-|rotflmao| ![rotflmao](/emojis/rc/rotflmao.gif)|
-|rothe_meets_world| ![rothe_meets_world](/emojis/rc/rothe_meets_world.png)|
-|roulette| ![roulette](/emojis/rc/roulette.gif)|
-|roundhouse_russ| ![roundhouse_russ](/emojis/rc/roundhouse_russ.png)|
-|roy-kent| ![roy-kent](/emojis/rc/roy-kent.png)|
-|rsa| ![rsa](/emojis/rc/rsa.png)|
 
 <hr/>
 

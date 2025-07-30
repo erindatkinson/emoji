@@ -8,6 +8,12 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|conspiracy| ![conspiracy](/emojis/rc/conspiracy.gif)|
+|construction-matt| ![construction-matt](/emojis/rc/construction-matt.png)|
+|construction_canary| ![construction_canary](/emojis/rc/construction_canary.gif)|
+|context_magnified| ![context_magnified](/emojis/rc/context_magnified.jpg)|
+|coo-coo-coo| ![coo-coo-coo](/emojis/rc/coo-coo-coo.png)|
+|coo| ![coo](/emojis/rc/coo.gif)|
 |cookie-jar| ![cookie-jar](/emojis/rc/cookie-jar.png)|
 |cookie-monster| ![cookie-monster](/emojis/rc/cookie-monster.jpg)|
 |cookie_monster| ![cookie_monster](/emojis/rc/cookie_monster.png)|
@@ -102,12 +108,6 @@
 |crickets| ![crickets](/emojis/rc/crickets.png)|
 |crime| ![crime](/emojis/rc/crime.jpg)|
 |criminal| ![criminal](/emojis/rc/criminal.jpg)|
-|cringe| ![cringe](/emojis/rc/cringe.png)|
-|crisp| ![crisp](/emojis/rc/crisp.gif)|
-|critical-failure| ![critical-failure](/emojis/rc/critical-failure.png)|
-|critical-success| ![critical-success](/emojis/rc/critical-success.png)|
-|crocs| ![crocs](/emojis/rc/crocs.png)|
-|crosshair| ![crosshair](/emojis/rc/crosshair.png)|
 
 <hr/>
 

@@ -8,6 +8,37 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|scope-fire| ![scope-fire](/emojis/rc/scope-fire.png)|
+|scope| ![scope](/emojis/rc/scope.png)|
+|scorpian| ![scorpian](/emojis/rc/scorpian.gif)|
+|scotch| ![scotch](/emojis/rc/scotch.png)|
+|scotch_rocks| ![scotch_rocks](/emojis/rc/scotch_rocks.png)|
+|scott_hand| ![scott_hand](/emojis/rc/scott_hand.png)|
+|scrat_cray| ![scrat_cray](/emojis/rc/scrat_cray.jpg)|
+|scream-into-the-void| ![scream-into-the-void](/emojis/rc/scream-into-the-void.gif)|
+|scream-old| ![scream-old](/emojis/rc/scream-old.gif)|
+|screaming-blob| ![screaming-blob](/emojis/rc/screaming-blob.gif)|
+|screaming-sun| ![screaming-sun](/emojis/rc/screaming-sun.png)|
+|screaming_sun| ![screaming_sun](/emojis/rc/screaming_sun.jpg)|
+|screen-shot-2021-03-10-at-35438-pm| ![screen-shot-2021-03-10-at-35438-pm](/emojis/rc/screen-shot-2021-03-10-at-35438-pm.png)|
+|screen-shot-2021-05-12-at-41923-pm| ![screen-shot-2021-05-12-at-41923-pm](/emojis/rc/screen-shot-2021-05-12-at-41923-pm.png)|
+|screen-shot-2022-05-31-at-10325-pm| ![screen-shot-2022-05-31-at-10325-pm](/emojis/rc/screen-shot-2022-05-31-at-10325-pm.png)|
+|screen-shot-2022-08-10-at-104954-am| ![screen-shot-2022-08-10-at-104954-am](/emojis/rc/screen-shot-2022-08-10-at-104954-am.png)|
+|screenshot-2021-01-06-at-123322-pm| ![screenshot-2021-01-06-at-123322-pm](/emojis/rc/screenshot-2021-01-06-at-123322-pm.png)|
+|screenshot-2021-01-20-at-93943-am| ![screenshot-2021-01-20-at-93943-am](/emojis/rc/screenshot-2021-01-20-at-93943-am.png)|
+|screenshot-2023-02-27-at-44326-pm| ![screenshot-2023-02-27-at-44326-pm](/emojis/rc/screenshot-2023-02-27-at-44326-pm.png)|
+|screenshot-2025-03-17-at-33914-pm| ![screenshot-2025-03-17-at-33914-pm](/emojis/rc/screenshot-2025-03-17-at-33914-pm.png)|
+|scrooge_mcduck| ![scrooge_mcduck](/emojis/rc/scrooge_mcduck.jpg)|
+|scss| ![scss](/emojis/rc/scss.png)|
+|scug| ![scug](/emojis/rc/scug.png)|
+|scylladb| ![scylladb](/emojis/rc/scylladb.png)|
+|scythe| ![scythe](/emojis/rc/scythe.png)|
+|se_added_to_highspot| ![se_added_to_highspot](/emojis/rc/se_added_to_highspot.gif)|
+|sea-otter| ![sea-otter](/emojis/rc/sea-otter.png)|
+|sea-slug-01| ![sea-slug-01](/emojis/rc/sea-slug-01.png)|
+|sea-slug-02| ![sea-slug-02](/emojis/rc/sea-slug-02.png)|
+|sea-slug-03| ![sea-slug-03](/emojis/rc/sea-slug-03.png)|
+|sea-slug-04| ![sea-slug-04](/emojis/rc/sea-slug-04.png)|
 |sea-slug-05| ![sea-slug-05](/emojis/rc/sea-slug-05.png)|
 |sea-slug-06| ![sea-slug-06](/emojis/rc/sea-slug-06.png)|
 |sea-slug-07| ![sea-slug-07](/emojis/rc/sea-slug-07.png)|
@@ -77,37 +108,6 @@
 |seriously_uncomfortable| ![seriously_uncomfortable](/emojis/rc/seriously_uncomfortable.png)|
 |serioussocgoulash| ![serioussocgoulash](/emojis/rc/serioussocgoulash.jpg)|
 |server| ![server](/emojis/rc/server.png)|
-|service-now-intensifies| ![service-now-intensifies](/emojis/rc/service-now-intensifies.gif)|
-|service-now| ![service-now](/emojis/rc/service-now.png)|
-|servicenow-intensify| ![servicenow-intensify](/emojis/rc/servicenow-intensify.gif)|
-|servicenow| ![servicenow](/emojis/rc/servicenow.png)|
-|several-people-are-typing| ![several-people-are-typing](/emojis/rc/several-people-are-typing.gif)|
-|sh_full| ![sh_full](/emojis/rc/sh_full.png)|
-|sha1| ![sha1](/emojis/rc/sha1.jpg)|
-|shadow| ![shadow](/emojis/rc/shadow.jpg)|
-|shady-zach| ![shady-zach](/emojis/rc/shady-zach.png)|
-|shady| ![shady](/emojis/rc/shady.jpg)|
-|shai_hulud| ![shai_hulud](/emojis/rc/shai_hulud.png)|
-|shaka1| ![shaka1](/emojis/rc/shaka1.png)|
-|shake| ![shake](/emojis/rc/shake.gif)|
-|shakecat| ![shakecat](/emojis/rc/shakecat.gif)|
-|shakes-fist-at-apple| ![shakes-fist-at-apple](/emojis/rc/shakes-fist-at-apple.png)|
-|shakes-fist-at-vscode| ![shakes-fist-at-vscode](/emojis/rc/shakes-fist-at-vscode.png)|
-|shakes_fist| ![shakes_fist](/emojis/rc/shakes_fist.gif)|
-|shall-not-pass| ![shall-not-pass](/emojis/rc/shall-not-pass.png)|
-|shame| ![shame](/emojis/rc/shame.png)|
-|shame_wizard| ![shame_wizard](/emojis/rc/shame_wizard.png)|
-|shamwow-approved| ![shamwow-approved](/emojis/rc/shamwow-approved.png)|
-|shamwow-fluffy| ![shamwow-fluffy](/emojis/rc/shamwow-fluffy.png)|
-|shamwow| ![shamwow](/emojis/rc/shamwow.jpg)|
-|shane| ![shane](/emojis/rc/shane.jpg)|
-|sharebear| ![sharebear](/emojis/rc/sharebear.jpg)|
-|sharkbait_brewhaha| ![sharkbait_brewhaha](/emojis/rc/sharkbait_brewhaha.gif)|
-|sharknado| ![sharknado](/emojis/rc/sharknado.png)|
-|shaynelaugh| ![shaynelaugh](/emojis/rc/shaynelaugh.png)|
-|she-bring-you-a-sad| ![she-bring-you-a-sad](/emojis/rc/she-bring-you-a-sad.png)|
-|she-bring-you-happy-goat| ![she-bring-you-happy-goat](/emojis/rc/she-bring-you-happy-goat.gif)|
-|she-bring-you-js-request| ![she-bring-you-js-request](/emojis/rc/she-bring-you-js-request.png)|
 
 <hr/>
 

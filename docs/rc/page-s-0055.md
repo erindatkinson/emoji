@@ -8,6 +8,37 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|sad_liver| ![sad_liver](/emojis/rc/sad_liver.png)|
+|sad_mac| ![sad_mac](/emojis/rc/sad_mac.png)|
+|sad_mark| ![sad_mark](/emojis/rc/sad_mark.png)|
+|sad_no_blob| ![sad_no_blob](/emojis/rc/sad_no_blob.gif)|
+|sad_panda_2| ![sad_panda_2](/emojis/rc/sad_panda_2.png)|
+|sad_parrot| ![sad_parrot](/emojis/rc/sad_parrot.gif)|
+|sad_server| ![sad_server](/emojis/rc/sad_server.png)|
+|sad_slackbot| ![sad_slackbot](/emojis/rc/sad_slackbot.jpg)|
+|sad_taytay| ![sad_taytay](/emojis/rc/sad_taytay.png)|
+|sad_tony| ![sad_tony](/emojis/rc/sad_tony.png)|
+|sad_tooth| ![sad_tooth](/emojis/rc/sad_tooth.png)|
+|sad_tyler| ![sad_tyler](/emojis/rc/sad_tyler.gif)|
+|sadaws| ![sadaws](/emojis/rc/sadaws.gif)|
+|sadbug| ![sadbug](/emojis/rc/sadbug.png)|
+|sadge| ![sadge](/emojis/rc/sadge.gif)|
+|sadgeness| ![sadgeness](/emojis/rc/sadgeness.gif)|
+|sadmac| ![sadmac](/emojis/rc/sadmac.png)|
+|sadslamq| ![sadslamq](/emojis/rc/sadslamq.gif)|
+|sadtrombone| ![sadtrombone](/emojis/rc/sadtrombone.png)|
+|sadyeehaw| ![sadyeehaw](/emojis/rc/sadyeehaw.png)|
+|sailing-ship| ![sailing-ship](/emojis/rc/sailing-ship.png)|
+|sailing_ship| ![sailing_ship](/emojis/rc/sailing_ship.png)|
+|sailor-moon-transformation| ![sailor-moon-transformation](/emojis/rc/sailor-moon-transformation.gif)|
+|sailor_moon| ![sailor_moon](/emojis/rc/sailor_moon.png)|
+|saint-nick| ![saint-nick](/emojis/rc/saint-nick.gif)|
+|salad| ![salad](/emojis/rc/salad.png)|
+|salesforce| ![salesforce](/emojis/rc/salesforce.png)|
+|salesloft-s| ![salesloft-s](/emojis/rc/salesloft-s.png)|
+|salesloft| ![salesloft](/emojis/rc/salesloft.jpg)|
+|salesman_tony| ![salesman_tony](/emojis/rc/salesman_tony.png)|
+|salesops_assemble| ![salesops_assemble](/emojis/rc/salesops_assemble.jpg)|
 |salmon| ![salmon](/emojis/rc/salmon.jpg)|
 |salmon2| ![salmon2](/emojis/rc/salmon2.png)|
 |salt-life| ![salt-life](/emojis/rc/salt-life.png)|
@@ -77,37 +108,6 @@
 |science_parrot| ![science_parrot](/emojis/rc/science_parrot.gif)|
 |scipab| ![scipab](/emojis/rc/scipab.png)|
 |scope-cut| ![scope-cut](/emojis/rc/scope-cut.png)|
-|scope-fire| ![scope-fire](/emojis/rc/scope-fire.png)|
-|scope| ![scope](/emojis/rc/scope.png)|
-|scorpian| ![scorpian](/emojis/rc/scorpian.gif)|
-|scotch| ![scotch](/emojis/rc/scotch.png)|
-|scotch_rocks| ![scotch_rocks](/emojis/rc/scotch_rocks.png)|
-|scott_hand| ![scott_hand](/emojis/rc/scott_hand.png)|
-|scrat_cray| ![scrat_cray](/emojis/rc/scrat_cray.jpg)|
-|scream-into-the-void| ![scream-into-the-void](/emojis/rc/scream-into-the-void.gif)|
-|scream-old| ![scream-old](/emojis/rc/scream-old.gif)|
-|screaming-blob| ![screaming-blob](/emojis/rc/screaming-blob.gif)|
-|screaming-sun| ![screaming-sun](/emojis/rc/screaming-sun.png)|
-|screaming_sun| ![screaming_sun](/emojis/rc/screaming_sun.jpg)|
-|screen-shot-2021-03-10-at-35438-pm| ![screen-shot-2021-03-10-at-35438-pm](/emojis/rc/screen-shot-2021-03-10-at-35438-pm.png)|
-|screen-shot-2021-05-12-at-41923-pm| ![screen-shot-2021-05-12-at-41923-pm](/emojis/rc/screen-shot-2021-05-12-at-41923-pm.png)|
-|screen-shot-2022-05-31-at-10325-pm| ![screen-shot-2022-05-31-at-10325-pm](/emojis/rc/screen-shot-2022-05-31-at-10325-pm.png)|
-|screen-shot-2022-08-10-at-104954-am| ![screen-shot-2022-08-10-at-104954-am](/emojis/rc/screen-shot-2022-08-10-at-104954-am.png)|
-|screenshot-2021-01-06-at-123322-pm| ![screenshot-2021-01-06-at-123322-pm](/emojis/rc/screenshot-2021-01-06-at-123322-pm.png)|
-|screenshot-2021-01-20-at-93943-am| ![screenshot-2021-01-20-at-93943-am](/emojis/rc/screenshot-2021-01-20-at-93943-am.png)|
-|screenshot-2023-02-27-at-44326-pm| ![screenshot-2023-02-27-at-44326-pm](/emojis/rc/screenshot-2023-02-27-at-44326-pm.png)|
-|screenshot-2025-03-17-at-33914-pm| ![screenshot-2025-03-17-at-33914-pm](/emojis/rc/screenshot-2025-03-17-at-33914-pm.png)|
-|scrooge_mcduck| ![scrooge_mcduck](/emojis/rc/scrooge_mcduck.jpg)|
-|scss| ![scss](/emojis/rc/scss.png)|
-|scug| ![scug](/emojis/rc/scug.png)|
-|scylladb| ![scylladb](/emojis/rc/scylladb.png)|
-|scythe| ![scythe](/emojis/rc/scythe.png)|
-|se_added_to_highspot| ![se_added_to_highspot](/emojis/rc/se_added_to_highspot.gif)|
-|sea-otter| ![sea-otter](/emojis/rc/sea-otter.png)|
-|sea-slug-01| ![sea-slug-01](/emojis/rc/sea-slug-01.png)|
-|sea-slug-02| ![sea-slug-02](/emojis/rc/sea-slug-02.png)|
-|sea-slug-03| ![sea-slug-03](/emojis/rc/sea-slug-03.png)|
-|sea-slug-04| ![sea-slug-04](/emojis/rc/sea-slug-04.png)|
 
 <hr/>
 

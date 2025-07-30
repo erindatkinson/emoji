@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|gtg| ![gtg](/emojis/rc/gtg.png)|
+|guacamole| ![guacamole](/emojis/rc/guacamole.png)|
+|guardians| ![guardians](/emojis/rc/guardians.png)|
+|gucci-sandals| ![gucci-sandals](/emojis/rc/gucci-sandals.jpg)|
+|gucci| ![gucci](/emojis/rc/gucci.png)|
+|gucci2| ![gucci2](/emojis/rc/gucci2.png)|
+|gucci_gang| ![gucci_gang](/emojis/rc/gucci_gang.png)|
+|guid| ![guid](/emojis/rc/guid.gif)|
+|guidepoint| ![guidepoint](/emojis/rc/guidepoint.png)|
+|guillotine| ![guillotine](/emojis/rc/guillotine.png)|
+|guilty| ![guilty](/emojis/rc/guilty.gif)|
+|guineapig| ![guineapig](/emojis/rc/guineapig.png)|
+|guinness| ![guinness](/emojis/rc/guinness.png)|
+|guitar-intensifies| ![guitar-intensifies](/emojis/rc/guitar-intensifies.gif)|
+|guitar_acoustic| ![guitar_acoustic](/emojis/rc/guitar_acoustic.png)|
 |gull_scream-right| ![gull_scream-right](/emojis/rc/gull_scream-right.gif)|
 |gull_scream| ![gull_scream](/emojis/rc/gull_scream.gif)|
 |gulped| ![gulped](/emojis/rc/gulped.png)|
@@ -93,21 +108,6 @@
 |happy_adam| ![happy_adam](/emojis/rc/happy_adam.png)|
 |happy_andy| ![happy_andy](/emojis/rc/happy_andy.jpg)|
 |happy_blaine| ![happy_blaine](/emojis/rc/happy_blaine.png)|
-|happy_cordell| ![happy_cordell](/emojis/rc/happy_cordell.png)|
-|happy_dan| ![happy_dan](/emojis/rc/happy_dan.png)|
-|happy_davis| ![happy_davis](/emojis/rc/happy_davis.png)|
-|happy_german| ![happy_german](/emojis/rc/happy_german.png)|
-|happy_jim| ![happy_jim](/emojis/rc/happy_jim.png)|
-|happy_joe| ![happy_joe](/emojis/rc/happy_joe.png)|
-|happy_julie| ![happy_julie](/emojis/rc/happy_julie.png)|
-|happy_keanu| ![happy_keanu](/emojis/rc/happy_keanu.png)|
-|happy_keith| ![happy_keith](/emojis/rc/happy_keith.jpg)|
-|happy_kyle| ![happy_kyle](/emojis/rc/happy_kyle.png)|
-|happy_lauren| ![happy_lauren](/emojis/rc/happy_lauren.png)|
-|happy_mark| ![happy_mark](/emojis/rc/happy_mark.png)|
-|happy_nick| ![happy_nick](/emojis/rc/happy_nick.png)|
-|happy_nicole| ![happy_nicole](/emojis/rc/happy_nicole.png)|
-|happy_oakley| ![happy_oakley](/emojis/rc/happy_oakley.png)|
 
 <hr/>
 

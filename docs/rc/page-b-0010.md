@@ -2,12 +2,18 @@
 ## Emojis (Page 10)
 
 [Previous Page](/docs/rc/page-b-0009.md)
-  | [Next Page](/docs/rc/page-c-0011.md)
+  | [Next Page](/docs/rc/page-b-0011.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|brb_1| ![brb_1](/emojis/rc/brb_1.png)|
+|breadbook| ![breadbook](/emojis/rc/breadbook.png)|
+|break| ![break](/emojis/rc/break.png)|
+|breathing_intensifies_cat| ![breathing_intensifies_cat](/emojis/rc/breathing_intensifies_cat.gif)|
+|brian-bear| ![brian-bear](/emojis/rc/brian-bear.png)|
+|brian-pointing| ![brian-pointing](/emojis/rc/brian-pointing.png)|
 |brian-points| ![brian-points](/emojis/rc/brian-points.png)|
 |brian_disdain| ![brian_disdain](/emojis/rc/brian_disdain.png)|
 |brian_wut| ![brian_wut](/emojis/rc/brian_wut.png)|
@@ -102,14 +108,8 @@
 |byebye| ![byebye](/emojis/rc/byebye.gif)|
 |byebyebye_nsync| ![byebyebye_nsync](/emojis/rc/byebyebye_nsync.gif)|
 |byeeee| ![byeeee](/emojis/rc/byeeee.gif)|
-|byefelisha| ![byefelisha](/emojis/rc/byefelisha.jpg)|
-|c3po| ![c3po](/emojis/rc/c3po.png)|
-|cafe-bustelo| ![cafe-bustelo](/emojis/rc/cafe-bustelo.png)|
-|cafesito| ![cafesito](/emojis/rc/cafesito.png)|
-|caffeine| ![caffeine](/emojis/rc/caffeine.png)|
-|cairn| ![cairn](/emojis/rc/cairn.png)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-b-0009.md)
-  | [Next Page](/docs/rc/page-c-0011.md)
+  | [Next Page](/docs/rc/page-b-0011.md)

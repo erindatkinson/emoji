@@ -8,6 +8,29 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|onestripe| ![onestripe](/emojis/rc/onestripe.jpg)|
+|onthestrugglebus| ![onthestrugglebus](/emojis/rc/onthestrugglebus.png)|
+|onyx-swan| ![onyx-swan](/emojis/rc/onyx-swan.png)|
+|oof-100-intensifies| ![oof-100-intensifies](/emojis/rc/oof-100-intensifies.gif)|
+|oof-100| ![oof-100](/emojis/rc/oof-100.png)|
+|oof-large| ![oof-large](/emojis/rc/oof-large.jpg)|
+|oof| ![oof](/emojis/rc/oof.png)|
+|oof2| ![oof2](/emojis/rc/oof2.gif)|
+|ooo| ![ooo](/emojis/rc/ooo.png)|
+|oooh| ![oooh](/emojis/rc/oooh.gif)|
+|oooo| ![oooo](/emojis/rc/oooo.gif)|
+|ooooh-toy-story| ![ooooh-toy-story](/emojis/rc/ooooh-toy-story.gif)|
+|oops| ![oops](/emojis/rc/oops.png)|
+|ope| ![ope](/emojis/rc/ope.png)|
+|open_air_quote| ![open_air_quote](/emojis/rc/open_air_quote.gif)|
+|open_eye_crying| ![open_eye_crying](/emojis/rc/open_eye_crying.png)|
+|open_eye_crying_laughing| ![open_eye_crying_laughing](/emojis/rc/open_eye_crying_laughing.png)|
+|open_late| ![open_late](/emojis/rc/open_late.jpg)|
+|openai| ![openai](/emojis/rc/openai.png)|
+|openairquotes| ![openairquotes](/emojis/rc/openairquotes.gif)|
+|opensearch| ![opensearch](/emojis/rc/opensearch.png)|
+|opensearch_burn| ![opensearch_burn](/emojis/rc/opensearch_burn.gif)|
+|opossum| ![opossum](/emojis/rc/opossum.png)|
 |oprah-intensifies| ![oprah-intensifies](/emojis/rc/oprah-intensifies.gif)|
 |opsec| ![opsec](/emojis/rc/opsec.png)|
 |opsgenie-blood-sob-on-fire| ![opsgenie-blood-sob-on-fire](/emojis/rc/opsgenie-blood-sob-on-fire.png)|
@@ -85,29 +108,6 @@
 |panic-button| ![panic-button](/emojis/rc/panic-button.gif)|
 |panik| ![panik](/emojis/rc/panik.png)|
 |pansexual-pride| ![pansexual-pride](/emojis/rc/pansexual-pride.png)|
-|paperboy| ![paperboy](/emojis/rc/paperboy.jpg)|
-|papi| ![papi](/emojis/rc/papi.jpg)|
-|paranoid| ![paranoid](/emojis/rc/paranoid.jpg)|
-|paren-excited| ![paren-excited](/emojis/rc/paren-excited.gif)|
-|paren-scroll| ![paren-scroll](/emojis/rc/paren-scroll.gif)|
-|paren| ![paren](/emojis/rc/paren.png)|
-|parental-advisory| ![parental-advisory](/emojis/rc/parental-advisory.png)|
-|parrot_beer| ![parrot_beer](/emojis/rc/parrot_beer.gif)|
-|parrot_burger| ![parrot_burger](/emojis/rc/parrot_burger.gif)|
-|parrot_coffee| ![parrot_coffee](/emojis/rc/parrot_coffee.gif)|
-|parrot_cop| ![parrot_cop](/emojis/rc/parrot_cop.gif)|
-|parrot_darkbeer| ![parrot_darkbeer](/emojis/rc/parrot_darkbeer.gif)|
-|parrot_gentleman| ![parrot_gentleman](/emojis/rc/parrot_gentleman.gif)|
-|parrot_icecream| ![parrot_icecream](/emojis/rc/parrot_icecream.gif)|
-|parrot_pizza| ![parrot_pizza](/emojis/rc/parrot_pizza.gif)|
-|parrot_sad| ![parrot_sad](/emojis/rc/parrot_sad.gif)|
-|parrot_tp| ![parrot_tp](/emojis/rc/parrot_tp.gif)|
-|parrotdad| ![parrotdad](/emojis/rc/parrotdad.gif)|
-|parrott_mustache| ![parrott_mustache](/emojis/rc/parrott_mustache.gif)|
-|parrotwave1| ![parrotwave1](/emojis/rc/parrotwave1.gif)|
-|parrotwave2| ![parrotwave2](/emojis/rc/parrotwave2.gif)|
-|parrotwave3| ![parrotwave3](/emojis/rc/parrotwave3.gif)|
-|parrotwave4| ![parrotwave4](/emojis/rc/parrotwave4.gif)|
 
 <hr/>
 

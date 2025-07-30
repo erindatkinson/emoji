@@ -8,6 +8,28 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|nhl_flames| ![nhl_flames](/emojis/rc/nhl_flames.png)|
+|nhl_flyers| ![nhl_flyers](/emojis/rc/nhl_flyers.gif)|
+|nhl_hurricanes| ![nhl_hurricanes](/emojis/rc/nhl_hurricanes.png)|
+|nhl_islanders| ![nhl_islanders](/emojis/rc/nhl_islanders.png)|
+|nhl_jets| ![nhl_jets](/emojis/rc/nhl_jets.png)|
+|nhl_kings| ![nhl_kings](/emojis/rc/nhl_kings.png)|
+|nhl_knights| ![nhl_knights](/emojis/rc/nhl_knights.png)|
+|nhl_kraken| ![nhl_kraken](/emojis/rc/nhl_kraken.png)|
+|nhl_lightning| ![nhl_lightning](/emojis/rc/nhl_lightning.png)|
+|nhl_maple_leafs| ![nhl_maple_leafs](/emojis/rc/nhl_maple_leafs.png)|
+|nhl_oilers| ![nhl_oilers](/emojis/rc/nhl_oilers.png)|
+|nhl_panthers| ![nhl_panthers](/emojis/rc/nhl_panthers.png)|
+|nhl_penguins| ![nhl_penguins](/emojis/rc/nhl_penguins.png)|
+|nhl_predators| ![nhl_predators](/emojis/rc/nhl_predators.png)|
+|nhl_rangers| ![nhl_rangers](/emojis/rc/nhl_rangers.png)|
+|nhl_red_wings| ![nhl_red_wings](/emojis/rc/nhl_red_wings.png)|
+|nhl_sabres| ![nhl_sabres](/emojis/rc/nhl_sabres.png)|
+|nhl_senators| ![nhl_senators](/emojis/rc/nhl_senators.png)|
+|nhl_sharks| ![nhl_sharks](/emojis/rc/nhl_sharks.png)|
+|nhl_stars| ![nhl_stars](/emojis/rc/nhl_stars.png)|
+|nhl_utah-hockey-club| ![nhl_utah-hockey-club](/emojis/rc/nhl_utah-hockey-club.png)|
+|nhl_wild| ![nhl_wild](/emojis/rc/nhl_wild.png)|
 |nic_angry| ![nic_angry](/emojis/rc/nic_angry.gif)|
 |nic_laugh| ![nic_laugh](/emojis/rc/nic_laugh.gif)|
 |nic_nod| ![nic_nod](/emojis/rc/nic_nod.gif)|
@@ -86,28 +108,6 @@
 |nope| ![nope](/emojis/rc/nope.gif)|
 |nopers| ![nopers](/emojis/rc/nopers.gif)|
 |nopetopus| ![nopetopus](/emojis/rc/nopetopus.gif)|
-|noproblemur| ![noproblemur](/emojis/rc/noproblemur.png)|
-|noprobllama-intensifies| ![noprobllama-intensifies](/emojis/rc/noprobllama-intensifies.gif)|
-|noprobllama| ![noprobllama](/emojis/rc/noprobllama.jpg)|
-|normal_tony| ![normal_tony](/emojis/rc/normal_tony.png)|
-|normtotherescue| ![normtotherescue](/emojis/rc/normtotherescue.jpg)|
-|nosferatu| ![nosferatu](/emojis/rc/nosferatu.png)|
-|nostalgia| ![nostalgia](/emojis/rc/nostalgia.gif)|
-|not-a-crab| ![not-a-crab](/emojis/rc/not-a-crab.png)|
-|not-amused-ian| ![not-amused-ian](/emojis/rc/not-amused-ian.png)|
-|not-amused-todd| ![not-amused-todd](/emojis/rc/not-amused-todd.png)|
-|not-fire| ![not-fire](/emojis/rc/not-fire.png)|
-|not-happy-just-relieved-the-task-is-done| ![not-happy-just-relieved-the-task-is-done](/emojis/rc/not-happy-just-relieved-the-task-is-done.png)|
-|not-i| ![not-i](/emojis/rc/not-i.png)|
-|not-it| ![not-it](/emojis/rc/not-it.png)|
-|not-me| ![not-me](/emojis/rc/not-me.png)|
-|not-shelley| ![not-shelley](/emojis/rc/not-shelley.png)|
-|not-this| ![not-this](/emojis/rc/not-this.gif)|
-|not| ![not](/emojis/rc/not.png)|
-|not_crying| ![not_crying](/emojis/rc/not_crying.jpg)|
-|not_fire| ![not_fire](/emojis/rc/not_fire.jpg)|
-|not_happy_bobby| ![not_happy_bobby](/emojis/rc/not_happy_bobby.png)|
-|not_my_business| ![not_my_business](/emojis/rc/not_my_business.jpg)|
 
 <hr/>
 

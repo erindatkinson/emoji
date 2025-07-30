@@ -8,6 +8,29 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|peace_was_never_an_option| ![peace_was_never_an_option](/emojis/rc/peace_was_never_an_option.png)|
+|peach-intensifies| ![peach-intensifies](/emojis/rc/peach-intensifies.gif)|
+|pear-intensifies| ![pear-intensifies](/emojis/rc/pear-intensifies.gif)|
+|pebkac| ![pebkac](/emojis/rc/pebkac.png)|
+|pecan-pie| ![pecan-pie](/emojis/rc/pecan-pie.jpg)|
+|pee| ![pee](/emojis/rc/pee.png)|
+|peek-a-boo-girvin| ![peek-a-boo-girvin](/emojis/rc/peek-a-boo-girvin.png)|
+|peepo_coffeeq| ![peepo_coffeeq](/emojis/rc/peepo_coffeeq.png)|
+|peepoarrive| ![peepoarrive](/emojis/rc/peepoarrive.png)|
+|peepoclap| ![peepoclap](/emojis/rc/peepoclap.gif)|
+|peepoleave| ![peepoleave](/emojis/rc/peepoleave.gif)|
+|peepolove| ![peepolove](/emojis/rc/peepolove.gif)|
+|peeponotes| ![peeponotes](/emojis/rc/peeponotes.png)|
+|peeporiot| ![peeporiot](/emojis/rc/peeporiot.gif)|
+|peeposhy| ![peeposhy](/emojis/rc/peeposhy.gif)|
+|peeps| ![peeps](/emojis/rc/peeps.png)|
+|peewee-approved| ![peewee-approved](/emojis/rc/peewee-approved.png)|
+|peewee| ![peewee](/emojis/rc/peewee.png)|
+|pegasus| ![pegasus](/emojis/rc/pegasus.gif)|
+|pelican| ![pelican](/emojis/rc/pelican.png)|
+|peloton| ![peloton](/emojis/rc/peloton.png)|
+|pen-vs-sword| ![pen-vs-sword](/emojis/rc/pen-vs-sword.png)|
+|penguin-wave| ![penguin-wave](/emojis/rc/penguin-wave.gif)|
 |penguin_technologist| ![penguin_technologist](/emojis/rc/penguin_technologist.png)|
 |penguin_wave| ![penguin_wave](/emojis/rc/penguin_wave.png)|
 |penguin_wave2| ![penguin_wave2](/emojis/rc/penguin_wave2.gif)|
@@ -85,29 +108,6 @@
 |pi-venturer| ![pi-venturer](/emojis/rc/pi-venturer.png)|
 |pickleball| ![pickleball](/emojis/rc/pickleball.png)|
 |piece-of-sheet| ![piece-of-sheet](/emojis/rc/piece-of-sheet.jpg)|
-|piedpiper| ![piedpiper](/emojis/rc/piedpiper.png)|
-|pig-gong| ![pig-gong](/emojis/rc/pig-gong.gif)|
-|pig-wave| ![pig-wave](/emojis/rc/pig-wave.gif)|
-|pigeon| ![pigeon](/emojis/rc/pigeon.png)|
-|pigeon_dance| ![pigeon_dance](/emojis/rc/pigeon_dance.gif)|
-|piglet-approved| ![piglet-approved](/emojis/rc/piglet-approved.png)|
-|piglet| ![piglet](/emojis/rc/piglet.png)|
-|pikachu| ![pikachu](/emojis/rc/pikachu.png)|
-|pikachu_bounce| ![pikachu_bounce](/emojis/rc/pikachu_bounce.gif)|
-|pikachu_fight| ![pikachu_fight](/emojis/rc/pikachu_fight.gif)|
-|pikachu_wave| ![pikachu_wave](/emojis/rc/pikachu_wave.gif)|
-|pikachu_yeesh| ![pikachu_yeesh](/emojis/rc/pikachu_yeesh.jpg)|
-|pikacool| ![pikacool](/emojis/rc/pikacool.png)|
-|pikahuff| ![pikahuff](/emojis/rc/pikahuff.png)|
-|pikasweat| ![pikasweat](/emojis/rc/pikasweat.gif)|
-|pim| ![pim](/emojis/rc/pim.png)|
-|pinball| ![pinball](/emojis/rc/pinball.gif)|
-|pinball_ball| ![pinball_ball](/emojis/rc/pinball_ball.png)|
-|pinball_left| ![pinball_left](/emojis/rc/pinball_left.gif)|
-|pinball_right| ![pinball_right](/emojis/rc/pinball_right.gif)|
-|pinecone| ![pinecone](/emojis/rc/pinecone.png)|
-|ping-pong| ![ping-pong](/emojis/rc/ping-pong.gif)|
-|pink-goes-with-green| ![pink-goes-with-green](/emojis/rc/pink-goes-with-green.png)|
 
 <hr/>
 

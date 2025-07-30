@@ -8,6 +8,36 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|roger| ![roger](/emojis/rc/roger.png)|
+|roger_roger| ![roger_roger](/emojis/rc/roger_roger.jpg)|
+|rogue| ![rogue](/emojis/rc/rogue.gif)|
+|roll-for-initiative| ![roll-for-initiative](/emojis/rc/roll-for-initiative.gif)|
+|roll-tide| ![roll-tide](/emojis/rc/roll-tide.png)|
+|roller-coaster| ![roller-coaster](/emojis/rc/roller-coaster.gif)|
+|roller_coaster_down| ![roller_coaster_down](/emojis/rc/roller_coaster_down.png)|
+|rollerblade| ![rollerblade](/emojis/rc/rollerblade.png)|
+|rolling-ball| ![rolling-ball](/emojis/rc/rolling-ball.gif)|
+|rolling-bb8| ![rolling-bb8](/emojis/rc/rolling-bb8.gif)|
+|rondayne| ![rondayne](/emojis/rc/rondayne.jpg)|
+|roo-coffee| ![roo-coffee](/emojis/rc/roo-coffee.gif)|
+|roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up| ![roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up](/emojis/rc/roo_cry_but_mirrored_so_it_doesnt_look_like_im_asking_to_be_picked_up.png)|
+|rooaww| ![rooaww](/emojis/rc/rooaww.png)|
+|roomba-fast| ![roomba-fast](/emojis/rc/roomba-fast.gif)|
+|roomba-too-fast| ![roomba-too-fast](/emojis/rc/roomba-too-fast.gif)|
+|roomba| ![roomba](/emojis/rc/roomba.png)|
+|rooredbutton| ![rooredbutton](/emojis/rc/rooredbutton.gif)|
+|roosad| ![roosad](/emojis/rc/roosad.png)|
+|roscoe| ![roscoe](/emojis/rc/roscoe.png)|
+|rose-wine| ![rose-wine](/emojis/rc/rose-wine.png)|
+|rose_flamingo| ![rose_flamingo](/emojis/rc/rose_flamingo.png)|
+|rosebud| ![rosebud](/emojis/rc/rosebud.png)|
+|rosietheriveter| ![rosietheriveter](/emojis/rc/rosietheriveter.jpg)|
+|rotflmao| ![rotflmao](/emojis/rc/rotflmao.gif)|
+|rothe_meets_world| ![rothe_meets_world](/emojis/rc/rothe_meets_world.png)|
+|roulette| ![roulette](/emojis/rc/roulette.gif)|
+|roundhouse_russ| ![roundhouse_russ](/emojis/rc/roundhouse_russ.png)|
+|roy-kent| ![roy-kent](/emojis/rc/roy-kent.png)|
+|rsa| ![rsa](/emojis/rc/rsa.png)|
 |rsa2| ![rsa2](/emojis/rc/rsa2.png)|
 |rsa3| ![rsa3](/emojis/rc/rsa3.png)|
 |rspec-on-fire| ![rspec-on-fire](/emojis/rc/rspec-on-fire.gif)|
@@ -20,6 +50,7 @@
 |rubberduck-intensifies| ![rubberduck-intensifies](/emojis/rc/rubberduck-intensifies.gif)|
 |rubberduck| ![rubberduck](/emojis/rc/rubberduck.png)|
 |rubberstamp| ![rubberstamp](/emojis/rc/rubberstamp.gif)|
+|rube| ![rube](/emojis/rc/rube.png)|
 |rubiks| ![rubiks](/emojis/rc/rubiks.jpg)|
 |rubocop| ![rubocop](/emojis/rc/rubocop.png)|
 |ruby-da| ![ruby-da](/emojis/rc/ruby-da.png)|
@@ -77,37 +108,6 @@
 |sad_eric| ![sad_eric](/emojis/rc/sad_eric.png)|
 |sad_ian| ![sad_ian](/emojis/rc/sad_ian.png)|
 |sad_keith| ![sad_keith](/emojis/rc/sad_keith.jpg)|
-|sad_liver| ![sad_liver](/emojis/rc/sad_liver.png)|
-|sad_mac| ![sad_mac](/emojis/rc/sad_mac.png)|
-|sad_mark| ![sad_mark](/emojis/rc/sad_mark.png)|
-|sad_no_blob| ![sad_no_blob](/emojis/rc/sad_no_blob.gif)|
-|sad_panda_2| ![sad_panda_2](/emojis/rc/sad_panda_2.png)|
-|sad_parrot| ![sad_parrot](/emojis/rc/sad_parrot.gif)|
-|sad_server| ![sad_server](/emojis/rc/sad_server.png)|
-|sad_slackbot| ![sad_slackbot](/emojis/rc/sad_slackbot.jpg)|
-|sad_taytay| ![sad_taytay](/emojis/rc/sad_taytay.png)|
-|sad_tony| ![sad_tony](/emojis/rc/sad_tony.png)|
-|sad_tooth| ![sad_tooth](/emojis/rc/sad_tooth.png)|
-|sad_tyler| ![sad_tyler](/emojis/rc/sad_tyler.gif)|
-|sadaws| ![sadaws](/emojis/rc/sadaws.gif)|
-|sadbug| ![sadbug](/emojis/rc/sadbug.png)|
-|sadge| ![sadge](/emojis/rc/sadge.gif)|
-|sadgeness| ![sadgeness](/emojis/rc/sadgeness.gif)|
-|sadmac| ![sadmac](/emojis/rc/sadmac.png)|
-|sadslamq| ![sadslamq](/emojis/rc/sadslamq.gif)|
-|sadtrombone| ![sadtrombone](/emojis/rc/sadtrombone.png)|
-|sadyeehaw| ![sadyeehaw](/emojis/rc/sadyeehaw.png)|
-|sailing-ship| ![sailing-ship](/emojis/rc/sailing-ship.png)|
-|sailing_ship| ![sailing_ship](/emojis/rc/sailing_ship.png)|
-|sailor-moon-transformation| ![sailor-moon-transformation](/emojis/rc/sailor-moon-transformation.gif)|
-|sailor_moon| ![sailor_moon](/emojis/rc/sailor_moon.png)|
-|saint-nick| ![saint-nick](/emojis/rc/saint-nick.gif)|
-|salad| ![salad](/emojis/rc/salad.png)|
-|salesforce| ![salesforce](/emojis/rc/salesforce.png)|
-|salesloft-s| ![salesloft-s](/emojis/rc/salesloft-s.png)|
-|salesloft| ![salesloft](/emojis/rc/salesloft.jpg)|
-|salesman_tony| ![salesman_tony](/emojis/rc/salesman_tony.png)|
-|salesops_assemble| ![salesops_assemble](/emojis/rc/salesops_assemble.jpg)|
 
 <hr/>
 

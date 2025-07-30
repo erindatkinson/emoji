@@ -2,12 +2,50 @@
 ## Emojis (Page 68)
 
 [Previous Page](/docs/rc/page-t-0067.md)
-  | [Next Page](/docs/rc/page-u-0069.md)
+  | [Next Page](/docs/rc/page-t-0069.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|tombrady| ![tombrady](/emojis/rc/tombrady.png)|
+|tommyboy| ![tommyboy](/emojis/rc/tommyboy.jpg)|
+|tomnook| ![tomnook](/emojis/rc/tomnook.png)|
+|tomorrow| ![tomorrow](/emojis/rc/tomorrow.png)|
+|tongue_out_sailormoon| ![tongue_out_sailormoon](/emojis/rc/tongue_out_sailormoon.jpg)|
+|toni| ![toni](/emojis/rc/toni.png)|
+|tonton_shrug| ![tonton_shrug](/emojis/rc/tonton_shrug.gif)|
+|tony| ![tony](/emojis/rc/tony.png)|
+|toné| ![toné](/emojis/rc/toné.png)|
+|too-real| ![too-real](/emojis/rc/too-real.png)|
+|too-soon| ![too-soon](/emojis/rc/too-soon.png)|
+|too_damn_high| ![too_damn_high](/emojis/rc/too_damn_high.png)|
+|too_many_cooks| ![too_many_cooks](/emojis/rc/too_many_cooks.png)|
+|toodles| ![toodles](/emojis/rc/toodles.jpg)|
+|tool-time| ![tool-time](/emojis/rc/tool-time.png)|
+|toothless-dance| ![toothless-dance](/emojis/rc/toothless-dance.gif)|
+|top-b| ![top-b](/emojis/rc/top-b.png)|
+|top_desu| ![top_desu](/emojis/rc/top_desu.jpg)|
+|topsecret| ![topsecret](/emojis/rc/topsecret.png)|
+|tor-network| ![tor-network](/emojis/rc/tor-network.png)|
+|tortellini| ![tortellini](/emojis/rc/tortellini.jpg)|
+|totes| ![totes](/emojis/rc/totes.gif)|
+|totes_mcgoats| ![totes_mcgoats](/emojis/rc/totes_mcgoats.jpg)|
+|totesmagoats| ![totesmagoats](/emojis/rc/totesmagoats.gif)|
+|totoro| ![totoro](/emojis/rc/totoro.gif)|
+|touch_grass| ![touch_grass](/emojis/rc/touch_grass.png)|
+|touchgrass| ![touchgrass](/emojis/rc/touchgrass.jpg)|
+|tourguide_keith| ![tourguide_keith](/emojis/rc/tourguide_keith.png)|
+|tow_truck| ![tow_truck](/emojis/rc/tow_truck.png)|
+|towel| ![towel](/emojis/rc/towel.png)|
+|toxic| ![toxic](/emojis/rc/toxic.png)|
+|tp| ![tp](/emojis/rc/tp.png)|
+|tp_under| ![tp_under](/emojis/rc/tp_under.jpg)|
+|tps-report| ![tps-report](/emojis/rc/tps-report.png)|
+|trainwreck| ![trainwreck](/emojis/rc/trainwreck.jpg)|
+|trans-gopher| ![trans-gopher](/emojis/rc/trans-gopher.png)|
+|trans-pride| ![trans-pride](/emojis/rc/trans-pride.png)|
+|trans_fist-intensifies| ![trans_fist-intensifies](/emojis/rc/trans_fist-intensifies.gif)|
 |trans_gopher-intensifies| ![trans_gopher-intensifies](/emojis/rc/trans_gopher-intensifies.gif)|
 |trans_heart-intensifies| ![trans_heart-intensifies](/emojis/rc/trans_heart-intensifies.gif)|
 |trans_jupiter| ![trans_jupiter](/emojis/rc/trans_jupiter.png)|
@@ -45,6 +83,7 @@
 |troll-dance| ![troll-dance](/emojis/rc/troll-dance.gif)|
 |troll-parrot| ![troll-parrot](/emojis/rc/troll-parrot.gif)|
 |troll_parrot| ![troll_parrot](/emojis/rc/troll_parrot.gif)|
+|trollface| ![trollface](/emojis/rc/trollface.png)|
 |trollol| ![trollol](/emojis/rc/trollol.png)|
 |trollterm| ![trollterm](/emojis/rc/trollterm.png)|
 |tron| ![tron](/emojis/rc/tron.jpg)|
@@ -69,47 +108,8 @@
 |tuning-fork| ![tuning-fork](/emojis/rc/tuning-fork.png)|
 |tuning| ![tuning](/emojis/rc/tuning.png)|
 |tuple| ![tuple](/emojis/rc/tuple.png)|
-|turbofish| ![turbofish](/emojis/rc/turbofish.gif)|
-|turkey_dance| ![turkey_dance](/emojis/rc/turkey_dance.gif)|
-|turnip-approved| ![turnip-approved](/emojis/rc/turnip-approved.png)|
-|turt| ![turt](/emojis/rc/turt.gif)|
-|turtle-dove| ![turtle-dove](/emojis/rc/turtle-dove.png)|
-|turtle-goodnight| ![turtle-goodnight](/emojis/rc/turtle-goodnight.png)|
-|turtle-pride| ![turtle-pride](/emojis/rc/turtle-pride.png)|
-|turtle-stack| ![turtle-stack](/emojis/rc/turtle-stack.png)|
-|turtles-all-the-way-down-explosion| ![turtles-all-the-way-down-explosion](/emojis/rc/turtles-all-the-way-down-explosion.gif)|
-|turtles-all-the-way-down| ![turtles-all-the-way-down](/emojis/rc/turtles-all-the-way-down.gif)|
-|turtles-all-the-way-up| ![turtles-all-the-way-up](/emojis/rc/turtles-all-the-way-up.gif)|
-|turtles_all_the_way| ![turtles_all_the_way](/emojis/rc/turtles_all_the_way.jpg)|
-|turtles_all_the_way_down| ![turtles_all_the_way_down](/emojis/rc/turtles_all_the_way_down.jpg)|
-|tux| ![tux](/emojis/rc/tux.png)|
-|tuxedo-mask| ![tuxedo-mask](/emojis/rc/tuxedo-mask.gif)|
-|twilight_sparkle| ![twilight_sparkle](/emojis/rc/twilight_sparkle.png)|
-|twinkie| ![twinkie](/emojis/rc/twinkie.png)|
-|twins| ![twins](/emojis/rc/twins.png)|
-|twins_parrot| ![twins_parrot](/emojis/rc/twins_parrot.gif)|
-|twitch| ![twitch](/emojis/rc/twitch.png)|
-|twitter| ![twitter](/emojis/rc/twitter.png)|
-|two-birds-one-stone| ![two-birds-one-stone](/emojis/rc/two-birds-one-stone.png)|
-|two-cents-cad| ![two-cents-cad](/emojis/rc/two-cents-cad.png)|
-|two-cents| ![two-cents](/emojis/rc/two-cents.png)|
-|two-thumbs-up| ![two-thumbs-up](/emojis/rc/two-thumbs-up.png)|
-|two_coffees| ![two_coffees](/emojis/rc/two_coffees.png)|
-|two_ferns| ![two_ferns](/emojis/rc/two_ferns.jpg)|
-|ty| ![ty](/emojis/rc/ty.png)|
-|typewriter| ![typewriter](/emojis/rc/typewriter.gif)|
-|typing_taylor| ![typing_taylor](/emojis/rc/typing_taylor.png)|
-|typingcat| ![typingcat](/emojis/rc/typingcat.gif)|
-|typingishard| ![typingishard](/emojis/rc/typingishard.gif)|
-|tyreek-hill| ![tyreek-hill](/emojis/rc/tyreek-hill.png)|
-|u-welcome| ![u-welcome](/emojis/rc/u-welcome.png)|
-|u2| ![u2](/emojis/rc/u2.png)|
-|ubiquiti| ![ubiquiti](/emojis/rc/ubiquiti.png)|
-|ugh-yum| ![ugh-yum](/emojis/rc/ugh-yum.gif)|
-|ugh_minion| ![ugh_minion](/emojis/rc/ugh_minion.png)|
-|uhaul| ![uhaul](/emojis/rc/uhaul.png)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-t-0067.md)
-  | [Next Page](/docs/rc/page-u-0069.md)
+  | [Next Page](/docs/rc/page-t-0069.md)

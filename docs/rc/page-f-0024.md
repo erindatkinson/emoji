@@ -8,6 +8,18 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|frozen_tony| ![frozen_tony](/emojis/rc/frozen_tony.png)|
+|frozone| ![frozone](/emojis/rc/frozone.png)|
+|fry-squint| ![fry-squint](/emojis/rc/fry-squint.jpg)|
+|fry| ![fry](/emojis/rc/fry.png)|
+|fsjal-link| ![fsjal-link](/emojis/rc/fsjal-link.png)|
+|fsm| ![fsm](/emojis/rc/fsm.jpg)|
+|ftp| ![ftp](/emojis/rc/ftp.png)|
+|fu| ![fu](/emojis/rc/fu.png)|
+|fuchsia_honeybadger| ![fuchsia_honeybadger](/emojis/rc/fuchsia_honeybadger.jpg)|
+|fud| ![fud](/emojis/rc/fud.gif)|
+|full-garfield| ![full-garfield](/emojis/rc/full-garfield.png)|
+|full_speed_ahead| ![full_speed_ahead](/emojis/rc/full_speed_ahead.png)|
 |fun-sb| ![fun-sb](/emojis/rc/fun-sb.png)|
 |fun| ![fun](/emojis/rc/fun.png)|
 |fun2| ![fun2](/emojis/rc/fun2.gif)|
@@ -96,18 +108,6 @@
 |git'em| ![git'em](/emojis/rc/git'em.gif)|
 |git-bisect| ![git-bisect](/emojis/rc/git-bisect.png)|
 |git-blame| ![git-blame](/emojis/rc/git-blame.png)|
-|git-gud| ![git-gud](/emojis/rc/git-gud.jpg)|
-|git-lfs| ![git-lfs](/emojis/rc/git-lfs.png)|
-|git-merge| ![git-merge](/emojis/rc/git-merge.png)|
-|git-merged| ![git-merged](/emojis/rc/git-merged.png)|
-|gitche-gumee| ![gitche-gumee](/emojis/rc/gitche-gumee.png)|
-|github-actions-intensifies| ![github-actions-intensifies](/emojis/rc/github-actions-intensifies.gif)|
-|github-actions-party| ![github-actions-party](/emojis/rc/github-actions-party.gif)|
-|github-blood-sob| ![github-blood-sob](/emojis/rc/github-blood-sob.png)|
-|github-da| ![github-da](/emojis/rc/github-da.png)|
-|github-intensifies| ![github-intensifies](/emojis/rc/github-intensifies.gif)|
-|github-loading| ![github-loading](/emojis/rc/github-loading.gif)|
-|github-party| ![github-party](/emojis/rc/github-party.gif)|
 
 <hr/>
 

@@ -8,6 +8,9 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|avoca-da| ![avoca-da](/emojis/rc/avoca-da.png)|
+|avocado-cry-sadcado| ![avocado-cry-sadcado](/emojis/rc/avocado-cry-sadcado.png)|
+|avocado-toast| ![avocado-toast](/emojis/rc/avocado-toast.png)|
 |avocorn| ![avocorn](/emojis/rc/avocorn.png)|
 |avoctopus| ![avoctopus](/emojis/rc/avoctopus.png)|
 |avolove| ![avolove](/emojis/rc/avolove.png)|
@@ -105,9 +108,6 @@
 |ballet2| ![ballet2](/emojis/rc/ballet2.gif)|
 |ballet3| ![ballet3](/emojis/rc/ballet3.gif)|
 |ballmer-hype| ![ballmer-hype](/emojis/rc/ballmer-hype.gif)|
-|bambam| ![bambam](/emojis/rc/bambam.png)|
-|banana-burn| ![banana-burn](/emojis/rc/banana-burn.gif)|
-|banana-dance| ![banana-dance](/emojis/rc/banana-dance.gif)|
 
 <hr/>
 

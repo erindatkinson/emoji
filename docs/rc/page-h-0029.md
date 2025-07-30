@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|happy_cordell| ![happy_cordell](/emojis/rc/happy_cordell.png)|
+|happy_dan| ![happy_dan](/emojis/rc/happy_dan.png)|
+|happy_davis| ![happy_davis](/emojis/rc/happy_davis.png)|
+|happy_german| ![happy_german](/emojis/rc/happy_german.png)|
+|happy_jim| ![happy_jim](/emojis/rc/happy_jim.png)|
+|happy_joe| ![happy_joe](/emojis/rc/happy_joe.png)|
+|happy_julie| ![happy_julie](/emojis/rc/happy_julie.png)|
+|happy_keanu| ![happy_keanu](/emojis/rc/happy_keanu.png)|
+|happy_keith| ![happy_keith](/emojis/rc/happy_keith.jpg)|
+|happy_kyle| ![happy_kyle](/emojis/rc/happy_kyle.png)|
+|happy_lauren| ![happy_lauren](/emojis/rc/happy_lauren.png)|
+|happy_mark| ![happy_mark](/emojis/rc/happy_mark.png)|
+|happy_nick| ![happy_nick](/emojis/rc/happy_nick.png)|
+|happy_nicole| ![happy_nicole](/emojis/rc/happy_nicole.png)|
+|happy_oakley| ![happy_oakley](/emojis/rc/happy_oakley.png)|
 |happy_panda| ![happy_panda](/emojis/rc/happy_panda.png)|
 |happy_podber| ![happy_podber](/emojis/rc/happy_podber.png)|
 |happy_russ| ![happy_russ](/emojis/rc/happy_russ.png)|
@@ -93,21 +108,6 @@
 |hello-dino| ![hello-dino](/emojis/rc/hello-dino.gif)|
 |hello-inigo-montoya| ![hello-inigo-montoya](/emojis/rc/hello-inigo-montoya.gif)|
 |hello-jump| ![hello-jump](/emojis/rc/hello-jump.gif)|
-|hello-sprout| ![hello-sprout](/emojis/rc/hello-sprout.gif)|
-|hello-there| ![hello-there](/emojis/rc/hello-there.gif)|
-|hello| ![hello](/emojis/rc/hello.png)|
-|hello_dave| ![hello_dave](/emojis/rc/hello_dave.png)|
-|hellokitty| ![hellokitty](/emojis/rc/hellokitty.jpg)|
-|hellur| ![hellur](/emojis/rc/hellur.png)|
-|helm-da| ![helm-da](/emojis/rc/helm-da.png)|
-|helm| ![helm](/emojis/rc/helm.png)|
-|help-me_turtle| ![help-me_turtle](/emojis/rc/help-me_turtle.gif)|
-|helpful-link| ![helpful-link](/emojis/rc/helpful-link.png)|
-|helping-each-other-succeed| ![helping-each-other-succeed](/emojis/rc/helping-each-other-succeed.gif)|
-|her_squirm| ![her_squirm](/emojis/rc/her_squirm.png)|
-|here-we-go| ![here-we-go](/emojis/rc/here-we-go.jpg)|
-|here| ![here](/emojis/rc/here.png)|
-|herecomesjimmycottontail| ![herecomesjimmycottontail](/emojis/rc/herecomesjimmycottontail.png)|
 
 <hr/>
 
