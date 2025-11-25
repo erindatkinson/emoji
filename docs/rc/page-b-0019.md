@@ -8,6 +8,29 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-drags-knee| ![bufo-drags-knee](/emojis/rc/bufo-drags-knee.png)|
+|bufo-drake-no| ![bufo-drake-no](/emojis/rc/bufo-drake-no.png)|
+|bufo-drake-yes| ![bufo-drake-yes](/emojis/rc/bufo-drake-yes.png)|
+|bufo-draws-bufo| ![bufo-draws-bufo](/emojis/rc/bufo-draws-bufo.png)|
+|bufo-drifts-through-the-void| ![bufo-drifts-through-the-void](/emojis/rc/bufo-drifts-through-the-void.png)|
+|bufo-drinking-baja-blast| ![bufo-drinking-baja-blast](/emojis/rc/bufo-drinking-baja-blast.png)|
+|bufo-drinking-boba| ![bufo-drinking-boba](/emojis/rc/bufo-drinking-boba.png)|
+|bufo-drinking-coke| ![bufo-drinking-coke](/emojis/rc/bufo-drinking-coke.png)|
+|bufo-drinking-pepsi| ![bufo-drinking-pepsi](/emojis/rc/bufo-drinking-pepsi.png)|
+|bufo-drinking-pumpkin-spice-latte| ![bufo-drinking-pumpkin-spice-latte](/emojis/rc/bufo-drinking-pumpkin-spice-latte.png)|
+|bufo-drinks-from-the-fire-hose| ![bufo-drinks-from-the-fire-hose](/emojis/rc/bufo-drinks-from-the-fire-hose.png)|
+|bufo-drops-everything-now| ![bufo-drops-everything-now](/emojis/rc/bufo-drops-everything-now.gif)|
+|bufo-drowning-in-leeks| ![bufo-drowning-in-leeks](/emojis/rc/bufo-drowning-in-leeks.png)|
+|bufo-drowns-in-memories-of-ocean| ![bufo-drowns-in-memories-of-ocean](/emojis/rc/bufo-drowns-in-memories-of-ocean.png)|
+|bufo-drowns-in-tickets-but-ok| ![bufo-drowns-in-tickets-but-ok](/emojis/rc/bufo-drowns-in-tickets-but-ok.png)|
+|bufo-drumroll| ![bufo-drumroll](/emojis/rc/bufo-drumroll.png)|
+|bufo-easter-bunny| ![bufo-easter-bunny](/emojis/rc/bufo-easter-bunny.png)|
+|bufo-eating-hotdog| ![bufo-eating-hotdog](/emojis/rc/bufo-eating-hotdog.png)|
+|bufo-eating-lollipop| ![bufo-eating-lollipop](/emojis/rc/bufo-eating-lollipop.png)|
+|bufo-eats-a-bufo-taco| ![bufo-eats-a-bufo-taco](/emojis/rc/bufo-eats-a-bufo-taco.png)|
+|bufo-eats-all-your-honey| ![bufo-eats-all-your-honey](/emojis/rc/bufo-eats-all-your-honey.png)|
+|bufo-eats-bufo-taco| ![bufo-eats-bufo-taco](/emojis/rc/bufo-eats-bufo-taco.png)|
+|bufo-egg| ![bufo-egg](/emojis/rc/bufo-egg.png)|
 |bufo-elite| ![bufo-elite](/emojis/rc/bufo-elite.png)|
 |bufo-email-intensifies| ![bufo-email-intensifies](/emojis/rc/bufo-email-intensifies.gif)|
 |bufo-email-party| ![bufo-email-party](/emojis/rc/bufo-email-party.gif)|
@@ -17,9 +40,12 @@
 |bufo-enter| ![bufo-enter](/emojis/rc/bufo-enter.gif)|
 |bufo-enters-the-void| ![bufo-enters-the-void](/emojis/rc/bufo-enters-the-void.gif)|
 |bufo-ethereum| ![bufo-ethereum](/emojis/rc/bufo-ethereum.png)|
+|bufo-evil| ![bufo-evil](/emojis/rc/bufo-evil.png)|
 |bufo-excellent| ![bufo-excellent](/emojis/rc/bufo-excellent.png)|
 |bufo-excited-but-sad| ![bufo-excited-but-sad](/emojis/rc/bufo-excited-but-sad.png)|
+|bufo-excited| ![bufo-excited](/emojis/rc/bufo-excited.gif)|
 |bufo-existential-dread-sets-in| ![bufo-existential-dread-sets-in](/emojis/rc/bufo-existential-dread-sets-in.gif)|
+|bufo-exit| ![bufo-exit](/emojis/rc/bufo-exit.gif)|
 |bufo-experiences-euneirophrenia| ![bufo-experiences-euneirophrenia](/emojis/rc/bufo-experiences-euneirophrenia.png)|
 |bufo-extra-cool| ![bufo-extra-cool](/emojis/rc/bufo-extra-cool.gif)|
 |bufo-eye-pop| ![bufo-eye-pop](/emojis/rc/bufo-eye-pop.png)|
@@ -82,32 +108,6 @@
 |bufo-gavel| ![bufo-gavel](/emojis/rc/bufo-gavel.png)|
 |bufo-gen-z| ![bufo-gen-z](/emojis/rc/bufo-gen-z.png)|
 |bufo-germany| ![bufo-germany](/emojis/rc/bufo-germany.gif)|
-|bufo-get-in-loser-were-going-shopping| ![bufo-get-in-loser-were-going-shopping](/emojis/rc/bufo-get-in-loser-were-going-shopping.png)|
-|bufo-gets-downloaded-from-the-cloud| ![bufo-gets-downloaded-from-the-cloud](/emojis/rc/bufo-gets-downloaded-from-the-cloud.gif)|
-|bufo-gets-hit-in-the-face-with-an-egg| ![bufo-gets-hit-in-the-face-with-an-egg](/emojis/rc/bufo-gets-hit-in-the-face-with-an-egg.png)|
-|bufo-gets-uploaded-to-the-cloud| ![bufo-gets-uploaded-to-the-cloud](/emojis/rc/bufo-gets-uploaded-to-the-cloud.gif)|
-|bufo-gets-whiplash| ![bufo-gets-whiplash](/emojis/rc/bufo-gets-whiplash.png)|
-|bufo-ghost-costume| ![bufo-ghost-costume](/emojis/rc/bufo-ghost-costume.png)|
-|bufo-giggling-in-a-cat-onesie| ![bufo-giggling-in-a-cat-onesie](/emojis/rc/bufo-giggling-in-a-cat-onesie.gif)|
-|bufo-give-money| ![bufo-give-money](/emojis/rc/bufo-give-money.png)|
-|bufo-give-pack-of-ice| ![bufo-give-pack-of-ice](/emojis/rc/bufo-give-pack-of-ice.png)|
-|bufo-give| ![bufo-give](/emojis/rc/bufo-give.png)|
-|bufo-gives-a-fake-moustache| ![bufo-gives-a-fake-moustache](/emojis/rc/bufo-gives-a-fake-moustache.png)|
-|bufo-gives-a-magic-number| ![bufo-gives-a-magic-number](/emojis/rc/bufo-gives-a-magic-number.png)|
-|bufo-gives-a-narwhal| ![bufo-gives-a-narwhal](/emojis/rc/bufo-gives-a-narwhal.png)|
-|bufo-gives-actions| ![bufo-gives-actions](/emojis/rc/bufo-gives-actions.png)|
-|bufo-gives-an-idea| ![bufo-gives-an-idea](/emojis/rc/bufo-gives-an-idea.png)|
-|bufo-gives-approval| ![bufo-gives-approval](/emojis/rc/bufo-gives-approval.png)|
-|bufo-gives-databricks| ![bufo-gives-databricks](/emojis/rc/bufo-gives-databricks.png)|
-|bufo-gives-j| ![bufo-gives-j](/emojis/rc/bufo-gives-j.png)|
-|bufo-gives-star| ![bufo-gives-star](/emojis/rc/bufo-gives-star.png)|
-|bufo-gives-you-a-feature-flag| ![bufo-gives-you-a-feature-flag](/emojis/rc/bufo-gives-you-a-feature-flag.png)|
-|bufo-gives-you-a-hotdog| ![bufo-gives-you-a-hotdog](/emojis/rc/bufo-gives-you-a-hotdog.png)|
-|bufo-gives-you-some-extra-brain| ![bufo-gives-you-some-extra-brain](/emojis/rc/bufo-gives-you-some-extra-brain.png)|
-|bufo-gives-you-some-rice| ![bufo-gives-you-some-rice](/emojis/rc/bufo-gives-you-some-rice.png)|
-|bufo-glasses| ![bufo-glasses](/emojis/rc/bufo-glasses.png)|
-|bufo-goal| ![bufo-goal](/emojis/rc/bufo-goal.png)|
-|bufo-goes-super-saiyan| ![bufo-goes-super-saiyan](/emojis/rc/bufo-goes-super-saiyan.png)|
 
 <hr/>
 

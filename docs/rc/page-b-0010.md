@@ -8,6 +8,14 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bee-right-spin| ![bee-right-spin](/emojis/rc/bee-right-spin.gif)|
+|bee-right-technologist| ![bee-right-technologist](/emojis/rc/bee-right-technologist.png)|
+|bee-right-waves| ![bee-right-waves](/emojis/rc/bee-right-waves.gif)|
+|bee-right-wolf| ![bee-right-wolf](/emojis/rc/bee-right-wolf.png)|
+|bee-right| ![bee-right](/emojis/rc/bee-right.png)|
+|bee-sad| ![bee-sad](/emojis/rc/bee-sad.png)|
+|bee-sob| ![bee-sob](/emojis/rc/bee-sob.png)|
+|bee-spin| ![bee-spin](/emojis/rc/bee-spin.gif)|
 |bee-technologist| ![bee-technologist](/emojis/rc/bee-technologist.png)|
 |bee-wat| ![bee-wat](/emojis/rc/bee-wat.png)|
 |bee-waves| ![bee-waves](/emojis/rc/bee-waves.gif)|
@@ -100,14 +108,6 @@
 |bigbufo_3_2| ![bigbufo_3_2](/emojis/rc/bigbufo_3_2.png)|
 |bigbufo_3_3| ![bigbufo_3_3](/emojis/rc/bigbufo_3_3.png)|
 |bigeast| ![bigeast](/emojis/rc/bigeast.png)|
-|bigfoot| ![bigfoot](/emojis/rc/bigfoot.png)|
-|biggie-smalls| ![biggie-smalls](/emojis/rc/biggie-smalls.png)|
-|bigmood| ![bigmood](/emojis/rc/bigmood.gif)|
-|bigredbird| ![bigredbird](/emojis/rc/bigredbird.jpg)|
-|bikeshed-fancy| ![bikeshed-fancy](/emojis/rc/bikeshed-fancy.gif)|
-|bikeshed| ![bikeshed](/emojis/rc/bikeshed.png)|
-|bikeshedddd| ![bikeshedddd](/emojis/rc/bikeshedddd.gif)|
-|bikeshedding| ![bikeshedding](/emojis/rc/bikeshedding.gif)|
 
 <hr/>
 

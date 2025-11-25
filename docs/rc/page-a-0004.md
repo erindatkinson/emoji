@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|alphabet-white-m| ![alphabet-white-m](/emojis/rc/alphabet-white-m.png)|
+|alphabet-white-n| ![alphabet-white-n](/emojis/rc/alphabet-white-n.png)|
+|alphabet-white-o| ![alphabet-white-o](/emojis/rc/alphabet-white-o.png)|
+|alphabet-white-p| ![alphabet-white-p](/emojis/rc/alphabet-white-p.png)|
+|alphabet-white-q| ![alphabet-white-q](/emojis/rc/alphabet-white-q.png)|
+|alphabet-white-question| ![alphabet-white-question](/emojis/rc/alphabet-white-question.png)|
+|alphabet-white-r| ![alphabet-white-r](/emojis/rc/alphabet-white-r.png)|
 |alphabet-white-s| ![alphabet-white-s](/emojis/rc/alphabet-white-s.png)|
 |alphabet-white-t| ![alphabet-white-t](/emojis/rc/alphabet-white-t.png)|
 |alphabet-white-u| ![alphabet-white-u](/emojis/rc/alphabet-white-u.png)|
@@ -101,13 +108,6 @@
 |aminals-lion-do-it| ![aminals-lion-do-it](/emojis/rc/aminals-lion-do-it.gif)|
 |aminals-platypus-please| ![aminals-platypus-please](/emojis/rc/aminals-platypus-please.png)|
 |aminals-platypus-update| ![aminals-platypus-update](/emojis/rc/aminals-platypus-update.gif)|
-|aminals-rabbit-fomo| ![aminals-rabbit-fomo](/emojis/rc/aminals-rabbit-fomo.gif)|
-|aminals-ray-thanks| ![aminals-ray-thanks](/emojis/rc/aminals-ray-thanks.gif)|
-|aminals-red-panda-awkward-smile| ![aminals-red-panda-awkward-smile](/emojis/rc/aminals-red-panda-awkward-smile.gif)|
-|aminals-red-panda-rofl| ![aminals-red-panda-rofl](/emojis/rc/aminals-red-panda-rofl.gif)|
-|aminals-seal-dj| ![aminals-seal-dj](/emojis/rc/aminals-seal-dj.gif)|
-|aminals-sheep-omg| ![aminals-sheep-omg](/emojis/rc/aminals-sheep-omg.gif)|
-|aminals-smug-pineapple-face| ![aminals-smug-pineapple-face](/emojis/rc/aminals-smug-pineapple-face.png)|
 
 <hr/>
 

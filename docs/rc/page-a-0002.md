@@ -8,6 +8,8 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|ace-ventura-dance| ![ace-ventura-dance](/emojis/rc/ace-ventura-dance.gif)|
+|ace_ventura| ![ace_ventura](/emojis/rc/ace_ventura.png)|
 |acefox| ![acefox](/emojis/rc/acefox.png)|
 |aceheartcat| ![aceheartcat](/emojis/rc/aceheartcat.png)|
 |achievement-unlocked| ![achievement-unlocked](/emojis/rc/achievement-unlocked.png)|
@@ -100,14 +102,12 @@
 |ahhhhhhhhh| ![ahhhhhhhhh](/emojis/rc/ahhhhhhhhh.gif)|
 |ahoy| ![ahoy](/emojis/rc/ahoy.png)|
 |ahsoka-tano| ![ahsoka-tano](/emojis/rc/ahsoka-tano.png)|
+|ai-agent-analysis| ![ai-agent-analysis](/emojis/rc/ai-agent-analysis.gif)|
+|ai-agent-cloud| ![ai-agent-cloud](/emojis/rc/ai-agent-cloud.gif)|
+|ai-agent-intelligence| ![ai-agent-intelligence](/emojis/rc/ai-agent-intelligence.gif)|
+|ai-agent-investigation| ![ai-agent-investigation](/emojis/rc/ai-agent-investigation.gif)|
+|ai-agent-phishing| ![ai-agent-phishing](/emojis/rc/ai-agent-phishing.gif)|
 |ai-ian| ![ai-ian](/emojis/rc/ai-ian.gif)|
-|ai-made-magic| ![ai-made-magic](/emojis/rc/ai-made-magic.png)|
-|ai-make-magic| ![ai-make-magic](/emojis/rc/ai-make-magic.png)|
-|ai-slop| ![ai-slop](/emojis/rc/ai-slop.png)|
-|ai| ![ai](/emojis/rc/ai.png)|
-|aidp| ![aidp](/emojis/rc/aidp.png)|
-|aight-bet| ![aight-bet](/emojis/rc/aight-bet.png)|
-|aim| ![aim](/emojis/rc/aim.png)|
 
 <hr/>
 

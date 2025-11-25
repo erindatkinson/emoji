@@ -1,13 +1,55 @@
 
 ## Emojis (Page 55)
 
-[Previous Page](/docs/rc/page-i-0054.md)
+[Previous Page](/docs/rc/page-h-0054.md)
   | [Next Page](/docs/rc/page-j-0056.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|im_ron_burgundy| ![im_ron_burgundy](/emojis/rc/im_ron_burgundy.png)|
+|im_sorry| ![im_sorry](/emojis/rc/im_sorry.gif)|
+|imafraidno| ![imafraidno](/emojis/rc/imafraidno.png)|
+|imafraidyes| ![imafraidyes](/emojis/rc/imafraidyes.png)|
+|image-6| ![image-6](/emojis/rc/image-6.png)|
+|image| ![image](/emojis/rc/image.png)|
+|images-2| ![images-2](/emojis/rc/images-2.png)|
+|imagination| ![imagination](/emojis/rc/imagination.gif)|
+|imdead| ![imdead](/emojis/rc/imdead.png)|
+|img_4751| ![img_4751](/emojis/rc/img_4751.png)|
+|imposing-cost| ![imposing-cost](/emojis/rc/imposing-cost.png)|
+|impossible| ![impossible](/emojis/rc/impossible.png)|
+|impostor| ![impostor](/emojis/rc/impostor.png)|
+|in-progress| ![in-progress](/emojis/rc/in-progress.png)|
+|in-transit| ![in-transit](/emojis/rc/in-transit.gif)|
+|in_transit| ![in_transit](/emojis/rc/in_transit.png)|
+|inarabbithole| ![inarabbithole](/emojis/rc/inarabbithole.jpg)|
+|inception| ![inception](/emojis/rc/inception.gif)|
+|inclusive-clapping| ![inclusive-clapping](/emojis/rc/inclusive-clapping.gif)|
+|inconceivable| ![inconceivable](/emojis/rc/inconceivable.png)|
+|incremental-unit-of-meaningful-value-intensifies| ![incremental-unit-of-meaningful-value-intensifies](/emojis/rc/incremental-unit-of-meaningful-value-intensifies.gif)|
+|indeed| ![indeed](/emojis/rc/indeed.png)|
+|indiana| ![indiana](/emojis/rc/indiana.png)|
+|indiana_fever| ![indiana_fever](/emojis/rc/indiana_fever.png)|
+|indigo-heart| ![indigo-heart](/emojis/rc/indigo-heart.png)|
+|infantry| ![infantry](/emojis/rc/infantry.png)|
+|infinite-bash| ![infinite-bash](/emojis/rc/infinite-bash.gif)|
+|infinite-coffee| ![infinite-coffee](/emojis/rc/infinite-coffee.gif)|
+|infinite-rails| ![infinite-rails](/emojis/rc/infinite-rails.gif)|
+|infinite_koolaid| ![infinite_koolaid](/emojis/rc/infinite_koolaid.gif)|
+|infiniteeyes| ![infiniteeyes](/emojis/rc/infiniteeyes.gif)|
+|infinity_gauntlet| ![infinity_gauntlet](/emojis/rc/infinity_gauntlet.png)|
+|info| ![info](/emojis/rc/info.gif)|
+|infrared_ibis| ![infrared_ibis](/emojis/rc/infrared_ibis.png)|
+|ingot| ![ingot](/emojis/rc/ingot.png)|
+|inky_rose| ![inky_rose](/emojis/rc/inky_rose.png)|
+|inquiringmindswanttoknow| ![inquiringmindswanttoknow](/emojis/rc/inquiringmindswanttoknow.png)|
+|inspector-gadget| ![inspector-gadget](/emojis/rc/inspector-gadget.gif)|
+|insta-lit| ![insta-lit](/emojis/rc/insta-lit.png)|
+|instinct| ![instinct](/emojis/rc/instinct.gif)|
+|intel-team-insignia| ![intel-team-insignia](/emojis/rc/intel-team-insignia.png)|
+|intel| ![intel](/emojis/rc/intel.png)|
 |intelope| ![intelope](/emojis/rc/intelope.jpg)|
 |intense_tallulah| ![intense_tallulah](/emojis/rc/intense_tallulah.png)|
 |intensely-good-morning| ![intensely-good-morning](/emojis/rc/intensely-good-morning.gif)|
@@ -66,50 +108,8 @@
 |ivysaur| ![ivysaur](/emojis/rc/ivysaur.png)|
 |iwo-jima| ![iwo-jima](/emojis/rc/iwo-jima.jpg)|
 |iykyk| ![iykyk](/emojis/rc/iykyk.png)|
-|jab| ![jab](/emojis/rc/jab.png)|
-|jack-approved| ![jack-approved](/emojis/rc/jack-approved.png)|
-|jack-nicholson-glasses| ![jack-nicholson-glasses](/emojis/rc/jack-nicholson-glasses.gif)|
-|jack-nicklaus| ![jack-nicklaus](/emojis/rc/jack-nicklaus.jpg)|
-|jack-says-no| ![jack-says-no](/emojis/rc/jack-says-no.gif)|
-|jack| ![jack](/emojis/rc/jack.png)|
-|jail| ![jail](/emojis/rc/jail.png)|
-|jake-sigh| ![jake-sigh](/emojis/rc/jake-sigh.png)|
-|jake_dance| ![jake_dance](/emojis/rc/jake_dance.gif)|
-|jakedpotato| ![jakedpotato](/emojis/rc/jakedpotato.png)|
-|james_the_yammaster| ![james_the_yammaster](/emojis/rc/james_the_yammaster.gif)|
-|jamf| ![jamf](/emojis/rc/jamf.png)|
-|jamf_logo_400x400| ![jamf_logo_400x400](/emojis/rc/jamf_logo_400x400.png)|
-|jammin| ![jammin](/emojis/rc/jammin.gif)|
-|jamming| ![jamming](/emojis/rc/jamming.gif)|
-|jamming2| ![jamming2](/emojis/rc/jamming2.gif)|
-|jan_glare| ![jan_glare](/emojis/rc/jan_glare.png)|
-|janelle| ![janelle](/emojis/rc/janelle.png)|
-|janellemakesitrain| ![janellemakesitrain](/emojis/rc/janellemakesitrain.jpg)|
-|jarjar| ![jarjar](/emojis/rc/jarjar.png)|
-|jason-close-quote| ![jason-close-quote](/emojis/rc/jason-close-quote.jpg)|
-|jason-open-quote| ![jason-open-quote](/emojis/rc/jason-open-quote.jpg)|
-|jason_hands| ![jason_hands](/emojis/rc/jason_hands.png)|
-|java| ![java](/emojis/rc/java.png)|
-|java0| ![java0](/emojis/rc/java0.png)|
-|javascript| ![javascript](/emojis/rc/javascript.png)|
-|javert| ![javert](/emojis/rc/javert.gif)|
-|jawdrop| ![jawdrop](/emojis/rc/jawdrop.gif)|
-|jayhawk| ![jayhawk](/emojis/rc/jayhawk.png)|
-|jazz-hand-left| ![jazz-hand-left](/emojis/rc/jazz-hand-left.gif)|
-|jazz-hand-right| ![jazz-hand-right](/emojis/rc/jazz-hand-right.gif)|
-|jean-cutoffs| ![jean-cutoffs](/emojis/rc/jean-cutoffs.png)|
-|jeb| ![jeb](/emojis/rc/jeb.jpg)|
-|jedi-mind-trick| ![jedi-mind-trick](/emojis/rc/jedi-mind-trick.gif)|
-|jedi| ![jedi](/emojis/rc/jedi.png)|
-|jedi_bongo| ![jedi_bongo](/emojis/rc/jedi_bongo.gif)|
-|jeep| ![jeep](/emojis/rc/jeep.png)|
-|jeep_wave| ![jeep_wave](/emojis/rc/jeep_wave.png)|
-|jeeves| ![jeeves](/emojis/rc/jeeves.png)|
-|jeff| ![jeff](/emojis/rc/jeff.jpg)|
-|jeff_rabbit_hat| ![jeff_rabbit_hat](/emojis/rc/jeff_rabbit_hat.png)|
-|jeffbezos| ![jeffbezos](/emojis/rc/jeffbezos.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-i-0054.md)
+[Previous Page](/docs/rc/page-h-0054.md)
   | [Next Page](/docs/rc/page-j-0056.md)

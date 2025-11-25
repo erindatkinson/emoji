@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bafta| ![bafta](/emojis/rc/bafta.jpg)|
+|bag_of_sugar| ![bag_of_sugar](/emojis/rc/bag_of_sugar.jpg)|
+|bagofmoney| ![bagofmoney](/emojis/rc/bagofmoney.png)|
+|bagofwhat| ![bagofwhat](/emojis/rc/bagofwhat.png)|
+|bagpipe| ![bagpipe](/emojis/rc/bagpipe.png)|
+|bagpipes| ![bagpipes](/emojis/rc/bagpipes.gif)|
+|bags| ![bags](/emojis/rc/bags.png)|
 |bagspacked| ![bagspacked](/emojis/rc/bagspacked.png)|
 |bahn_mi| ![bahn_mi](/emojis/rc/bahn_mi.png)|
 |bala_canary| ![bala_canary](/emojis/rc/bala_canary.jpg)|
@@ -101,13 +108,6 @@
 |beaker-nope| ![beaker-nope](/emojis/rc/beaker-nope.gif)|
 |beaker| ![beaker](/emojis/rc/beaker.png)|
 |beanlasagna| ![beanlasagna](/emojis/rc/beanlasagna.png)|
-|bear-bike-cruisin-cool| ![bear-bike-cruisin-cool](/emojis/rc/bear-bike-cruisin-cool.png)|
-|bear-dance| ![bear-dance](/emojis/rc/bear-dance.gif)|
-|bear-gasp| ![bear-gasp](/emojis/rc/bear-gasp.png)|
-|bear-hat| ![bear-hat](/emojis/rc/bear-hat.png)|
-|bear-hunt| ![bear-hunt](/emojis/rc/bear-hunt.png)|
-|bear-in-a-car| ![bear-in-a-car](/emojis/rc/bear-in-a-car.png)|
-|bear-knife-all-the-way-down| ![bear-knife-all-the-way-down](/emojis/rc/bear-knife-all-the-way-down.gif)|
 
 <hr/>
 

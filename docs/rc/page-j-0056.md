@@ -2,12 +2,55 @@
 ## Emojis (Page 56)
 
 [Previous Page](/docs/rc/page-i-0055.md)
-  | [Next Page](/docs/rc/page-k-0057.md)
+  | [Next Page](/docs/rc/page-j-0057.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|jab| ![jab](/emojis/rc/jab.png)|
+|jack-approved| ![jack-approved](/emojis/rc/jack-approved.png)|
+|jack-nicholson-glasses| ![jack-nicholson-glasses](/emojis/rc/jack-nicholson-glasses.gif)|
+|jack-nicklaus| ![jack-nicklaus](/emojis/rc/jack-nicklaus.jpg)|
+|jack-says-no| ![jack-says-no](/emojis/rc/jack-says-no.gif)|
+|jack| ![jack](/emojis/rc/jack.png)|
+|jacky| ![jacky](/emojis/rc/jacky.jpg)|
+|jail| ![jail](/emojis/rc/jail.png)|
+|jake-sigh| ![jake-sigh](/emojis/rc/jake-sigh.png)|
+|jake_dance| ![jake_dance](/emojis/rc/jake_dance.gif)|
+|jakedpotato| ![jakedpotato](/emojis/rc/jakedpotato.png)|
+|james_the_yammaster| ![james_the_yammaster](/emojis/rc/james_the_yammaster.gif)|
+|jamf| ![jamf](/emojis/rc/jamf.png)|
+|jamf_logo_400x400| ![jamf_logo_400x400](/emojis/rc/jamf_logo_400x400.png)|
+|jammin| ![jammin](/emojis/rc/jammin.gif)|
+|jamming| ![jamming](/emojis/rc/jamming.gif)|
+|jamming2| ![jamming2](/emojis/rc/jamming2.gif)|
+|jan_glare| ![jan_glare](/emojis/rc/jan_glare.png)|
+|janelle| ![janelle](/emojis/rc/janelle.png)|
+|janellemakesitrain| ![janellemakesitrain](/emojis/rc/janellemakesitrain.jpg)|
+|jarjar| ![jarjar](/emojis/rc/jarjar.png)|
+|jason-close-quote| ![jason-close-quote](/emojis/rc/jason-close-quote.jpg)|
+|jason-open-quote| ![jason-open-quote](/emojis/rc/jason-open-quote.jpg)|
+|jason_hands| ![jason_hands](/emojis/rc/jason_hands.png)|
+|java| ![java](/emojis/rc/java.png)|
+|java0| ![java0](/emojis/rc/java0.png)|
+|javascript| ![javascript](/emojis/rc/javascript.png)|
+|javert| ![javert](/emojis/rc/javert.gif)|
+|jawdrop| ![jawdrop](/emojis/rc/jawdrop.gif)|
+|jayhawk| ![jayhawk](/emojis/rc/jayhawk.png)|
+|jazz-hand-left| ![jazz-hand-left](/emojis/rc/jazz-hand-left.gif)|
+|jazz-hand-right| ![jazz-hand-right](/emojis/rc/jazz-hand-right.gif)|
+|jean-cutoffs| ![jean-cutoffs](/emojis/rc/jean-cutoffs.png)|
+|jeb| ![jeb](/emojis/rc/jeb.jpg)|
+|jedi-mind-trick| ![jedi-mind-trick](/emojis/rc/jedi-mind-trick.gif)|
+|jedi| ![jedi](/emojis/rc/jedi.png)|
+|jedi_bongo| ![jedi_bongo](/emojis/rc/jedi_bongo.gif)|
+|jeep| ![jeep](/emojis/rc/jeep.png)|
+|jeep_wave| ![jeep_wave](/emojis/rc/jeep_wave.png)|
+|jeeves| ![jeeves](/emojis/rc/jeeves.png)|
+|jeff| ![jeff](/emojis/rc/jeff.jpg)|
+|jeff_rabbit_hat| ![jeff_rabbit_hat](/emojis/rc/jeff_rabbit_hat.png)|
+|jeffbezos| ![jeffbezos](/emojis/rc/jeffbezos.png)|
 |jellied-eels| ![jellied-eels](/emojis/rc/jellied-eels.png)|
 |jello| ![jello](/emojis/rc/jello.gif)|
 |jelly| ![jelly](/emojis/rc/jelly.jpg)|
@@ -65,51 +108,8 @@
 |jonathan_frakes_bbff| ![jonathan_frakes_bbff](/emojis/rc/jonathan_frakes_bbff.jpg)|
 |joseph-smile| ![joseph-smile](/emojis/rc/joseph-smile.png)|
 |joy_cat_blob| ![joy_cat_blob](/emojis/rc/joy_cat_blob.png)|
-|joye-crunchy-mad| ![joye-crunchy-mad](/emojis/rc/joye-crunchy-mad.png)|
-|joye-intensifies| ![joye-intensifies](/emojis/rc/joye-intensifies.gif)|
-|joye| ![joye](/emojis/rc/joye.png)|
-|joye_crunchy| ![joye_crunchy](/emojis/rc/joye_crunchy.png)|
-|jquery| ![jquery](/emojis/rc/jquery.png)|
-|jruby| ![jruby](/emojis/rc/jruby.png)|
-|js| ![js](/emojis/rc/js.png)|
-|json-da| ![json-da](/emojis/rc/json-da.png)|
-|json-fire| ![json-fire](/emojis/rc/json-fire.gif)|
-|json| ![json](/emojis/rc/json.png)|
-|judgement-canary| ![judgement-canary](/emojis/rc/judgement-canary.png)|
-|julie_facepalm| ![julie_facepalm](/emojis/rc/julie_facepalm.png)|
-|jump| ![jump](/emojis/rc/jump.png)|
-|jump2conclusions| ![jump2conclusions](/emojis/rc/jump2conclusions.png)|
-|juneteenthflag| ![juneteenthflag](/emojis/rc/juneteenthflag.png)|
-|jungle_brian| ![jungle_brian](/emojis/rc/jungle_brian.gif)|
-|jungle_brian_reverse| ![jungle_brian_reverse](/emojis/rc/jungle_brian_reverse.gif)|
-|jupyter| ![jupyter](/emojis/rc/jupyter.png)|
-|jurassicpark| ![jurassicpark](/emojis/rc/jurassicpark.png)|
-|just| ![just](/emojis/rc/just.jpg)|
-|just_ben| ![just_ben](/emojis/rc/just_ben.png)|
-|just_desu| ![just_desu](/emojis/rc/just_desu.jpg)|
-|justdoit| ![justdoit](/emojis/rc/justdoit.png)|
-|jwicsorstfu| ![jwicsorstfu](/emojis/rc/jwicsorstfu.png)|
-|jwt-intensifies| ![jwt-intensifies](/emojis/rc/jwt-intensifies.gif)|
-|jwt| ![jwt](/emojis/rc/jwt.png)|
-|k-hole| ![k-hole](/emojis/rc/k-hole.jpg)|
-|k-thx-bye| ![k-thx-bye](/emojis/rc/k-thx-bye.png)|
-|k| ![k](/emojis/rc/k.png)|
-|k8s-da| ![k8s-da](/emojis/rc/k8s-da.png)|
-|k8s-intensifies| ![k8s-intensifies](/emojis/rc/k8s-intensifies.gif)|
-|k8s-on-fire| ![k8s-on-fire](/emojis/rc/k8s-on-fire.gif)|
-|k8s-party-parrot| ![k8s-party-parrot](/emojis/rc/k8s-party-parrot.gif)|
-|k8s-party| ![k8s-party](/emojis/rc/k8s-party.gif)|
-|k8s-pride| ![k8s-pride](/emojis/rc/k8s-pride.png)|
-|k8s| ![k8s](/emojis/rc/k8s.png)|
-|k8sangel| ![k8sangel](/emojis/rc/k8sangel.gif)|
-|k8sheart| ![k8sheart](/emojis/rc/k8sheart.png)|
-|kafka| ![kafka](/emojis/rc/kafka.png)|
-|kaleb| ![kaleb](/emojis/rc/kaleb.png)|
-|kalm| ![kalm](/emojis/rc/kalm.png)|
-|kamehameha| ![kamehameha](/emojis/rc/kamehameha.gif)|
-|kappa| ![kappa](/emojis/rc/kappa.png)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-i-0055.md)
-  | [Next Page](/docs/rc/page-k-0057.md)
+  | [Next Page](/docs/rc/page-j-0057.md)

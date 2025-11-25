@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|ai-made-magic| ![ai-made-magic](/emojis/rc/ai-made-magic.png)|
+|ai-make-magic| ![ai-make-magic](/emojis/rc/ai-make-magic.png)|
+|ai-slop| ![ai-slop](/emojis/rc/ai-slop.png)|
+|ai| ![ai](/emojis/rc/ai.png)|
+|aidp| ![aidp](/emojis/rc/aidp.png)|
+|aight-bet| ![aight-bet](/emojis/rc/aight-bet.png)|
+|aim| ![aim](/emojis/rc/aim.png)|
 |air-fryer-all-the-way-down| ![air-fryer-all-the-way-down](/emojis/rc/air-fryer-all-the-way-down.gif)|
 |air-fryer-intensifies| ![air-fryer-intensifies](/emojis/rc/air-fryer-intensifies.gif)|
 |air-fryer-party| ![air-fryer-party](/emojis/rc/air-fryer-party.gif)|
@@ -101,13 +108,6 @@
 |alphabet-white-j| ![alphabet-white-j](/emojis/rc/alphabet-white-j.png)|
 |alphabet-white-k| ![alphabet-white-k](/emojis/rc/alphabet-white-k.png)|
 |alphabet-white-l| ![alphabet-white-l](/emojis/rc/alphabet-white-l.png)|
-|alphabet-white-m| ![alphabet-white-m](/emojis/rc/alphabet-white-m.png)|
-|alphabet-white-n| ![alphabet-white-n](/emojis/rc/alphabet-white-n.png)|
-|alphabet-white-o| ![alphabet-white-o](/emojis/rc/alphabet-white-o.png)|
-|alphabet-white-p| ![alphabet-white-p](/emojis/rc/alphabet-white-p.png)|
-|alphabet-white-q| ![alphabet-white-q](/emojis/rc/alphabet-white-q.png)|
-|alphabet-white-question| ![alphabet-white-question](/emojis/rc/alphabet-white-question.png)|
-|alphabet-white-r| ![alphabet-white-r](/emojis/rc/alphabet-white-r.png)|
 
 <hr/>
 

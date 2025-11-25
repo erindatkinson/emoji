@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|aminals-rabbit-fomo| ![aminals-rabbit-fomo](/emojis/rc/aminals-rabbit-fomo.gif)|
+|aminals-ray-thanks| ![aminals-ray-thanks](/emojis/rc/aminals-ray-thanks.gif)|
+|aminals-red-panda-awkward-smile| ![aminals-red-panda-awkward-smile](/emojis/rc/aminals-red-panda-awkward-smile.gif)|
+|aminals-red-panda-rofl| ![aminals-red-panda-rofl](/emojis/rc/aminals-red-panda-rofl.gif)|
+|aminals-seal-dj| ![aminals-seal-dj](/emojis/rc/aminals-seal-dj.gif)|
+|aminals-sheep-omg| ![aminals-sheep-omg](/emojis/rc/aminals-sheep-omg.gif)|
+|aminals-smug-pineapple-face| ![aminals-smug-pineapple-face](/emojis/rc/aminals-smug-pineapple-face.png)|
 |aminals-smug-pineapple| ![aminals-smug-pineapple](/emojis/rc/aminals-smug-pineapple.png)|
 |aminals-squid-sup| ![aminals-squid-sup](/emojis/rc/aminals-squid-sup.gif)|
 |aminals-turtle-shrug| ![aminals-turtle-shrug](/emojis/rc/aminals-turtle-shrug.png)|
@@ -101,13 +108,6 @@
 |applemail| ![applemail](/emojis/rc/applemail.png)|
 |applescript| ![applescript](/emojis/rc/applescript.jpg)|
 |appreciate-you| ![appreciate-you](/emojis/rc/appreciate-you.png)|
-|approve| ![approve](/emojis/rc/approve.png)|
-|approved-cowboy-gun| ![approved-cowboy-gun](/emojis/rc/approved-cowboy-gun.gif)|
-|approved-lime| ![approved-lime](/emojis/rc/approved-lime.gif)|
-|approved-paw| ![approved-paw](/emojis/rc/approved-paw.png)|
-|approved-stamp| ![approved-stamp](/emojis/rc/approved-stamp.png)|
-|approved-with-feedback| ![approved-with-feedback](/emojis/rc/approved-with-feedback.png)|
-|approved| ![approved](/emojis/rc/approved.png)|
 
 <hr/>
 

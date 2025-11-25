@@ -1,34 +1,12 @@
 
-## Emojis (Page 100)
+## Emojis (Page 101)
 
-[Previous Page](/docs/rc/page-w-0099.md)
-  | [Next Page](/docs/rc/page-z-0101.md)
+[Previous Page](/docs/rc/page-w-0100.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
-|yeti| ![yeti](/emojis/rc/yeti.jpg)|
-|yikes-3d-spin| ![yikes-3d-spin](/emojis/rc/yikes-3d-spin.gif)|
-|yikes| ![yikes](/emojis/rc/yikes.png)|
-|yikes_guy| ![yikes_guy](/emojis/rc/yikes_guy.jpg)|
-|yikes_office| ![yikes_office](/emojis/rc/yikes_office.png)|
-|yo-quiero-taco-bell| ![yo-quiero-taco-bell](/emojis/rc/yo-quiero-taco-bell.png)|
-|yoda| ![yoda](/emojis/rc/yoda.gif)|
-|yogafire| ![yogafire](/emojis/rc/yogafire.gif)|
-|yoink| ![yoink](/emojis/rc/yoink.gif)|
-|yolo-merge| ![yolo-merge](/emojis/rc/yolo-merge.png)|
-|yolo| ![yolo](/emojis/rc/yolo.png)|
-|yosemite_sam| ![yosemite_sam](/emojis/rc/yosemite_sam.png)|
-|yoshi_walk| ![yoshi_walk](/emojis/rc/yoshi_walk.gif)|
-|you're-toast| ![you're-toast](/emojis/rc/you're-toast.png)|
-|you've_been_schooled| ![you've_been_schooled](/emojis/rc/you've_been_schooled.jpg)|
-|you-actually| ![you-actually](/emojis/rc/you-actually.png)|
-|you-bet| ![you-bet](/emojis/rc/you-bet.png)|
-|you-call-this-a-storm| ![you-call-this-a-storm](/emojis/rc/you-call-this-a-storm.png)|
-|you-da-bes| ![you-da-bes](/emojis/rc/you-da-bes.jpg)|
-|you-got-it-| ![you-got-it-](/emojis/rc/you-got-it-.png)|
-|you-got-it-dude| ![you-got-it-dude](/emojis/rc/you-got-it-dude.png)|
 |you-got-it| ![you-got-it](/emojis/rc/you-got-it.png)|
 |you-got-this| ![you-got-this](/emojis/rc/you-got-this.png)|
 |you-looked| ![you-looked](/emojis/rc/you-looked.jpg)|
@@ -108,8 +86,15 @@
 |zoomercrew| ![zoomercrew](/emojis/rc/zoomercrew.png)|
 |zoomzoom| ![zoomzoom](/emojis/rc/zoomzoom.png)|
 |zooted| ![zooted](/emojis/rc/zooted.png)|
+|zscaler-life| ![zscaler-life](/emojis/rc/zscaler-life.png)|
+|zscaler| ![zscaler](/emojis/rc/zscaler.png)|
+|zscaler_intensifies| ![zscaler_intensifies](/emojis/rc/zscaler_intensifies.gif)|
+|zsh| ![zsh](/emojis/rc/zsh.png)|
+|zubat| ![zubat](/emojis/rc/zubat.gif)|
+|zuck-dawg| ![zuck-dawg](/emojis/rc/zuck-dawg.png)|
+|zune| ![zune](/emojis/rc/zune.png)|
+|zuture| ![zuture](/emojis/rc/zuture.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-w-0099.md)
-  | [Next Page](/docs/rc/page-z-0101.md)
+[Previous Page](/docs/rc/page-w-0100.md)

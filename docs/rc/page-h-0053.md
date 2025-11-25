@@ -2,12 +2,54 @@
 ## Emojis (Page 53)
 
 [Previous Page](/docs/rc/page-h-0052.md)
-  | [Next Page](/docs/rc/page-i-0054.md)
+  | [Next Page](/docs/rc/page-h-0054.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|hippo| ![hippo](/emojis/rc/hippo.jpg)|
+|hipster| ![hipster](/emojis/rc/hipster.png)|
+|hipster_glasses| ![hipster_glasses](/emojis/rc/hipster_glasses.png)|
+|hipstercanary| ![hipstercanary](/emojis/rc/hipstercanary.jpg)|
+|history-channel| ![history-channel](/emojis/rc/history-channel.jpg)|
+|hit-da-bricks| ![hit-da-bricks](/emojis/rc/hit-da-bricks.png)|
+|hitchbot| ![hitchbot](/emojis/rc/hitchbot.png)|
+|hitemup| ![hitemup](/emojis/rc/hitemup.gif)|
+|hitman-jimmy| ![hitman-jimmy](/emojis/rc/hitman-jimmy.png)|
+|hmm-intensifies| ![hmm-intensifies](/emojis/rc/hmm-intensifies.gif)|
+|hmm-rotating| ![hmm-rotating](/emojis/rc/hmm-rotating.gif)|
+|hmmno| ![hmmno](/emojis/rc/hmmno.gif)|
+|hmmyes| ![hmmyes](/emojis/rc/hmmyes.gif)|
+|hmph| ![hmph](/emojis/rc/hmph.gif)|
+|hockeystick| ![hockeystick](/emojis/rc/hockeystick.png)|
+|hodor| ![hodor](/emojis/rc/hodor.png)|
+|hogan| ![hogan](/emojis/rc/hogan.png)|
+|hogwarts| ![hogwarts](/emojis/rc/hogwarts.jpg)|
+|hogwarts2| ![hogwarts2](/emojis/rc/hogwarts2.png)|
+|hol-up| ![hol-up](/emojis/rc/hol-up.png)|
+|hold-onto-your-butts| ![hold-onto-your-butts](/emojis/rc/hold-onto-your-butts.png)|
+|hold-plz| ![hold-plz](/emojis/rc/hold-plz.png)|
+|hold-up| ![hold-up](/emojis/rc/hold-up.jpg)|
+|holding_cross| ![holding_cross](/emojis/rc/holding_cross.png)|
+|holeinone| ![holeinone](/emojis/rc/holeinone.png)|
+|holiday-road| ![holiday-road](/emojis/rc/holiday-road.png)|
+|holly| ![holly](/emojis/rc/holly.png)|
+|holy-crap| ![holy-crap](/emojis/rc/holy-crap.gif)|
+|holy_hand_grenade| ![holy_hand_grenade](/emojis/rc/holy_hand_grenade.png)|
+|holy_shit| ![holy_shit](/emojis/rc/holy_shit.jpg)|
+|homedepot| ![homedepot](/emojis/rc/homedepot.png)|
+|homer-appear| ![homer-appear](/emojis/rc/homer-appear.gif)|
+|homer-disappear-into-pizza| ![homer-disappear-into-pizza](/emojis/rc/homer-disappear-into-pizza.gif)|
+|homer-wahoo| ![homer-wahoo](/emojis/rc/homer-wahoo.gif)|
+|homer_cry| ![homer_cry](/emojis/rc/homer_cry.gif)|
+|homer_disappear| ![homer_disappear](/emojis/rc/homer_disappear.gif)|
+|homer_doh| ![homer_doh](/emojis/rc/homer_doh.png)|
+|homer_nerd| ![homer_nerd](/emojis/rc/homer_nerd.png)|
+|homer_salute| ![homer_salute](/emojis/rc/homer_salute.png)|
+|homer_simpsonq| ![homer_simpsonq](/emojis/rc/homer_simpsonq.png)|
+|homer_squint| ![homer_squint](/emojis/rc/homer_squint.png)|
+|homer_thinking| ![homer_thinking](/emojis/rc/homer_thinking.png)|
 |homerthumbsup| ![homerthumbsup](/emojis/rc/homerthumbsup.png)|
 |homest| ![homest](/emojis/rc/homest.png)|
 |honest_abe| ![honest_abe](/emojis/rc/honest_abe.png)|
@@ -66,50 +108,8 @@
 |hugs| ![hugs](/emojis/rc/hugs.png)|
 |huh| ![huh](/emojis/rc/huh.gif)|
 |huhh| ![huhh](/emojis/rc/huhh.gif)|
-|hulk| ![hulk](/emojis/rc/hulk.png)|
-|hummingbird| ![hummingbird](/emojis/rc/hummingbird.jpg)|
-|humpday| ![humpday](/emojis/rc/humpday.png)|
-|hungry| ![hungry](/emojis/rc/hungry.jpg)|
-|hungry_andy| ![hungry_andy](/emojis/rc/hungry_andy.jpg)|
-|hungry_keith| ![hungry_keith](/emojis/rc/hungry_keith.png)|
-|hungry_snickers| ![hungry_snickers](/emojis/rc/hungry_snickers.png)|
-|hungry_tony| ![hungry_tony](/emojis/rc/hungry_tony.png)|
-|hunt| ![hunt](/emojis/rc/hunt.png)|
-|hunter| ![hunter](/emojis/rc/hunter.png)|
-|hunter2| ![hunter2](/emojis/rc/hunter2.png)|
-|hunting| ![hunting](/emojis/rc/hunting.png)|
-|hunting_wabbits| ![hunting_wabbits](/emojis/rc/hunting_wabbits.jpg)|
-|hurray| ![hurray](/emojis/rc/hurray.gif)|
-|hurry-up-and-stop-hogging-staging| ![hurry-up-and-stop-hogging-staging](/emojis/rc/hurry-up-and-stop-hogging-staging.gif)|
-|hurtrealbad| ![hurtrealbad](/emojis/rc/hurtrealbad.png)|
-|huzzah| ![huzzah](/emojis/rc/huzzah.gif)|
-|hype-cat| ![hype-cat](/emojis/rc/hype-cat.gif)|
-|hype-elmo| ![hype-elmo](/emojis/rc/hype-elmo.gif)|
-|hype-it| ![hype-it](/emojis/rc/hype-it.gif)|
-|hypercatjam| ![hypercatjam](/emojis/rc/hypercatjam.gif)|
-|hyperthink3d| ![hyperthink3d](/emojis/rc/hyperthink3d.gif)|
-|hypnotoad| ![hypnotoad](/emojis/rc/hypnotoad.gif)|
-|i'll-go-to-your-party-but-i-refuse-to-enjoy-myself| ![i'll-go-to-your-party-but-i-refuse-to-enjoy-myself](/emojis/rc/i'll-go-to-your-party-but-i-refuse-to-enjoy-myself.png)|
-|i'll_allow_it| ![i'll_allow_it](/emojis/rc/i'll_allow_it.jpg)|
-|i'm-in| ![i'm-in](/emojis/rc/i'm-in.gif)|
-|i-am-disappoint| ![i-am-disappoint](/emojis/rc/i-am-disappoint.png)|
-|i-can't-believe-it's-not-splunk| ![i-can't-believe-it's-not-splunk](/emojis/rc/i-can't-believe-it's-not-splunk.png)|
-|i-cannot-win-game-changer| ![i-cannot-win-game-changer](/emojis/rc/i-cannot-win-game-changer.gif)|
-|i-don't-always-commit-but-when-i-do-break-the-build| ![i-don't-always-commit-but-when-i-do-break-the-build](/emojis/rc/i-don't-always-commit-but-when-i-do-break-the-build.png)|
-|i-dont-dislike-that| ![i-dont-dislike-that](/emojis/rc/i-dont-dislike-that.png)|
-|i-dont-feel-so-blob| ![i-dont-feel-so-blob](/emojis/rc/i-dont-feel-so-blob.gif)|
-|i-dont-know-panda| ![i-dont-know-panda](/emojis/rc/i-dont-know-panda.gif)|
-|i-dont-speak-spanish| ![i-dont-speak-spanish](/emojis/rc/i-dont-speak-spanish.gif)|
-|i-got-your-back| ![i-got-your-back](/emojis/rc/i-got-your-back.png)|
-|i-gotta-focus-im-shifting-into-soup-mode| ![i-gotta-focus-im-shifting-into-soup-mode](/emojis/rc/i-gotta-focus-im-shifting-into-soup-mode.png)|
-|i-guess| ![i-guess](/emojis/rc/i-guess.png)|
-|i-just-work-here| ![i-just-work-here](/emojis/rc/i-just-work-here.png)|
-|i-know| ![i-know](/emojis/rc/i-know.gif)|
-|i-like-it-picasso| ![i-like-it-picasso](/emojis/rc/i-like-it-picasso.gif)|
-|i-like-it| ![i-like-it](/emojis/rc/i-like-it.png)|
-|i-like-the-cut-of-your-jib| ![i-like-the-cut-of-your-jib](/emojis/rc/i-like-the-cut-of-your-jib.jpg)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-h-0052.md)
-  | [Next Page](/docs/rc/page-i-0054.md)
+  | [Next Page](/docs/rc/page-h-0054.md)

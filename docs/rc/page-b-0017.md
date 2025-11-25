@@ -8,6 +8,21 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-begrudgingly-offers-you-a-plus| ![bufo-begrudgingly-offers-you-a-plus](/emojis/rc/bufo-begrudgingly-offers-you-a-plus.png)|
+|bufo-begs-for-ethernet-cable| ![bufo-begs-for-ethernet-cable](/emojis/rc/bufo-begs-for-ethernet-cable.png)|
+|bufo-behind-bars| ![bufo-behind-bars](/emojis/rc/bufo-behind-bars.png)|
+|bufo-bell-pepper| ![bufo-bell-pepper](/emojis/rc/bufo-bell-pepper.png)|
+|bufo-betray-but-its-a-hotdog| ![bufo-betray-but-its-a-hotdog](/emojis/rc/bufo-betray-but-its-a-hotdog.png)|
+|bufo-betray| ![bufo-betray](/emojis/rc/bufo-betray.png)|
+|bufo-big-eyes-stare| ![bufo-big-eyes-stare](/emojis/rc/bufo-big-eyes-stare.png)|
+|bufo-bigfoot| ![bufo-bigfoot](/emojis/rc/bufo-bigfoot.png)|
+|bufo-bill-pay| ![bufo-bill-pay](/emojis/rc/bufo-bill-pay.png)|
+|bufo-birthday-but-not-particularly-happy| ![bufo-birthday-but-not-particularly-happy](/emojis/rc/bufo-birthday-but-not-particularly-happy.png)|
+|bufo-black-history| ![bufo-black-history](/emojis/rc/bufo-black-history.png)|
+|bufo-black-tea| ![bufo-black-tea](/emojis/rc/bufo-black-tea.png)|
+|bufo-blank-sign| ![bufo-blank-sign](/emojis/rc/bufo-blank-sign.png)|
+|bufo-blank-stare| ![bufo-blank-stare](/emojis/rc/bufo-blank-stare.png)|
+|bufo-blank-stare_0_0| ![bufo-blank-stare_0_0](/emojis/rc/bufo-blank-stare_0_0.png)|
 |bufo-blank-stare_0_1| ![bufo-blank-stare_0_1](/emojis/rc/bufo-blank-stare_0_1.png)|
 |bufo-blank-stare_1_0| ![bufo-blank-stare_1_0](/emojis/rc/bufo-blank-stare_1_0.png)|
 |bufo-blank-stare_1_1| ![bufo-blank-stare_1_1](/emojis/rc/bufo-blank-stare_1_1.png)|
@@ -23,8 +38,10 @@
 |bufo-blueberries| ![bufo-blueberries](/emojis/rc/bufo-blueberries.png)|
 |bufo-blush| ![bufo-blush](/emojis/rc/bufo-blush.gif)|
 |bufo-boba-army| ![bufo-boba-army](/emojis/rc/bufo-boba-army.png)|
+|bufo-boba| ![bufo-boba](/emojis/rc/bufo-boba.png)|
 |bufo-boi| ![bufo-boi](/emojis/rc/bufo-boi.gif)|
 |bufo-boiii| ![bufo-boiii](/emojis/rc/bufo-boiii.gif)|
+|bufo-bongo| ![bufo-bongo](/emojis/rc/bufo-bongo.gif)|
 |bufo-bonk| ![bufo-bonk](/emojis/rc/bufo-bonk.png)|
 |bufo-bops-you-on-the-head-with-a-baguette| ![bufo-bops-you-on-the-head-with-a-baguette](/emojis/rc/bufo-bops-you-on-the-head-with-a-baguette.png)|
 |bufo-bops-you-on-the-head-with-a-rolled-up-newspaper| ![bufo-bops-you-on-the-head-with-a-rolled-up-newspaper](/emojis/rc/bufo-bops-you-on-the-head-with-a-rolled-up-newspaper.png)|
@@ -42,6 +59,7 @@
 |bufo-breaks-up-with-you| ![bufo-breaks-up-with-you](/emojis/rc/bufo-breaks-up-with-you.png)|
 |bufo-breaks-your-heart| ![bufo-breaks-your-heart](/emojis/rc/bufo-breaks-your-heart.png)|
 |bufo-brent| ![bufo-brent](/emojis/rc/bufo-brent.png)|
+|bufo-brick| ![bufo-brick](/emojis/rc/bufo-brick.png)|
 |bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle| ![bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle](/emojis/rc/bufo-brings-a-new-meaning-to-brain-freeze-by-bopping-you-on-the-head-with-a-popsicle.gif)|
 |bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud| ![bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud](/emojis/rc/bufo-brings-a-new-meaning-to-gaveled-by-slamming-the-hammer-very-loud.gif)|
 |bufo-brings-magic-to-the-riot| ![bufo-brings-magic-to-the-riot](/emojis/rc/bufo-brings-magic-to-the-riot.gif)|
@@ -90,24 +108,6 @@
 |bufo-chefkiss| ![bufo-chefkiss](/emojis/rc/bufo-chefkiss.png)|
 |bufo-cherries| ![bufo-cherries](/emojis/rc/bufo-cherries.png)|
 |bufo-chicken| ![bufo-chicken](/emojis/rc/bufo-chicken.gif)|
-|bufo-chomp| ![bufo-chomp](/emojis/rc/bufo-chomp.gif)|
-|bufo-chungus| ![bufo-chungus](/emojis/rc/bufo-chungus.png)|
-|bufo-churns-the-butter| ![bufo-churns-the-butter](/emojis/rc/bufo-churns-the-butter.gif)|
-|bufo-clap| ![bufo-clap](/emojis/rc/bufo-clap.gif)|
-|bufo-claus| ![bufo-claus](/emojis/rc/bufo-claus.png)|
-|bufo-clown| ![bufo-clown](/emojis/rc/bufo-clown.png)|
-|bufo-cockatiel| ![bufo-cockatiel](/emojis/rc/bufo-cockatiel.png)|
-|bufo-coconut| ![bufo-coconut](/emojis/rc/bufo-coconut.png)|
-|bufo-code-freeze| ![bufo-code-freeze](/emojis/rc/bufo-code-freeze.png)|
-|bufo-coding| ![bufo-coding](/emojis/rc/bufo-coding.png)|
-|bufo-coin| ![bufo-coin](/emojis/rc/bufo-coin.gif)|
-|bufo-coke| ![bufo-coke](/emojis/rc/bufo-coke.png)|
-|bufo-come-to-the-dark-side| ![bufo-come-to-the-dark-side](/emojis/rc/bufo-come-to-the-dark-side.png)|
-|bufo-commits-digital-piracy| ![bufo-commits-digital-piracy](/emojis/rc/bufo-commits-digital-piracy.png)|
-|bufo-competes-in-the-bufo-bracket| ![bufo-competes-in-the-bufo-bracket](/emojis/rc/bufo-competes-in-the-bufo-bracket.png)|
-|bufo-complies-with-the-chinese-government| ![bufo-complies-with-the-chinese-government](/emojis/rc/bufo-complies-with-the-chinese-government.png)|
-|bufo-concerned-shrug| ![bufo-concerned-shrug](/emojis/rc/bufo-concerned-shrug.png)|
-|bufo-concerned| ![bufo-concerned](/emojis/rc/bufo-concerned.png)|
 
 <hr/>
 

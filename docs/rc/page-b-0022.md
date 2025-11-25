@@ -8,6 +8,33 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-knife-crying-right| ![bufo-knife-crying-right](/emojis/rc/bufo-knife-crying-right.gif)|
+|bufo-knife-crying| ![bufo-knife-crying](/emojis/rc/bufo-knife-crying.gif)|
+|bufo-knife-intensifies| ![bufo-knife-intensifies](/emojis/rc/bufo-knife-intensifies.gif)|
+|bufo-knife-party| ![bufo-knife-party](/emojis/rc/bufo-knife-party.gif)|
+|bufo-knife-spin| ![bufo-knife-spin](/emojis/rc/bufo-knife-spin.gif)|
+|bufo-knife-stab| ![bufo-knife-stab](/emojis/rc/bufo-knife-stab.png)|
+|bufo-knife| ![bufo-knife](/emojis/rc/bufo-knife.png)|
+|bufo-knows-age-is-just-a-number| ![bufo-knows-age-is-just-a-number](/emojis/rc/bufo-knows-age-is-just-a-number.png)|
+|bufo-knows-his-customers| ![bufo-knows-his-customers](/emojis/rc/bufo-knows-his-customers.jpg)|
+|bufo-knows-this-is-a-total-bop| ![bufo-knows-this-is-a-total-bop](/emojis/rc/bufo-knows-this-is-a-total-bop.gif)|
+|bufo-knuckle-sandwich| ![bufo-knuckle-sandwich](/emojis/rc/bufo-knuckle-sandwich.gif)|
+|bufo-knuckles| ![bufo-knuckles](/emojis/rc/bufo-knuckles.png)|
+|bufo-koi| ![bufo-koi](/emojis/rc/bufo-koi.png)|
+|bufo-kudo| ![bufo-kudo](/emojis/rc/bufo-kudo.png)|
+|bufo-kuzco-has-not-learned-his-lesson-yet| ![bufo-kuzco-has-not-learned-his-lesson-yet](/emojis/rc/bufo-kuzco-has-not-learned-his-lesson-yet.png)|
+|bufo-kuzco| ![bufo-kuzco](/emojis/rc/bufo-kuzco.png)|
+|bufo-laser-eyes| ![bufo-laser-eyes](/emojis/rc/bufo-laser-eyes.jpg)|
+|bufo-late-to-the-convo| ![bufo-late-to-the-convo](/emojis/rc/bufo-late-to-the-convo.png)|
+|bufo-laugh-xd| ![bufo-laugh-xd](/emojis/rc/bufo-laugh-xd.png)|
+|bufo-laughs-to-mask-the-pain| ![bufo-laughs-to-mask-the-pain](/emojis/rc/bufo-laughs-to-mask-the-pain.png)|
+|bufo-leads-the-way-to-better-docs| ![bufo-leads-the-way-to-better-docs](/emojis/rc/bufo-leads-the-way-to-better-docs.png)|
+|bufo-leaves-you-on-seen| ![bufo-leaves-you-on-seen](/emojis/rc/bufo-leaves-you-on-seen.png)|
+|bufo-left-a-comment| ![bufo-left-a-comment](/emojis/rc/bufo-left-a-comment.png)|
+|bufo-left-multiple-comments| ![bufo-left-multiple-comments](/emojis/rc/bufo-left-multiple-comments.png)|
+|bufo-legal-entities| ![bufo-legal-entities](/emojis/rc/bufo-legal-entities.png)|
+|bufo-lemon| ![bufo-lemon](/emojis/rc/bufo-lemon.png)|
+|bufo-leprechaun| ![bufo-leprechaun](/emojis/rc/bufo-leprechaun.png)|
 |bufo-let-them-eat-cake| ![bufo-let-them-eat-cake](/emojis/rc/bufo-let-them-eat-cake.png)|
 |bufo-lgtm-1| ![bufo-lgtm-1](/emojis/rc/bufo-lgtm-1.png)|
 |bufo-liberty-forgot-her-torch| ![bufo-liberty-forgot-her-torch](/emojis/rc/bufo-liberty-forgot-her-torch.png)|
@@ -44,6 +71,7 @@
 |bufo-makes-the-dream-work| ![bufo-makes-the-dream-work](/emojis/rc/bufo-makes-the-dream-work.png)|
 |bufo-mama-mia-thatsa-one-spicy-a-meatball| ![bufo-mama-mia-thatsa-one-spicy-a-meatball](/emojis/rc/bufo-mama-mia-thatsa-one-spicy-a-meatball.png)|
 |bufo-mario| ![bufo-mario](/emojis/rc/bufo-mario.png)|
+|bufo-mask| ![bufo-mask](/emojis/rc/bufo-mask.png)|
 |bufo-matrix| ![bufo-matrix](/emojis/rc/bufo-matrix.gif)|
 |bufo-meltdown| ![bufo-meltdown](/emojis/rc/bufo-meltdown.png)|
 |bufo-melting| ![bufo-melting](/emojis/rc/bufo-melting.png)|
@@ -80,34 +108,6 @@
 |bufo-no-more-today-thank-you| ![bufo-no-more-today-thank-you](/emojis/rc/bufo-no-more-today-thank-you.gif)|
 |bufo-no-problem| ![bufo-no-problem](/emojis/rc/bufo-no-problem.png)|
 |bufo-no-ragrets| ![bufo-no-ragrets](/emojis/rc/bufo-no-ragrets.png)|
-|bufo-no| ![bufo-no](/emojis/rc/bufo-no.gif)|
-|bufo-noidea-shrug| ![bufo-noidea-shrug](/emojis/rc/bufo-noidea-shrug.png)|
-|bufo-nope| ![bufo-nope](/emojis/rc/bufo-nope.gif)|
-|bufo-nosy| ![bufo-nosy](/emojis/rc/bufo-nosy.png)|
-|bufo-not-bad-by-dalle| ![bufo-not-bad-by-dalle](/emojis/rc/bufo-not-bad-by-dalle.png)|
-|bufo-not-my-problem| ![bufo-not-my-problem](/emojis/rc/bufo-not-my-problem.png)|
-|bufo-not-respecting-your-personal-space| ![bufo-not-respecting-your-personal-space](/emojis/rc/bufo-not-respecting-your-personal-space.png)|
-|bufo-notice-me-senpai| ![bufo-notice-me-senpai](/emojis/rc/bufo-notice-me-senpai.gif)|
-|bufo-notification| ![bufo-notification](/emojis/rc/bufo-notification.png)|
-|bufo-nyc| ![bufo-nyc](/emojis/rc/bufo-nyc.png)|
-|bufo-oatly| ![bufo-oatly](/emojis/rc/bufo-oatly.png)|
-|bufo-oblivious-and-innocent| ![bufo-oblivious-and-innocent](/emojis/rc/bufo-oblivious-and-innocent.png)|
-|bufo-of-liberty| ![bufo-of-liberty](/emojis/rc/bufo-of-liberty.png)|
-|bufo-offering-bufo-offering-bufo-offering-bufo| ![bufo-offering-bufo-offering-bufo-offering-bufo](/emojis/rc/bufo-offering-bufo-offering-bufo-offering-bufo.png)|
-|bufo-offers-200| ![bufo-offers-200](/emojis/rc/bufo-offers-200.png)|
-|bufo-offers-a-bagel| ![bufo-offers-a-bagel](/emojis/rc/bufo-offers-a-bagel.png)|
-|bufo-offers-a-ball-of-mud| ![bufo-offers-a-ball-of-mud](/emojis/rc/bufo-offers-a-ball-of-mud.png)|
-|bufo-offers-a-banana-in-these-trying-times| ![bufo-offers-a-banana-in-these-trying-times](/emojis/rc/bufo-offers-a-banana-in-these-trying-times.png)|
-|bufo-offers-a-beer| ![bufo-offers-a-beer](/emojis/rc/bufo-offers-a-beer.png)|
-|bufo-offers-a-bicycle| ![bufo-offers-a-bicycle](/emojis/rc/bufo-offers-a-bicycle.png)|
-|bufo-offers-a-bolillo-para-el-susto| ![bufo-offers-a-bolillo-para-el-susto](/emojis/rc/bufo-offers-a-bolillo-para-el-susto.png)|
-|bufo-offers-a-book| ![bufo-offers-a-book](/emojis/rc/bufo-offers-a-book.png)|
-|bufo-offers-a-brain| ![bufo-offers-a-brain](/emojis/rc/bufo-offers-a-brain.png)|
-|bufo-offers-a-bufo-egg-in-this-trying-time| ![bufo-offers-a-bufo-egg-in-this-trying-time](/emojis/rc/bufo-offers-a-bufo-egg-in-this-trying-time.png)|
-|bufo-offers-a-bug| ![bufo-offers-a-bug](/emojis/rc/bufo-offers-a-bug.png)|
-|bufo-offers-a-burger| ![bufo-offers-a-burger](/emojis/rc/bufo-offers-a-burger.png)|
-|bufo-offers-a-cake| ![bufo-offers-a-cake](/emojis/rc/bufo-offers-a-cake.png)|
-|bufo-offers-a-clover| ![bufo-offers-a-clover](/emojis/rc/bufo-offers-a-clover.png)|
 
 <hr/>
 

@@ -1,37 +1,13 @@
 
-## Emojis (Page 96)
+## Emojis (Page 97)
 
-[Previous Page](/docs/rc/page-t-0095.md)
-  | [Next Page](/docs/rc/page-w-0097.md)
+[Previous Page](/docs/rc/page-t-0096.md)
+  | [Next Page](/docs/rc/page-w-0098.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
-|us-fl| ![us-fl](/emojis/rc/us-fl.png)|
-|usa_parrot| ![usa_parrot](/emojis/rc/usa_parrot.gif)|
-|usefulzoidberg| ![usefulzoidberg](/emojis/rc/usefulzoidberg.gif)|
-|usmc| ![usmc](/emojis/rc/usmc.png)|
-|utc_or_gtfo| ![utc_or_gtfo](/emojis/rc/utc_or_gtfo.png)|
-|uterus-angry-intensifies| ![uterus-angry-intensifies](/emojis/rc/uterus-angry-intensifies.gif)|
-|uterus-angry| ![uterus-angry](/emojis/rc/uterus-angry.png)|
-|uv| ![uv](/emojis/rc/uv.png)|
-|uwu| ![uwu](/emojis/rc/uwu.png)|
-|ux| ![ux](/emojis/rc/ux.png)|
-|v60_coffee| ![v60_coffee](/emojis/rc/v60_coffee.png)|
-|v_excited| ![v_excited](/emojis/rc/v_excited.png)|
-|vaccine_party| ![vaccine_party](/emojis/rc/vaccine_party.gif)|
-|vacuum| ![vacuum](/emojis/rc/vacuum.gif)|
-|vadernooo| ![vadernooo](/emojis/rc/vadernooo.png)|
-|valid| ![valid](/emojis/rc/valid.png)|
-|valueselling_intensifies| ![valueselling_intensifies](/emojis/rc/valueselling_intensifies.gif)|
-|vanilla-ice| ![vanilla-ice](/emojis/rc/vanilla-ice.jpg)|
-|vaporean_bongo| ![vaporean_bongo](/emojis/rc/vaporean_bongo.gif)|
-|vaporeon| ![vaporeon](/emojis/rc/vaporeon.gif)|
-|vaudeville_hook| ![vaudeville_hook](/emojis/rc/vaudeville_hook.png)|
-|vault| ![vault](/emojis/rc/vault.jpg)|
-|vaultboy| ![vaultboy](/emojis/rc/vaultboy.jpg)|
-|vaya-con-dios| ![vaya-con-dios](/emojis/rc/vaya-con-dios.png)|
 |vcd| ![vcd](/emojis/rc/vcd.png)|
 |vectr| ![vectr](/emojis/rc/vectr.png)|
 |veg_heart| ![veg_heart](/emojis/rc/veg_heart.png)|
@@ -51,6 +27,7 @@
 |vespeon| ![vespeon](/emojis/rc/vespeon.png)|
 |veto| ![veto](/emojis/rc/veto.png)|
 |vibe_parrot| ![vibe_parrot](/emojis/rc/vibe_parrot.gif)|
+|vibebros| ![vibebros](/emojis/rc/vibebros.jpg)|
 |vibes| ![vibes](/emojis/rc/vibes.png)|
 |vibing-canary-ani| ![vibing-canary-ani](/emojis/rc/vibing-canary-ani.gif)|
 |vibing-canary| ![vibing-canary](/emojis/rc/vibing-canary.png)|
@@ -79,6 +56,7 @@
 |voltron| ![voltron](/emojis/rc/voltron.jpg)|
 |volunteer| ![volunteer](/emojis/rc/volunteer.png)|
 |volunteer_bolshevik| ![volunteer_bolshevik](/emojis/rc/volunteer_bolshevik.jpg)|
+|vomiting_cowboy| ![vomiting_cowboy](/emojis/rc/vomiting_cowboy.png)|
 |voodoo| ![voodoo](/emojis/rc/voodoo.png)|
 |vote-partyparrot| ![vote-partyparrot](/emojis/rc/vote-partyparrot.gif)|
 |voted| ![voted](/emojis/rc/voted.png)|
@@ -108,8 +86,30 @@
 |walkie-talkie| ![walkie-talkie](/emojis/rc/walkie-talkie.jpg)|
 |walking-the-dog| ![walking-the-dog](/emojis/rc/walking-the-dog.png)|
 |wall_of_text| ![wall_of_text](/emojis/rc/wall_of_text.png)|
+|wallace| ![wallace](/emojis/rc/wallace.png)|
+|wallstreetbets| ![wallstreetbets](/emojis/rc/wallstreetbets.jpg)|
+|walrus| ![walrus](/emojis/rc/walrus.png)|
+|want| ![want](/emojis/rc/want.png)|
+|wario| ![wario](/emojis/rc/wario.gif)|
+|warm_beverage_cheers| ![warm_beverage_cheers](/emojis/rc/warm_beverage_cheers.png)|
+|warmode| ![warmode](/emojis/rc/warmode.png)|
+|warpdrive| ![warpdrive](/emojis/rc/warpdrive.gif)|
+|warren| ![warren](/emojis/rc/warren.png)|
+|wartorta| ![wartorta](/emojis/rc/wartorta.png)|
+|wartortle-encima-de-torta| ![wartortle-encima-de-torta](/emojis/rc/wartortle-encima-de-torta.png)|
+|wash-your-hands| ![wash-your-hands](/emojis/rc/wash-your-hands.jpg)|
+|wasp| ![wasp](/emojis/rc/wasp.png)|
+|wat| ![wat](/emojis/rc/wat.png)|
+|watching| ![watching](/emojis/rc/watching.jpg)|
+|watching2| ![watching2](/emojis/rc/watching2.png)|
+|watching_you| ![watching_you](/emojis/rc/watching_you.gif)|
+|water-park-emoji| ![water-park-emoji](/emojis/rc/water-park-emoji.jpg)|
+|water_tower| ![water_tower](/emojis/rc/water_tower.png)|
+|watercooler-stylized| ![watercooler-stylized](/emojis/rc/watercooler-stylized.png)|
+|watercooler| ![watercooler](/emojis/rc/watercooler.gif)|
+|waterfall| ![waterfall](/emojis/rc/waterfall.jpg)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-t-0095.md)
-  | [Next Page](/docs/rc/page-w-0097.md)
+[Previous Page](/docs/rc/page-t-0096.md)
+  | [Next Page](/docs/rc/page-w-0098.md)

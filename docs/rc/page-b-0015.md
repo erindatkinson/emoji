@@ -8,6 +8,18 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bosco| ![bosco](/emojis/rc/bosco.png)|
+|boss_eric| ![boss_eric](/emojis/rc/boss_eric.png)|
+|bot-first-place-medal| ![bot-first-place-medal](/emojis/rc/bot-first-place-medal.png)|
+|both-design-girls-name| ![both-design-girls-name](/emojis/rc/both-design-girls-name.png)|
+|bounce| ![bounce](/emojis/rc/bounce.gif)|
+|bouncing_dvd| ![bouncing_dvd](/emojis/rc/bouncing_dvd.gif)|
+|bourbon| ![bourbon](/emojis/rc/bourbon.png)|
+|bow_down| ![bow_down](/emojis/rc/bow_down.gif)|
+|bow_hat_tip| ![bow_hat_tip](/emojis/rc/bow_hat_tip.gif)|
+|bowing| ![bowing](/emojis/rc/bowing.gif)|
+|bowlkutkeith| ![bowlkutkeith](/emojis/rc/bowlkutkeith.png)|
+|bowser| ![bowser](/emojis/rc/bowser.gif)|
 |bowsermariokart| ![bowsermariokart](/emojis/rc/bowsermariokart.gif)|
 |bowtie| ![bowtie](/emojis/rc/bowtie.png)|
 |boybye| ![boybye](/emojis/rc/boybye.png)|
@@ -96,18 +108,6 @@
 |bsd-with-it| ![bsd-with-it](/emojis/rc/bsd-with-it.gif)|
 |bsod| ![bsod](/emojis/rc/bsod.png)|
 |btc| ![btc](/emojis/rc/btc.gif)|
-|btw| ![btw](/emojis/rc/btw.png)|
-|bubble-wrangler-blood-sob| ![bubble-wrangler-blood-sob](/emojis/rc/bubble-wrangler-blood-sob.png)|
-|bubble-wrangler-da| ![bubble-wrangler-da](/emojis/rc/bubble-wrangler-da.png)|
-|bubble-wrangler-globe| ![bubble-wrangler-globe](/emojis/rc/bubble-wrangler-globe.gif)|
-|bubble-wrangler-intensifies| ![bubble-wrangler-intensifies](/emojis/rc/bubble-wrangler-intensifies.gif)|
-|bubble-wrangler-on-fire| ![bubble-wrangler-on-fire](/emojis/rc/bubble-wrangler-on-fire.gif)|
-|bubble-wrangler-painting| ![bubble-wrangler-painting](/emojis/rc/bubble-wrangler-painting.png)|
-|bubble-wrangler-party| ![bubble-wrangler-party](/emojis/rc/bubble-wrangler-party.gif)|
-|bubble-wrangler-sad| ![bubble-wrangler-sad](/emojis/rc/bubble-wrangler-sad.png)|
-|bubble-wrangler-sob| ![bubble-wrangler-sob](/emojis/rc/bubble-wrangler-sob.png)|
-|bubble-wrangler-spin| ![bubble-wrangler-spin](/emojis/rc/bubble-wrangler-spin.gif)|
-|bubble-wrangler-technologist| ![bubble-wrangler-technologist](/emojis/rc/bubble-wrangler-technologist.png)|
 
 <hr/>
 

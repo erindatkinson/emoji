@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|approve| ![approve](/emojis/rc/approve.png)|
+|approved-cowboy-gun| ![approved-cowboy-gun](/emojis/rc/approved-cowboy-gun.gif)|
+|approved-lime| ![approved-lime](/emojis/rc/approved-lime.gif)|
+|approved-paw| ![approved-paw](/emojis/rc/approved-paw.png)|
+|approved-stamp| ![approved-stamp](/emojis/rc/approved-stamp.png)|
+|approved-with-feedback| ![approved-with-feedback](/emojis/rc/approved-with-feedback.png)|
+|approved| ![approved](/emojis/rc/approved.png)|
 |approved_stamp| ![approved_stamp](/emojis/rc/approved_stamp.png)|
 |april-1st| ![april-1st](/emojis/rc/april-1st.png)|
 |april-25th| ![april-25th](/emojis/rc/april-25th.png)|
@@ -101,13 +108,6 @@
 |avolove| ![avolove](/emojis/rc/avolove.png)|
 |aw-shucks| ![aw-shucks](/emojis/rc/aw-shucks.gif)|
 |aw-yeah-awni| ![aw-yeah-awni](/emojis/rc/aw-yeah-awni.png)|
-|aw| ![aw](/emojis/rc/aw.png)|
-|aw_yeah| ![aw_yeah](/emojis/rc/aw_yeah.gif)|
-|awake-but-at-what-cost| ![awake-but-at-what-cost](/emojis/rc/awake-but-at-what-cost.jpg)|
-|award| ![award](/emojis/rc/award.png)|
-|away| ![away](/emojis/rc/away.png)|
-|awesome-sauce| ![awesome-sauce](/emojis/rc/awesome-sauce.gif)|
-|awesome| ![awesome](/emojis/rc/awesome.gif)|
 
 <hr/>
 

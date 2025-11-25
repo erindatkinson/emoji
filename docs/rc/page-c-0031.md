@@ -1,13 +1,51 @@
 
 ## Emojis (Page 31)
 
-[Previous Page](/docs/rc/page-c-0030.md)
+[Previous Page](/docs/rc/page-b-0030.md)
   | [Next Page](/docs/rc/page-c-0032.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|cancan-blood-sob| ![cancan-blood-sob](/emojis/rc/cancan-blood-sob.png)|
+|cancan-cry| ![cancan-cry](/emojis/rc/cancan-cry.png)|
+|cancan-da| ![cancan-da](/emojis/rc/cancan-da.png)|
+|cancan-intensifies| ![cancan-intensifies](/emojis/rc/cancan-intensifies.gif)|
+|cancan-on-fire| ![cancan-on-fire](/emojis/rc/cancan-on-fire.png)|
+|cancan-sob| ![cancan-sob](/emojis/rc/cancan-sob.png)|
+|cancan| ![cancan](/emojis/rc/cancan.png)|
+|cancancancan-intensifies| ![cancancancan-intensifies](/emojis/rc/cancancancan-intensifies.gif)|
+|cancancancan| ![cancancancan](/emojis/rc/cancancancan.png)|
+|cancel| ![cancel](/emojis/rc/cancel.png)|
+|cancelled| ![cancelled](/emojis/rc/cancelled.png)|
+|candy_cane| ![candy_cane](/emojis/rc/candy_cane.png)|
+|candycorn| ![candycorn](/emojis/rc/candycorn.png)|
+|candycorn_malort| ![candycorn_malort](/emojis/rc/candycorn_malort.jpg)|
+|canned-cranberry| ![canned-cranberry](/emojis/rc/canned-cranberry.png)|
+|canned-peach| ![canned-peach](/emojis/rc/canned-peach.png)|
+|canofworms| ![canofworms](/emojis/rc/canofworms.gif)|
+|cant_stop_wont_stop| ![cant_stop_wont_stop](/emojis/rc/cant_stop_wont_stop.gif)|
+|cantstopjanelle| ![cantstopjanelle](/emojis/rc/cantstopjanelle.jpg)|
+|canvas| ![canvas](/emojis/rc/canvas.jpg)|
+|canvas_bob_ross| ![canvas_bob_ross](/emojis/rc/canvas_bob_ross.gif)|
+|cap-bee-bara| ![cap-bee-bara](/emojis/rc/cap-bee-bara.jpg)|
+|cap| ![cap](/emojis/rc/cap.png)|
+|capitalism-face| ![capitalism-face](/emojis/rc/capitalism-face.png)|
+|capiv_partyy| ![capiv_partyy](/emojis/rc/capiv_partyy.gif)|
+|cappuccino| ![cappuccino](/emojis/rc/cappuccino.png)|
+|cappuccino1| ![cappuccino1](/emojis/rc/cappuccino1.png)|
+|capricorn-toon| ![capricorn-toon](/emojis/rc/capricorn-toon.png)|
+|capt_falcon| ![capt_falcon](/emojis/rc/capt_falcon.png)|
+|captain_america| ![captain_america](/emojis/rc/captain_america.gif)|
+|captain_america_dino| ![captain_america_dino](/emojis/rc/captain_america_dino.png)|
+|captain_falcon| ![captain_falcon](/emojis/rc/captain_falcon.png)|
+|captain_girvin| ![captain_girvin](/emojis/rc/captain_girvin.png)|
+|captain_obvious| ![captain_obvious](/emojis/rc/captain_obvious.png)|
+|captain_persico| ![captain_persico](/emojis/rc/captain_persico.png)|
+|captain_planet| ![captain_planet](/emojis/rc/captain_planet.png)|
+|captainmarvel| ![captainmarvel](/emojis/rc/captainmarvel.png)|
+|capture| ![capture](/emojis/rc/capture.png)|
 |capy| ![capy](/emojis/rc/capy.jpg)|
 |capybara-cry| ![capybara-cry](/emojis/rc/capybara-cry.png)|
 |capybara-yay| ![capybara-yay](/emojis/rc/capybara-yay.png)|
@@ -70,46 +108,8 @@
 |cat-tongue| ![cat-tongue](/emojis/rc/cat-tongue.png)|
 |cat-tree| ![cat-tree](/emojis/rc/cat-tree.png)|
 |cat-vibing| ![cat-vibing](/emojis/rc/cat-vibing.gif)|
-|cat-waffles| ![cat-waffles](/emojis/rc/cat-waffles.png)|
-|cat-wave| ![cat-wave](/emojis/rc/cat-wave.png)|
-|cat_bank| ![cat_bank](/emojis/rc/cat_bank.gif)|
-|cat_bee| ![cat_bee](/emojis/rc/cat_bee.png)|
-|cat_box| ![cat_box](/emojis/rc/cat_box.gif)|
-|cat_chip| ![cat_chip](/emojis/rc/cat_chip.gif)|
-|cat_confused| ![cat_confused](/emojis/rc/cat_confused.png)|
-|cat_daddy| ![cat_daddy](/emojis/rc/cat_daddy.png)|
-|cat_face_with_monocle| ![cat_face_with_monocle](/emojis/rc/cat_face_with_monocle.png)|
-|cat_good| ![cat_good](/emojis/rc/cat_good.png)|
-|cat_hit| ![cat_hit](/emojis/rc/cat_hit.gif)|
-|cat_in_box| ![cat_in_box](/emojis/rc/cat_in_box.gif)|
-|cat_leave| ![cat_leave](/emojis/rc/cat_leave.gif)|
-|cat_salad| ![cat_salad](/emojis/rc/cat_salad.png)|
-|cat_scream| ![cat_scream](/emojis/rc/cat_scream.gif)|
-|cat_smile| ![cat_smile](/emojis/rc/cat_smile.png)|
-|cat_wiggle_pounce| ![cat_wiggle_pounce](/emojis/rc/cat_wiggle_pounce.gif)|
-|catan| ![catan](/emojis/rc/catan.png)|
-|catastrophic-aws-incident| ![catastrophic-aws-incident](/emojis/rc/catastrophic-aws-incident.gif)|
-|catbag| ![catbag](/emojis/rc/catbag.png)|
-|catboop| ![catboop](/emojis/rc/catboop.png)|
-|catbucket| ![catbucket](/emojis/rc/catbucket.png)|
-|catbug| ![catbug](/emojis/rc/catbug.gif)|
-|catbutt| ![catbutt](/emojis/rc/catbutt.png)|
-|catellite-dish| ![catellite-dish](/emojis/rc/catellite-dish.jpg)|
-|cathack| ![cathack](/emojis/rc/cathack.gif)|
-|caticorn| ![caticorn](/emojis/rc/caticorn.png)|
-|catisfied| ![catisfied](/emojis/rc/catisfied.png)|
-|catjam-reversed| ![catjam-reversed](/emojis/rc/catjam-reversed.gif)|
-|catjam| ![catjam](/emojis/rc/catjam.gif)|
-|catjam_rainbow| ![catjam_rainbow](/emojis/rc/catjam_rainbow.gif)|
-|catjam_slow| ![catjam_slow](/emojis/rc/catjam_slow.gif)|
-|catloaf| ![catloaf](/emojis/rc/catloaf.gif)|
-|catmonarch| ![catmonarch](/emojis/rc/catmonarch.png)|
-|catsanta| ![catsanta](/emojis/rc/catsanta.png)|
-|catsaysyou'rewelcome| ![catsaysyou'rewelcome](/emojis/rc/catsaysyou'rewelcome.gif)|
-|catshake| ![catshake](/emojis/rc/catshake.gif)|
-|catsofull| ![catsofull](/emojis/rc/catsofull.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-c-0030.md)
+[Previous Page](/docs/rc/page-b-0030.md)
   | [Next Page](/docs/rc/page-c-0032.md)

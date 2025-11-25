@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bear-bike-cruisin-cool| ![bear-bike-cruisin-cool](/emojis/rc/bear-bike-cruisin-cool.png)|
+|bear-dance| ![bear-dance](/emojis/rc/bear-dance.gif)|
+|bear-gasp| ![bear-gasp](/emojis/rc/bear-gasp.png)|
+|bear-hat| ![bear-hat](/emojis/rc/bear-hat.png)|
+|bear-hunt| ![bear-hunt](/emojis/rc/bear-hunt.png)|
+|bear-in-a-car| ![bear-in-a-car](/emojis/rc/bear-in-a-car.png)|
+|bear-knife-all-the-way-down| ![bear-knife-all-the-way-down](/emojis/rc/bear-knife-all-the-way-down.gif)|
 |bear-knife-intensifies| ![bear-knife-intensifies](/emojis/rc/bear-knife-intensifies.gif)|
 |bear-knife-party| ![bear-knife-party](/emojis/rc/bear-knife-party.gif)|
 |bear-knife-spin| ![bear-knife-spin](/emojis/rc/bear-knife-spin.gif)|
@@ -48,6 +55,7 @@
 |beastmode2025| ![beastmode2025](/emojis/rc/beastmode2025.png)|
 |beat-dead-horse| ![beat-dead-horse](/emojis/rc/beat-dead-horse.gif)|
 |beating-heart| ![beating-heart](/emojis/rc/beating-heart.gif)|
+|beavis-butthead_jam| ![beavis-butthead_jam](/emojis/rc/beavis-butthead_jam.gif)|
 |bec| ![bec](/emojis/rc/bec.png)|
 |bedge| ![bedge](/emojis/rc/bedge.png)|
 |bee-2x2-row1-col1| ![bee-2x2-row1-col1](/emojis/rc/bee-2x2-row1-col1.png)|
@@ -100,14 +108,6 @@
 |bee-right-party| ![bee-right-party](/emojis/rc/bee-right-party.gif)|
 |bee-right-sad| ![bee-right-sad](/emojis/rc/bee-right-sad.png)|
 |bee-right-sob| ![bee-right-sob](/emojis/rc/bee-right-sob.png)|
-|bee-right-spin| ![bee-right-spin](/emojis/rc/bee-right-spin.gif)|
-|bee-right-technologist| ![bee-right-technologist](/emojis/rc/bee-right-technologist.png)|
-|bee-right-waves| ![bee-right-waves](/emojis/rc/bee-right-waves.gif)|
-|bee-right-wolf| ![bee-right-wolf](/emojis/rc/bee-right-wolf.png)|
-|bee-right| ![bee-right](/emojis/rc/bee-right.png)|
-|bee-sad| ![bee-sad](/emojis/rc/bee-sad.png)|
-|bee-sob| ![bee-sob](/emojis/rc/bee-sob.png)|
-|bee-spin| ![bee-spin](/emojis/rc/bee-spin.gif)|
 
 <hr/>
 

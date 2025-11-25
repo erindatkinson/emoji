@@ -8,6 +8,36 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-overthinking-culture-amp-survey-questions| ![bufo-overthinking-culture-amp-survey-questions](/emojis/rc/bufo-overthinking-culture-amp-survey-questions.png)|
+|bufo-packer| ![bufo-packer](/emojis/rc/bufo-packer.png)|
+|bufo-pajama-party| ![bufo-pajama-party](/emojis/rc/bufo-pajama-party.gif)|
+|bufo-palpatine| ![bufo-palpatine](/emojis/rc/bufo-palpatine.png)|
+|bufo-parrot| ![bufo-parrot](/emojis/rc/bufo-parrot.gif)|
+|bufo-party-birthday| ![bufo-party-birthday](/emojis/rc/bufo-party-birthday.png)|
+|bufo-party-conga-line| ![bufo-party-conga-line](/emojis/rc/bufo-party-conga-line.gif)|
+|bufo-passed-the-load-test| ![bufo-passed-the-load-test](/emojis/rc/bufo-passed-the-load-test.png)|
+|bufo-passes-the-vibe-check| ![bufo-passes-the-vibe-check](/emojis/rc/bufo-passes-the-vibe-check.png)|
+|bufo-pat| ![bufo-pat](/emojis/rc/bufo-pat.gif)|
+|bufo-peaks-on-you-from-above| ![bufo-peaks-on-you-from-above](/emojis/rc/bufo-peaks-on-you-from-above.png)|
+|bufo-peaky-blinder| ![bufo-peaky-blinder](/emojis/rc/bufo-peaky-blinder.png)|
+|bufo-pear| ![bufo-pear](/emojis/rc/bufo-pear.png)|
+|bufo-pearly-whites| ![bufo-pearly-whites](/emojis/rc/bufo-pearly-whites.png)|
+|bufo-peek-wall| ![bufo-peek-wall](/emojis/rc/bufo-peek-wall.png)|
+|bufo-peek| ![bufo-peek](/emojis/rc/bufo-peek.png)|
+|bufo-pensivity-turned-discomfort-upon-realization-of-reality| ![bufo-pensivity-turned-discomfort-upon-realization-of-reality](/emojis/rc/bufo-pensivity-turned-discomfort-upon-realization-of-reality.gif)|
+|bufo-phew| ![bufo-phew](/emojis/rc/bufo-phew.png)|
+|bufo-photographer-reverse| ![bufo-photographer-reverse](/emojis/rc/bufo-photographer-reverse.png)|
+|bufo-photographer| ![bufo-photographer](/emojis/rc/bufo-photographer.png)|
+|bufo-pikmin| ![bufo-pikmin](/emojis/rc/bufo-pikmin.png)|
+|bufo-pilgrim| ![bufo-pilgrim](/emojis/rc/bufo-pilgrim.png)|
+|bufo-pinch-hitter| ![bufo-pinch-hitter](/emojis/rc/bufo-pinch-hitter.png)|
+|bufo-pineapple| ![bufo-pineapple](/emojis/rc/bufo-pineapple.png)|
+|bufo-pitchfork| ![bufo-pitchfork](/emojis/rc/bufo-pitchfork.png)|
+|bufo-pitchforks| ![bufo-pitchforks](/emojis/rc/bufo-pitchforks.png)|
+|bufo-pizza-hut| ![bufo-pizza-hut](/emojis/rc/bufo-pizza-hut.png)|
+|bufo-placeholder| ![bufo-placeholder](/emojis/rc/bufo-placeholder.png)|
+|bufo-platformizes| ![bufo-platformizes](/emojis/rc/bufo-platformizes.jpg)|
+|bufo-plays-some-smooth-jazz-intensity-1| ![bufo-plays-some-smooth-jazz-intensity-1](/emojis/rc/bufo-plays-some-smooth-jazz-intensity-1.gif)|
 |bufo-plays-some-smooth-jazz| ![bufo-plays-some-smooth-jazz](/emojis/rc/bufo-plays-some-smooth-jazz.png)|
 |bufo-pleading-1| ![bufo-pleading-1](/emojis/rc/bufo-pleading-1.png)|
 |bufo-pleading| ![bufo-pleading](/emojis/rc/bufo-pleading.png)|
@@ -23,6 +53,7 @@
 |bufo-ponders| ![bufo-ponders](/emojis/rc/bufo-ponders.png)|
 |bufo-poo| ![bufo-poo](/emojis/rc/bufo-poo.png)|
 |bufo-poof| ![bufo-poof](/emojis/rc/bufo-poof.gif)|
+|bufo-popcorn| ![bufo-popcorn](/emojis/rc/bufo-popcorn.gif)|
 |bufo-popping-out-of-the-coffee-upsidedown| ![bufo-popping-out-of-the-coffee-upsidedown](/emojis/rc/bufo-popping-out-of-the-coffee-upsidedown.gif)|
 |bufo-popping-out-of-the-coffee| ![bufo-popping-out-of-the-coffee](/emojis/rc/bufo-popping-out-of-the-coffee.gif)|
 |bufo-pops-out-for-a-quick-bite-to-eat| ![bufo-pops-out-for-a-quick-bite-to-eat](/emojis/rc/bufo-pops-out-for-a-quick-bite-to-eat.png)|
@@ -61,10 +92,12 @@
 |bufo-remembers-bad-time| ![bufo-remembers-bad-time](/emojis/rc/bufo-remembers-bad-time.png)|
 |bufo-returns-to-the-void| ![bufo-returns-to-the-void](/emojis/rc/bufo-returns-to-the-void.png)|
 |bufo-retweet| ![bufo-retweet](/emojis/rc/bufo-retweet.png)|
+|bufo-reverse| ![bufo-reverse](/emojis/rc/bufo-reverse.png)|
 |bufo-review| ![bufo-review](/emojis/rc/bufo-review.png)|
 |bufo-rich| ![bufo-rich](/emojis/rc/bufo-rich.png)|
 |bufo-rick| ![bufo-rick](/emojis/rc/bufo-rick.png)|
 |bufo-rides-in-style| ![bufo-rides-in-style](/emojis/rc/bufo-rides-in-style.png)|
+|bufo-riding-goose| ![bufo-riding-goose](/emojis/rc/bufo-riding-goose.gif)|
 |bufo-riot| ![bufo-riot](/emojis/rc/bufo-riot.gif)|
 |bufo-roasted| ![bufo-roasted](/emojis/rc/bufo-roasted.png)|
 |bufo-rocket| ![bufo-rocket](/emojis/rc/bufo-rocket.png)|
@@ -75,39 +108,6 @@
 |bufo-royalty-sparkle| ![bufo-royalty-sparkle](/emojis/rc/bufo-royalty-sparkle.gif)|
 |bufo-royalty| ![bufo-royalty](/emojis/rc/bufo-royalty.png)|
 |bufo-rtfm| ![bufo-rtfm](/emojis/rc/bufo-rtfm.png)|
-|bufo-rubber-duck| ![bufo-rubber-duck](/emojis/rc/bufo-rubber-duck.png)|
-|bufo-rudolph| ![bufo-rudolph](/emojis/rc/bufo-rudolph.gif)|
-|bufo-run-right| ![bufo-run-right](/emojis/rc/bufo-run-right.gif)|
-|bufo-run| ![bufo-run](/emojis/rc/bufo-run.gif)|
-|bufo-rush| ![bufo-rush](/emojis/rc/bufo-rush.png)|
-|bufo-sad-baguette| ![bufo-sad-baguette](/emojis/rc/bufo-sad-baguette.png)|
-|bufo-sad-but-ok| ![bufo-sad-but-ok](/emojis/rc/bufo-sad-but-ok.png)|
-|bufo-sad-crying-cheese| ![bufo-sad-crying-cheese](/emojis/rc/bufo-sad-crying-cheese.png)|
-|bufo-sad-rain| ![bufo-sad-rain](/emojis/rc/bufo-sad-rain.gif)|
-|bufo-sad| ![bufo-sad](/emojis/rc/bufo-sad.png)|
-|bufo-salivating| ![bufo-salivating](/emojis/rc/bufo-salivating.png)|
-|bufo-salty| ![bufo-salty](/emojis/rc/bufo-salty.png)|
-|bufo-salute| ![bufo-salute](/emojis/rc/bufo-salute.png)|
-|bufo-saves-hyrule| ![bufo-saves-hyrule](/emojis/rc/bufo-saves-hyrule.png)|
-|bufo-says-good-morning-to-test-the-waters| ![bufo-says-good-morning-to-test-the-waters](/emojis/rc/bufo-says-good-morning-to-test-the-waters.png)|
-|bufo-scheduled| ![bufo-scheduled](/emojis/rc/bufo-scheduled.png)|
-|bufo-scientist| ![bufo-scientist](/emojis/rc/bufo-scientist.png)|
-|bufo-screams-into-the-ambient-void-1| ![bufo-screams-into-the-ambient-void-1](/emojis/rc/bufo-screams-into-the-ambient-void-1.png)|
-|bufo-screams-into-the-ambient-void| ![bufo-screams-into-the-ambient-void](/emojis/rc/bufo-screams-into-the-ambient-void.png)|
-|bufo-segway| ![bufo-segway](/emojis/rc/bufo-segway.png)|
-|bufo-sends-a-demand-signal| ![bufo-sends-a-demand-signal](/emojis/rc/bufo-sends-a-demand-signal.gif)|
-|bufo-sends-to-print| ![bufo-sends-to-print](/emojis/rc/bufo-sends-to-print.gif)|
-|bufo-sends-you-to-the-shadow-realm| ![bufo-sends-you-to-the-shadow-realm](/emojis/rc/bufo-sends-you-to-the-shadow-realm.png)|
-|bufo-shakes-up-your-etch-a-sketch| ![bufo-shakes-up-your-etch-a-sketch](/emojis/rc/bufo-shakes-up-your-etch-a-sketch.png)|
-|bufo-shaking-head| ![bufo-shaking-head](/emojis/rc/bufo-shaking-head.gif)|
-|bufo-shame| ![bufo-shame](/emojis/rc/bufo-shame.png)|
-|bufo-shares-his-banana| ![bufo-shares-his-banana](/emojis/rc/bufo-shares-his-banana.png)|
-|bufo-sheesh| ![bufo-sheesh](/emojis/rc/bufo-sheesh.png)|
-|bufo-ship| ![bufo-ship](/emojis/rc/bufo-ship.png)|
-|bufo-shipit| ![bufo-shipit](/emojis/rc/bufo-shipit.png)|
-|bufo-shredding| ![bufo-shredding](/emojis/rc/bufo-shredding.gif)|
-|bufo-shrek-but-canonically-correct| ![bufo-shrek-but-canonically-correct](/emojis/rc/bufo-shrek-but-canonically-correct.png)|
-|bufo-shrek| ![bufo-shrek](/emojis/rc/bufo-shrek.png)|
 
 <hr/>
 

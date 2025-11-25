@@ -8,6 +8,18 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|btw| ![btw](/emojis/rc/btw.png)|
+|bubble-wrangler-blood-sob| ![bubble-wrangler-blood-sob](/emojis/rc/bubble-wrangler-blood-sob.png)|
+|bubble-wrangler-da| ![bubble-wrangler-da](/emojis/rc/bubble-wrangler-da.png)|
+|bubble-wrangler-globe| ![bubble-wrangler-globe](/emojis/rc/bubble-wrangler-globe.gif)|
+|bubble-wrangler-intensifies| ![bubble-wrangler-intensifies](/emojis/rc/bubble-wrangler-intensifies.gif)|
+|bubble-wrangler-on-fire| ![bubble-wrangler-on-fire](/emojis/rc/bubble-wrangler-on-fire.gif)|
+|bubble-wrangler-painting| ![bubble-wrangler-painting](/emojis/rc/bubble-wrangler-painting.png)|
+|bubble-wrangler-party| ![bubble-wrangler-party](/emojis/rc/bubble-wrangler-party.gif)|
+|bubble-wrangler-sad| ![bubble-wrangler-sad](/emojis/rc/bubble-wrangler-sad.png)|
+|bubble-wrangler-sob| ![bubble-wrangler-sob](/emojis/rc/bubble-wrangler-sob.png)|
+|bubble-wrangler-spin| ![bubble-wrangler-spin](/emojis/rc/bubble-wrangler-spin.gif)|
+|bubble-wrangler-technologist| ![bubble-wrangler-technologist](/emojis/rc/bubble-wrangler-technologist.png)|
 |bubble-wrangler-waves| ![bubble-wrangler-waves](/emojis/rc/bubble-wrangler-waves.gif)|
 |bubble-wrangler-wolf| ![bubble-wrangler-wolf](/emojis/rc/bubble-wrangler-wolf.png)|
 |bubble-wrangler| ![bubble-wrangler](/emojis/rc/bubble-wrangler.png)|
@@ -39,6 +51,7 @@
 |bufo's-a-gamer-girl-but-specifically-nyt-games| ![bufo's-a-gamer-girl-but-specifically-nyt-games](/emojis/rc/bufo's-a-gamer-girl-but-specifically-nyt-games.png)|
 |bufo+1| ![bufo+1](/emojis/rc/bufo+1.png)|
 |bufo-10-4| ![bufo-10-4](/emojis/rc/bufo-10-4.png)|
+|bufo-10| ![bufo-10](/emojis/rc/bufo-10.png)|
 |bufo-100| ![bufo-100](/emojis/rc/bufo-100.png)|
 |bufo-2022| ![bufo-2022](/emojis/rc/bufo-2022.png)|
 |bufo-2x2-row1-col1| ![bufo-2x2-row1-col1](/emojis/rc/bufo-2x2-row1-col1.png)|
@@ -84,6 +97,7 @@
 |bufo-baby| ![bufo-baby](/emojis/rc/bufo-baby.png)|
 |bufo-babysits-an-urgent-ticket| ![bufo-babysits-an-urgent-ticket](/emojis/rc/bufo-babysits-an-urgent-ticket.png)|
 |bufo-back-pat| ![bufo-back-pat](/emojis/rc/bufo-back-pat.png)|
+|bufo-bait| ![bufo-bait](/emojis/rc/bufo-bait.png)|
 |bufo-baller| ![bufo-baller](/emojis/rc/bufo-baller.png)|
 |bufo-bandana| ![bufo-bandana](/emojis/rc/bufo-bandana.png)|
 |bufo-barbie| ![bufo-barbie](/emojis/rc/bufo-barbie.png)|
@@ -94,20 +108,6 @@
 |bufo-be-my-valentine| ![bufo-be-my-valentine](/emojis/rc/bufo-be-my-valentine.png)|
 |bufo-became-a-stranger-whose-laugh-you-can-recognize-anywhere| ![bufo-became-a-stranger-whose-laugh-you-can-recognize-anywhere](/emojis/rc/bufo-became-a-stranger-whose-laugh-you-can-recognize-anywhere.png)|
 |bufo-bee-sad| ![bufo-bee-sad](/emojis/rc/bufo-bee-sad.png)|
-|bufo-begrudgingly-offers-you-a-plus| ![bufo-begrudgingly-offers-you-a-plus](/emojis/rc/bufo-begrudgingly-offers-you-a-plus.png)|
-|bufo-begs-for-ethernet-cable| ![bufo-begs-for-ethernet-cable](/emojis/rc/bufo-begs-for-ethernet-cable.png)|
-|bufo-behind-bars| ![bufo-behind-bars](/emojis/rc/bufo-behind-bars.png)|
-|bufo-bell-pepper| ![bufo-bell-pepper](/emojis/rc/bufo-bell-pepper.png)|
-|bufo-betray-but-its-a-hotdog| ![bufo-betray-but-its-a-hotdog](/emojis/rc/bufo-betray-but-its-a-hotdog.png)|
-|bufo-betray| ![bufo-betray](/emojis/rc/bufo-betray.png)|
-|bufo-big-eyes-stare| ![bufo-big-eyes-stare](/emojis/rc/bufo-big-eyes-stare.png)|
-|bufo-bigfoot| ![bufo-bigfoot](/emojis/rc/bufo-bigfoot.png)|
-|bufo-bill-pay| ![bufo-bill-pay](/emojis/rc/bufo-bill-pay.png)|
-|bufo-birthday-but-not-particularly-happy| ![bufo-birthday-but-not-particularly-happy](/emojis/rc/bufo-birthday-but-not-particularly-happy.png)|
-|bufo-black-history| ![bufo-black-history](/emojis/rc/bufo-black-history.png)|
-|bufo-black-tea| ![bufo-black-tea](/emojis/rc/bufo-black-tea.png)|
-|bufo-blank-sign| ![bufo-blank-sign](/emojis/rc/bufo-blank-sign.png)|
-|bufo-blank-stare_0_0| ![bufo-blank-stare_0_0](/emojis/rc/bufo-blank-stare_0_0.png)|
 
 <hr/>
 

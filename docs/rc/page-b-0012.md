@@ -8,6 +8,15 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|blob-dab| ![blob-dab](/emojis/rc/blob-dab.gif)|
+|blob-demo-all-the-way-down| ![blob-demo-all-the-way-down](/emojis/rc/blob-demo-all-the-way-down.gif)|
+|blob-demo-intensifies| ![blob-demo-intensifies](/emojis/rc/blob-demo-intensifies.gif)|
+|blob-demo-party| ![blob-demo-party](/emojis/rc/blob-demo-party.gif)|
+|blob-demo-spin| ![blob-demo-spin](/emojis/rc/blob-demo-spin.gif)|
+|blob-demo| ![blob-demo](/emojis/rc/blob-demo.png)|
+|blob-derpy| ![blob-derpy](/emojis/rc/blob-derpy.png)|
+|blob-disapproves| ![blob-disapproves](/emojis/rc/blob-disapproves.png)|
+|blob-dizzy| ![blob-dizzy](/emojis/rc/blob-dizzy.png)|
 |blob-dj| ![blob-dj](/emojis/rc/blob-dj.gif)|
 |blob-doubt| ![blob-doubt](/emojis/rc/blob-doubt.png)|
 |blob-drool| ![blob-drool](/emojis/rc/blob-drool.png)|
@@ -99,15 +108,6 @@
 |blob-suspicious| ![blob-suspicious](/emojis/rc/blob-suspicious.png)|
 |blob-swanson| ![blob-swanson](/emojis/rc/blob-swanson.png)|
 |blob-sweat| ![blob-sweat](/emojis/rc/blob-sweat.gif)|
-|blob-teefs-party| ![blob-teefs-party](/emojis/rc/blob-teefs-party.gif)|
-|blob-tfc-ionic| ![blob-tfc-ionic](/emojis/rc/blob-tfc-ionic.png)|
-|blob-thanks-i-hate-it| ![blob-thanks-i-hate-it](/emojis/rc/blob-thanks-i-hate-it.png)|
-|blob-thinking-portal-gif| ![blob-thinking-portal-gif](/emojis/rc/blob-thinking-portal-gif.gif)|
-|blob-thinking| ![blob-thinking](/emojis/rc/blob-thinking.gif)|
-|blob-thumbs-up-intensifies| ![blob-thumbs-up-intensifies](/emojis/rc/blob-thumbs-up-intensifies.gif)|
-|blob-thumbs-up| ![blob-thumbs-up](/emojis/rc/blob-thumbs-up.png)|
-|blob-thx| ![blob-thx](/emojis/rc/blob-thx.png)|
-|blob-trace| ![blob-trace](/emojis/rc/blob-trace.png)|
 
 <hr/>
 

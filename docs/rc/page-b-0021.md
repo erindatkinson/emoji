@@ -8,6 +8,33 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-homologates| ![bufo-homologates](/emojis/rc/bufo-homologates.png)|
+|bufo-hop-in-we're-going-to-flavortown| ![bufo-hop-in-we're-going-to-flavortown](/emojis/rc/bufo-hop-in-we're-going-to-flavortown.png)|
+|bufo-hopes-you-also-are-having-a-good-day| ![bufo-hopes-you-also-are-having-a-good-day](/emojis/rc/bufo-hopes-you-also-are-having-a-good-day.png)|
+|bufo-hopes-you-are-having-a-good-day| ![bufo-hopes-you-are-having-a-good-day](/emojis/rc/bufo-hopes-you-are-having-a-good-day.png)|
+|bufo-hotdog-rocket| ![bufo-hotdog-rocket](/emojis/rc/bufo-hotdog-rocket.png)|
+|bufo-howdy| ![bufo-howdy](/emojis/rc/bufo-howdy.png)|
+|bufo-hug-spreadsheet| ![bufo-hug-spreadsheet](/emojis/rc/bufo-hug-spreadsheet.png)|
+|bufo-hug| ![bufo-hug](/emojis/rc/bufo-hug.png)|
+|bufo-hype| ![bufo-hype](/emojis/rc/bufo-hype.gif)|
+|bufo-idea| ![bufo-idea](/emojis/rc/bufo-idea.png)|
+|bufo-idk-but-okay-i-guess-so| ![bufo-idk-but-okay-i-guess-so](/emojis/rc/bufo-idk-but-okay-i-guess-so.png)|
+|bufo-idk| ![bufo-idk](/emojis/rc/bufo-idk.png)|
+|bufo-im-in-danger| ![bufo-im-in-danger](/emojis/rc/bufo-im-in-danger.png)|
+|bufo-imposter| ![bufo-imposter](/emojis/rc/bufo-imposter.png)|
+|bufo-in-a-pear-tree| ![bufo-in-a-pear-tree](/emojis/rc/bufo-in-a-pear-tree.png)|
+|bufo-in-his-cozy-bed-hoping-he-never-gets-capitated| ![bufo-in-his-cozy-bed-hoping-he-never-gets-capitated](/emojis/rc/bufo-in-his-cozy-bed-hoping-he-never-gets-capitated.png)|
+|bufo-inception| ![bufo-inception](/emojis/rc/bufo-inception.png)|
+|bufo-increases-his-dimensionality-while-trapped-in-the-void| ![bufo-increases-his-dimensionality-while-trapped-in-the-void](/emojis/rc/bufo-increases-his-dimensionality-while-trapped-in-the-void.png)|
+|bufo-innocent| ![bufo-innocent](/emojis/rc/bufo-innocent.gif)|
+|bufo-inspired| ![bufo-inspired](/emojis/rc/bufo-inspired.png)|
+|bufo-instigates-a-dramatic-turn-of-events| ![bufo-instigates-a-dramatic-turn-of-events](/emojis/rc/bufo-instigates-a-dramatic-turn-of-events.png)|
+|bufo-intensifies| ![bufo-intensifies](/emojis/rc/bufo-intensifies.gif)|
+|bufo-intern-forever| ![bufo-intern-forever](/emojis/rc/bufo-intern-forever.png)|
+|bufo-investigates| ![bufo-investigates](/emojis/rc/bufo-investigates.png)|
+|bufo-iphone| ![bufo-iphone](/emojis/rc/bufo-iphone.png)|
+|bufo-iron-throne| ![bufo-iron-throne](/emojis/rc/bufo-iron-throne.png)|
+|bufo-ironside| ![bufo-ironside](/emojis/rc/bufo-ironside.png)|
 |bufo-is-a-little-worried-but-still-trying-to-be-supportive| ![bufo-is-a-little-worried-but-still-trying-to-be-supportive](/emojis/rc/bufo-is-a-little-worried-but-still-trying-to-be-supportive.png)|
 |bufo-is-a-part-of-gen-z| ![bufo-is-a-part-of-gen-z](/emojis/rc/bufo-is-a-part-of-gen-z.png)|
 |bufo-is-about-to-zap-you| ![bufo-is-about-to-zap-you](/emojis/rc/bufo-is-about-to-zap-you.png)|
@@ -81,33 +108,6 @@
 |bufo-knife-all-the-way-down| ![bufo-knife-all-the-way-down](/emojis/rc/bufo-knife-all-the-way-down.gif)|
 |bufo-knife-cries-right| ![bufo-knife-cries-right](/emojis/rc/bufo-knife-cries-right.png)|
 |bufo-knife-crying-left| ![bufo-knife-crying-left](/emojis/rc/bufo-knife-crying-left.gif)|
-|bufo-knife-crying-right| ![bufo-knife-crying-right](/emojis/rc/bufo-knife-crying-right.gif)|
-|bufo-knife-crying| ![bufo-knife-crying](/emojis/rc/bufo-knife-crying.gif)|
-|bufo-knife-intensifies| ![bufo-knife-intensifies](/emojis/rc/bufo-knife-intensifies.gif)|
-|bufo-knife-party| ![bufo-knife-party](/emojis/rc/bufo-knife-party.gif)|
-|bufo-knife-spin| ![bufo-knife-spin](/emojis/rc/bufo-knife-spin.gif)|
-|bufo-knife-stab| ![bufo-knife-stab](/emojis/rc/bufo-knife-stab.png)|
-|bufo-knife| ![bufo-knife](/emojis/rc/bufo-knife.png)|
-|bufo-knows-age-is-just-a-number| ![bufo-knows-age-is-just-a-number](/emojis/rc/bufo-knows-age-is-just-a-number.png)|
-|bufo-knows-his-customers| ![bufo-knows-his-customers](/emojis/rc/bufo-knows-his-customers.jpg)|
-|bufo-knows-this-is-a-total-bop| ![bufo-knows-this-is-a-total-bop](/emojis/rc/bufo-knows-this-is-a-total-bop.gif)|
-|bufo-knuckle-sandwich| ![bufo-knuckle-sandwich](/emojis/rc/bufo-knuckle-sandwich.gif)|
-|bufo-knuckles| ![bufo-knuckles](/emojis/rc/bufo-knuckles.png)|
-|bufo-koi| ![bufo-koi](/emojis/rc/bufo-koi.png)|
-|bufo-kudo| ![bufo-kudo](/emojis/rc/bufo-kudo.png)|
-|bufo-kuzco-has-not-learned-his-lesson-yet| ![bufo-kuzco-has-not-learned-his-lesson-yet](/emojis/rc/bufo-kuzco-has-not-learned-his-lesson-yet.png)|
-|bufo-kuzco| ![bufo-kuzco](/emojis/rc/bufo-kuzco.png)|
-|bufo-laser-eyes| ![bufo-laser-eyes](/emojis/rc/bufo-laser-eyes.jpg)|
-|bufo-late-to-the-convo| ![bufo-late-to-the-convo](/emojis/rc/bufo-late-to-the-convo.png)|
-|bufo-laugh-xd| ![bufo-laugh-xd](/emojis/rc/bufo-laugh-xd.png)|
-|bufo-laughs-to-mask-the-pain| ![bufo-laughs-to-mask-the-pain](/emojis/rc/bufo-laughs-to-mask-the-pain.png)|
-|bufo-leads-the-way-to-better-docs| ![bufo-leads-the-way-to-better-docs](/emojis/rc/bufo-leads-the-way-to-better-docs.png)|
-|bufo-leaves-you-on-seen| ![bufo-leaves-you-on-seen](/emojis/rc/bufo-leaves-you-on-seen.png)|
-|bufo-left-a-comment| ![bufo-left-a-comment](/emojis/rc/bufo-left-a-comment.png)|
-|bufo-left-multiple-comments| ![bufo-left-multiple-comments](/emojis/rc/bufo-left-multiple-comments.png)|
-|bufo-legal-entities| ![bufo-legal-entities](/emojis/rc/bufo-legal-entities.png)|
-|bufo-lemon| ![bufo-lemon](/emojis/rc/bufo-lemon.png)|
-|bufo-leprechaun| ![bufo-leprechaun](/emojis/rc/bufo-leprechaun.png)|
 
 <hr/>
 

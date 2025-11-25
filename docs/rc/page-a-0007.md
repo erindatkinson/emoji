@@ -8,6 +8,13 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|aw| ![aw](/emojis/rc/aw.png)|
+|aw_yeah| ![aw_yeah](/emojis/rc/aw_yeah.gif)|
+|awake-but-at-what-cost| ![awake-but-at-what-cost](/emojis/rc/awake-but-at-what-cost.jpg)|
+|award| ![award](/emojis/rc/award.png)|
+|away| ![away](/emojis/rc/away.png)|
+|awesome-sauce| ![awesome-sauce](/emojis/rc/awesome-sauce.gif)|
+|awesome| ![awesome](/emojis/rc/awesome.gif)|
 |awesome_dance| ![awesome_dance](/emojis/rc/awesome_dance.gif)|
 |awesomebufo| ![awesomebufo](/emojis/rc/awesomebufo.png)|
 |awesomepossum| ![awesomepossum](/emojis/rc/awesomepossum.jpg)|
@@ -101,13 +108,6 @@
 |badjokehusky| ![badjokehusky](/emojis/rc/badjokehusky.gif)|
 |badpundog| ![badpundog](/emojis/rc/badpundog.png)|
 |badum-tss| ![badum-tss](/emojis/rc/badum-tss.gif)|
-|bafta| ![bafta](/emojis/rc/bafta.jpg)|
-|bag_of_sugar| ![bag_of_sugar](/emojis/rc/bag_of_sugar.jpg)|
-|bagofmoney| ![bagofmoney](/emojis/rc/bagofmoney.png)|
-|bagofwhat| ![bagofwhat](/emojis/rc/bagofwhat.png)|
-|bagpipe| ![bagpipe](/emojis/rc/bagpipe.png)|
-|bagpipes| ![bagpipes](/emojis/rc/bagpipes.gif)|
-|bags| ![bags](/emojis/rc/bags.png)|
 
 <hr/>
 

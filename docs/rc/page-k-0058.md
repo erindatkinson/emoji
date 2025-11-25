@@ -1,13 +1,62 @@
 
 ## Emojis (Page 58)
 
-[Previous Page](/docs/rc/page-k-0057.md)
+[Previous Page](/docs/rc/page-j-0057.md)
   | [Next Page](/docs/rc/page-l-0059.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|kick-me_sign| ![kick-me_sign](/emojis/rc/kick-me_sign.gif)|
+|kick| ![kick](/emojis/rc/kick.png)|
+|kickcomputerq| ![kickcomputerq](/emojis/rc/kickcomputerq.gif)|
+|kid-canary| ![kid-canary](/emojis/rc/kid-canary.png)|
+|kid-drop-off| ![kid-drop-off](/emojis/rc/kid-drop-off.png)|
+|kidcanary| ![kidcanary](/emojis/rc/kidcanary.jpg)|
+|kids| ![kids](/emojis/rc/kids.png)|
+|kier-eagan| ![kier-eagan](/emojis/rc/kier-eagan.png)|
+|kiki| ![kiki](/emojis/rc/kiki.gif)|
+|killitwithfire| ![killitwithfire](/emojis/rc/killitwithfire.gif)|
+|kimjongun| ![kimjongun](/emojis/rc/kimjongun.jpg)|
+|kindasus| ![kindasus](/emojis/rc/kindasus.png)|
+|king-with-crown| ![king-with-crown](/emojis/rc/king-with-crown.png)|
+|king| ![king](/emojis/rc/king.png)|
+|king_robbie| ![king_robbie](/emojis/rc/king_robbie.png)|
+|kingsumo| ![kingsumo](/emojis/rc/kingsumo.jpg)|
+|kirby-sweat| ![kirby-sweat](/emojis/rc/kirby-sweat.png)|
+|kirby| ![kirby](/emojis/rc/kirby.gif)|
+|kirby_agree| ![kirby_agree](/emojis/rc/kirby_agree.png)|
+|kirby_angy_sit| ![kirby_angy_sit](/emojis/rc/kirby_angy_sit.png)|
+|kirby_bake| ![kirby_bake](/emojis/rc/kirby_bake.gif)|
+|kirby_bye| ![kirby_bye](/emojis/rc/kirby_bye.gif)|
+|kirby_call| ![kirby_call](/emojis/rc/kirby_call.gif)|
+|kirby_change| ![kirby_change](/emojis/rc/kirby_change.gif)|
+|kirby_chef| ![kirby_chef](/emojis/rc/kirby_chef.gif)|
+|kirby_dance| ![kirby_dance](/emojis/rc/kirby_dance.gif)|
+|kirby_dancing| ![kirby_dancing](/emojis/rc/kirby_dancing.gif)|
+|kirby_frozen| ![kirby_frozen](/emojis/rc/kirby_frozen.png)|
+|kirby_jam| ![kirby_jam](/emojis/rc/kirby_jam.gif)|
+|kirby_sleeping| ![kirby_sleeping](/emojis/rc/kirby_sleeping.gif)|
+|kirby_vibing| ![kirby_vibing](/emojis/rc/kirby_vibing.gif)|
+|kirkland| ![kirkland](/emojis/rc/kirkland.png)|
+|kirsten-mood| ![kirsten-mood](/emojis/rc/kirsten-mood.png)|
+|kitchen-sink| ![kitchen-sink](/emojis/rc/kitchen-sink.png)|
+|kite-alt| ![kite-alt](/emojis/rc/kite-alt.png)|
+|kitty_halloween_no| ![kitty_halloween_no](/emojis/rc/kitty_halloween_no.png)|
+|kitty_halloween_yes| ![kitty_halloween_yes](/emojis/rc/kitty_halloween_yes.png)|
+|kitty_thumbsup| ![kitty_thumbsup](/emojis/rc/kitty_thumbsup.gif)|
+|klein_bottle| ![klein_bottle](/emojis/rc/klein_bottle.jpg)|
+|kmart| ![kmart](/emojis/rc/kmart.png)|
+|knicks| ![knicks](/emojis/rc/knicks.png)|
+|knife-in-the-leg| ![knife-in-the-leg](/emojis/rc/knife-in-the-leg.png)|
+|knife_cat| ![knife_cat](/emojis/rc/knife_cat.png)|
+|knifegirl| ![knifegirl](/emojis/rc/knifegirl.png)|
+|knifegoose| ![knifegoose](/emojis/rc/knifegoose.png)|
+|knight_dance| ![knight_dance](/emojis/rc/knight_dance.gif)|
+|knight_lancer| ![knight_lancer](/emojis/rc/knight_lancer.jpg)|
+|knock-on-wood| ![knock-on-wood](/emojis/rc/knock-on-wood.gif)|
+|knock_on_wood| ![knock_on_wood](/emojis/rc/knock_on_wood.gif)|
 |knope| ![knope](/emojis/rc/knope.png)|
 |knowing-is-half| ![knowing-is-half](/emojis/rc/knowing-is-half.jpg)|
 |knowledge-transfer| ![knowledge-transfer](/emojis/rc/knowledge-transfer.png)|
@@ -59,57 +108,8 @@
 |lairua| ![lairua](/emojis/rc/lairua.png)|
 |lamb-da| ![lamb-da](/emojis/rc/lamb-da.png)|
 |lambda| ![lambda](/emojis/rc/lambda.png)|
-|lame| ![lame](/emojis/rc/lame.png)|
-|lamp_blob| ![lamp_blob](/emojis/rc/lamp_blob.gif)|
-|langgraph-intensifies| ![langgraph-intensifies](/emojis/rc/langgraph-intensifies.gif)|
-|langgraph| ![langgraph](/emojis/rc/langgraph.png)|
-|laptop-on-fire| ![laptop-on-fire](/emojis/rc/laptop-on-fire.gif)|
-|larry-intensifies| ![larry-intensifies](/emojis/rc/larry-intensifies.gif)|
-|larry-will-hurt-you| ![larry-will-hurt-you](/emojis/rc/larry-will-hurt-you.png)|
-|lasagna| ![lasagna](/emojis/rc/lasagna.png)|
-|laser| ![laser](/emojis/rc/laser.png)|
-|laser_focused_molly| ![laser_focused_molly](/emojis/rc/laser_focused_molly.png)|
-|late| ![late](/emojis/rc/late.gif)|
-|latte_heart| ![latte_heart](/emojis/rc/latte_heart.png)|
-|lattice| ![lattice](/emojis/rc/lattice.png)|
-|laugh-cry| ![laugh-cry](/emojis/rc/laugh-cry.png)|
-|laugh| ![laugh](/emojis/rc/laugh.gif)|
-|launchpad_mcquack| ![launchpad_mcquack](/emojis/rc/launchpad_mcquack.png)|
-|laura| ![laura](/emojis/rc/laura.jpg)|
-|laurab| ![laurab](/emojis/rc/laurab.png)|
-|laurentotherescue| ![laurentotherescue](/emojis/rc/laurentotherescue.png)|
-|lawd| ![lawd](/emojis/rc/lawd.png)|
-|lawyer-cat| ![lawyer-cat](/emojis/rc/lawyer-cat.jpg)|
-|layerx| ![layerx](/emojis/rc/layerx.png)|
-|lazy-susie| ![lazy-susie](/emojis/rc/lazy-susie.png)|
-|lazymode| ![lazymode](/emojis/rc/lazymode.gif)|
-|le-poisson-steve-dance| ![le-poisson-steve-dance](/emojis/rc/le-poisson-steve-dance.gif)|
-|le-poisson-steve-stand| ![le-poisson-steve-stand](/emojis/rc/le-poisson-steve-stand.gif)|
-|leafeon| ![leafeon](/emojis/rc/leafeon.png)|
-|lebowski-car-jam| ![lebowski-car-jam](/emojis/rc/lebowski-car-jam.gif)|
-|ledr-infra-sme| ![ledr-infra-sme](/emojis/rc/ledr-infra-sme.jpg)|
-|ledr| ![ledr](/emojis/rc/ledr.jpg)|
-|leeroy-jenkins| ![leeroy-jenkins](/emojis/rc/leeroy-jenkins.jpg)|
-|left-spiderman-point| ![left-spiderman-point](/emojis/rc/left-spiderman-point.png)|
-|left_shark| ![left_shark](/emojis/rc/left_shark.gif)|
-|leftovers_pokemon| ![leftovers_pokemon](/emojis/rc/leftovers_pokemon.png)|
-|leftshark| ![leftshark](/emojis/rc/leftshark.gif)|
-|legend-dairy| ![legend-dairy](/emojis/rc/legend-dairy.jpg)|
-|leggo| ![leggo](/emojis/rc/leggo.jpg)|
-|legit100| ![legit100](/emojis/rc/legit100.png)|
-|lego_smile| ![lego_smile](/emojis/rc/lego_smile.png)|
-|lemon-squeezy| ![lemon-squeezy](/emojis/rc/lemon-squeezy.png)|
-|lens| ![lens](/emojis/rc/lens.png)|
-|leonov| ![leonov](/emojis/rc/leonov.jpg)|
-|leprachaun| ![leprachaun](/emojis/rc/leprachaun.png)|
-|lesbian-pride| ![lesbian-pride](/emojis/rc/lesbian-pride.png)|
-|lesbian_pride| ![lesbian_pride](/emojis/rc/lesbian_pride.png)|
-|lesigh| ![lesigh](/emojis/rc/lesigh.png)|
-|let-them-fight-godzilla| ![let-them-fight-godzilla](/emojis/rc/let-them-fight-godzilla.gif)|
-|let_it_burn_elmo| ![let_it_burn_elmo](/emojis/rc/let_it_burn_elmo.gif)|
-|let_me_in| ![let_me_in](/emojis/rc/let_me_in.gif)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-k-0057.md)
+[Previous Page](/docs/rc/page-j-0057.md)
   | [Next Page](/docs/rc/page-l-0059.md)

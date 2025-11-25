@@ -8,6 +8,35 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-offers-covid| ![bufo-offers-covid](/emojis/rc/bufo-offers-covid.png)|
+|bufo-offers-csharp| ![bufo-offers-csharp](/emojis/rc/bufo-offers-csharp.png)|
+|bufo-offers-d20| ![bufo-offers-d20](/emojis/rc/bufo-offers-d20.png)|
+|bufo-offers-datadog| ![bufo-offers-datadog](/emojis/rc/bufo-offers-datadog.png)|
+|bufo-offers-discord| ![bufo-offers-discord](/emojis/rc/bufo-offers-discord.png)|
+|bufo-offers-dnd| ![bufo-offers-dnd](/emojis/rc/bufo-offers-dnd.png)|
+|bufo-offers-empty-wallet| ![bufo-offers-empty-wallet](/emojis/rc/bufo-offers-empty-wallet.png)|
+|bufo-offers-f5| ![bufo-offers-f5](/emojis/rc/bufo-offers-f5.png)|
+|bufo-offers-factorio| ![bufo-offers-factorio](/emojis/rc/bufo-offers-factorio.png)|
+|bufo-offers-falafel| ![bufo-offers-falafel](/emojis/rc/bufo-offers-falafel.png)|
+|bufo-offers-fart-cloud| ![bufo-offers-fart-cloud](/emojis/rc/bufo-offers-fart-cloud.png)|
+|bufo-offers-firefox| ![bufo-offers-firefox](/emojis/rc/bufo-offers-firefox.png)|
+|bufo-offers-flatbread| ![bufo-offers-flatbread](/emojis/rc/bufo-offers-flatbread.png)|
+|bufo-offers-footsie| ![bufo-offers-footsie](/emojis/rc/bufo-offers-footsie.png)|
+|bufo-offers-friday| ![bufo-offers-friday](/emojis/rc/bufo-offers-friday.png)|
+|bufo-offers-fud| ![bufo-offers-fud](/emojis/rc/bufo-offers-fud.png)|
+|bufo-offers-gatorade| ![bufo-offers-gatorade](/emojis/rc/bufo-offers-gatorade.png)|
+|bufo-offers-git-mailing-list| ![bufo-offers-git-mailing-list](/emojis/rc/bufo-offers-git-mailing-list.png)|
+|bufo-offers-golden-handcuffs| ![bufo-offers-golden-handcuffs](/emojis/rc/bufo-offers-golden-handcuffs.png)|
+|bufo-offers-google-doc| ![bufo-offers-google-doc](/emojis/rc/bufo-offers-google-doc.png)|
+|bufo-offers-google-drive| ![bufo-offers-google-drive](/emojis/rc/bufo-offers-google-drive.png)|
+|bufo-offers-google-sheets| ![bufo-offers-google-sheets](/emojis/rc/bufo-offers-google-sheets.png)|
+|bufo-offers-helios| ![bufo-offers-helios](/emojis/rc/bufo-offers-helios.png)|
+|bufo-offers-hello-kitty| ![bufo-offers-hello-kitty](/emojis/rc/bufo-offers-hello-kitty.png)|
+|bufo-offers-help| ![bufo-offers-help](/emojis/rc/bufo-offers-help.png)|
+|bufo-offers-hotdog| ![bufo-offers-hotdog](/emojis/rc/bufo-offers-hotdog.png)|
+|bufo-offers-jira| ![bufo-offers-jira](/emojis/rc/bufo-offers-jira.png)|
+|bufo-offers-ldap| ![bufo-offers-ldap](/emojis/rc/bufo-offers-ldap.png)|
+|bufo-offers-lego| ![bufo-offers-lego](/emojis/rc/bufo-offers-lego.png)|
 |bufo-offers-moneybag| ![bufo-offers-moneybag](/emojis/rc/bufo-offers-moneybag.png)|
 |bufo-offers-new-jira| ![bufo-offers-new-jira](/emojis/rc/bufo-offers-new-jira.png)|
 |bufo-offers-nothing| ![bufo-offers-nothing](/emojis/rc/bufo-offers-nothing.png)|
@@ -79,35 +108,6 @@
 |bufo-opens-a-haberdashery| ![bufo-opens-a-haberdashery](/emojis/rc/bufo-opens-a-haberdashery.png)|
 |bufo-orange| ![bufo-orange](/emojis/rc/bufo-orange.png)|
 |bufo-oreilly| ![bufo-oreilly](/emojis/rc/bufo-oreilly.png)|
-|bufo-overthinking-culture-amp-survey-questions| ![bufo-overthinking-culture-amp-survey-questions](/emojis/rc/bufo-overthinking-culture-amp-survey-questions.png)|
-|bufo-packer| ![bufo-packer](/emojis/rc/bufo-packer.png)|
-|bufo-pajama-party| ![bufo-pajama-party](/emojis/rc/bufo-pajama-party.gif)|
-|bufo-palpatine| ![bufo-palpatine](/emojis/rc/bufo-palpatine.png)|
-|bufo-parrot| ![bufo-parrot](/emojis/rc/bufo-parrot.gif)|
-|bufo-party-birthday| ![bufo-party-birthday](/emojis/rc/bufo-party-birthday.png)|
-|bufo-party-conga-line| ![bufo-party-conga-line](/emojis/rc/bufo-party-conga-line.gif)|
-|bufo-passed-the-load-test| ![bufo-passed-the-load-test](/emojis/rc/bufo-passed-the-load-test.png)|
-|bufo-passes-the-vibe-check| ![bufo-passes-the-vibe-check](/emojis/rc/bufo-passes-the-vibe-check.png)|
-|bufo-peaks-on-you-from-above| ![bufo-peaks-on-you-from-above](/emojis/rc/bufo-peaks-on-you-from-above.png)|
-|bufo-peaky-blinder| ![bufo-peaky-blinder](/emojis/rc/bufo-peaky-blinder.png)|
-|bufo-pear| ![bufo-pear](/emojis/rc/bufo-pear.png)|
-|bufo-pearly-whites| ![bufo-pearly-whites](/emojis/rc/bufo-pearly-whites.png)|
-|bufo-peek-wall| ![bufo-peek-wall](/emojis/rc/bufo-peek-wall.png)|
-|bufo-peek| ![bufo-peek](/emojis/rc/bufo-peek.png)|
-|bufo-pensivity-turned-discomfort-upon-realization-of-reality| ![bufo-pensivity-turned-discomfort-upon-realization-of-reality](/emojis/rc/bufo-pensivity-turned-discomfort-upon-realization-of-reality.gif)|
-|bufo-phew| ![bufo-phew](/emojis/rc/bufo-phew.png)|
-|bufo-photographer-reverse| ![bufo-photographer-reverse](/emojis/rc/bufo-photographer-reverse.png)|
-|bufo-photographer| ![bufo-photographer](/emojis/rc/bufo-photographer.png)|
-|bufo-pikmin| ![bufo-pikmin](/emojis/rc/bufo-pikmin.png)|
-|bufo-pilgrim| ![bufo-pilgrim](/emojis/rc/bufo-pilgrim.png)|
-|bufo-pinch-hitter| ![bufo-pinch-hitter](/emojis/rc/bufo-pinch-hitter.png)|
-|bufo-pineapple| ![bufo-pineapple](/emojis/rc/bufo-pineapple.png)|
-|bufo-pitchfork| ![bufo-pitchfork](/emojis/rc/bufo-pitchfork.png)|
-|bufo-pitchforks| ![bufo-pitchforks](/emojis/rc/bufo-pitchforks.png)|
-|bufo-pizza-hut| ![bufo-pizza-hut](/emojis/rc/bufo-pizza-hut.png)|
-|bufo-placeholder| ![bufo-placeholder](/emojis/rc/bufo-placeholder.png)|
-|bufo-platformizes| ![bufo-platformizes](/emojis/rc/bufo-platformizes.jpg)|
-|bufo-plays-some-smooth-jazz-intensity-1| ![bufo-plays-some-smooth-jazz-intensity-1](/emojis/rc/bufo-plays-some-smooth-jazz-intensity-1.gif)|
 
 <hr/>
 

@@ -2,12 +2,63 @@
 ## Emojis (Page 60)
 
 [Previous Page](/docs/rc/page-l-0059.md)
-  | [Next Page](/docs/rc/page-m-0061.md)
+  | [Next Page](/docs/rc/page-l-0061.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|linux| ![linux](/emojis/rc/linux.png)|
+|linuxpenguin| ![linuxpenguin](/emojis/rc/linuxpenguin.png)|
+|lion_king_lunch| ![lion_king_lunch](/emojis/rc/lion_king_lunch.gif)|
+|lionofjudah| ![lionofjudah](/emojis/rc/lionofjudah.jpg)|
+|lions| ![lions](/emojis/rc/lions.png)|
+|lisa_simpson-loser| ![lisa_simpson-loser](/emojis/rc/lisa_simpson-loser.png)|
+|lisan-al-gaib| ![lisan-al-gaib](/emojis/rc/lisan-al-gaib.png)|
+|list| ![list](/emojis/rc/list.png)|
+|listening| ![listening](/emojis/rc/listening.gif)|
+|lit_af| ![lit_af](/emojis/rc/lit_af.jpg)|
+|lite-llm| ![lite-llm](/emojis/rc/lite-llm.png)|
+|literally_this_parrot| ![literally_this_parrot](/emojis/rc/literally_this_parrot.gif)|
+|little_snitch| ![little_snitch](/emojis/rc/little_snitch.jpg)|
+|littlehorselarry| ![littlehorselarry](/emojis/rc/littlehorselarry.png)|
+|live-dangerously| ![live-dangerously](/emojis/rc/live-dangerously.png)|
+|live| ![live](/emojis/rc/live.gif)|
+|live_dangerously| ![live_dangerously](/emojis/rc/live_dangerously.jpg)|
+|living_the_dream| ![living_the_dream](/emojis/rc/living_the_dream.png)|
+|llama_paul| ![llama_paul](/emojis/rc/llama_paul.png)|
+|lmao| ![lmao](/emojis/rc/lmao.jpg)|
+|lmgtfy| ![lmgtfy](/emojis/rc/lmgtfy.png)|
+|loadbearing-skeleton| ![loadbearing-skeleton](/emojis/rc/loadbearing-skeleton.png)|
+|loading-bars| ![loading-bars](/emojis/rc/loading-bars.gif)|
+|loading-dots| ![loading-dots](/emojis/rc/loading-dots.gif)|
+|loading| ![loading](/emojis/rc/loading.gif)|
+|loading_alex| ![loading_alex](/emojis/rc/loading_alex.gif)|
+|loading_circle| ![loading_circle](/emojis/rc/loading_circle.gif)|
+|loading_circle_grey| ![loading_circle_grey](/emojis/rc/loading_circle_grey.gif)|
+|loading_matt| ![loading_matt](/emojis/rc/loading_matt.gif)|
+|loading_pizza| ![loading_pizza](/emojis/rc/loading_pizza.gif)|
+|loadingblue| ![loadingblue](/emojis/rc/loadingblue.gif)|
+|lobster-dance| ![lobster-dance](/emojis/rc/lobster-dance.gif)|
+|lock-blood-sob| ![lock-blood-sob](/emojis/rc/lock-blood-sob.png)|
+|lock-da| ![lock-da](/emojis/rc/lock-da.png)|
+|lock-sob| ![lock-sob](/emojis/rc/lock-sob.png)|
+|locked| ![locked](/emojis/rc/locked.png)|
+|locust-swarm| ![locust-swarm](/emojis/rc/locust-swarm.gif)|
+|lofi| ![lofi](/emojis/rc/lofi.jpg)|
+|lofi_canary| ![lofi_canary](/emojis/rc/lofi_canary.png)|
+|loft-it| ![loft-it](/emojis/rc/loft-it.jpg)|
+|log-technologist| ![log-technologist](/emojis/rc/log-technologist.png)|
+|log| ![log](/emojis/rc/log.jpg)|
+|log_| ![log_](/emojis/rc/log_.png)|
+|logs-intensifies| ![logs-intensifies](/emojis/rc/logs-intensifies.gif)|
+|logstash| ![logstash](/emojis/rc/logstash.png)|
+|lol| ![lol](/emojis/rc/lol.gif)|
+|lolsob-heartrage| ![lolsob-heartrage](/emojis/rc/lolsob-heartrage.png)|
+|lolsob| ![lolsob](/emojis/rc/lolsob.png)|
+|lolsob_blood| ![lolsob_blood](/emojis/rc/lolsob_blood.png)|
+|lolz| ![lolz](/emojis/rc/lolz.gif)|
+|lonch-box| ![lonch-box](/emojis/rc/lonch-box.png)|
 |long_cat| ![long_cat](/emojis/rc/long_cat.png)|
 |longhorn| ![longhorn](/emojis/rc/longhorn.png)|
 |look-at-this-graph| ![look-at-this-graph](/emojis/rc/look-at-this-graph.gif)|
@@ -57,59 +108,8 @@
 |lunch_box1| ![lunch_box1](/emojis/rc/lunch_box1.gif)|
 |lunchtime| ![lunchtime](/emojis/rc/lunchtime.gif)|
 |lunchtrain| ![lunchtrain](/emojis/rc/lunchtrain.gif)|
-|lurk| ![lurk](/emojis/rc/lurk.jpg)|
-|lwyrup| ![lwyrup](/emojis/rc/lwyrup.jpg)|
-|lynntotherescue| ![lynntotherescue](/emojis/rc/lynntotherescue.png)|
-|m-zh| ![m-zh](/emojis/rc/m-zh.png)|
-|m1| ![m1](/emojis/rc/m1.png)|
-|m_a_s_h| ![m_a_s_h](/emojis/rc/m_a_s_h.jpg)|
-|m_and_m| ![m_and_m](/emojis/rc/m_and_m.png)|
-|m_bison_yes| ![m_bison_yes](/emojis/rc/m_bison_yes.png)|
-|maadcity| ![maadcity](/emojis/rc/maadcity.jpg)|
-|mabel_flowers| ![mabel_flowers](/emojis/rc/mabel_flowers.png)|
-|mac_save| ![mac_save](/emojis/rc/mac_save.png)|
-|macaroni-and-cheese| ![macaroni-and-cheese](/emojis/rc/macaroni-and-cheese.png)|
-|macgruber| ![macgruber](/emojis/rc/macgruber.png)|
-|macho_man| ![macho_man](/emojis/rc/macho_man.png)|
-|macys-parade| ![macys-parade](/emojis/rc/macys-parade.png)|
-|mad-shelley| ![mad-shelley](/emojis/rc/mad-shelley.png)|
-|mad_world| ![mad_world](/emojis/rc/mad_world.png)|
-|madeline-spins| ![madeline-spins](/emojis/rc/madeline-spins.gif)|
-|madeline| ![madeline](/emojis/rc/madeline.gif)|
-|madge| ![madge](/emojis/rc/madge.gif)|
-|madonnamatt| ![madonnamatt](/emojis/rc/madonnamatt.jpg)|
-|madycanary| ![madycanary](/emojis/rc/madycanary.jpg)|
-|maestro| ![maestro](/emojis/rc/maestro.jpg)|
-|magenta| ![magenta](/emojis/rc/magenta.png)|
-|magic-8-ball| ![magic-8-ball](/emojis/rc/magic-8-ball.png)|
-|magic-wand| ![magic-wand](/emojis/rc/magic-wand.png)|
-|magic| ![magic](/emojis/rc/magic.gif)|
-|magic_carpet| ![magic_carpet](/emojis/rc/magic_carpet.jpg)|
-|magicjoe| ![magicjoe](/emojis/rc/magicjoe.jpg)|
-|magicjulie| ![magicjulie](/emojis/rc/magicjulie.png)|
-|magikarp| ![magikarp](/emojis/rc/magikarp.gif)|
-|magpul| ![magpul](/emojis/rc/magpul.png)|
-|mahogany-megalodons| ![mahogany-megalodons](/emojis/rc/mahogany-megalodons.jpg)|
-|mahogany| ![mahogany](/emojis/rc/mahogany.jpg)|
-|majestic-beautiful-cow| ![majestic-beautiful-cow](/emojis/rc/majestic-beautiful-cow.gif)|
-|major_award| ![major_award](/emojis/rc/major_award.jpg)|
-|mak_foss_the_boss| ![mak_foss_the_boss](/emojis/rc/mak_foss_the_boss.png)|
-|make-it-pop| ![make-it-pop](/emojis/rc/make-it-pop.png)|
-|make_it_so| ![make_it_so](/emojis/rc/make_it_so.png)|
-|makessense| ![makessense](/emojis/rc/makessense.jpg)|
-|making| ![making](/emojis/rc/making.jpg)|
-|maleficent| ![maleficent](/emojis/rc/maleficent.png)|
-|malk| ![malk](/emojis/rc/malk.jpg)|
-|malort| ![malort](/emojis/rc/malort.jpg)|
-|malort_face| ![malort_face](/emojis/rc/malort_face.png)|
-|malware| ![malware](/emojis/rc/malware.png)|
-|malware_dont_need_coffee| ![malware_dont_need_coffee](/emojis/rc/malware_dont_need_coffee.png)|
-|mamasaidknockyouout| ![mamasaidknockyouout](/emojis/rc/mamasaidknockyouout.jpg)|
-|mammothkiller| ![mammothkiller](/emojis/rc/mammothkiller.jpg)|
-|man-msft-technologist| ![man-msft-technologist](/emojis/rc/man-msft-technologist.png)|
-|manager-susannah| ![manager-susannah](/emojis/rc/manager-susannah.png)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-l-0059.md)
-  | [Next Page](/docs/rc/page-m-0061.md)
+  | [Next Page](/docs/rc/page-l-0061.md)

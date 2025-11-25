@@ -8,6 +8,15 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|blobhajmeowhug| ![blobhajmeowhug](/emojis/rc/blobhajmeowhug.png)|
+|blobhajmlem| ![blobhajmlem](/emojis/rc/blobhajmlem.png)|
+|blobhajprideheart| ![blobhajprideheart](/emojis/rc/blobhajprideheart.png)|
+|blobhajreach| ![blobhajreach](/emojis/rc/blobhajreach.png)|
+|blobhajsadreach| ![blobhajsadreach](/emojis/rc/blobhajsadreach.png)|
+|blobhajtransprideheart| ![blobhajtransprideheart](/emojis/rc/blobhajtransprideheart.png)|
+|blobheart| ![blobheart](/emojis/rc/blobheart.png)|
+|blobhelp| ![blobhelp](/emojis/rc/blobhelp.png)|
+|bloblobl| ![bloblobl](/emojis/rc/bloblobl.png)|
 |bloborg| ![bloborg](/emojis/rc/bloborg.gif)|
 |blobpeek| ![blobpeek](/emojis/rc/blobpeek.png)|
 |blobspam| ![blobspam](/emojis/rc/blobspam.png)|
@@ -20,6 +29,7 @@
 |bloodhound| ![bloodhound](/emojis/rc/bloodhound.png)|
 |blooming_tea| ![blooming_tea](/emojis/rc/blooming_tea.png)|
 |blooper| ![blooper](/emojis/rc/blooper.png)|
+|bloosh| ![bloosh](/emojis/rc/bloosh.png)|
 |blt| ![blt](/emojis/rc/blt.png)|
 |blucifer-1| ![blucifer-1](/emojis/rc/blucifer-1.png)|
 |blucifer| ![blucifer](/emojis/rc/blucifer.jpg)|
@@ -29,6 +39,7 @@
 |blue-shell| ![blue-shell](/emojis/rc/blue-shell.jpg)|
 |blue-steel| ![blue-steel](/emojis/rc/blue-steel.jpg)|
 |blue-team| ![blue-team](/emojis/rc/blue-team.png)|
+|blue| ![blue](/emojis/rc/blue.png)|
 |blue_jay_sigh| ![blue_jay_sigh](/emojis/rc/blue_jay_sigh.jpg)|
 |blue_mockingbird| ![blue_mockingbird](/emojis/rc/blue_mockingbird.jpg)|
 |blue_steel| ![blue_steel](/emojis/rc/blue_steel.png)|
@@ -97,17 +108,6 @@
 |boring| ![boring](/emojis/rc/boring.gif)|
 |boring_davis| ![boring_davis](/emojis/rc/boring_davis.png)|
 |borulafob| ![borulafob](/emojis/rc/borulafob.png)|
-|bosco| ![bosco](/emojis/rc/bosco.png)|
-|boss_eric| ![boss_eric](/emojis/rc/boss_eric.png)|
-|bot-first-place-medal| ![bot-first-place-medal](/emojis/rc/bot-first-place-medal.png)|
-|both-design-girls-name| ![both-design-girls-name](/emojis/rc/both-design-girls-name.png)|
-|bounce| ![bounce](/emojis/rc/bounce.gif)|
-|bouncing_dvd| ![bouncing_dvd](/emojis/rc/bouncing_dvd.gif)|
-|bourbon| ![bourbon](/emojis/rc/bourbon.png)|
-|bow_down| ![bow_down](/emojis/rc/bow_down.gif)|
-|bowing| ![bowing](/emojis/rc/bowing.gif)|
-|bowlkutkeith| ![bowlkutkeith](/emojis/rc/bowlkutkeith.png)|
-|bowser| ![bowser](/emojis/rc/bowser.gif)|
 
 <hr/>
 

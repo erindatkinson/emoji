@@ -2,12 +2,50 @@
 ## Emojis (Page 29)
 
 [Previous Page](/docs/rc/page-b-0028.md)
-  | [Next Page](/docs/rc/page-c-0030.md)
+  | [Next Page](/docs/rc/page-b-0030.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bufo-yay-judge| ![bufo-yay-judge](/emojis/rc/bufo-yay-judge.gif)|
+|bufo-yayy| ![bufo-yayy](/emojis/rc/bufo-yayy.png)|
+|bufo-yeehaw| ![bufo-yeehaw](/emojis/rc/bufo-yeehaw.png)|
+|bufo-yes| ![bufo-yes](/emojis/rc/bufo-yes.png)|
+|bufo-yismail| ![bufo-yismail](/emojis/rc/bufo-yismail.png)|
+|bufo-you-sure-about-that| ![bufo-you-sure-about-that](/emojis/rc/bufo-you-sure-about-that.png)|
+|bufo-yugioh| ![bufo-yugioh](/emojis/rc/bufo-yugioh.png)|
+|bufo-yummy| ![bufo-yummy](/emojis/rc/bufo-yummy.png)|
+|bufo-zoom-right| ![bufo-zoom-right](/emojis/rc/bufo-zoom-right.gif)|
+|bufo_emo| ![bufo_emo](/emojis/rc/bufo_emo.png)|
+|bufo_wants_his_money| ![bufo_wants_his_money](/emojis/rc/bufo_wants_his_money.png)|
+|bufobot| ![bufobot](/emojis/rc/bufobot.png)|
+|bufochu| ![bufochu](/emojis/rc/bufochu.png)|
+|bufoda| ![bufoda](/emojis/rc/bufoda.png)|
+|bufodile| ![bufodile](/emojis/rc/bufodile.png)|
+|bufofoop| ![bufofoop](/emojis/rc/bufofoop.gif)|
+|bufoheimer| ![bufoheimer](/emojis/rc/bufoheimer.png)|
+|bufoling| ![bufoling](/emojis/rc/bufoling.png)|
+|bufolta| ![bufolta](/emojis/rc/bufolta.png)|
+|bufonana| ![bufonana](/emojis/rc/bufonana.png)|
+|bufone| ![bufone](/emojis/rc/bufone.png)|
+|bufonomical| ![bufonomical](/emojis/rc/bufonomical.png)|
+|buforang| ![buforang](/emojis/rc/buforang.png)|
+|buforce-be-with-you| ![buforce-be-with-you](/emojis/rc/buforce-be-with-you.png)|
+|buforever| ![buforever](/emojis/rc/buforever.gif)|
+|bufos-got-your-back| ![bufos-got-your-back](/emojis/rc/bufos-got-your-back.png)|
+|bufos-in-love| ![bufos-in-love](/emojis/rc/bufos-in-love.png)|
+|bufos-jumping-on-the-bed| ![bufos-jumping-on-the-bed](/emojis/rc/bufos-jumping-on-the-bed.gif)|
+|bufos-lips-are-sealed| ![bufos-lips-are-sealed](/emojis/rc/bufos-lips-are-sealed.png)|
+|bufos-pair-program| ![bufos-pair-program](/emojis/rc/bufos-pair-program.gif)|
+|bufotooearlyforthis| ![bufotooearlyforthis](/emojis/rc/bufotooearlyforthis.png)|
+|bufowhirl| ![bufowhirl](/emojis/rc/bufowhirl.png)|
+|bufrogu| ![bufrogu](/emojis/rc/bufrogu.png)|
+|bufuwu| ![bufuwu](/emojis/rc/bufuwu.png)|
+|bug-catcher| ![bug-catcher](/emojis/rc/bug-catcher.png)|
+|bug-da| ![bug-da](/emojis/rc/bug-da.png)|
+|bug-fighter| ![bug-fighter](/emojis/rc/bug-fighter.png)|
+|bug-hat| ![bug-hat](/emojis/rc/bug-hat.png)|
 |bug-hype| ![bug-hype](/emojis/rc/bug-hype.gif)|
 |bug-running-from-debug| ![bug-running-from-debug](/emojis/rc/bug-running-from-debug.gif)|
 |bug2| ![bug2](/emojis/rc/bug2.png)|
@@ -70,46 +108,8 @@
 |butternut-swan| ![butternut-swan](/emojis/rc/butternut-swan.png)|
 |buttonbot| ![buttonbot](/emojis/rc/buttonbot.png)|
 |buttonmash-panic| ![buttonmash-panic](/emojis/rc/buttonmash-panic.gif)|
-|butwhy| ![butwhy](/emojis/rc/butwhy.png)|
-|buy-a-donkey| ![buy-a-donkey](/emojis/rc/buy-a-donkey.gif)|
-|buzz_lightyear| ![buzz_lightyear](/emojis/rc/buzz_lightyear.png)|
-|buzzfeed-cute| ![buzzfeed-cute](/emojis/rc/buzzfeed-cute.png)|
-|buzzfeed-fail| ![buzzfeed-fail](/emojis/rc/buzzfeed-fail.png)|
-|buzzfeed-lol-spin| ![buzzfeed-lol-spin](/emojis/rc/buzzfeed-lol-spin.gif)|
-|buzzfeed-lol| ![buzzfeed-lol](/emojis/rc/buzzfeed-lol.png)|
-|buzzfeed-omg| ![buzzfeed-omg](/emojis/rc/buzzfeed-omg.png)|
-|buzzfeed-pride| ![buzzfeed-pride](/emojis/rc/buzzfeed-pride.gif)|
-|buzzfeed-win| ![buzzfeed-win](/emojis/rc/buzzfeed-win.png)|
-|buzzfeed_omg| ![buzzfeed_omg](/emojis/rc/buzzfeed_omg.png)|
-|by-grabthars-hammer| ![by-grabthars-hammer](/emojis/rc/by-grabthars-hammer.png)|
-|bye-beautiful-time| ![bye-beautiful-time](/emojis/rc/bye-beautiful-time.gif)|
-|bye-bubble| ![bye-bubble](/emojis/rc/bye-bubble.gif)|
-|bye-bye-pokemon| ![bye-bye-pokemon](/emojis/rc/bye-bye-pokemon.jpg)|
-|bye_bear| ![bye_bear](/emojis/rc/bye_bear.gif)|
-|bye_boo| ![bye_boo](/emojis/rc/bye_boo.gif)|
-|bye_slide| ![bye_slide](/emojis/rc/bye_slide.gif)|
-|byebye| ![byebye](/emojis/rc/byebye.gif)|
-|byebyebye_nsync| ![byebyebye_nsync](/emojis/rc/byebyebye_nsync.gif)|
-|byeee| ![byeee](/emojis/rc/byeee.png)|
-|byeeee| ![byeeee](/emojis/rc/byeeee.gif)|
-|byefelisha| ![byefelisha](/emojis/rc/byefelisha.jpg)|
-|byovd| ![byovd](/emojis/rc/byovd.png)|
-|c3po| ![c3po](/emojis/rc/c3po.png)|
-|cache-2x2-row1-col1| ![cache-2x2-row1-col1](/emojis/rc/cache-2x2-row1-col1.png)|
-|cache-2x2-row1-col2| ![cache-2x2-row1-col2](/emojis/rc/cache-2x2-row1-col2.png)|
-|cache-2x2-row2-col1| ![cache-2x2-row2-col1](/emojis/rc/cache-2x2-row2-col1.png)|
-|cache-2x2-row2-col2| ![cache-2x2-row2-col2](/emojis/rc/cache-2x2-row2-col2.png)|
-|cache-all-the-way-down| ![cache-all-the-way-down](/emojis/rc/cache-all-the-way-down.gif)|
-|cache-intensifies| ![cache-intensifies](/emojis/rc/cache-intensifies.gif)|
-|cache-party| ![cache-party](/emojis/rc/cache-party.gif)|
-|cache-rules-everything-around-me| ![cache-rules-everything-around-me](/emojis/rc/cache-rules-everything-around-me.png)|
-|cache-spin| ![cache-spin](/emojis/rc/cache-spin.gif)|
-|cache| ![cache](/emojis/rc/cache.png)|
-|cactus_cat| ![cactus_cat](/emojis/rc/cactus_cat.png)|
-|cafe-bustelo| ![cafe-bustelo](/emojis/rc/cafe-bustelo.png)|
-|cafesito| ![cafesito](/emojis/rc/cafesito.png)|
 
 <hr/>
 
 [Previous Page](/docs/rc/page-b-0028.md)
-  | [Next Page](/docs/rc/page-c-0030.md)
+  | [Next Page](/docs/rc/page-b-0030.md)

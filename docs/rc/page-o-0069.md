@@ -1,13 +1,69 @@
 
 ## Emojis (Page 69)
 
-[Previous Page](/docs/rc/page-o-0068.md)
-  | [Next Page](/docs/rc/page-p-0070.md)
+[Previous Page](/docs/rc/page-n-0068.md)
+  | [Next Page](/docs/rc/page-o-0070.md)
 
 <hr />
 
 |Emoji Name|Image|
 | :-: | :-: |
+|old-man-yells-at-bash| ![old-man-yells-at-bash](/emojis/rc/old-man-yells-at-bash.png)|
+|old-man-yells-at-chatgpt| ![old-man-yells-at-chatgpt](/emojis/rc/old-man-yells-at-chatgpt.png)|
+|old-man-yells-at-circleci| ![old-man-yells-at-circleci](/emojis/rc/old-man-yells-at-circleci.png)|
+|old-man-yells-at-cloud| ![old-man-yells-at-cloud](/emojis/rc/old-man-yells-at-cloud.png)|
+|old-man-yells-at-cloudflare| ![old-man-yells-at-cloudflare](/emojis/rc/old-man-yells-at-cloudflare.png)|
+|old-man-yells-at-clouds-all-the-way-down| ![old-man-yells-at-clouds-all-the-way-down](/emojis/rc/old-man-yells-at-clouds-all-the-way-down.gif)|
+|old-man-yells-at-comcast| ![old-man-yells-at-comcast](/emojis/rc/old-man-yells-at-comcast.png)|
+|old-man-yells-at-css| ![old-man-yells-at-css](/emojis/rc/old-man-yells-at-css.png)|
+|old-man-yells-at-dns-intensifies| ![old-man-yells-at-dns-intensifies](/emojis/rc/old-man-yells-at-dns-intensifies.gif)|
+|old-man-yells-at-gcp| ![old-man-yells-at-gcp](/emojis/rc/old-man-yells-at-gcp.png)|
+|old-man-yells-at-github| ![old-man-yells-at-github](/emojis/rc/old-man-yells-at-github.png)|
+|old-man-yells-at-google-docs| ![old-man-yells-at-google-docs](/emojis/rc/old-man-yells-at-google-docs.png)|
+|old-man-yells-at-gumbo| ![old-man-yells-at-gumbo](/emojis/rc/old-man-yells-at-gumbo.png)|
+|old-man-yells-at-k8s| ![old-man-yells-at-k8s](/emojis/rc/old-man-yells-at-k8s.png)|
+|old-man-yells-at-kubernetes| ![old-man-yells-at-kubernetes](/emojis/rc/old-man-yells-at-kubernetes.png)|
+|old-man-yells-at-netskope| ![old-man-yells-at-netskope](/emojis/rc/old-man-yells-at-netskope.png)|
+|old-man-yells-at-npm| ![old-man-yells-at-npm](/emojis/rc/old-man-yells-at-npm.png)|
+|old-man-yells-at-openai| ![old-man-yells-at-openai](/emojis/rc/old-man-yells-at-openai.png)|
+|old-man-yells-at-pagerduty| ![old-man-yells-at-pagerduty](/emojis/rc/old-man-yells-at-pagerduty.png)|
+|old-man-yells-at-prometheus| ![old-man-yells-at-prometheus](/emojis/rc/old-man-yells-at-prometheus.png)|
+|old-man-yells-at-rc-portal-all-the-way-down| ![old-man-yells-at-rc-portal-all-the-way-down](/emojis/rc/old-man-yells-at-rc-portal-all-the-way-down.gif)|
+|old-man-yells-at-rc-portal-intensifies| ![old-man-yells-at-rc-portal-intensifies](/emojis/rc/old-man-yells-at-rc-portal-intensifies.gif)|
+|old-man-yells-at-rc-portal-party| ![old-man-yells-at-rc-portal-party](/emojis/rc/old-man-yells-at-rc-portal-party.gif)|
+|old-man-yells-at-rc-portal-spin| ![old-man-yells-at-rc-portal-spin](/emojis/rc/old-man-yells-at-rc-portal-spin.gif)|
+|old-man-yells-at-rc-portal| ![old-man-yells-at-rc-portal](/emojis/rc/old-man-yells-at-rc-portal.png)|
+|old-man-yells-at-salesforce| ![old-man-yells-at-salesforce](/emojis/rc/old-man-yells-at-salesforce.png)|
+|old-man-yells-at-sentry| ![old-man-yells-at-sentry](/emojis/rc/old-man-yells-at-sentry.png)|
+|old-man-yells-at-terraform| ![old-man-yells-at-terraform](/emojis/rc/old-man-yells-at-terraform.png)|
+|old-man-yells-at-timezones| ![old-man-yells-at-timezones](/emojis/rc/old-man-yells-at-timezones.png)|
+|old-man-yells-at-tom| ![old-man-yells-at-tom](/emojis/rc/old-man-yells-at-tom.gif)|
+|old-man-yells-at-turtles-all-the-way-down| ![old-man-yells-at-turtles-all-the-way-down](/emojis/rc/old-man-yells-at-turtles-all-the-way-down.gif)|
+|old-man-yells-at-wiz| ![old-man-yells-at-wiz](/emojis/rc/old-man-yells-at-wiz.jpg)|
+|old-man-yells-at-xfinity| ![old-man-yells-at-xfinity](/emojis/rc/old-man-yells-at-xfinity.png)|
+|old-man-yells-at-zendesk| ![old-man-yells-at-zendesk](/emojis/rc/old-man-yells-at-zendesk.png)|
+|old-mic| ![old-mic](/emojis/rc/old-mic.png)|
+|old_beyer| ![old_beyer](/emojis/rc/old_beyer.png)|
+|old_man_yells_at_apple| ![old_man_yells_at_apple](/emojis/rc/old_man_yells_at_apple.png)|
+|old_man_yells_at_aws_cloud| ![old_man_yells_at_aws_cloud](/emojis/rc/old_man_yells_at_aws_cloud.gif)|
+|old_man_yells_at_azure| ![old_man_yells_at_azure](/emojis/rc/old_man_yells_at_azure.png)|
+|old_man_yells_at_broadcom| ![old_man_yells_at_broadcom](/emojis/rc/old_man_yells_at_broadcom.png)|
+|old_man_yells_at_jira| ![old_man_yells_at_jira](/emojis/rc/old_man_yells_at_jira.png)|
+|old_man_yells_at_ruby| ![old_man_yells_at_ruby](/emojis/rc/old_man_yells_at_ruby.png)|
+|old_man_yells_at_slack| ![old_man_yells_at_slack](/emojis/rc/old_man_yells_at_slack.png)|
+|old_man_yells_at_wifi| ![old_man_yells_at_wifi](/emojis/rc/old_man_yells_at_wifi.gif)|
+|old_man_yells_at_zscaler| ![old_man_yells_at_zscaler](/emojis/rc/old_man_yells_at_zscaler.png)|
+|old_woman_cloud_sq| ![old_woman_cloud_sq](/emojis/rc/old_woman_cloud_sq.jpg)|
+|older_meme_checks_out| ![older_meme_checks_out](/emojis/rc/older_meme_checks_out.gif)|
+|oldmanyellsatmicrosoft| ![oldmanyellsatmicrosoft](/emojis/rc/oldmanyellsatmicrosoft.png)|
+|oldnews| ![oldnews](/emojis/rc/oldnews.jpg)|
+|oldschool_goat| ![oldschool_goat](/emojis/rc/oldschool_goat.png)|
+|olympics| ![olympics](/emojis/rc/olympics.jpg)|
+|omar-comin| ![omar-comin](/emojis/rc/omar-comin.jpg)|
+|omegalul| ![omegalul](/emojis/rc/omegalul.gif)|
+|omelette| ![omelette](/emojis/rc/omelette.png)|
+|omfg| ![omfg](/emojis/rc/omfg.png)|
+|omg| ![omg](/emojis/rc/omg.gif)|
 |omg_same| ![omg_same](/emojis/rc/omg_same.jpg)|
 |omglol| ![omglol](/emojis/rc/omglol.gif)|
 |omicron| ![omicron](/emojis/rc/omicron.png)|
@@ -52,64 +108,8 @@
 |opsec| ![opsec](/emojis/rc/opsec.png)|
 |opsgenie-blood-sob-on-fire| ![opsgenie-blood-sob-on-fire](/emojis/rc/opsgenie-blood-sob-on-fire.png)|
 |opsgenie-deal-with-it| ![opsgenie-deal-with-it](/emojis/rc/opsgenie-deal-with-it.gif)|
-|opsgenie-intensifies| ![opsgenie-intensifies](/emojis/rc/opsgenie-intensifies.gif)|
-|opsgenie-jam| ![opsgenie-jam](/emojis/rc/opsgenie-jam.gif)|
-|opsgenie-on-fire| ![opsgenie-on-fire](/emojis/rc/opsgenie-on-fire.gif)|
-|opsgenie| ![opsgenie](/emojis/rc/opsgenie.png)|
-|orange-juice| ![orange-juice](/emojis/rc/orange-juice.png)|
-|orange-ocelot| ![orange-ocelot](/emojis/rc/orange-ocelot.png)|
-|orange_line| ![orange_line](/emojis/rc/orange_line.png)|
-|oregon| ![oregon](/emojis/rc/oregon.png)|
-|oregon_trail_wagon| ![oregon_trail_wagon](/emojis/rc/oregon_trail_wagon.png)|
-|organic| ![organic](/emojis/rc/organic.jpg)|
-|orioles_parrot| ![orioles_parrot](/emojis/rc/orioles_parrot.gif)|
-|orly| ![orly](/emojis/rc/orly.jpg)|
-|orum| ![orum](/emojis/rc/orum.png)|
-|os| ![os](/emojis/rc/os.gif)|
-|oscar-slap| ![oscar-slap](/emojis/rc/oscar-slap.jpg)|
-|oscar| ![oscar](/emojis/rc/oscar.jpg)|
-|oscar_the_grouch| ![oscar_the_grouch](/emojis/rc/oscar_the_grouch.png)|
-|osint_andy| ![osint_andy](/emojis/rc/osint_andy.png)|
-|osprey-intensifies| ![osprey-intensifies](/emojis/rc/osprey-intensifies.gif)|
-|osquery-transparent| ![osquery-transparent](/emojis/rc/osquery-transparent.png)|
-|osquery| ![osquery](/emojis/rc/osquery.png)|
-|ostrich_dino| ![ostrich_dino](/emojis/rc/ostrich_dino.png)|
-|otter-dance| ![otter-dance](/emojis/rc/otter-dance.gif)|
-|ouch| ![ouch](/emojis/rc/ouch.png)|
-|ouija-board| ![ouija-board](/emojis/rc/ouija-board.jpg)|
-|ouija| ![ouija](/emojis/rc/ouija.png)|
-|ourobos| ![ourobos](/emojis/rc/ourobos.png)|
-|out-of-line-but-right| ![out-of-line-but-right](/emojis/rc/out-of-line-but-right.png)|
-|outie5000| ![outie5000](/emojis/rc/outie5000.jpg)|
-|outsidemarketing| ![outsidemarketing](/emojis/rc/outsidemarketing.png)|
-|oven_bake| ![oven_bake](/emojis/rc/oven_bake.png)|
-|over_9000| ![over_9000](/emojis/rc/over_9000.png)|
-|overkill| ![overkill](/emojis/rc/overkill.png)|
-|overlord| ![overlord](/emojis/rc/overlord.png)|
-|overly_manly_man| ![overly_manly_man](/emojis/rc/overly_manly_man.jpg)|
-|owl-wave| ![owl-wave](/emojis/rc/owl-wave.png)|
-|owl_party| ![owl_party](/emojis/rc/owl_party.gif)|
-|owo| ![owo](/emojis/rc/owo.png)|
-|oy| ![oy](/emojis/rc/oy.jpg)|
-|ozzy| ![ozzy](/emojis/rc/ozzy.jpg)|
-|p-energy| ![p-energy](/emojis/rc/p-energy.png)|
-|pacers| ![pacers](/emojis/rc/pacers.png)|
-|pacha| ![pacha](/emojis/rc/pacha.png)|
-|pacha_perfect| ![pacha_perfect](/emojis/rc/pacha_perfect.png)|
-|packer-intensifies| ![packer-intensifies](/emojis/rc/packer-intensifies.gif)|
-|packer-party| ![packer-party](/emojis/rc/packer-party.gif)|
-|packer-technologist| ![packer-technologist](/emojis/rc/packer-technologist.png)|
-|packer| ![packer](/emojis/rc/packer.png)|
-|pacman| ![pacman](/emojis/rc/pacman.gif)|
-|pacman_chomp| ![pacman_chomp](/emojis/rc/pacman_chomp.gif)|
-|pager-duty-kraken-care| ![pager-duty-kraken-care](/emojis/rc/pager-duty-kraken-care.png)|
-|pager-duty-kraken-sleepy| ![pager-duty-kraken-sleepy](/emojis/rc/pager-duty-kraken-sleepy.png)|
-|pager-duty-kraken| ![pager-duty-kraken](/emojis/rc/pager-duty-kraken.png)|
-|pagerduty-cat-jam| ![pagerduty-cat-jam](/emojis/rc/pagerduty-cat-jam.gif)|
-|pagerduty-intensifies| ![pagerduty-intensifies](/emojis/rc/pagerduty-intensifies.gif)|
-|pagerduty| ![pagerduty](/emojis/rc/pagerduty.png)|
 
 <hr/>
 
-[Previous Page](/docs/rc/page-o-0068.md)
-  | [Next Page](/docs/rc/page-p-0070.md)
+[Previous Page](/docs/rc/page-n-0068.md)
+  | [Next Page](/docs/rc/page-o-0070.md)

@@ -8,6 +8,15 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|blob-teefs-party| ![blob-teefs-party](/emojis/rc/blob-teefs-party.gif)|
+|blob-tfc-ionic| ![blob-tfc-ionic](/emojis/rc/blob-tfc-ionic.png)|
+|blob-thanks-i-hate-it| ![blob-thanks-i-hate-it](/emojis/rc/blob-thanks-i-hate-it.png)|
+|blob-thinking-portal-gif| ![blob-thinking-portal-gif](/emojis/rc/blob-thinking-portal-gif.gif)|
+|blob-thinking| ![blob-thinking](/emojis/rc/blob-thinking.gif)|
+|blob-thumbs-up-intensifies| ![blob-thumbs-up-intensifies](/emojis/rc/blob-thumbs-up-intensifies.gif)|
+|blob-thumbs-up| ![blob-thumbs-up](/emojis/rc/blob-thumbs-up.png)|
+|blob-thx| ![blob-thx](/emojis/rc/blob-thx.png)|
+|blob-trace| ![blob-trace](/emojis/rc/blob-trace.png)|
 |blob-trans-heart| ![blob-trans-heart](/emojis/rc/blob-trans-heart.png)|
 |blob-trend-mico| ![blob-trend-mico](/emojis/rc/blob-trend-mico.jpg)|
 |blob-turtle| ![blob-turtle](/emojis/rc/blob-turtle.gif)|
@@ -99,15 +108,6 @@
 |blobgalaxyyay| ![blobgalaxyyay](/emojis/rc/blobgalaxyyay.png)|
 |blobhaj| ![blobhaj](/emojis/rc/blobhaj.png)|
 |blobhajheart| ![blobhajheart](/emojis/rc/blobhajheart.png)|
-|blobhajmeowhug| ![blobhajmeowhug](/emojis/rc/blobhajmeowhug.png)|
-|blobhajmlem| ![blobhajmlem](/emojis/rc/blobhajmlem.png)|
-|blobhajprideheart| ![blobhajprideheart](/emojis/rc/blobhajprideheart.png)|
-|blobhajreach| ![blobhajreach](/emojis/rc/blobhajreach.png)|
-|blobhajsadreach| ![blobhajsadreach](/emojis/rc/blobhajsadreach.png)|
-|blobhajtransprideheart| ![blobhajtransprideheart](/emojis/rc/blobhajtransprideheart.png)|
-|blobheart| ![blobheart](/emojis/rc/blobheart.png)|
-|blobhelp| ![blobhelp](/emojis/rc/blobhelp.png)|
-|bloblobl| ![bloblobl](/emojis/rc/bloblobl.png)|
 
 <hr/>
 

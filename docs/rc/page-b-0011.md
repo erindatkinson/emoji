@@ -8,10 +8,19 @@
 
 |Emoji Name|Image|
 | :-: | :-: |
+|bigfoot| ![bigfoot](/emojis/rc/bigfoot.png)|
+|biggie-smalls| ![biggie-smalls](/emojis/rc/biggie-smalls.png)|
+|bigmood| ![bigmood](/emojis/rc/bigmood.gif)|
+|bigredbird| ![bigredbird](/emojis/rc/bigredbird.jpg)|
+|bikeshed-fancy| ![bikeshed-fancy](/emojis/rc/bikeshed-fancy.gif)|
+|bikeshed| ![bikeshed](/emojis/rc/bikeshed.png)|
+|bikeshedddd| ![bikeshedddd](/emojis/rc/bikeshedddd.gif)|
+|bikeshedding| ![bikeshedding](/emojis/rc/bikeshedding.gif)|
 |bill| ![bill](/emojis/rc/bill.png)|
 |billnye| ![billnye](/emojis/rc/billnye.gif)|
 |billymays| ![billymays](/emojis/rc/billymays.png)|
 |bin_chicken| ![bin_chicken](/emojis/rc/bin_chicken.jpg)|
+|binary_ref_culprit| ![binary_ref_culprit](/emojis/rc/binary_ref_culprit.png)|
 |binaryninja| ![binaryninja](/emojis/rc/binaryninja.png)|
 |bing| ![bing](/emojis/rc/bing.jpg)|
 |bingo| ![bingo](/emojis/rc/bingo.png)|
@@ -99,15 +108,6 @@
 |blob-cookie| ![blob-cookie](/emojis/rc/blob-cookie.png)|
 |blob-cool-sad| ![blob-cool-sad](/emojis/rc/blob-cool-sad.png)|
 |blob-council| ![blob-council](/emojis/rc/blob-council.png)|
-|blob-dab| ![blob-dab](/emojis/rc/blob-dab.gif)|
-|blob-demo-all-the-way-down| ![blob-demo-all-the-way-down](/emojis/rc/blob-demo-all-the-way-down.gif)|
-|blob-demo-intensifies| ![blob-demo-intensifies](/emojis/rc/blob-demo-intensifies.gif)|
-|blob-demo-party| ![blob-demo-party](/emojis/rc/blob-demo-party.gif)|
-|blob-demo-spin| ![blob-demo-spin](/emojis/rc/blob-demo-spin.gif)|
-|blob-demo| ![blob-demo](/emojis/rc/blob-demo.png)|
-|blob-derpy| ![blob-derpy](/emojis/rc/blob-derpy.png)|
-|blob-disapproves| ![blob-disapproves](/emojis/rc/blob-disapproves.png)|
-|blob-dizzy| ![blob-dizzy](/emojis/rc/blob-dizzy.png)|
 
 <hr/>
 
