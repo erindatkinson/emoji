@@ -6,7 +6,7 @@
 # Credit to https://gist.github.com/alisdair/ffc7c884ee36ac132131f37e3803a1fe for the excellent original
 # script that this one is based on. This script modifies the original to create the all-the-way-down effect.
 
-# Generate a `:*-all-the-way-down:` Slack emoji, given a reasonable image
+# Generate a `:infinite-*:` Slack emoji, given a reasonable image
 # input. I recommend grabbing an emoji from https://emojipedia.org/
 
 set -euo pipefail
@@ -26,7 +26,7 @@ scaled="${file%.*}-scaled.png"
 convert \
   -gravity center \
   -background none \
-  -geometry 128x128 \
+  -geometry 43x43 \
   "${file}" \
   "${scaled}"
 
@@ -62,7 +62,7 @@ while [ "$n" -lt "$count" ]; do
 done
 
 # Combine the frames into a GIF
-gif="${file%.*}-all-the-way-down.gif"
+gif="infinite-${file%.*}.gif"
 convert \
   -background none \
   -set dispose Background \
