@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# This script was pulled from https://gist.github.com/lafentres/bb61ede3219f05b2f8f19149d185d950 and
+# This script is based off the -all-the-way-downify script pulled from 
+# https://gist.github.com/lafentres/bb61ede3219f05b2f8f19149d185d950 and
 # is shared here as a convenience.
 
 # Credit to https://gist.github.com/alisdair/ffc7c884ee36ac132131f37e3803a1fe for the excellent original
